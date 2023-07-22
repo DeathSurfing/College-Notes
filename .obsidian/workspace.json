@@ -136,13 +136,21 @@
                 "file": "Main.md"
               }
             }
+          },
+          {
+            "id": "e3647347c29efbd6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,10 +167,11 @@
   },
   "active": "e31cd0935d7ec336",
   "lastOpenFiles": [
+    "Main.md",
+    "repo",
+    "New folder",
     "Day Planners/Day Planner-20230723.md",
     "repository",
-    "New folder",
-    "Main.md",
     "Notes",
     "Personal",
     "Day Planners",
