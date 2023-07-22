@@ -1,12 +1,2 @@
 ## Day Planner
-- [ ] Wake up 12:00
-- [ ] Shower and brush teeth 12:00 - 13:00
-- [ ] Read a book 13:00 - 13:30
-- [ ] Brunch 13:30 - 14:00
-- [ ] Free time 14:00 - 16:00
-- [ ] Coding 16:00 - 17:00
-- [ ] Free time 17:00 - 18:00
-- [ ] Gym 18:00 - 20:00
-- [ ] Take shower 20:00 - 21:00
-- [ ] Dinner 21:00 - 21:30
-- [ ] Free time 21:30 - 00:00
+- [ ] 
