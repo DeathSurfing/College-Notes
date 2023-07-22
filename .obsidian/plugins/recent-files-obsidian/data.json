@@ -1,20 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Interesting GSOC Companies",
-      "path": "Interesting GSOC Companies.md"
-    },
-    {
-      "basename": "Main",
-      "path": "Main.md"
-    },
-    {
-      "basename": "Initial Exercise Plan",
-      "path": "Initial Exercise Plan.md"
+      "basename": "JDK JRE JVM",
+      "path": "Notes/JDK JRE JVM.md"
     },
     {
       "basename": "Drawing 2023-07-23 03.21.55.excalidraw",
       "path": "Excalidraw/Drawing 2023-07-23 03.21.55.excalidraw.md"
+    },
+    {
+      "basename": "Interesting GSOC Companies",
+      "path": "Notes/Interesting GSOC Companies.md"
+    },
+    {
+      "basename": "Initial Exercise Plan",
+      "path": "Notes/Initial Exercise Plan.md"
+    },
+    {
+      "basename": "Drawing 2023-07-23 03.49.00.excalidraw",
+      "path": "Excalidraw/Drawing 2023-07-23 03.49.00.excalidraw.md"
+    },
+    {
+      "basename": "JVM",
+      "path": "Notes/JDK JRE JVM/JVM.md"
+    },
+    {
+      "basename": "JRE",
+      "path": "Notes/JDK JRE JVM/JRE.md"
+    },
+    {
+      "basename": "JDK",
+      "path": "Notes/JDK JRE JVM/JDK.md"
     }
   ],
   "omittedPaths": [],

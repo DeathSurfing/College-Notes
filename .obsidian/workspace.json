@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main.md",
+                "file": "Notes/JDK JRE JVM.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interesting GSOC Companies.md",
+                "file": "Notes/Interesting GSOC Companies.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +37,37 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interesting GSOC Companies.md",
+                "file": "Notes/JDK JRE JVM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d1e90122b299e49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/JDK JRE JVM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e1b39647695ec927",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/JDK JRE JVM.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interesting GSOC Companies.md",
+                "file": "Notes/JDK JRE JVM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interesting GSOC Companies.md",
+                "file": "Notes/JDK JRE JVM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interesting GSOC Companies.md"
+                "file": "Notes/JDK JRE JVM.md"
               }
             }
           },
@@ -200,10 +223,17 @@
   },
   "active": "e3647347c29efbd6",
   "lastOpenFiles": [
-    "Main.md",
-    "Initial Exercise Plan.md",
-    "Interesting GSOC Companies.md",
     "Excalidraw/Drawing 2023-07-23 03.21.55.excalidraw.md",
+    "Notes/JDK JRE JVM.md",
+    "Main.md",
+    "Notes/Interesting GSOC Companies.md",
+    "Notes/Initial Exercise Plan.md",
+    "Excalidraw/Drawing 2023-07-23 03.49.00.excalidraw.md",
+    "Notes/JDK JRE JVM",
+    "Notes/JDK JRE JVM/JVM.md",
+    "Notes/JDK JRE JVM/JRE.md",
+    "Notes/JDK JRE JVM/JDK.md",
+    "Notes/Blender.md",
     "Excalidraw",
     "Day Planners/Day Planner-20230723.md",
     "Day Planners",
