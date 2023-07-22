@@ -11,13 +11,40 @@
             "id": "e31cd0935d7ec336",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-07-23 03.21.55.excalidraw.md"
+                "file": "Main.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f94da1f19c0ca9d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interesting GSOC Companies.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "915aff7c3103edf6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interesting GSOC Companies.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -91,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-07-23 03.21.55.excalidraw.md",
+                "file": "Interesting GSOC Companies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-07-23 03.21.55.excalidraw.md",
+                "file": "Interesting GSOC Companies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-07-23 03.21.55.excalidraw.md"
+                "file": "Interesting GSOC Companies.md"
               }
             }
           },
@@ -140,6 +167,14 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "b17d543a12306159",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
@@ -163,9 +198,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e31cd0935d7ec336",
+  "active": "e3647347c29efbd6",
   "lastOpenFiles": [
     "Main.md",
+    "Initial Exercise Plan.md",
+    "Interesting GSOC Companies.md",
     "Excalidraw/Drawing 2023-07-23 03.21.55.excalidraw.md",
     "Excalidraw",
     "Day Planners/Day Planner-20230723.md",
