@@ -15,5 +15,6 @@
   "templater-obsidian",
   "better-word-count",
   "calendar",
-  "obsidian-icon-folder"
+  "obsidian-icon-folder",
+  "obsidian-textgenerator-plugin"
 ]
