@@ -11,60 +11,8 @@
             "id": "e31cd0935d7ec336",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Coding Project Ideas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f94da1f19c0ca9d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Interesting GSOC Companies.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "915aff7c3103edf6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/JDK JRE JVM.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6d1e90122b299e49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/JDK JRE JVM.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e1b39647695ec927",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/JDK JRE JVM.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -141,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Coding Project Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Coding Project Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes/Coding Project Ideas.md"
-              }
+              "state": {}
             }
           },
           {
@@ -209,8 +153,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -234,6 +177,7 @@
   },
   "active": "e31cd0935d7ec336",
   "lastOpenFiles": [
+    "Notes/Coding Project Ideas.md",
     "textgenerator/prompts/huggingface/classify-bart-large-mnli.md",
     "textgenerator/prompts/huggingface/completeTextBloom.md",
     "textgenerator/prompts/huggingface/summarizeBART.md",
@@ -260,7 +204,6 @@
     "textgenerator/prompts/awesomechatgpt/rprogramminginterpreterAwesome.md",
     "textgenerator/prompts/awesomechatgpt/scientificdatavisualizerAwesome.md",
     "textgenerator/prompts/awesomechatgpt/titlegeneratorforwrittenpiecesAwesome.md",
-    "textgenerator/prompts/awesomechatgpt/techreviewerAwesome.md",
     "textgenerator/prompts/awesomechatgpt",
     "textgenerator/prompts/dalle-2",
     "textgenerator/prompts/default",
