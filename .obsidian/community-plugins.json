@@ -9,5 +9,11 @@
   "note-refactor-obsidian",
   "obsidian-jupyter",
   "code-emitter",
-  "obsidian-excel-to-markdown-table"
+  "obsidian-excel-to-markdown-table",
+  "url-into-selection",
+  "obsidian-plugin-update-tracker",
+  "templater-obsidian",
+  "better-word-count",
+  "calendar",
+  "obsidian-icon-folder"
 ]

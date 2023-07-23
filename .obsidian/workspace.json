@@ -200,6 +200,14 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "1cedf124c7b62fc7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
         "currentTab": 4
@@ -218,11 +226,14 @@
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "e3647347c29efbd6",
   "lastOpenFiles": [
+    "Day Planners/Day Planner-20230723.md",
+    "Day Planners",
     "Notes/Untitled.md",
     "Notes/Coding Project Ideas.md",
     "Notes/JDK JRE JVM.md",
@@ -237,8 +248,6 @@
     "Notes/JDK JRE JVM/JDK.md",
     "Notes/Blender.md",
     "Excalidraw",
-    "Day Planners/Day Planner-20230723.md",
-    "Day Planners",
     "repo",
     "New folder",
     "repository",
