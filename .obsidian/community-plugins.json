@@ -16,5 +16,6 @@
   "better-word-count",
   "calendar",
   "obsidian-icon-folder",
-  "obsidian-textgenerator-plugin"
+  "obsidian-annotator",
+  "dataview"
 ]
