@@ -5,6 +5,18 @@
       "path": "Notes/Philosophy.md"
     },
     {
+      "basename": "JDK JRE JVM",
+      "path": "Notes/JDK JRE JVM.md"
+    },
+    {
+      "basename": "Initial Exercise Plan",
+      "path": "Notes/Initial Exercise Plan.md"
+    },
+    {
+      "basename": "Ontology",
+      "path": "Notes/Philosophy Spaces/Ontology.md"
+    },
+    {
       "basename": "Pragmatism",
       "path": "Notes/Philosophy Spaces/Pragmatism.md"
     },
@@ -21,10 +33,6 @@
       "path": "Notes/Philosophy Spaces/Existentialism.md"
     },
     {
-      "basename": "Ontology",
-      "path": "Notes/Philosophy Spaces/Ontology.md"
-    },
-    {
       "basename": "Moral Relativism",
       "path": "Notes/Philosophy Spaces/Moral Relativism.md"
     },
@@ -33,16 +41,8 @@
       "path": "Notes/Philosophy Spaces/Epistemological Skepticism.md"
     },
     {
-      "basename": "Initial Exercise Plan",
-      "path": "Notes/Initial Exercise Plan.md"
-    },
-    {
       "basename": "Coding Project Ideas",
-      "path": "Notes/Coding Project Ideas.md"
-    },
-    {
-      "basename": "JDK JRE JVM",
-      "path": "Notes/JDK JRE JVM.md"
+      "path": "Notes/Coding stuff/Coding Project Ideas.md"
     },
     {
       "basename": "Drawing 2023-07-23 03.21.55.excalidraw",
@@ -50,7 +50,7 @@
     },
     {
       "basename": "Interesting GSOC Companies",
-      "path": "Notes/Interesting GSOC Companies.md"
+      "path": "Notes/Coding stuff/Interesting GSOC Companies.md"
     },
     {
       "basename": "Drawing 2023-07-23 03.49.00.excalidraw",
@@ -58,15 +58,15 @@
     },
     {
       "basename": "JVM",
-      "path": "Notes/JDK JRE JVM/JVM.md"
+      "path": "Notes/Coding stuff/JDK JRE JVM/JVM.md"
     },
     {
       "basename": "JRE",
-      "path": "Notes/JDK JRE JVM/JRE.md"
+      "path": "Notes/Coding stuff/JDK JRE JVM/JRE.md"
     },
     {
       "basename": "JDK",
-      "path": "Notes/JDK JRE JVM/JDK.md"
+      "path": "Notes/Coding stuff/JDK JRE JVM/JDK.md"
     }
   ],
   "omittedPaths": [],
