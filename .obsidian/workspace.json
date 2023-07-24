@@ -11,8 +11,12 @@
             "id": "e31cd0935d7ec336",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Philosphy.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/Philosphy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/Philosphy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/Philosphy.md"
+              }
             }
           },
           {
@@ -153,7 +161,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -173,8 +182,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e31cd0935d7ec336",
+  "active": "e3647347c29efbd6",
   "lastOpenFiles": [
+    "Notes/Moral Relativism.md",
+    "Images",
+    "Notes/Philosphy.md",
+    "Notes/Epistemological Skepticism.md",
+    "Notes/Ontology.md",
+    "Notes/Initial Exercise Plan.md",
+    "Pasted image 20230725050532.png",
     "Notes/Coding Project Ideas.md",
     "textgenerator/prompts/huggingface/classify-bart-large-mnli.md",
     "textgenerator/prompts/huggingface/completeTextBloom.md",
@@ -196,12 +212,6 @@
     "textgenerator/prompts/awesomechatgpt/travelguideAwesome.md",
     "textgenerator/prompts/awesomechatgpt/synonymfinderAwesome.md",
     "textgenerator/prompts/awesomechatgpt/wikipediapageAwesome.md",
-    "textgenerator/prompts/awesomechatgpt/socratAwesome.md",
-    "textgenerator/prompts/awesomechatgpt/salespersonAwesome.md",
-    "textgenerator/prompts/awesomechatgpt/spokenenglishteacherandimproverAwesome.md",
-    "textgenerator/prompts/awesomechatgpt/rprogramminginterpreterAwesome.md",
-    "textgenerator/prompts/awesomechatgpt/scientificdatavisualizerAwesome.md",
-    "textgenerator/prompts/awesomechatgpt/titlegeneratorforwrittenpiecesAwesome.md",
     "textgenerator/prompts/awesomechatgpt",
     "textgenerator/prompts/dalle-2",
     "textgenerator/prompts/default",
@@ -210,7 +220,6 @@
     "Day Planners",
     "Notes/JDK JRE JVM",
     "Excalidraw",
-    "repo",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

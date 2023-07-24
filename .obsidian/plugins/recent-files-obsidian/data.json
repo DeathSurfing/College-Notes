@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Philosphy",
+      "path": "Notes/Philosphy.md"
+    },
+    {
+      "basename": "Moral Relativism",
+      "path": "Notes/Moral Relativism.md"
+    },
+    {
+      "basename": "Epistemological Skepticism",
+      "path": "Notes/Epistemological Skepticism.md"
+    },
+    {
+      "basename": "Ontology",
+      "path": "Notes/Ontology.md"
+    },
+    {
+      "basename": "Initial Exercise Plan",
+      "path": "Notes/Initial Exercise Plan.md"
+    },
+    {
       "basename": "Coding Project Ideas",
       "path": "Notes/Coding Project Ideas.md"
     },
@@ -15,10 +35,6 @@
     {
       "basename": "Interesting GSOC Companies",
       "path": "Notes/Interesting GSOC Companies.md"
-    },
-    {
-      "basename": "Initial Exercise Plan",
-      "path": "Notes/Initial Exercise Plan.md"
     },
     {
       "basename": "Drawing 2023-07-23 03.49.00.excalidraw",
