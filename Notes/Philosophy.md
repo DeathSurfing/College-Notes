@@ -6,4 +6,7 @@
 - [[Ontology]]
 - [[Epistemological Skepticism]]
 - [[Moral Relativism]]
-- 
+- [[Utilitarianism]]
+- [[Existentialism]]
+- [[Phenomenology]]
+- [[Pragmatism]]

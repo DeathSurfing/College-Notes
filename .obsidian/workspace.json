@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Philosphy.md",
+                "file": "Notes/Philosophy Spaces/Utilitarianism.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b02c42b0f61bf901",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Philosophy.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Philosphy.md",
+                "file": "Notes/Philosophy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Philosphy.md",
+                "file": "Notes/Philosophy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Philosphy.md"
+                "file": "Notes/Philosophy.md"
               }
             }
           },
@@ -182,13 +195,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e3647347c29efbd6",
+  "active": "ec406b8edc4a3320",
   "lastOpenFiles": [
-    "Notes/Moral Relativism.md",
+    "Notes/Philosophy Spaces",
+    "Notes/Philosophy Spaces/Pragmatism.md",
+    "Notes/Philosophy.md",
+    "Notes/Philosophy Spaces/Utilitarianism.md",
+    "Notes/Philosophy Spaces/Phenomenology.md",
+    "Notes/Philosophy Spaces/Existentialism.md",
+    "Notes/Philosophy Spaces/Ontology.md",
+    "Notes/Philosophy Spaces/Moral Relativism.md",
     "Images",
-    "Notes/Philosphy.md",
-    "Notes/Epistemological Skepticism.md",
-    "Notes/Ontology.md",
+    "Notes/Philosophy Spaces/Epistemological Skepticism.md",
     "Notes/Initial Exercise Plan.md",
     "Pasted image 20230725050532.png",
     "Notes/Coding Project Ideas.md",
@@ -208,10 +226,6 @@
     "textgenerator/prompts/awesomechatgpt/yogiAwesome.md",
     "textgenerator/prompts/awesomechatgpt/uxuideveloperAwesome.md",
     "textgenerator/prompts/awesomechatgpt/virtualdoctorAwesome.md",
-    "textgenerator/prompts/awesomechatgpt/solrsearchengineAwesome.md",
-    "textgenerator/prompts/awesomechatgpt/travelguideAwesome.md",
-    "textgenerator/prompts/awesomechatgpt/synonymfinderAwesome.md",
-    "textgenerator/prompts/awesomechatgpt/wikipediapageAwesome.md",
     "textgenerator/prompts/awesomechatgpt",
     "textgenerator/prompts/dalle-2",
     "textgenerator/prompts/default",
