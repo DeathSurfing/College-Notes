@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Books/48 Laws of Power.md",
+                "file": "Notes/What am I good at, What do I like doing and What is Monitizable.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Books/48 Laws of Power.md",
+                "file": "Notes/What am I good at, What do I like doing and What is Monitizable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Books/48 Laws of Power.md",
+                "file": "Notes/What am I good at, What do I like doing and What is Monitizable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Books/48 Laws of Power.md"
+                "file": "Notes/What am I good at, What do I like doing and What is Monitizable.md"
               }
             }
           },
@@ -209,8 +209,9 @@
   },
   "active": "b02c42b0f61bf901",
   "lastOpenFiles": [
-    "Day Planners/Day Planner-20230723.md",
     "Notes/Books/48 Laws of Power.md",
+    "Notes/What am I good at, What do I like doing and What is Monitizable.md",
+    "Day Planners/Day Planner-20230723.md",
     "Notes/Books",
     "Notes/Philosphy/Philosophy Spaces/Stoicism.md",
     "Notes/Philosphy/Philosophy Spaces/Utilitarianism.md",
@@ -241,7 +242,6 @@
     "textgenerator/prompts/awesomechatgpt/philosopherAwesome.md",
     "textgenerator/prompts/awesomechatgpt/socialmediamanagerAwesome.md",
     "textgenerator/prompts/awesomechatgpt/teatasterAwesome.md",
-    "textgenerator/prompts/awesomechatgpt/standupcomedianAwesome.md",
     "textgenerator/prompts/awesomechatgpt",
     "textgenerator/prompts/dalle-2",
     "textgenerator/prompts/default",
