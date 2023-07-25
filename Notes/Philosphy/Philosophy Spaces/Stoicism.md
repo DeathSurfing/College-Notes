@@ -1,5 +1,5 @@
 ---
-aliases: Ontology
+aliases: Stoicism
 Subtype: Philosphy Spaces
 Branch: Ethics
 ---
