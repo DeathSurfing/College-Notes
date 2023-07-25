@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Philosophy Spaces/Epistemological Skepticism.md",
+                "file": "Notes/Philosophy.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Philosophy Spaces/Epistemological Skepticism.md",
+                "file": "Notes/Philosophy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Philosophy Spaces/Epistemological Skepticism.md",
+                "file": "Notes/Philosophy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Philosophy Spaces/Epistemological Skepticism.md"
+                "file": "Notes/Philosophy.md"
               }
             }
           },
@@ -197,18 +197,18 @@
   },
   "active": "b02c42b0f61bf901",
   "lastOpenFiles": [
-    "Notes/Philosophy Spaces/Existentialism.md",
+    "Notes/Philosophy Spaces/Utilitarianism.md",
+    "Notes/Philosophy.md",
+    "Notes/Philosophy Spaces/Pragmatism.md",
     "Notes/Philosophy Spaces/Epistemological Skepticism.md",
+    "Notes/Philosophy Spaces/Existentialism.md",
     "Notes/Philosophy Spaces/Moral Relativism.md",
     "Notes/Philosophy Spaces/Ontology.md",
     "Notes/Philosophy Spaces/Phenomenology.md",
-    "Notes/Philosophy Spaces/Pragmatism.md",
-    "Notes/Philosophy.md",
     "Notes/Initial Exercise Plan.md",
     "Notes/JDK JRE JVM.md",
     "Notes/Coding stuff",
     "Notes/Philosophy Spaces",
-    "Notes/Philosophy Spaces/Utilitarianism.md",
     "Images",
     "Pasted image 20230725050532.png",
     "Notes/Coding stuff/Coding Project Ideas.md",

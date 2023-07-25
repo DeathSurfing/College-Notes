@@ -1,3 +1,8 @@
+---
+aliases: Utilitarianism
+Subtype: Philosphy Spaces
+Branch: [Ethics, Logic]
+---
 The moral theory that says that the best action is the one that provides the most happiness or pleasure , It raises questions about the nature of happiness and how it differs from person to person. It also raises questions about the government ; policies and the relationship between individuals and societies.
 
 

@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Philosophy",
+      "path": "Notes/Philosophy.md"
+    },
+    {
+      "basename": "Utilitarianism",
+      "path": "Notes/Philosophy Spaces/Utilitarianism.md"
+    },
+    {
+      "basename": "Pragmatism",
+      "path": "Notes/Philosophy Spaces/Pragmatism.md"
+    },
+    {
       "basename": "Epistemological Skepticism",
       "path": "Notes/Philosophy Spaces/Epistemological Skepticism.md"
     },
@@ -21,24 +33,12 @@
       "path": "Notes/Philosophy Spaces/Phenomenology.md"
     },
     {
-      "basename": "Pragmatism",
-      "path": "Notes/Philosophy Spaces/Pragmatism.md"
-    },
-    {
-      "basename": "Philosophy",
-      "path": "Notes/Philosophy.md"
-    },
-    {
       "basename": "Initial Exercise Plan",
       "path": "Notes/Initial Exercise Plan.md"
     },
     {
       "basename": "JDK JRE JVM",
       "path": "Notes/JDK JRE JVM.md"
-    },
-    {
-      "basename": "Utilitarianism",
-      "path": "Notes/Philosophy Spaces/Utilitarianism.md"
     },
     {
       "basename": "Coding Project Ideas",
