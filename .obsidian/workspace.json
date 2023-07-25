@@ -207,11 +207,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ec406b8edc4a3320",
+  "active": "b02c42b0f61bf901",
   "lastOpenFiles": [
+    "Day Planners/Day Planner-20230723.md",
+    "Notes/Books/48 Laws of Power.md",
     "Notes/Books",
     "Notes/Philosphy/Philosophy Spaces/Stoicism.md",
-    "Notes/Books/48 Laws of Power.md",
     "Notes/Philosphy/Philosophy Spaces/Utilitarianism.md",
     "Notes/Philosphy/Philosophy Spaces/Pragmatism.md",
     "Notes/Philosphy/Philosophy Spaces/Phenomenology.md",
@@ -245,7 +246,6 @@
     "textgenerator/prompts/dalle-2",
     "textgenerator/prompts/default",
     "textgenerator/prompts",
-    "textgenerator",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
