@@ -1,32 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "Philosophy",
-      "path": "Notes/Philosophy.md"
-    },
-    {
-      "basename": "JDK JRE JVM",
-      "path": "Notes/JDK JRE JVM.md"
-    },
-    {
-      "basename": "Initial Exercise Plan",
-      "path": "Notes/Initial Exercise Plan.md"
-    },
-    {
-      "basename": "Ontology",
-      "path": "Notes/Philosophy Spaces/Ontology.md"
-    },
-    {
-      "basename": "Pragmatism",
-      "path": "Notes/Philosophy Spaces/Pragmatism.md"
-    },
-    {
-      "basename": "Utilitarianism",
-      "path": "Notes/Philosophy Spaces/Utilitarianism.md"
-    },
-    {
-      "basename": "Phenomenology",
-      "path": "Notes/Philosophy Spaces/Phenomenology.md"
+      "basename": "Epistemological Skepticism",
+      "path": "Notes/Philosophy Spaces/Epistemological Skepticism.md"
     },
     {
       "basename": "Existentialism",
@@ -37,8 +13,32 @@
       "path": "Notes/Philosophy Spaces/Moral Relativism.md"
     },
     {
-      "basename": "Epistemological Skepticism",
-      "path": "Notes/Philosophy Spaces/Epistemological Skepticism.md"
+      "basename": "Ontology",
+      "path": "Notes/Philosophy Spaces/Ontology.md"
+    },
+    {
+      "basename": "Phenomenology",
+      "path": "Notes/Philosophy Spaces/Phenomenology.md"
+    },
+    {
+      "basename": "Pragmatism",
+      "path": "Notes/Philosophy Spaces/Pragmatism.md"
+    },
+    {
+      "basename": "Philosophy",
+      "path": "Notes/Philosophy.md"
+    },
+    {
+      "basename": "Initial Exercise Plan",
+      "path": "Notes/Initial Exercise Plan.md"
+    },
+    {
+      "basename": "JDK JRE JVM",
+      "path": "Notes/JDK JRE JVM.md"
+    },
+    {
+      "basename": "Utilitarianism",
+      "path": "Notes/Philosophy Spaces/Utilitarianism.md"
     },
     {
       "basename": "Coding Project Ideas",

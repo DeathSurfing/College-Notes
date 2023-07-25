@@ -1,4 +1,8 @@
-
+---
+aliases: Existentialism
+tags: Philosphy Spaces
+Branch: Metaphysics
+---
 It asks questions about the meaning and the requirement of the existence of certain objects and the power they hold over a person.
 
 
