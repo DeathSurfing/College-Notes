@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/48 Laws of Power.md",
+                "file": "Notes/Books/48 Laws of Power.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/48 Laws of Power.md",
+                "file": "Notes/Books/48 Laws of Power.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/48 Laws of Power.md",
+                "file": "Notes/Books/48 Laws of Power.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/48 Laws of Power.md"
+                "file": "Notes/Books/48 Laws of Power.md"
               }
             }
           },
@@ -207,10 +207,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b02c42b0f61bf901",
+  "active": "ec406b8edc4a3320",
   "lastOpenFiles": [
+    "Notes/Books",
     "Notes/Philosphy/Philosophy Spaces/Stoicism.md",
-    "Notes/48 Laws of Power.md",
+    "Notes/Books/48 Laws of Power.md",
     "Notes/Philosphy/Philosophy Spaces/Utilitarianism.md",
     "Notes/Philosphy/Philosophy Spaces/Pragmatism.md",
     "Notes/Philosphy/Philosophy Spaces/Phenomenology.md",
@@ -240,7 +241,6 @@
     "textgenerator/prompts/awesomechatgpt/socialmediamanagerAwesome.md",
     "textgenerator/prompts/awesomechatgpt/teatasterAwesome.md",
     "textgenerator/prompts/awesomechatgpt/standupcomedianAwesome.md",
-    "textgenerator/prompts/awesomechatgpt/textbasedadventuregameAwesome.md",
     "textgenerator/prompts/awesomechatgpt",
     "textgenerator/prompts/dalle-2",
     "textgenerator/prompts/default",
