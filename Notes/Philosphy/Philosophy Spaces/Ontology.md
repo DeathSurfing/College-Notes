@@ -3,7 +3,6 @@ aliases: Ontology
 tags: PhilosphySpaces Ontology
 Branch: Metaphysics
 ---
-
 The branch of philosophy regarding the nature of existence and the relation of objects and their properties
 
 ## Common questions in Ontology:

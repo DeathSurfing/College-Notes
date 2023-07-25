@@ -3,8 +3,6 @@ aliases: Epistemological Skepticism
 tags: PhilosphySpaces EpistemologicalSkepticism
 Branch: Epistemology
 ---
-
-
 The idea that nothing can be known to certainty; there is always uncertainty in every claim. It questions the reliability of our senses and our ability to reason and asks if there any beliefs or values that society as a hole can uphold. 
 
 ## Common questions:

@@ -1,16 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Philosophy",
-      "path": "Notes/Philosphy/Philosophy.md"
+      "basename": "Stoicism",
+      "path": "Notes/Philosphy/Philosophy Spaces/Stoicism.md"
     },
     {
       "basename": "Utilitarianism",
       "path": "Notes/Philosphy/Philosophy Spaces/Utilitarianism.md"
-    },
-    {
-      "basename": "Stoicism",
-      "path": "Notes/Philosphy/Philosophy Spaces/Stoicism.md"
     },
     {
       "basename": "Pragmatism",
@@ -29,12 +25,16 @@
       "path": "Notes/Philosphy/Philosophy Spaces/Moral Relativism.md"
     },
     {
+      "basename": "Existentialism",
+      "path": "Notes/Philosphy/Philosophy Spaces/Existentialism.md"
+    },
+    {
       "basename": "Epistemological Skepticism",
       "path": "Notes/Philosphy/Philosophy Spaces/Epistemological Skepticism.md"
     },
     {
-      "basename": "Existentialism",
-      "path": "Notes/Philosphy/Philosophy Spaces/Existentialism.md"
+      "basename": "Philosophy",
+      "path": "Notes/Philosphy/Philosophy.md"
     },
     {
       "basename": "Interesting GSOC Companies",
