@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Philosophy",
+      "path": "Notes/Philosphy/Philosophy.md"
+    },
+    {
       "basename": "Utilitarianism",
       "path": "Notes/Philosphy/Philosophy Spaces/Utilitarianism.md"
     },
     {
       "basename": "Stoicism",
       "path": "Notes/Philosphy/Philosophy Spaces/Stoicism.md"
+    },
+    {
+      "basename": "Pragmatism",
+      "path": "Notes/Philosphy/Philosophy Spaces/Pragmatism.md"
     },
     {
       "basename": "Phenomenology",
@@ -25,16 +33,12 @@
       "path": "Notes/Philosphy/Philosophy Spaces/Epistemological Skepticism.md"
     },
     {
-      "basename": "Pragmatism",
-      "path": "Notes/Philosphy/Philosophy Spaces/Pragmatism.md"
-    },
-    {
       "basename": "Existentialism",
       "path": "Notes/Philosphy/Philosophy Spaces/Existentialism.md"
     },
     {
-      "basename": "Philosophy",
-      "path": "Notes/Philosphy/Philosophy.md"
+      "basename": "Interesting GSOC Companies",
+      "path": "Notes/Coding stuff/Interesting GSOC Companies.md"
     },
     {
       "basename": "Initial Exercise Plan",
@@ -51,10 +55,6 @@
     {
       "basename": "Drawing 2023-07-23 03.21.55.excalidraw",
       "path": "Excalidraw/Drawing 2023-07-23 03.21.55.excalidraw.md"
-    },
-    {
-      "basename": "Interesting GSOC Companies",
-      "path": "Notes/Coding stuff/Interesting GSOC Companies.md"
     },
     {
       "basename": "Drawing 2023-07-23 03.49.00.excalidraw",

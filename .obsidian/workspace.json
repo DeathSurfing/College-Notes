@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Philosphy/Philosophy Spaces/Utilitarianism.md",
+                "file": "Notes/Philosphy/Philosophy.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Philosphy/Philosophy Spaces/Utilitarianism.md",
+                "file": "Notes/Philosphy/Philosophy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Philosphy/Philosophy Spaces/Utilitarianism.md",
+                "file": "Notes/Philosphy/Philosophy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Philosphy/Philosophy Spaces/Utilitarianism.md"
+                "file": "Notes/Philosphy/Philosophy.md"
               }
             }
           },
@@ -207,16 +207,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e3647347c29efbd6",
+  "active": "b02c42b0f61bf901",
   "lastOpenFiles": [
+    "Notes/Philosphy/Philosophy Spaces/Utilitarianism.md",
     "Notes/Philosphy/Philosophy Spaces/Stoicism.md",
+    "Notes/Philosphy/Philosophy Spaces/Pragmatism.md",
     "Notes/Philosphy/Philosophy Spaces/Phenomenology.md",
     "Notes/Philosphy/Philosophy Spaces/Ontology.md",
     "Notes/Philosphy/Philosophy Spaces/Moral Relativism.md",
     "Notes/Philosphy/Philosophy Spaces/Epistemological Skepticism.md",
-    "Notes/Philosphy/Philosophy Spaces/Utilitarianism.md",
-    "Notes/Philosphy/Philosophy Spaces/Pragmatism.md",
     "Notes/Philosphy/Philosophy Spaces/Existentialism.md",
+    "Notes/Coding stuff/Interesting GSOC Companies.md",
     "Notes/Philosphy/Philosophy.md",
     "Notes/Initial Exercise Plan.md",
     "Notes/Philosphy",
@@ -240,7 +241,6 @@
     "textgenerator/prompts/awesomechatgpt/standupcomedianAwesome.md",
     "textgenerator/prompts/awesomechatgpt/textbasedadventuregameAwesome.md",
     "textgenerator/prompts/awesomechatgpt/yogiAwesome.md",
-    "textgenerator/prompts/awesomechatgpt/uxuideveloperAwesome.md",
     "textgenerator/prompts/awesomechatgpt",
     "textgenerator/prompts/dalle-2",
     "textgenerator/prompts/default",
