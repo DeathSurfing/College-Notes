@@ -10,4 +10,6 @@
 - [[Existentialism]]
 - [[Phenomenology]]
 - [[Pragmatism]]
+- [[Stoicism]]
+- 
 
