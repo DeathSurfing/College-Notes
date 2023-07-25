@@ -3,13 +3,8 @@
 
 
 ## Philosophy spaces:
-- [[Ontology]]
-- [[Epistemological Skepticism]]
-- [[Moral Relativism]]
-- [[Utilitarianism]]
-- [[Existentialism]]
-- [[Phenomenology]]
-- [[Pragmatism]]
-- [[Stoicism]]
-- 
+```dataview
+TABLE
+	Branch from #PhilosphySpaces 
+```
 

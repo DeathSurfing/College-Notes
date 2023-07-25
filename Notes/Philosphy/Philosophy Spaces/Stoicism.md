@@ -1,7 +1,7 @@
 ---
 aliases: Stoicism
-Subtype: Philosphy Spaces
-Branch: Ethics
+tags: PhilosphySpaces Stoicism
+Branch: [Ethics,Logic]
 ---
 1. Teaches individuals to develop mental toughness and resilience. 
 2. Denying the existence of issues doesn't make them disappear; instead it makes one helpless or vulnerable when required to confront the adversity
@@ -29,5 +29,11 @@ Branch: Ethics
 - Solitude is a great tool for self reflection and retrospective thinking. It is not a enemy , treat it as a dear friend.
 
 
+___
+## Documents relating to Stoicism
+```dataview
+Table
+From #Stoicism 
+```
 
 

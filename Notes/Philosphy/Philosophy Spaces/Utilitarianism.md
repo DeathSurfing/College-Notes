@@ -1,6 +1,6 @@
 ---
 aliases: Utilitarianism
-Subtype: Philosphy Spaces
+tags: PhilosphySpaces Utilitarianism
 Branch: [Ethics, Logic]
 ---
 The moral theory that says that the best action is the one that provides the most happiness or pleasure , It raises questions about the nature of happiness and how it differs from person to person. It also raises questions about the government ; policies and the relationship between individuals and societies.
@@ -13,4 +13,12 @@ An example of Utilitarianism can be the achieving of Nash equilibrium on a polic
 - Is true happiness possible?
 - Should drugs be illegal?
 - Are psychedelics harmful for a person and their ability to think or are they a worthy sacrifice for happiness ? 
+
+
+___
+## Documents relating to Utilitarianism
+```dataview
+Table
+From #Utilitarianism 
+```
 

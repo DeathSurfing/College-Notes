@@ -1,6 +1,6 @@
 ---
 aliases: Ontology
-Subtype: Philosphy Spaces
+tags: PhilosphySpaces Ontology
 Branch: Metaphysics
 ---
 
@@ -13,4 +13,13 @@ The branch of philosophy regarding the nature of existence and the relation of o
 
 
 
+
+
+
+___
+## Documents relating to Ontology
+```dataview
+Table
+From #Ontology 
+```
 
