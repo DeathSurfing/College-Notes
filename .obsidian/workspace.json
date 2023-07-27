@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Initial Exercise Plan.md",
+                "file": "Notes/Philosphy/Philosophy.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Initial Exercise Plan.md",
+                "file": "Notes/Philosphy/Philosophy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Initial Exercise Plan.md",
+                "file": "Notes/Philosphy/Philosophy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Initial Exercise Plan.md"
+                "file": "Notes/Philosphy/Philosophy.md"
               }
             }
           },
@@ -184,9 +184,9 @@
   },
   "active": "23d233e9e41cfd54",
   "lastOpenFiles": [
-    "Notes/What am I good at, What do I like doing and What is Monetizable.md",
     "Notes/Buisnes Ideas/Medical Tourism.md",
     "Notes/Initial Exercise Plan.md",
+    "Notes/What am I good at, What do I like doing and What is Monetizable.md",
     "Notes/Buisnes Ideas",
     "Notes/Philosphy/Philosophy.md",
     "Notes/Books/48 Laws of Power.md",
