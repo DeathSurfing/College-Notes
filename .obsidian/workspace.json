@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Physics/Mechanics/Forces.md",
+                "file": "Notes/Physics/Topic Explorer.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 299.5
   },
   "right": {
     "id": "a211e9193cf29858",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Physics/Mechanics/Forces.md",
+                "file": "Notes/Physics/Topic Explorer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Physics/Mechanics/Forces.md",
+                "file": "Notes/Physics/Topic Explorer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Physics/Mechanics/Forces.md"
+                "file": "Notes/Physics/Topic Explorer.md"
               }
             }
           },
@@ -184,14 +184,19 @@
   },
   "active": "23d233e9e41cfd54",
   "lastOpenFiles": [
-    "Notes/Philosphy/Philosophy Spaces/Epistemological Skepticism.md",
-    "Notes/Physics/Mechanics/Forces.md",
+    "Notes/Initial Exercise Plan.md",
     "Notes/Physics/Topic Explorer.md",
+    "Notes/Philosphy/Philosophy.md",
+    "Notes/Physics/Mechanics/SUVAT.md",
+    "Notes/Physics/Mechanics/Projectile Motion.md",
+    "Notes/Physics/Mechanics/Friction.md",
+    "Notes/Physics/Mechanics/Free Body Diagrams.md",
+    "Notes/Physics/Mechanics/Forces.md",
+    "Notes/Physics/Mechanics/Topic 2.1",
+    "Notes/Philosphy/Philosophy Spaces/Epistemological Skepticism.md",
     "Notes/Physics/Mechanics/Average Velocity.md",
     "Notes/Physics/Mechanics/Average Speed.md",
     "Notes/Physics/Mechanics",
-    "Notes/Initial Exercise Plan.md",
-    "Notes/Philosphy/Philosophy.md",
     "Notes/Physics",
     "Notes/Buisnes Ideas/Medical Tourism.md",
     "Notes/What am I good at, What do I like doing and What is Monetizable.md",
@@ -214,13 +219,7 @@
     "Images",
     "Pasted image 20230725050532.png",
     "Notes/Coding stuff/Coding Project Ideas.md",
-    "textgenerator/prompts/huggingface/classify-bart-large-mnli.md",
-    "textgenerator/prompts/huggingface/completeTextBloom.md",
-    "textgenerator/prompts/huggingface/summarizeBART.md",
     "textgenerator/prompts/huggingface",
-    "textgenerator/prompts/awesomechatgpt/startupideageneratorAwesome.md",
-    "textgenerator/prompts/awesomechatgpt/promptgeneratorAwesome.md",
-    "textgenerator/prompts/awesomechatgpt",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
