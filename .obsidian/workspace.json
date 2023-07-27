@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Physics/Topic Explorer.md",
+                "file": "Notes/Physics/Mechanics/Forces.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Physics/Topic Explorer.md",
+                "file": "Notes/Physics/Mechanics/Forces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Physics/Topic Explorer.md",
+                "file": "Notes/Physics/Mechanics/Forces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Physics/Topic Explorer.md"
+                "file": "Notes/Physics/Mechanics/Forces.md"
               }
             }
           },
@@ -184,9 +184,13 @@
   },
   "active": "23d233e9e41cfd54",
   "lastOpenFiles": [
+    "Notes/Philosphy/Philosophy Spaces/Epistemological Skepticism.md",
+    "Notes/Physics/Mechanics/Forces.md",
+    "Notes/Physics/Topic Explorer.md",
+    "Notes/Physics/Mechanics/Average Velocity.md",
+    "Notes/Physics/Mechanics/Average Speed.md",
     "Notes/Physics/Mechanics",
     "Notes/Initial Exercise Plan.md",
-    "Notes/Physics/Topic Explorer.md",
     "Notes/Philosphy/Philosophy.md",
     "Notes/Physics",
     "Notes/Buisnes Ideas/Medical Tourism.md",
@@ -200,7 +204,6 @@
     "Notes/Philosphy/Philosophy Spaces/Ontology.md",
     "Notes/Philosphy/Philosophy Spaces/Phenomenology.md",
     "Notes/Philosphy/Philosophy Spaces/Existentialism.md",
-    "Notes/Philosphy/Philosophy Spaces/Epistemological Skepticism.md",
     "Day Planners/Day Planner-20230723.md",
     "Notes/Books",
     "Notes/Coding stuff/Interesting GSOC Companies.md",
@@ -217,10 +220,7 @@
     "textgenerator/prompts/huggingface",
     "textgenerator/prompts/awesomechatgpt/startupideageneratorAwesome.md",
     "textgenerator/prompts/awesomechatgpt/promptgeneratorAwesome.md",
-    "textgenerator/prompts/awesomechatgpt/stackoverflowpostAwesome.md",
-    "textgenerator/prompts/awesomechatgpt/socraticmethodAwesome.md",
     "textgenerator/prompts/awesomechatgpt",
-    "textgenerator/prompts/dalle-2",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

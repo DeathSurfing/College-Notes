@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Forces",
+      "path": "Notes/Physics/Mechanics/Forces.md"
+    },
+    {
+      "basename": "Epistemological Skepticism",
+      "path": "Notes/Philosphy/Philosophy Spaces/Epistemological Skepticism.md"
+    },
+    {
       "basename": "Topic Explorer",
       "path": "Notes/Physics/Topic Explorer.md"
     },
@@ -51,10 +59,6 @@
     {
       "basename": "Existentialism",
       "path": "Notes/Philosphy/Philosophy Spaces/Existentialism.md"
-    },
-    {
-      "basename": "Epistemological Skepticism",
-      "path": "Notes/Philosphy/Philosophy Spaces/Epistemological Skepticism.md"
     },
     {
       "basename": "Interesting GSOC Companies",
