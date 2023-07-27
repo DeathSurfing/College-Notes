@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Philosphy/Philosophy.md",
+                "file": "Notes/Physics/Topic Explorer.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Philosphy/Philosophy.md",
+                "file": "Notes/Physics/Topic Explorer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Philosphy/Philosophy.md",
+                "file": "Notes/Physics/Topic Explorer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Philosphy/Philosophy.md"
+                "file": "Notes/Physics/Topic Explorer.md"
               }
             }
           },
@@ -182,14 +182,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ec406b8edc4a3320",
+  "active": "23d233e9e41cfd54",
   "lastOpenFiles": [
+    "Notes/Physics/Mechanics",
+    "Notes/Initial Exercise Plan.md",
+    "Notes/Physics/Topic Explorer.md",
+    "Notes/Philosphy/Philosophy.md",
     "Notes/Physics",
     "Notes/Buisnes Ideas/Medical Tourism.md",
-    "Notes/Initial Exercise Plan.md",
     "Notes/What am I good at, What do I like doing and What is Monetizable.md",
     "Notes/Buisnes Ideas",
-    "Notes/Philosphy/Philosophy.md",
     "Notes/Books/48 Laws of Power.md",
     "Notes/Philosphy/Philosophy Spaces/Moral Relativism.md",
     "Notes/Philosphy/Philosophy Spaces/Utilitarianism.md",
@@ -217,10 +219,8 @@
     "textgenerator/prompts/awesomechatgpt/promptgeneratorAwesome.md",
     "textgenerator/prompts/awesomechatgpt/stackoverflowpostAwesome.md",
     "textgenerator/prompts/awesomechatgpt/socraticmethodAwesome.md",
-    "textgenerator/prompts/awesomechatgpt/philosopherAwesome.md",
     "textgenerator/prompts/awesomechatgpt",
     "textgenerator/prompts/dalle-2",
-    "textgenerator/prompts/default",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
