@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "027f8c8176e00ba2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,7 +193,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "23d233e9e41cfd54",
+  "active": "027f8c8176e00ba2",
   "lastOpenFiles": [
     "Notes/Physics/Topic Explorer.md",
     "Notes/Initial Exercise Plan.md",
