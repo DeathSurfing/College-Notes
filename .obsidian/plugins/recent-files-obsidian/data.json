@@ -5,6 +5,10 @@
       "path": "Notes/Philosphy/Philosophy.md"
     },
     {
+      "basename": "48 Laws of Power",
+      "path": "Notes/Books/48 Laws of Power.md"
+    },
+    {
       "basename": "Topic Explorer",
       "path": "Notes/Physics/Topic Explorer.md"
     },
@@ -39,10 +43,6 @@
     {
       "basename": "Medical Tourism",
       "path": "Notes/Buisnes Ideas/Medical Tourism.md"
-    },
-    {
-      "basename": "48 Laws of Power",
-      "path": "Notes/Books/48 Laws of Power.md"
     },
     {
       "basename": "Moral Relativism",
