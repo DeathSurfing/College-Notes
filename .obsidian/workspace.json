@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Philosphy/Philosophy.md",
+                "file": "Notes/Philosphy/Philosophy Spaces/Utilitarianism.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Philosphy/Philosophy.md",
+                "file": "Notes/Philosphy/Philosophy Spaces/Utilitarianism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Philosphy/Philosophy.md",
+                "file": "Notes/Philosphy/Philosophy Spaces/Utilitarianism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Philosphy/Philosophy.md"
+                "file": "Notes/Philosphy/Philosophy Spaces/Utilitarianism.md"
               }
             }
           },
@@ -197,10 +197,11 @@
   },
   "active": "027f8c8176e00ba2",
   "lastOpenFiles": [
+    "Notes/Philosphy/Philosophy.md",
+    "Notes/Philosphy/Philosophy Spaces/Pragmatism.md",
     "Notes/Books/48 Laws of Power.md",
     "Notes/Physics/Topic Explorer.md",
     "Notes/Initial Exercise Plan.md",
-    "Notes/Philosphy/Philosophy.md",
     "Notes/Physics/Mechanics/SUVAT.md",
     "Notes/Physics/Mechanics/Projectile Motion.md",
     "Notes/Physics/Mechanics/Friction.md",
@@ -218,7 +219,6 @@
     "Notes/Philosphy/Philosophy Spaces/Moral Relativism.md",
     "Notes/Philosphy/Philosophy Spaces/Utilitarianism.md",
     "Notes/Philosphy/Philosophy Spaces/Stoicism.md",
-    "Notes/Philosphy/Philosophy Spaces/Pragmatism.md",
     "Notes/Philosphy/Philosophy Spaces/Ontology.md",
     "Notes/Philosphy/Philosophy Spaces/Phenomenology.md",
     "Notes/Philosphy/Philosophy Spaces/Existentialism.md",

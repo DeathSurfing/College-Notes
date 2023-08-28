@@ -8,6 +8,7 @@ The moral theory that says that the best action is the one that provides the mos
 
 An example of Utilitarianism can be the achieving of Nash equilibrium on a policy ; or the use of game theory to provide greatest satisfaction to an individual
 
+
 ## Common question:
 - Is (*Insert Policy*) improving the ability of individuals to be happy
 - Is true happiness possible?
