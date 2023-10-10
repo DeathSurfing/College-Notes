@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "cb0c37d06c3b93b2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
+          },
+          {
             "id": "027f8c8176e00ba2",
             "type": "leaf",
             "state": {
@@ -31,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,7 +205,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "23d233e9e41cfd54",
+  "active": "cb0c37d06c3b93b2",
   "lastOpenFiles": [
     "Notes/Philosphy/Philosophy Spaces/Utilitarianism.md",
     "Notes/Philosphy/Philosophy.md",
