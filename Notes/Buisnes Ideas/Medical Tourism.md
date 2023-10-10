@@ -12,9 +12,6 @@
 _____
 
 - Avasa (Hotel)
-- Web development
-	- 
 - FMS Dentals(Dental)
 - Yashoda (Multi specialty)
 - Dr Reddy's labs 
-- 
