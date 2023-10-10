@@ -11,10 +11,10 @@
 
 _____
 
-- Avasa
+- Avasa (Hotel)
 - Web development
 	- 
-- FMS Dentals
-- Yashoda
-- Dr Reddy's labs
+- FMS Dentals(Dental)
+- Yashoda (Multi specialty)
+- Dr Reddy's labs 
 - 
