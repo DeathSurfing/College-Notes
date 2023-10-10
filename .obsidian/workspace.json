@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "23d233e9e41cfd54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Philosphy/Philosophy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "cb0c37d06c3b93b2",
             "type": "leaf",
             "state": {
@@ -30,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "027f8c8176e00ba2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Philosphy/Philosophy Spaces/Utilitarianism.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,7 +182,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cb0c37d06c3b93b2",
+  "active": "e3647347c29efbd6",
   "lastOpenFiles": [
     "Notes/Philosphy/Philosophy Spaces/Utilitarianism.md",
     "Notes/Philosphy/Philosophy.md",
