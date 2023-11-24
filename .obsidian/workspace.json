@@ -11,7 +11,7 @@
             "id": "4d4497ee64fb662e",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#PhilosphySpaces",
+                "query": "tag:#Ontology",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,12 +69,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 299.5,
-    "collapsed": true
+    "width": 299.5
   },
   "right": {
     "id": "a211e9193cf29858",
