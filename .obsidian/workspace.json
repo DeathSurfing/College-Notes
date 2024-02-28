@@ -11,8 +11,15 @@
             "id": "4d4497ee64fb662e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
             }
           }
         ]
@@ -44,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Ontology",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,8 +76,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -90,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Untitled.canvas"
+              }
             }
           },
           {
@@ -175,8 +185,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4d4497ee64fb662e",
+  "active": "ec406b8edc4a3320",
   "lastOpenFiles": [
+    "Notes/Trading",
+    "Untitled.canvas",
     "Notes/Initial Exercise Plan.md",
     "Notes/Philosphy/Philosophy Spaces/Utilitarianism.md",
     "Notes/Philosphy/Philosophy.md",
@@ -213,7 +225,6 @@
     "Pasted image 20230725050532.png",
     "Notes/Coding stuff/Coding Project Ideas.md",
     "textgenerator/prompts/huggingface",
-    "Untitled.canvas",
     "Untitled 1.canvas"
   ]
 }
