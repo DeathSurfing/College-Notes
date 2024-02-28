@@ -15,8 +15,8 @@
               "state": {
                 "file": "Untitled.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
+                  "x": 3.72,
+                  "y": 26.97,
                   "zoom": 0
                 }
               }
@@ -185,7 +185,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ec406b8edc4a3320",
+  "active": "e3647347c29efbd6",
   "lastOpenFiles": [
     "Notes/Trading",
     "Untitled.canvas",
