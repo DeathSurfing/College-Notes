@@ -4,21 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "35acac743ba2e922",
+        "id": "dd72b4f14f0dc7fc",
         "type": "tabs",
         "children": [
           {
-            "id": "4d4497ee64fb662e",
+            "id": "d8789b69d69d3081",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 3.72,
-                  "y": 26.97,
-                  "zoom": 0
-                }
+                "file": "Notes/Trading/Files/Support and Resistance.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Notes/Trading/Files/Support and Resistance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Notes/Trading/Files/Support and Resistance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "Notes/Trading/Files/Support and Resistance.md"
               }
             }
           },
@@ -165,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -185,20 +182,27 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e3647347c29efbd6",
+  "active": "d8789b69d69d3081",
   "lastOpenFiles": [
-    "Notes/Trading",
+    "Screenshot 2024-02-28 at 4.08.16 PM.png",
+    "Screenshot 2024-02-28 at 4.07.51 PM.png",
+    "Notes/Trading/Topic Explorer.md",
+    "Notes/Trading/Files/Support and Resistance.md",
+    "Notes/Physics/Mechanics/Free Body Diagrams.md",
+    "Notes/Physics/Topic Explorer.md",
+    "Notes/Trading/Files",
+    "Excalidraw/Drawing 2023-07-23 03.49.00.excalidraw.md",
+    "Excalidraw/Drawing 2023-07-23 03.21.55.excalidraw.md",
     "Untitled.canvas",
+    "Notes/Trading",
     "Notes/Initial Exercise Plan.md",
     "Notes/Philosphy/Philosophy Spaces/Utilitarianism.md",
     "Notes/Philosphy/Philosophy.md",
     "Notes/Philosphy/Philosophy Spaces/Pragmatism.md",
     "Notes/Books/48 Laws of Power.md",
-    "Notes/Physics/Topic Explorer.md",
     "Notes/Physics/Mechanics/SUVAT.md",
     "Notes/Physics/Mechanics/Projectile Motion.md",
     "Notes/Physics/Mechanics/Friction.md",
-    "Notes/Physics/Mechanics/Free Body Diagrams.md",
     "Notes/Physics/Mechanics/Forces.md",
     "Notes/Physics/Mechanics/Topic 2.1",
     "Notes/Philosphy/Philosophy Spaces/Epistemological Skepticism.md",
@@ -214,17 +218,11 @@
     "Notes/Philosphy/Philosophy Spaces/Ontology.md",
     "Notes/Philosphy/Philosophy Spaces/Phenomenology.md",
     "Notes/Philosphy/Philosophy Spaces/Existentialism.md",
-    "Day Planners/Day Planner-20230723.md",
     "Notes/Books",
-    "Notes/Coding stuff/Interesting GSOC Companies.md",
     "Notes/Philosphy",
-    "Notes/Coding stuff/JDK JRE JVM.md",
     "Notes/Coding stuff",
     "Notes/Philosphy/Philosophy Spaces",
-    "Images",
     "Pasted image 20230725050532.png",
-    "Notes/Coding stuff/Coding Project Ideas.md",
-    "textgenerator/prompts/huggingface",
     "Untitled 1.canvas"
   ]
 }
