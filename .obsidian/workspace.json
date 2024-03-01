@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Trading/Files/Support and Resistance.md",
+                "file": "Notes/JEE PREP/Stuff to cover in JEE.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Trading/Files/Support and Resistance.md",
+                "file": "Notes/JEE PREP/Stuff to cover in JEE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Trading/Files/Support and Resistance.md",
+                "file": "Notes/JEE PREP/Stuff to cover in JEE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Trading/Files/Support and Resistance.md"
+                "file": "Notes/JEE PREP/Stuff to cover in JEE.md"
               }
             }
           },
@@ -166,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,10 +184,14 @@
   },
   "active": "d8789b69d69d3081",
   "lastOpenFiles": [
+    "Notes/JEE PREP/Math/Matrices.md",
+    "Notes/JEE PREP/Stuff to cover in JEE.md",
+    "Notes/JEE PREP/Math",
+    "Notes/Trading/Files/Support and Resistance.md",
+    "Notes/JEE PREP",
     "Screenshot 2024-02-28 at 4.08.16 PM.png",
     "Screenshot 2024-02-28 at 4.07.51 PM.png",
     "Notes/Trading/Topic Explorer.md",
-    "Notes/Trading/Files/Support and Resistance.md",
     "Notes/Physics/Mechanics/Free Body Diagrams.md",
     "Notes/Physics/Topic Explorer.md",
     "Notes/Trading/Files",
@@ -216,12 +220,8 @@
     "Notes/Philosphy/Philosophy Spaces/Moral Relativism.md",
     "Notes/Philosphy/Philosophy Spaces/Stoicism.md",
     "Notes/Philosphy/Philosophy Spaces/Ontology.md",
-    "Notes/Philosphy/Philosophy Spaces/Phenomenology.md",
-    "Notes/Philosphy/Philosophy Spaces/Existentialism.md",
     "Notes/Books",
     "Notes/Philosphy",
-    "Notes/Coding stuff",
-    "Notes/Philosphy/Philosophy Spaces",
     "Pasted image 20230725050532.png",
     "Untitled 1.canvas"
   ]
