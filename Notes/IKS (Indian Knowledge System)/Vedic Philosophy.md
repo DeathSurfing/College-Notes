@@ -19,6 +19,9 @@ ___
 - Purva-mimamsa
 - Uttara-mimasa or vedanta
 
+### 3 Heterodox Schools of Indian Philosophy:
+- Carvaka 
+-  Buddhist
 ## Heterodox school:
 - Rejects the Vedic authority 
 
