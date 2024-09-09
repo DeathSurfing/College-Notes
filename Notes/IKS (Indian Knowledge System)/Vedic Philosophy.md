@@ -22,6 +22,7 @@ ___
 ### 3 Heterodox Schools of Indian Philosophy:
 - Carvaka 
 -  Buddhist
+- Jaina
 ## Heterodox school:
 - Rejects the Vedic authority 
 
