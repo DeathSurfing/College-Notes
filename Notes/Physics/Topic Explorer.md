@@ -5,3 +5,11 @@ Table
 topic From #Mechanics 
 
 ```
+
+
+___
+```dataview
+Table
+topic From #AppliedPhysics
+
+```

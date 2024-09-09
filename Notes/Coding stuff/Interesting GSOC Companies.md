@@ -1,5 +1,5 @@
-| Company Name(s)                         | Github URL link(s)                       |
-|---------------------------------------|------------------------------------------|
+| Company Name(s)                       | Github URL link(s)                       |
+| ------------------------------------- | ---------------------------------------- |
 | Blender                               | https://github.com/blender               |
 | Open Chemistry                        | https://github.com/OpenChemistry         |
 | CircuitVerse.org                      | https://github.com/CircuitVerse          |
