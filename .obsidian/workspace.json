@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Math/Matricies.md",
+                "file": "Notes/Computational Thinking/Computational Thinking breakdown.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Math/Matricies.md",
+                "file": "Notes/Computational Thinking/Computational Thinking breakdown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Math/Matricies.md",
+                "file": "Notes/Computational Thinking/Computational Thinking breakdown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Math/Matricies.md"
+                "file": "Notes/Computational Thinking/Computational Thinking breakdown.md"
               }
             }
           },
@@ -162,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -184,10 +184,14 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "d8789b69d69d3081",
+  "active": "e3647347c29efbd6",
   "lastOpenFiles": [
-    "Notes/Math/Topic Explorer.md",
+    "Notes/IKS (Indian Knowledge System)/IKS outline.md",
+    "Notes/Computational Thinking/Computational Thinking breakdown.md",
+    "Notes/Computational Thinking/Untitled.md",
+    "Notes/Computational Thinking/Topic Explorer.md",
     "Notes/Math/Matricies.md",
+    "Notes/Math/Topic Explorer.md",
     "Notes/IKS (Indian Knowledge System)/Vedic Philosophy.md",
     "Notes/IKS (Indian Knowledge System)/IKS Outline.md",
     "Notes/Physics/Mechanics/Free Body Diagrams.md",
@@ -217,12 +221,8 @@
     "Notes/Physics/Mechanics/Friction.md",
     "Notes/Physics/Mechanics/Forces.md",
     "Notes/Physics/Mechanics/Topic 2.1",
-    "Notes/Philosphy/Philosophy Spaces/Epistemological Skepticism.md",
-    "Notes/Physics/Mechanics/Average Velocity.md",
-    "Notes/Physics/Mechanics/Average Speed.md",
     "Notes/Physics/Mechanics",
     "Notes/Physics",
-    "Notes/Buisnes Ideas/Medical Tourism.md",
     "Notes/Buisnes Ideas",
     "Notes/Books",
     "Pasted image 20230725050532.png",
