@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Computational Thinking/Computational Thinking breakdown.md",
+                "file": "Notes/Math/Sets.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Computational Thinking/Computational Thinking breakdown.md",
+                "file": "Notes/Math/Sets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Computational Thinking/Computational Thinking breakdown.md",
+                "file": "Notes/Math/Sets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Computational Thinking/Computational Thinking breakdown.md"
+                "file": "Notes/Math/Sets.md"
               }
             }
           },
@@ -176,20 +176,25 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
       "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false,
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
   "active": "d8789b69d69d3081",
   "lastOpenFiles": [
+    "Notes/Physics/Waves.md",
+    "Notes/Computational Thinking/Computational Thinking breakdown.md",
+    "Notes/IOT/Electrical Saftey.md",
+    "Notes/Physics/Mechanics/Forces.md",
+    "Notes/Physics/Topic Explorer.md",
+    "Notes/Physics/Applied Physics Breakdown.md",
     "Notes/Computational Thinking/Topic Explorer.md",
     "Notes/Computational Thinking/Untitled.md",
     "Notes/IKS (Indian Knowledge System)/Vedic Philosophy.md",
-    "Notes/Computational Thinking/Computational Thinking breakdown.md",
     "Notes/IKS (Indian Knowledge System)/IKS outline.md",
     "Notes/Math/Matricies.md",
     "Notes/Math/Topic Explorer.md",
@@ -205,7 +210,6 @@
     "Notes/Trading/Files/Support and Resistance.md",
     "Notes/JEE PREP",
     "Screenshot 2024-02-28 at 4.08.16 PM.png",
-    "Notes/Physics/Topic Explorer.md",
     "Notes/Trading/Files",
     "Excalidraw/Drawing 2023-07-23 03.49.00.excalidraw.md",
     "Excalidraw/Drawing 2023-07-23 03.21.55.excalidraw.md",
@@ -216,10 +220,6 @@
     "Notes/Philosphy/Philosophy.md",
     "Notes/Philosphy/Philosophy Spaces/Pragmatism.md",
     "Notes/Books/48 Laws of Power.md",
-    "Notes/Physics/Mechanics/SUVAT.md",
-    "Notes/Physics/Mechanics/Projectile Motion.md",
-    "Notes/Physics/Mechanics/Friction.md",
-    "Notes/Physics/Mechanics/Forces.md",
     "Notes/Physics/Mechanics/Topic 2.1",
     "Notes/Physics/Mechanics",
     "Notes/Physics",

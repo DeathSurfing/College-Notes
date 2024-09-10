@@ -22,6 +22,10 @@ Empty set or null set is represented by $$ \phi $$
 ### BOoks:
 - Discrete mathematics by K.H Rosen
 - Schum outlines  
+
+
+
+
 ___
 
 

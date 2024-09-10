@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Sets",
+      "path": "Notes/Math/Sets.md"
+    },
+    {
+      "basename": "Waves",
+      "path": "Notes/Physics/Waves.md"
+    },
+    {
       "basename": "Computational Thinking breakdown",
       "path": "Notes/Computational Thinking/Computational Thinking breakdown.md"
+    },
+    {
+      "basename": "Electrical Saftey",
+      "path": "Notes/IOT/Electrical Saftey.md"
+    },
+    {
+      "basename": "Forces",
+      "path": "Notes/Physics/Mechanics/Forces.md"
+    },
+    {
+      "basename": "Topic Explorer",
+      "path": "Notes/Physics/Topic Explorer.md"
+    },
+    {
+      "basename": "Applied Physics Breakdown",
+      "path": "Notes/Physics/Applied Physics Breakdown.md"
     },
     {
       "basename": "Topic Explorer",
@@ -49,10 +73,6 @@
       "path": "Notes/Trading/Files/Support and Resistance.md"
     },
     {
-      "basename": "Topic Explorer",
-      "path": "Notes/Physics/Topic Explorer.md"
-    },
-    {
       "basename": "Drawing 2023-07-23 03.49.00.excalidraw",
       "path": "Excalidraw/Drawing 2023-07-23 03.49.00.excalidraw.md"
     },
@@ -95,10 +115,6 @@
     {
       "basename": "Friction",
       "path": "Notes/Physics/Mechanics/Friction.md"
-    },
-    {
-      "basename": "Forces",
-      "path": "Notes/Physics/Mechanics/Forces.md"
     },
     {
       "basename": "Epistemological Skepticism",
