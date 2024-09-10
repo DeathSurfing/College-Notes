@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5f82bdfebd7930a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Math/Sets.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,16 +197,17 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "d8789b69d69d3081",
+  "active": "5f82bdfebd7930a8",
   "lastOpenFiles": [
+    "Notes/Computational Thinking/Computational Thinking breakdown.md",
+    "Notes/Computational Thinking/Topic Explorer.md",
+    "Excalidraw/Drawing 2024-09-10 15.02.28.excalidraw.md",
     "Notes/Math/Sets.md",
     "Notes/Physics/Waves.md",
-    "Notes/Computational Thinking/Computational Thinking breakdown.md",
     "Notes/IOT/Electrical Saftey.md",
     "Notes/Physics/Mechanics/Forces.md",
     "Notes/Physics/Topic Explorer.md",
     "Notes/Physics/Applied Physics Breakdown.md",
-    "Notes/Computational Thinking/Topic Explorer.md",
     "Notes/Computational Thinking/Untitled.md",
     "Notes/IKS (Indian Knowledge System)/Vedic Philosophy.md",
     "Notes/IKS (Indian Knowledge System)/IKS outline.md",
@@ -219,7 +233,6 @@
     "Notes/Initial Exercise Plan.md",
     "Notes/Philosphy/Philosophy Spaces/Utilitarianism.md",
     "Notes/Philosphy/Philosophy.md",
-    "Notes/Philosphy/Philosophy Spaces/Pragmatism.md",
     "Notes/Physics/Mechanics/Topic 2.1",
     "Notes/Physics/Mechanics",
     "Notes/Physics",

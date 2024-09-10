@@ -5,12 +5,20 @@
       "path": "Notes/Math/Sets.md"
     },
     {
-      "basename": "Waves",
-      "path": "Notes/Physics/Waves.md"
-    },
-    {
       "basename": "Computational Thinking breakdown",
       "path": "Notes/Computational Thinking/Computational Thinking breakdown.md"
+    },
+    {
+      "basename": "Topic Explorer",
+      "path": "Notes/Computational Thinking/Topic Explorer.md"
+    },
+    {
+      "basename": "Drawing 2024-09-10 15.02.28.excalidraw",
+      "path": "Excalidraw/Drawing 2024-09-10 15.02.28.excalidraw.md"
+    },
+    {
+      "basename": "Waves",
+      "path": "Notes/Physics/Waves.md"
     },
     {
       "basename": "Electrical Saftey",
@@ -27,10 +35,6 @@
     {
       "basename": "Applied Physics Breakdown",
       "path": "Notes/Physics/Applied Physics Breakdown.md"
-    },
-    {
-      "basename": "Topic Explorer",
-      "path": "Notes/Computational Thinking/Topic Explorer.md"
     },
     {
       "basename": "Untitled",

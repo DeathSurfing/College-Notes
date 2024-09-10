@@ -44,6 +44,27 @@ $$A\subset B\ and \ b\subset A$$
 $$A=B$$
 
 
+### Set of factors of 12 and 2
+$$A=\left\{12,6,4,3,2,1\right\}$$
+$$B=\left\{1,2\right\}$$
+$$B\subseteq A\subseteq \phi$$
+### Union
+- Combining of two or more sets
+$$x=A \cup B$$
+$$\forall x\in A \ \vee \ x\in B$$
+### Intersection
+$$x=A\cap B $$
+$$\forall x\in A\ \wedge \ x\in B$$
+
+### Union and intersection repetition notation 
+#### Union:
+$$A_1\cup A_2...A_n=\cup^n_{i=1}A_i$$
+$$\cup^n_{i=1}A_i=A_1$$
+#### Intersection
+$$A_1\cap A_2...A_n=\cap^n_{i=1}A_i$$
+$$\cap^n_{i=1}A_i=A_n$$
+
+
 
 ___
 
