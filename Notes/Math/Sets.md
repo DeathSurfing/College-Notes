@@ -72,9 +72,24 @@ $$Card(A\cup B \ \cup C)=Card(A)+Card(B)+Card(C)-Card(A\cap B)-Card(B\cap C)+Car
 	- $$A \setminus B$$
 	- $$\forall x\in A ,x\notin B$$
 - Symmetrical difference
-- $$A\Delta B$$
-- $$(A\setminus B)\cup(B\setminus A)=(A\cap B)\setminus(A\cup B)$$
+	- $$A\Delta B$$
+	- $$(A\setminus B)\cup(B\setminus A)=(A\cap B)\setminus(A\cup B)$$
 - Complement
+	- $$A^C \ or\ A^{'}$$
+	- $$\forall x\in A,x \notin U$$
+
+
+#### Practice Problem:
+100 students
+M:50
+P:40
+C:25
+$$M \cap C=10$$
+$$P \cap C=10$$
+$$M \cap P =10 $$
+$$M \cap P \cap C=5$$
+
+
 
 ### Laws of sets:
 
