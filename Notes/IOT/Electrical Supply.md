@@ -37,3 +37,20 @@ $$V=IR$$
 
 ## Series Connection: 
 ![[Screenshot 2024-09-11 at 2.40.56 PM.png]]
+
+$$V=IR$$
+$$V_1+V_2=V_T$$
+$$IR_1\cdot IR_2=IR_T$$
+$$R_1+R_2=R_T$$
+
+## Parralel Connection:
+![[Screenshot 2024-09-11 at 2.43.34 PM.png]]
+
+$$V=IR$$
+$$I_1+I_2=I_T$$
+$$\frac{V}{R_1}+\frac{V}{R_2}=\frac{V}{R_T}$$
+$$\frac{1}{R_1}+\frac{1}{R_2}=\frac{1}{R_T}$$
+
+
+
+### Practice problem: 
