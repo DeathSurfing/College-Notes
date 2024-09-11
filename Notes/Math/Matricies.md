@@ -195,10 +195,104 @@ $$A=A^T$$
 - Has 4 levels of error correction (L,H,M,Q)
 
 
+## Some other types of matrices:
+### Skew Matrix (Anti-Symmetric matrix):
+- A square matrix whose transpose is equal to it's negative.
+$$A=-A^T$$
+- All diagonal elements of a skew symmetric matrix are 0
+$$A=\begin{bmatrix}
+0 & -2 & -3 \\
+2 & 0 & -4 \\
+3 & 4 & 0
+\end{bmatrix}$$
+$$-A^T=\begin{bmatrix}
+0 & -2 & -3 \\
+2 & 0 & -4 \\
+3 & 4 & 0
+\end{bmatrix}$$
+### Idempotent Matrix:
+- Matrix satisfies the equation 
+- $$A^2=A$$
+- $$A^2-A=0$$
+- Example:
+
+	  $$A=\begin{bmatrix}
+1 & 0 \\
+0 & 0
+\end{bmatrix}$$
+$$A^2=\begin{bmatrix}
+1 & 0 \\
+0 & 0
+\end{bmatrix}\cdot\begin{bmatrix}
+1 & 0 \\
+0 & 0
+\end{bmatrix}$$
+$$A^2=\begin{bmatrix}
+1 & 0 \\
+0 & 0
+\end{bmatrix}$$$$A^2=A$$
 
 
+### Involuntary matrix:
+-  Reflexive matrix
+- A square matrix
+- Matrix equation Satisfies of the same order :
+$$A^2=I$$
+- Example:
+$$A=\begin{bmatrix}
+4 & -1 \\
+15 & -4
+\end{bmatrix}$$
+$$A^2=\begin{bmatrix}
+4 & -1 \\
+15 & -4
+\end{bmatrix}\cdot \begin{bmatrix}
+4 & -1 \\
+15 & -4
+\end{bmatrix}$$
+$$A^2=\begin{bmatrix}
+1 & 0 \\
+0 & 1
+\end{bmatrix}$$
+$$A^2=I$$
 
 
+### Transpose matrix:
+- A matrix in which rows are changed into columns and vise versa .
+- Denoted as 
+- $$A^T\ or\ A^t$$
+- $$A=\begin{bmatrix}
+1 & 2 & 3 \\
+4 & 5 & 6 \\
+0 & 0 & 8
+\end{bmatrix}$$
+$$A^T=\begin{bmatrix}
+1 & 4 & 0 \\
+2 & 5 & 0 \\
+3 & 6 & 8
+\end{bmatrix}$$
+### Orthogonal matrix:
+- A square matrix
+- Satisfies the equation
+- $$AA^T=A^TA=I$$
+- Example:$$A=\begin{bmatrix}
+0 & -1 \\
+1 & 0
+\end{bmatrix}$$
+$$A^T=\begin{bmatrix}
+0 & 1 \\
+-1 & 0
+\end{bmatrix}$$
+$$A\cdot A^T=\begin{bmatrix}
+1 & 0 \\
+0 & 1
+\end{bmatrix}$$
+## Elementary Operations:
+The elementary operations or transformations of a matrix are the operations performed on rows and columns of a matrix to transform the given matrix into a different form in order to make the calculation easier.
 
+We know that elementary row operations are the operations performed on the rows of matrix. Similarly, elementary column operations are the operations performed on the columns of matrix
 
-
+### Types of elementary Operations:
+- Interchange of rows or columns
+- Multiplication of rows or columns by any non zero number
+- Add the results to the any row or column
