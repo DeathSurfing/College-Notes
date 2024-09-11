@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/IOT/Electrical Supply.md",
+                "file": "Notes/Math/Matricies.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/IOT/Electrical Supply.md",
+                "file": "Notes/Math/Matricies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/IOT/Electrical Supply.md",
+                "file": "Notes/Math/Matricies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/IOT/Electrical Supply.md"
+                "file": "Notes/Math/Matricies.md"
               }
             }
           },
@@ -247,9 +247,10 @@
   },
   "active": "ccb4f9f4be587a8d",
   "lastOpenFiles": [
+    "Notes/Math/Sets.md",
+    "Notes/IOT/Electrical Supply.md",
     "Notes/IOT/Electrical Saftey.md",
     "Excalidraw/Drawing 2024-09-11 14.35.24.excalidraw.md",
-    "Notes/IOT/Electrical Supply.md",
     "Screenshot 2024-09-11 at 2.43.34 PM.png",
     "Screenshot 2024-09-11 at 2.40.56 PM.png",
     "Notes/Computational Thinking/Computational Thinking breakdown.md",
@@ -264,7 +265,6 @@
     "Screenshot 2024-02-28 at 4.07.51 PM.png",
     "Screenshot 2024-09-11 at 2.24.42 PM.png",
     "Screenshot 2024-09-11 at 2.25.09 PM.png",
-    "Notes/Math/Sets.md",
     "Excalidraw/Drawing 2024-09-11 14.31.26.excalidraw.md",
     "Excalidraw/Drawing 2024-09-11 14.24.06.excalidraw.md",
     "Notes/Math/Matricies.md",
