@@ -1,16 +1,76 @@
 {
   "recentFiles": [
     {
-      "basename": "Sets",
-      "path": "Notes/Math/Sets.md"
+      "basename": "Electrical Supply",
+      "path": "Notes/IOT/Electrical Supply.md"
     },
     {
-      "basename": "Waves",
-      "path": "Notes/Physics/Waves.md"
+      "basename": "Electrical Saftey",
+      "path": "Notes/IOT/Electrical Saftey.md"
     },
     {
       "basename": "Computational Thinking breakdown",
       "path": "Notes/Computational Thinking/Computational Thinking breakdown.md"
+    },
+    {
+      "basename": "Drawing 2024-09-11 14.35.24.excalidraw",
+      "path": "Excalidraw/Drawing 2024-09-11 14.35.24.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2023-07-23 03.21.55.excalidraw",
+      "path": "Excalidraw/Drawing 2023-07-23 03.21.55.excalidraw.md"
+    },
+    {
+      "basename": "Screenshot 2024-02-28 at 4.08.16 PM",
+      "path": "Screenshot 2024-02-28 at 4.08.16 PM.png"
+    },
+    {
+      "basename": "Screenshot 2024-09-11 at 2.34.20 PM",
+      "path": "Screenshot 2024-09-11 at 2.34.20 PM.png"
+    },
+    {
+      "basename": "Drawing 2024-09-11 14.32.48.excalidraw",
+      "path": "Excalidraw/Drawing 2024-09-11 14.32.48.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2023-07-23 03.49.00.excalidraw",
+      "path": "Excalidraw/Drawing 2023-07-23 03.49.00.excalidraw.md"
+    },
+    {
+      "basename": "Screenshot 2024-02-28 at 4.07.51 PM",
+      "path": "Screenshot 2024-02-28 at 4.07.51 PM.png"
+    },
+    {
+      "basename": "Screenshot 2024-09-11 at 2.24.42 PM",
+      "path": "Screenshot 2024-09-11 at 2.24.42 PM.png"
+    },
+    {
+      "basename": "Screenshot 2024-09-11 at 2.25.09 PM",
+      "path": "Screenshot 2024-09-11 at 2.25.09 PM.png"
+    },
+    {
+      "basename": "Screenshot 2024-09-11 at 2.31.39 PM",
+      "path": "Screenshot 2024-09-11 at 2.31.39 PM.png"
+    },
+    {
+      "basename": "Sets",
+      "path": "Notes/Math/Sets.md"
+    },
+    {
+      "basename": "Drawing 2024-09-11 14.31.26.excalidraw",
+      "path": "Excalidraw/Drawing 2024-09-11 14.31.26.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2024-09-11 14.24.06.excalidraw",
+      "path": "Excalidraw/Drawing 2024-09-11 14.24.06.excalidraw.md"
+    },
+    {
+      "basename": "Matricies",
+      "path": "Notes/Math/Matricies.md"
+    },
+    {
+      "basename": "Waves",
+      "path": "Notes/Physics/Waves.md"
     },
     {
       "basename": "Topic Explorer",
@@ -19,10 +79,6 @@
     {
       "basename": "Drawing 2024-09-10 15.02.28.excalidraw",
       "path": "Excalidraw/Drawing 2024-09-10 15.02.28.excalidraw.md"
-    },
-    {
-      "basename": "Electrical Saftey",
-      "path": "Notes/IOT/Electrical Saftey.md"
     },
     {
       "basename": "Forces",
@@ -45,10 +101,6 @@
       "path": "Notes/IKS (Indian Knowledge System)/Vedic Philosophy.md"
     },
     {
-      "basename": "Matricies",
-      "path": "Notes/Math/Matricies.md"
-    },
-    {
       "basename": "Topic Explorer",
       "path": "Notes/Math/Topic Explorer.md"
     },
@@ -69,20 +121,8 @@
       "path": "Notes/Trading/Topic Explorer.md"
     },
     {
-      "basename": "Screenshot 2024-02-28 at 4.07.51 PM",
-      "path": "Screenshot 2024-02-28 at 4.07.51 PM.png"
-    },
-    {
       "basename": "Support and Resistance",
       "path": "Notes/Trading/Files/Support and Resistance.md"
-    },
-    {
-      "basename": "Drawing 2023-07-23 03.49.00.excalidraw",
-      "path": "Excalidraw/Drawing 2023-07-23 03.49.00.excalidraw.md"
-    },
-    {
-      "basename": "Drawing 2023-07-23 03.21.55.excalidraw",
-      "path": "Excalidraw/Drawing 2023-07-23 03.21.55.excalidraw.md"
     },
     {
       "basename": "Untitled",
@@ -159,14 +199,6 @@
     {
       "basename": "JVM",
       "path": "Notes/Coding stuff/JDK JRE JVM/JVM.md"
-    },
-    {
-      "basename": "JRE",
-      "path": "Notes/Coding stuff/JDK JRE JVM/JRE.md"
-    },
-    {
-      "basename": "JDK",
-      "path": "Notes/Coding stuff/JDK JRE JVM/JDK.md"
     }
   ],
   "omittedPaths": [],

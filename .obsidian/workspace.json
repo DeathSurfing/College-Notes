@@ -25,14 +25,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Math/Sets.md",
+                "file": "Notes/IOT/Electrical Supply.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0e71076073c6c740",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/IOT/Electrical Supply.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d945c0d860798e09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/IOT/Electrical Supply.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "11f89836e34d4512",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/IOT/Electrical Supply.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ccb4f9f4be587a8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/IOT/Electrical Supply.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -106,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Math/Sets.md",
+                "file": "Notes/IOT/Electrical Supply.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Math/Sets.md",
+                "file": "Notes/IOT/Electrical Supply.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Math/Sets.md"
+                "file": "Notes/IOT/Electrical Supply.md"
               }
             }
           },
@@ -197,42 +245,49 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "5f82bdfebd7930a8",
+  "active": "ccb4f9f4be587a8d",
   "lastOpenFiles": [
-    "Notes/Physics/Waves.md",
-    "Notes/Math/Sets.md",
+    "Screenshot 2024-09-11 at 2.40.56 PM.png",
+    "Notes/IOT/Electrical Saftey.md",
     "Notes/Computational Thinking/Computational Thinking breakdown.md",
+    "Excalidraw/Drawing 2024-09-11 14.35.24.excalidraw.md",
+    "Notes/IOT/Electrical Supply.md",
+    "Screenshot 2024-09-11 at 2.38.51 PM.png",
+    "Screenshot 2024-09-11 at 2.36.15 PM.png",
+    "Screenshot 2024-09-11 at 2.35.53 PM.png",
+    "Excalidraw/Drawing 2023-07-23 03.21.55.excalidraw.md",
+    "Screenshot 2024-02-28 at 4.08.16 PM.png",
+    "Screenshot 2024-09-11 at 2.34.20 PM.png",
+    "Excalidraw/Drawing 2024-09-11 14.32.48.excalidraw.md",
+    "Excalidraw/Drawing 2023-07-23 03.49.00.excalidraw.md",
+    "Screenshot 2024-02-28 at 4.07.51 PM.png",
+    "Screenshot 2024-09-11 at 2.24.42 PM.png",
+    "Screenshot 2024-09-11 at 2.25.09 PM.png",
+    "Screenshot 2024-09-11 at 2.31.39 PM.png",
+    "Notes/Math/Sets.md",
+    "Excalidraw/Drawing 2024-09-11 14.31.26.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-11 14.24.06.excalidraw.md",
+    "Notes/Math/Matricies.md",
+    "Notes/Physics/Waves.md",
     "Notes/Computational Thinking/Topic Explorer.md",
     "Excalidraw/Drawing 2024-09-10 15.02.28.excalidraw.md",
-    "Notes/IOT/Electrical Saftey.md",
     "Notes/Physics/Mechanics/Forces.md",
     "Notes/Physics/Topic Explorer.md",
     "Notes/Physics/Applied Physics Breakdown.md",
     "Notes/Computational Thinking/Untitled.md",
     "Notes/IKS (Indian Knowledge System)/Vedic Philosophy.md",
     "Notes/IKS (Indian Knowledge System)/IKS outline.md",
-    "Notes/Math/Matricies.md",
     "Notes/Math/Topic Explorer.md",
     "Notes/IKS (Indian Knowledge System)/IKS Outline.md",
     "Notes/Physics/Mechanics/Free Body Diagrams.md",
     "Notes/Content generation/COntent IDEAS.md",
     "Notes/Trading/Topic Explorer.md",
-    "Screenshot 2024-02-28 at 4.07.51 PM.png",
     "Notes/Content generation",
-    "Notes/JEE PREP/Stuff to cover in JEE.md",
-    "Notes/JEE PREP/Math/Matrices.md",
     "Notes/JEE PREP/Math",
-    "Notes/Trading/Files/Support and Resistance.md",
     "Notes/JEE PREP",
-    "Screenshot 2024-02-28 at 4.08.16 PM.png",
     "Notes/Trading/Files",
-    "Excalidraw/Drawing 2023-07-23 03.49.00.excalidraw.md",
-    "Excalidraw/Drawing 2023-07-23 03.21.55.excalidraw.md",
     "Untitled.canvas",
     "Notes/Trading",
-    "Notes/Initial Exercise Plan.md",
-    "Notes/Philosphy/Philosophy Spaces/Utilitarianism.md",
-    "Notes/Philosphy/Philosophy.md",
     "Notes/Physics/Mechanics/Topic 2.1",
     "Notes/Physics/Mechanics",
     "Notes/Physics",
