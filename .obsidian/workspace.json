@@ -134,8 +134,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -246,7 +245,7 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "bc9b13854a3dfa0a",
+  "active": "ec406b8edc4a3320",
   "lastOpenFiles": [
     "Notes/Math/Sets.md",
     "Notes/IOT/Electrical Supply.md",
