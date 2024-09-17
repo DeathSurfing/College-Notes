@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/IKS (Indian Knowledge System)/Vedic Philosophy.md",
+                "file": "Notes/Math/Matricies.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/IKS (Indian Knowledge System)/Vedic Philosophy.md",
+                "file": "Notes/Math/Matricies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/IKS (Indian Knowledge System)/Vedic Philosophy.md",
+                "file": "Notes/Math/Matricies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/IKS (Indian Knowledge System)/Vedic Philosophy.md"
+                "file": "Notes/Math/Matricies.md"
               }
             }
           },
@@ -187,6 +187,7 @@
   "active": "ccb4f9f4be587a8d",
   "lastOpenFiles": [
     "Notes/Math/Sets.md",
+    "Notes/IKS (Indian Knowledge System)/Vedic Philosophy.md",
     "Sets.pdf",
     "Notes/Math/Matricies.md",
     "Notes/Computational Thinking/Computational Thinking breakdown.md",
@@ -215,7 +216,6 @@
     "Notes/Physics/Mechanics/Forces.md",
     "Notes/Physics/Topic Explorer.md",
     "Notes/Physics/Applied Physics Breakdown.md",
-    "Notes/IKS (Indian Knowledge System)/Vedic Philosophy.md",
     "Notes/IKS (Indian Knowledge System)/IKS outline.md",
     "Notes/Math/Topic Explorer.md",
     "Notes/IKS (Indian Knowledge System)/IKS Outline.md",

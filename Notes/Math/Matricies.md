@@ -296,3 +296,7 @@ We know that elementary row operations are the operations performed on the rows 
 - Interchange of rows or columns
 - Multiplication of rows or columns by any non zero number
 - Add the results to the any row or column
+
+### Echelon form
+- Row Echelon form (REF)
+- Reduced Row Echelon form (RREF)
