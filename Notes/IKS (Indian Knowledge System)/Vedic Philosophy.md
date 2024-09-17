@@ -26,4 +26,12 @@ ___
 ## Heterodox school:
 - Rejects the Vedic authority 
 
+## Sufi and Bhakti Schools of thought:
+### Bhakti Movement:
+- Sought to bring religious reforms
+- Brought forward Devotion to achieve salvation
+- Brought religious reforms to medieval hinduism
+- Started from Tamil Nadu in the 6th CE and spread to the other parts of the country
+- Split into two types of devotees Nayanars and Alvars (Shiva and Vishnu) devotees
+- 
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Math/Sets.md",
+                "file": "Notes/IKS (Indian Knowledge System)/Vedic Philosophy.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Math/Sets.md",
+                "file": "Notes/IKS (Indian Knowledge System)/Vedic Philosophy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Math/Sets.md",
+                "file": "Notes/IKS (Indian Knowledge System)/Vedic Philosophy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Math/Sets.md"
+                "file": "Notes/IKS (Indian Knowledge System)/Vedic Philosophy.md"
               }
             }
           },
@@ -186,12 +186,12 @@
   },
   "active": "ccb4f9f4be587a8d",
   "lastOpenFiles": [
+    "Notes/Math/Sets.md",
     "Sets.pdf",
     "Notes/Math/Matricies.md",
     "Notes/Computational Thinking/Computational Thinking breakdown.md",
     "Notes/Computational Thinking/Untitled.md",
     "Notes/Computational Thinking/Topic Explorer.md",
-    "Notes/Math/Sets.md",
     "Notes/IOT/Electrical Supply.md",
     "Notes/IOT/Electrical Saftey.md",
     "Excalidraw/Drawing 2024-09-11 14.35.24.excalidraw.md",
@@ -232,7 +232,6 @@
     "Notes/Physics/Mechanics",
     "Notes/Physics",
     "Notes/Buisnes Ideas",
-    "Notes/Books",
     "Untitled 1.canvas"
   ]
 }
