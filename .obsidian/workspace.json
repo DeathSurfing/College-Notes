@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Math/Matricies.md",
+                "file": "Notes/Math/Sets.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Math/Matricies.md",
+                "file": "Notes/Math/Sets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Math/Matricies.md",
+                "file": "Notes/Math/Sets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Math/Matricies.md"
+                "file": "Notes/Math/Sets.md"
               }
             }
           },
@@ -186,10 +186,11 @@
   },
   "active": "ccb4f9f4be587a8d",
   "lastOpenFiles": [
+    "Sets.pdf",
+    "Notes/Math/Matricies.md",
     "Notes/Computational Thinking/Computational Thinking breakdown.md",
     "Notes/Computational Thinking/Untitled.md",
     "Notes/Computational Thinking/Topic Explorer.md",
-    "Notes/Math/Matricies.md",
     "Notes/Math/Sets.md",
     "Notes/IOT/Electrical Supply.md",
     "Notes/IOT/Electrical Saftey.md",
