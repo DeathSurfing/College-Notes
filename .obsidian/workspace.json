@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Math/Matricies.md",
+                "file": "Notes/Math/Sets.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Math/Matricies.md",
+                "file": "Notes/Math/Sets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Math/Matricies.md",
+                "file": "Notes/Math/Sets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Math/Matricies.md"
+                "file": "Notes/Math/Sets.md"
               }
             }
           },
@@ -186,10 +186,12 @@
   },
   "active": "ccb4f9f4be587a8d",
   "lastOpenFiles": [
+    "Screenshot 2024-09-17 at 3.51.46 PM.png",
+    "Screenshot 2024-09-17 at 3.27.02 PM.png",
+    "Notes/Math/Matricies.md",
     "Notes/Math/Sets.md",
     "Notes/IKS (Indian Knowledge System)/Vedic Philosophy.md",
     "Sets.pdf",
-    "Notes/Math/Matricies.md",
     "Notes/Computational Thinking/Computational Thinking breakdown.md",
     "Notes/Computational Thinking/Untitled.md",
     "Notes/Computational Thinking/Topic Explorer.md",
@@ -208,7 +210,6 @@
     "Excalidraw/Drawing 2023-07-23 03.49.00.excalidraw.md",
     "Screenshot 2024-02-28 at 4.07.51 PM.png",
     "Screenshot 2024-09-11 at 2.24.42 PM.png",
-    "Screenshot 2024-09-11 at 2.25.09 PM.png",
     "Excalidraw/Drawing 2024-09-11 14.31.26.excalidraw.md",
     "Excalidraw/Drawing 2024-09-11 14.24.06.excalidraw.md",
     "Notes/Physics/Waves.md",

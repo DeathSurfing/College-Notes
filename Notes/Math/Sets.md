@@ -95,9 +95,24 @@ $$M \cap P \cap C=5$$
 
 ___
 
+### De Morgan's theorem 
 
-## Cartesian Point
+$$(A \cup B)' = A'\cap B'$$
+$$or$$
+$$(A\cap B)'=A'\cup B'$$
+![[Screenshot 2024-09-17 at 3.27.02 PM.png]]
 
+
+
+
+
+## Cartesian Product
+- Order matters
+$$A \times B= \forall (x,y) / x\in A,y\in B$$
+$$A\times B \times C = \forall(x,y)/x\in A, y \in B, z \in C$$
+
+$$[0\ 1] \times [-1 \ 1]$$
+![[Screenshot 2024-09-17 at 3.51.46 PM.png]]
 
 
 
