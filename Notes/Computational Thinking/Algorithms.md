@@ -12,3 +12,7 @@ ___
 - Functions
 
 
+## Logic structure in computer programming
+- Sequence
+- Selection
+- Iteration
