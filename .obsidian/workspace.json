@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Math/Sets.md",
+                "file": "Notes/Computational Thinking/Algorithms.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Math/Sets.md",
+                "file": "Notes/Computational Thinking/Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Math/Sets.md",
+                "file": "Notes/Computational Thinking/Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Math/Sets.md"
+                "file": "Notes/Computational Thinking/Algorithms.md"
               }
             }
           },
@@ -186,15 +186,28 @@
   },
   "active": "ccb4f9f4be587a8d",
   "lastOpenFiles": [
-    "Screenshot 2024-09-17 at 3.51.46 PM.png",
-    "Screenshot 2024-09-17 at 3.27.02 PM.png",
+    "Notes/Computational Thinking/Computational Thinking breakdown.md",
+    "Notes/Computational Thinking/Algorithms.md",
+    "Notes/Computational Thinking/Topic Explorer.md",
+    "Notes/Computational Thinking/Untitled.md",
+    "Notes/Physics/Waves.md",
     "Notes/Math/Matricies.md",
     "Notes/Math/Sets.md",
+    "Notes/Math/Topic Explorer.md",
+    "Notes/Trading/Files/Support and Resistance.md",
+    "Notes/Temp notes.md",
     "Notes/IKS (Indian Knowledge System)/Vedic Philosophy.md",
+    "Notes/Books/48 Laws of Power.md",
+    "Notes/Buisnes Ideas/Medical Tourism.md",
+    "Notes/Coding stuff/JDK JRE JVM.md",
+    "Notes/Coding stuff/Interesting GSOC Companies.md",
+    "Notes/Coding stuff/Coding Project Ideas.md",
+    "Notes/Coding stuff/JDK JRE JVM/JVM.md",
+    "Notes/Coding stuff/JDK JRE JVM/JRE.md",
+    "Notes/Coding stuff/JDK JRE JVM/JDK.md",
+    "Screenshot 2024-09-17 at 3.51.46 PM.png",
+    "Screenshot 2024-09-17 at 3.27.02 PM.png",
     "Sets.pdf",
-    "Notes/Computational Thinking/Computational Thinking breakdown.md",
-    "Notes/Computational Thinking/Untitled.md",
-    "Notes/Computational Thinking/Topic Explorer.md",
     "Notes/IOT/Electrical Supply.md",
     "Notes/IOT/Electrical Saftey.md",
     "Excalidraw/Drawing 2024-09-11 14.35.24.excalidraw.md",
@@ -209,20 +222,7 @@
     "Excalidraw/Drawing 2024-09-11 14.32.48.excalidraw.md",
     "Excalidraw/Drawing 2023-07-23 03.49.00.excalidraw.md",
     "Screenshot 2024-02-28 at 4.07.51 PM.png",
-    "Screenshot 2024-09-11 at 2.24.42 PM.png",
     "Excalidraw/Drawing 2024-09-11 14.31.26.excalidraw.md",
-    "Excalidraw/Drawing 2024-09-11 14.24.06.excalidraw.md",
-    "Notes/Physics/Waves.md",
-    "Excalidraw/Drawing 2024-09-10 15.02.28.excalidraw.md",
-    "Notes/Physics/Mechanics/Forces.md",
-    "Notes/Physics/Topic Explorer.md",
-    "Notes/Physics/Applied Physics Breakdown.md",
-    "Notes/IKS (Indian Knowledge System)/IKS outline.md",
-    "Notes/Math/Topic Explorer.md",
-    "Notes/IKS (Indian Knowledge System)/IKS Outline.md",
-    "Notes/Physics/Mechanics/Free Body Diagrams.md",
-    "Notes/Content generation/COntent IDEAS.md",
-    "Notes/Trading/Topic Explorer.md",
     "Notes/Content generation",
     "Notes/JEE PREP/Math",
     "Notes/JEE PREP",

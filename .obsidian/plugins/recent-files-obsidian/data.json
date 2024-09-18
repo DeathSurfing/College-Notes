@@ -1,28 +1,80 @@
 {
   "recentFiles": [
     {
-      "basename": "Sets",
-      "path": "Notes/Math/Sets.md"
-    },
-    {
-      "basename": "Matricies",
-      "path": "Notes/Math/Matricies.md"
-    },
-    {
-      "basename": "Vedic Philosophy",
-      "path": "Notes/IKS (Indian Knowledge System)/Vedic Philosophy.md"
+      "basename": "Algorithms",
+      "path": "Notes/Computational Thinking/Algorithms.md"
     },
     {
       "basename": "Computational Thinking breakdown",
       "path": "Notes/Computational Thinking/Computational Thinking breakdown.md"
     },
     {
+      "basename": "Topic Explorer",
+      "path": "Notes/Computational Thinking/Topic Explorer.md"
+    },
+    {
       "basename": "Untitled",
       "path": "Notes/Computational Thinking/Untitled.md"
     },
     {
+      "basename": "Waves",
+      "path": "Notes/Physics/Waves.md"
+    },
+    {
+      "basename": "Matricies",
+      "path": "Notes/Math/Matricies.md"
+    },
+    {
+      "basename": "Sets",
+      "path": "Notes/Math/Sets.md"
+    },
+    {
       "basename": "Topic Explorer",
-      "path": "Notes/Computational Thinking/Topic Explorer.md"
+      "path": "Notes/Math/Topic Explorer.md"
+    },
+    {
+      "basename": "Support and Resistance",
+      "path": "Notes/Trading/Files/Support and Resistance.md"
+    },
+    {
+      "basename": "Temp notes",
+      "path": "Notes/Temp notes.md"
+    },
+    {
+      "basename": "Vedic Philosophy",
+      "path": "Notes/IKS (Indian Knowledge System)/Vedic Philosophy.md"
+    },
+    {
+      "basename": "48 Laws of Power",
+      "path": "Notes/Books/48 Laws of Power.md"
+    },
+    {
+      "basename": "Medical Tourism",
+      "path": "Notes/Buisnes Ideas/Medical Tourism.md"
+    },
+    {
+      "basename": "JDK JRE JVM",
+      "path": "Notes/Coding stuff/JDK JRE JVM.md"
+    },
+    {
+      "basename": "Interesting GSOC Companies",
+      "path": "Notes/Coding stuff/Interesting GSOC Companies.md"
+    },
+    {
+      "basename": "Coding Project Ideas",
+      "path": "Notes/Coding stuff/Coding Project Ideas.md"
+    },
+    {
+      "basename": "JVM",
+      "path": "Notes/Coding stuff/JDK JRE JVM/JVM.md"
+    },
+    {
+      "basename": "JRE",
+      "path": "Notes/Coding stuff/JDK JRE JVM/JRE.md"
+    },
+    {
+      "basename": "JDK",
+      "path": "Notes/Coding stuff/JDK JRE JVM/JDK.md"
     },
     {
       "basename": "Untitled",
@@ -85,10 +137,6 @@
       "path": "Excalidraw/Drawing 2024-09-11 14.24.06.excalidraw.md"
     },
     {
-      "basename": "Waves",
-      "path": "Notes/Physics/Waves.md"
-    },
-    {
       "basename": "Drawing 2024-09-10 15.02.28.excalidraw",
       "path": "Excalidraw/Drawing 2024-09-10 15.02.28.excalidraw.md"
     },
@@ -103,10 +151,6 @@
     {
       "basename": "Applied Physics Breakdown",
       "path": "Notes/Physics/Applied Physics Breakdown.md"
-    },
-    {
-      "basename": "Topic Explorer",
-      "path": "Notes/Math/Topic Explorer.md"
     },
     {
       "basename": "IKS Outline",
@@ -125,14 +169,6 @@
       "path": "Notes/Trading/Topic Explorer.md"
     },
     {
-      "basename": "Support and Resistance",
-      "path": "Notes/Trading/Files/Support and Resistance.md"
-    },
-    {
-      "basename": "Medical Tourism",
-      "path": "Notes/Buisnes Ideas/Medical Tourism.md"
-    },
-    {
       "basename": "Philosophy",
       "path": "Notes/Philosphy/Philosophy.md"
     },
@@ -143,10 +179,6 @@
     {
       "basename": "Pragmatism",
       "path": "Notes/Philosphy/Philosophy Spaces/Pragmatism.md"
-    },
-    {
-      "basename": "48 Laws of Power",
-      "path": "Notes/Books/48 Laws of Power.md"
     },
     {
       "basename": "SUVAT",
@@ -167,38 +199,6 @@
     {
       "basename": "Moral Relativism",
       "path": "Notes/Philosphy/Philosophy Spaces/Moral Relativism.md"
-    },
-    {
-      "basename": "Stoicism",
-      "path": "Notes/Philosphy/Philosophy Spaces/Stoicism.md"
-    },
-    {
-      "basename": "Ontology",
-      "path": "Notes/Philosphy/Philosophy Spaces/Ontology.md"
-    },
-    {
-      "basename": "Phenomenology",
-      "path": "Notes/Philosphy/Philosophy Spaces/Phenomenology.md"
-    },
-    {
-      "basename": "Existentialism",
-      "path": "Notes/Philosphy/Philosophy Spaces/Existentialism.md"
-    },
-    {
-      "basename": "Interesting GSOC Companies",
-      "path": "Notes/Coding stuff/Interesting GSOC Companies.md"
-    },
-    {
-      "basename": "JDK JRE JVM",
-      "path": "Notes/Coding stuff/JDK JRE JVM.md"
-    },
-    {
-      "basename": "Coding Project Ideas",
-      "path": "Notes/Coding stuff/Coding Project Ideas.md"
-    },
-    {
-      "basename": "JVM",
-      "path": "Notes/Coding stuff/JDK JRE JVM/JVM.md"
     }
   ],
   "omittedPaths": [],
