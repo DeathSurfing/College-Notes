@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Matricies",
+      "path": "Notes/Math/Matricies.md"
+    },
+    {
       "basename": "Algorithms",
       "path": "Notes/Computational Thinking/Algorithms.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "Waves",
       "path": "Notes/Physics/Waves.md"
-    },
-    {
-      "basename": "Matricies",
-      "path": "Notes/Math/Matricies.md"
     },
     {
       "basename": "Sets",
