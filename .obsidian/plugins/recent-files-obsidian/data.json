@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "Vedic Philosophy",
+      "path": "Notes/IKS (Indian Knowledge System)/Vedic Philosophy.md"
+    },
+    {
+      "basename": "Philosophy",
+      "path": "Notes/Philosphy/Philosophy.md"
+    },
+    {
+      "basename": "Phenomenology",
+      "path": "Notes/Philosphy/Philosophy Spaces/Phenomenology.md"
+    },
+    {
+      "basename": "Epistemological Skepticism",
+      "path": "Notes/Philosphy/Philosophy Spaces/Epistemological Skepticism.md"
+    },
+    {
+      "basename": "Ontology",
+      "path": "Notes/Philosphy/Philosophy Spaces/Ontology.md"
+    },
+    {
+      "basename": "Utilitarianism",
+      "path": "Notes/Philosphy/Philosophy Spaces/Utilitarianism.md"
+    },
+    {
+      "basename": "Stoicism",
+      "path": "Notes/Philosphy/Philosophy Spaces/Stoicism.md"
+    },
+    {
+      "basename": "Pragmatism",
+      "path": "Notes/Philosphy/Philosophy Spaces/Pragmatism.md"
+    },
+    {
+      "basename": "Moral Relativism",
+      "path": "Notes/Philosphy/Philosophy Spaces/Moral Relativism.md"
+    },
+    {
+      "basename": "Existentialism",
+      "path": "Notes/Philosphy/Philosophy Spaces/Existentialism.md"
+    },
+    {
       "basename": "Kirchoff's laws",
       "path": "Notes/IOT/Kirchoff's laws.md"
     },
@@ -47,10 +87,6 @@
     {
       "basename": "Temp notes",
       "path": "Notes/Temp notes.md"
-    },
-    {
-      "basename": "Vedic Philosophy",
-      "path": "Notes/IKS (Indian Knowledge System)/Vedic Philosophy.md"
     },
     {
       "basename": "48 Laws of Power",
@@ -163,42 +199,6 @@
     {
       "basename": "Free Body Diagrams",
       "path": "Notes/Physics/Mechanics/Free Body Diagrams.md"
-    },
-    {
-      "basename": "COntent IDEAS",
-      "path": "Notes/Content generation/COntent IDEAS.md"
-    },
-    {
-      "basename": "Topic Explorer",
-      "path": "Notes/Trading/Topic Explorer.md"
-    },
-    {
-      "basename": "Philosophy",
-      "path": "Notes/Philosphy/Philosophy.md"
-    },
-    {
-      "basename": "Utilitarianism",
-      "path": "Notes/Philosphy/Philosophy Spaces/Utilitarianism.md"
-    },
-    {
-      "basename": "Pragmatism",
-      "path": "Notes/Philosphy/Philosophy Spaces/Pragmatism.md"
-    },
-    {
-      "basename": "SUVAT",
-      "path": "Notes/Physics/Mechanics/SUVAT.md"
-    },
-    {
-      "basename": "Projectile Motion",
-      "path": "Notes/Physics/Mechanics/Projectile Motion.md"
-    },
-    {
-      "basename": "Friction",
-      "path": "Notes/Physics/Mechanics/Friction.md"
-    },
-    {
-      "basename": "Epistemological Skepticism",
-      "path": "Notes/Philosphy/Philosophy Spaces/Epistemological Skepticism.md"
     }
   ],
   "omittedPaths": [],

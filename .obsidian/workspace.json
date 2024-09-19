@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/IOT/Kirchoff's laws.md",
+                "file": "Notes/IKS (Indian Knowledge System)/Vedic Philosophy.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/IOT/Kirchoff's laws.md",
+                "file": "Notes/IKS (Indian Knowledge System)/Vedic Philosophy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/IOT/Kirchoff's laws.md",
+                "file": "Notes/IKS (Indian Knowledge System)/Vedic Philosophy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/IOT/Kirchoff's laws.md"
+                "file": "Notes/IKS (Indian Knowledge System)/Vedic Philosophy.md"
               }
             }
           },
@@ -199,8 +199,18 @@
   },
   "active": "172fa0fd7ef696bd",
   "lastOpenFiles": [
-    "Notes/IOT/Electrical Supply.md",
+    "Notes/Philosphy/Philosophy.md",
+    "Notes/Philosphy/Philosophy Spaces/Phenomenology.md",
+    "Notes/Philosphy/Philosophy Spaces/Epistemological Skepticism.md",
+    "Notes/IKS (Indian Knowledge System)/Vedic Philosophy.md",
+    "Notes/Philosphy/Philosophy Spaces/Ontology.md",
+    "Notes/Philosphy/Philosophy Spaces/Utilitarianism.md",
+    "Notes/Philosphy/Philosophy Spaces/Stoicism.md",
+    "Notes/Philosphy/Philosophy Spaces/Pragmatism.md",
+    "Notes/Philosphy/Philosophy Spaces/Moral Relativism.md",
+    "Notes/Philosphy/Philosophy Spaces/Existentialism.md",
     "Notes/IOT/Kirchoff's laws.md",
+    "Notes/IOT/Electrical Supply.md",
     "Notes/Math/Sets.md",
     "Notes/Math/Matricies.md",
     "Notes/Computational Thinking/Algorithms.md",
@@ -211,30 +221,20 @@
     "Notes/Math/Topic Explorer.md",
     "Notes/Trading/Files/Support and Resistance.md",
     "Notes/Temp notes.md",
-    "Notes/IKS (Indian Knowledge System)/Vedic Philosophy.md",
     "Notes/Books/48 Laws of Power.md",
     "Notes/Buisnes Ideas/Medical Tourism.md",
     "Notes/Coding stuff/JDK JRE JVM.md",
     "Notes/Coding stuff/Interesting GSOC Companies.md",
-    "Notes/Coding stuff/Coding Project Ideas.md",
-    "Notes/Coding stuff/JDK JRE JVM/JVM.md",
-    "Notes/Coding stuff/JDK JRE JVM/JRE.md",
-    "Notes/Coding stuff/JDK JRE JVM/JDK.md",
     "Screenshot 2024-09-17 at 3.51.46 PM.png",
     "Screenshot 2024-09-17 at 3.27.02 PM.png",
     "Sets.pdf",
-    "Notes/IOT/Electrical Saftey.md",
-    "Excalidraw/Drawing 2024-09-11 14.35.24.excalidraw.md",
     "Screenshot 2024-09-11 at 2.43.34 PM.png",
     "Screenshot 2024-09-11 at 2.40.56 PM.png",
     "Screenshot 2024-09-11 at 2.38.51 PM.png",
     "Screenshot 2024-09-11 at 2.36.15 PM.png",
     "Screenshot 2024-09-11 at 2.35.53 PM.png",
-    "Excalidraw/Drawing 2023-07-23 03.21.55.excalidraw.md",
     "Screenshot 2024-02-28 at 4.08.16 PM.png",
     "Screenshot 2024-09-11 at 2.34.20 PM.png",
-    "Excalidraw/Drawing 2024-09-11 14.32.48.excalidraw.md",
-    "Excalidraw/Drawing 2023-07-23 03.49.00.excalidraw.md",
     "Screenshot 2024-02-28 at 4.07.51 PM.png",
     "Notes/Content generation",
     "Notes/JEE PREP/Math",
