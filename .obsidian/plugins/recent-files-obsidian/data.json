@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Kirchoff's laws",
+      "path": "Notes/IOT/Kirchoff's laws.md"
+    },
+    {
+      "basename": "Electrical Supply",
+      "path": "Notes/IOT/Electrical Supply.md"
+    },
+    {
       "basename": "Sets",
       "path": "Notes/Math/Sets.md"
     },
@@ -79,10 +87,6 @@
     {
       "basename": "Untitled",
       "path": "Untitled.canvas"
-    },
-    {
-      "basename": "Electrical Supply",
-      "path": "Notes/IOT/Electrical Supply.md"
     },
     {
       "basename": "Electrical Saftey",
@@ -195,10 +199,6 @@
     {
       "basename": "Epistemological Skepticism",
       "path": "Notes/Philosphy/Philosophy Spaces/Epistemological Skepticism.md"
-    },
-    {
-      "basename": "Moral Relativism",
-      "path": "Notes/Philosphy/Philosophy Spaces/Moral Relativism.md"
     }
   ],
   "omittedPaths": [],

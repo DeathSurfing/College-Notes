@@ -53,4 +53,3 @@ $$\frac{1}{R_1}+\frac{1}{R_2}=\frac{1}{R_T}$$
 
 
 
-### Practice problem: 
