@@ -580,4 +580,3 @@ $$=a(ei-hf)-b(di-gf)+c(dh-eg)$$
 ### Properties of Determinants:
 - If determinant of a matrix is non zero ; the matrix is invertible
 - If determinant of a matrix is zero, the matrix is singular
-- 
