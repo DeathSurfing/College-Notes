@@ -175,6 +175,17 @@ $$\forall a\in A  \rightarrow (a,a)\in R$$
 - Symmetric
 $$\forall (a,b) \in R \rightarrow(b,a) \in R$$
 - Anti-Symmetric
+	- For all values except a=b
+$$\forall(a,b)\in R \wedge (b,a)\in R $$
+
+### Partially Ordered Set:
+A set that satisfies:
+- Reflexive
+- Anti Symmetric
+- Transitive
+properties
+
+___
 
 ## Functions 
 
