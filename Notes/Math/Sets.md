@@ -187,7 +187,11 @@ properties
 
 ___
 
-## Functions 
+## Functions
+- Must pass Horizontal line tests
+- Must have a well defined domain
+- Must have a well defined range
+
 
 # Unit 2 :
 ## Partial order set
