@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Harapan Civilization",
+      "path": "Notes/IKS (Indian Knowledge System)/Harapan Civilization.md"
+    },
+    {
       "basename": "Vedic Philosophy",
       "path": "Notes/IKS (Indian Knowledge System)/Vedic Philosophy.md"
+    },
+    {
+      "basename": "Sets",
+      "path": "Notes/Math/Sets.md"
+    },
+    {
+      "basename": "Matricies",
+      "path": "Notes/Math/Matricies.md"
+    },
+    {
+      "basename": "Topic Explorer",
+      "path": "Notes/Math/Topic Explorer.md"
     },
     {
       "basename": "Philosophy",
@@ -49,14 +65,6 @@
       "path": "Notes/IOT/Electrical Supply.md"
     },
     {
-      "basename": "Sets",
-      "path": "Notes/Math/Sets.md"
-    },
-    {
-      "basename": "Matricies",
-      "path": "Notes/Math/Matricies.md"
-    },
-    {
       "basename": "Algorithms",
       "path": "Notes/Computational Thinking/Algorithms.md"
     },
@@ -75,10 +83,6 @@
     {
       "basename": "Waves",
       "path": "Notes/Physics/Waves.md"
-    },
-    {
-      "basename": "Topic Explorer",
-      "path": "Notes/Math/Topic Explorer.md"
     },
     {
       "basename": "Support and Resistance",
@@ -195,10 +199,6 @@
     {
       "basename": "IKS Outline",
       "path": "Notes/IKS (Indian Knowledge System)/IKS Outline.md"
-    },
-    {
-      "basename": "Free Body Diagrams",
-      "path": "Notes/Physics/Mechanics/Free Body Diagrams.md"
     }
   ],
   "omittedPaths": [],
