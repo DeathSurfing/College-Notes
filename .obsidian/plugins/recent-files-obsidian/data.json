@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Unit 1",
+      "path": "Notes/Software and System Design/Unit 1.md"
+    },
+    {
       "basename": "Matricies",
       "path": "Notes/Math/Matricies.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Applied Physics Breakdown",
       "path": "Notes/Physics/Applied Physics Breakdown.md"
-    },
-    {
-      "basename": "IKS Outline",
-      "path": "Notes/IKS (Indian Knowledge System)/IKS Outline.md"
     }
   ],
   "omittedPaths": [],
