@@ -30,17 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e644f702500418d8",
-            "type": "leaf",
-            "state": {
-              "type": "swar8080/AVAILABLE_PLUGIN_UPDATES",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,7 +175,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -205,7 +197,7 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "e644f702500418d8",
+  "active": "1cedf124c7b62fc7",
   "lastOpenFiles": [
     "Screenshot 2024-09-25 at 5.03.06 PM.png",
     "Screenshot 2024-09-25 at 5.00.02 PM.png",
