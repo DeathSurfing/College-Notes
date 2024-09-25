@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Software and System Design/Unit 1.md",
+                "file": "Notes/Physics/Waves.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Software and System Design/Unit 1.md",
+                "file": "Notes/Physics/Waves.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Software and System Design/Unit 1.md",
+                "file": "Notes/Physics/Waves.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Software and System Design/Unit 1.md"
+                "file": "Notes/Physics/Waves.md"
               }
             }
           },
@@ -199,8 +199,8 @@
   },
   "active": "172fa0fd7ef696bd",
   "lastOpenFiles": [
-    "Notes/Math/Matricies.md",
     "Notes/Software and System Design/Unit 1.md",
+    "Notes/Math/Matricies.md",
     "Notes/Software and System Design",
     "Notes/Math/Sets.md",
     "Notes/IKS (Indian Knowledge System)/Vedic Philosophy.md",
