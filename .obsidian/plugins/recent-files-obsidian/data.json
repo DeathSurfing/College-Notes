@@ -1,20 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Matricies",
-      "path": "Notes/Math/Matricies.md"
-    },
-    {
       "basename": "Unit 1",
       "path": "Notes/Software and System Design/Unit 1.md"
     },
     {
-      "basename": "Waves",
-      "path": "Notes/Physics/Waves.md"
+      "basename": "Temp notes",
+      "path": "Notes/Temp notes.md"
+    },
+    {
+      "basename": "Matricies",
+      "path": "Notes/Math/Matricies.md"
     },
     {
       "basename": "Sets",
       "path": "Notes/Math/Sets.md"
+    },
+    {
+      "basename": "Medical Tourism",
+      "path": "Notes/Buisnes Ideas/Medical Tourism.md"
+    },
+    {
+      "basename": "Topic Explorer",
+      "path": "Notes/Math/Topic Explorer.md"
+    },
+    {
+      "basename": "Waves",
+      "path": "Notes/Physics/Waves.md"
     },
     {
       "basename": "Vedic Philosophy",
@@ -23,10 +35,6 @@
     {
       "basename": "Metals in India",
       "path": "Notes/IKS (Indian Knowledge System)/Metals in India.md"
-    },
-    {
-      "basename": "Topic Explorer",
-      "path": "Notes/Math/Topic Explorer.md"
     },
     {
       "basename": "Philosophy",
@@ -93,16 +101,8 @@
       "path": "Notes/Trading/Files/Support and Resistance.md"
     },
     {
-      "basename": "Temp notes",
-      "path": "Notes/Temp notes.md"
-    },
-    {
       "basename": "48 Laws of Power",
       "path": "Notes/Books/48 Laws of Power.md"
-    },
-    {
-      "basename": "Medical Tourism",
-      "path": "Notes/Buisnes Ideas/Medical Tourism.md"
     },
     {
       "basename": "JDK JRE JVM",
