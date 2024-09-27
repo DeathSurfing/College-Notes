@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Astronomy Origins",
+      "path": "Notes/IKS (Indian Knowledge System)/Astronomy Origins.md"
+    },
+    {
+      "basename": "Metals in India",
+      "path": "Notes/IKS (Indian Knowledge System)/Metals in India.md"
+    },
+    {
       "basename": "Matricies",
       "path": "Notes/Math/Matricies.md"
     },
@@ -31,10 +39,6 @@
     {
       "basename": "Vedic Philosophy",
       "path": "Notes/IKS (Indian Knowledge System)/Vedic Philosophy.md"
-    },
-    {
-      "basename": "Metals in India",
-      "path": "Notes/IKS (Indian Knowledge System)/Metals in India.md"
     },
     {
       "basename": "Philosophy",
@@ -195,10 +199,6 @@
     {
       "basename": "Topic Explorer",
       "path": "Notes/Physics/Topic Explorer.md"
-    },
-    {
-      "basename": "Applied Physics Breakdown",
-      "path": "Notes/Physics/Applied Physics Breakdown.md"
     }
   ],
   "omittedPaths": [],
