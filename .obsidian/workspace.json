@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ccb4f9f4be587a8d",
+            "id": "172fa0fd7ef696bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "172fa0fd7ef696bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Software and System Design/Unit 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Software and System Design/Unit 1.md",
+                "file": "Notes/Math/Matricies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Software and System Design/Unit 1.md",
+                "file": "Notes/Math/Matricies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Software and System Design/Unit 1.md"
+                "file": "Notes/Math/Matricies.md"
               }
             }
           },
@@ -199,8 +186,8 @@
   },
   "active": "172fa0fd7ef696bd",
   "lastOpenFiles": [
-    "Notes/Temp notes.md",
     "Notes/Software and System Design/Unit 1.md",
+    "Notes/Temp notes.md",
     "Notes/Math/Matricies.md",
     "Notes/Math/Sets.md",
     "Notes/Buisnes Ideas/Medical Tourism.md",

@@ -687,6 +687,94 @@ b_{m}
 - If $\rho(A)\not = \rho(A|B)$
 	- Then the System has no solutions
 
+## Eigen Values and Eigen Vectors
+- Eigen means proper or latent value or root in german
+
+### Eigen Values:
+- A square matrix is set to be the Eigen values of a matrix and X be a vector if it satisfies
+- $[A]_{m\times n}\ , \exists x \in R^n,\lambda\to Scaler$
+- $AX=\lambda X$
+- $AX-\lambda X=0,x \in R^n$
+- $[A-\lambda I]X=0\to Charecteristic \ equation$
+
+- $\lambda_{1},\lambda_{2}\lambda_{3}\dots\lambda_{n}\to Eigen \ Values$
+
+### Eigen Vectors:
+- Defines the direction of the eigen values 
+- $[A-\lambda I]X=0\to Charecteristic \ equation$
+- $[A_{n}-\lambda_{n}I_{n}]x_{n}=0$
+- $[A-\lambda_{k}I]x_{k}=0$
+	- $For\ k =1,2,3,4\dots k$
+
+### Properties of Eigen Values:
+
+#### Determinant of A
+$\lambda_{1}\times \lambda_{2}\times \lambda_{3}\dots \lambda_{n}=\det(A)$
+
+#### Trace of matrix A
+$\lambda_{1}+\lambda_{2}+\lambda_{3}\dots \lambda_{n}=Trace\ of\ (A)$
+
+#### A To the power of N
+$[A]^n_{m\times m}=\lambda^n$
+
+
+### Example of Eigen Values 
+
+$$A=\begin{bmatrix}
+5 & 4 \\
+1 & 2
+\end{bmatrix}$$
+$$X=\begin{bmatrix}
+1 \\
+-1
+\end{bmatrix}$$
+
+$$AX=\begin{bmatrix}
+5 & 4 \\
+1 & 2
+\end{bmatrix}\times\begin{bmatrix}
+1 \\
+-1
+\end{bmatrix}$$
+Eigen Values are $$X=\begin{bmatrix}
+1 \\
+-1
+\end{bmatrix}$$
+
+
+
+
+
+
+
+### Find the Eigen values corresponding to the Eigen vector of a matrix A
+$$A=\begin{bmatrix}
+-4 & -6 \\
+3 & 5
+\end{bmatrix}$$
+$$[A-\lambda I]=0$$
+$$\begin{bmatrix}
+-4 & -6 \\
+3 & 5
+\end{bmatrix}-\lambda\begin{bmatrix}
+1 & 0 \\
+0 & 1
+\end{bmatrix}$$
+$$\begin{bmatrix}
+-4 & -6 \\
+3 & 5
+\end{bmatrix}-\begin{bmatrix}
+\lambda & 0 \\
+0 & \lambda
+\end{bmatrix}$$
+$$\begin{bmatrix}
+-4-\lambda & -6 \\
+3 & 5-\lambda
+\end{bmatrix}$$
+$$\det(A-\lambda I)=|A-\lambda I|$$
+$$(5-\lambda)(-4-\lambda)+18$$
+$$\lambda^2-\lambda-2$$
+$$\lambda=2, \lambda=-1$$
 
 
 
