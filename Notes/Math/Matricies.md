@@ -775,8 +775,66 @@ $$\det(A-\lambda I)=|A-\lambda I|$$
 $$(5-\lambda)(-4-\lambda)+18$$
 $$\lambda^2-\lambda-2$$
 $$\lambda=2, \lambda=-1$$
+**Case 1**: For $\lambda=2$
 
+$[A-2I]X=0$
+$$A=\begin{bmatrix}
+-4-2 & -6 \\
+3 & 5-2
+\end{bmatrix}$$
+$$\begin{bmatrix}
+-6 & -6 \\
+3 & 3
+\end{bmatrix}\times\begin{bmatrix}
+x_{1} \\
+x_{2}
+\end{bmatrix}=0$$
+$-6x_{1}-6x_{2}=0$
+$3x_{1}+3x_{2}=0$
 
+$x_{1}=-x_{2}$
+$let\ x_{2}=t_{1}$
+$x_{1}=-t$
+$$V_{1}=\begin{bmatrix}
+x_{1} \\
+x_{2}
+\end{bmatrix}=\begin{bmatrix}
+-t \\
+t
+\end{bmatrix},t\in R^n$$
+
+**Case 2:** For $\lambda=-1$
+
+  
+
+$$A = \begin{bmatrix}
+
+5+1 & -6 \\
+
+3 & 7+1
+
+\end{bmatrix}$$
+$$\begin{bmatrix} 
+
+6 & -6 \\ 3 & 8 \\ \end{bmatrix}\times\begin{bmatrix}
+
+x_{1} \\ x_{2} \\ \end{bmatrix}=0$$
+$6x_1-6x_2=0$
+$3x_1+8x_2=0$
+$x_1=\frac{-4}{3}x_2$
+Let $x_2=t_2$
+$x_1=-\frac{4}{3}t_2$
+  
+
+$$V_{2} =\begin{bmatrix}
+
+x_{1} \\
+
+x_{2}
+
+\end{bmatrix}$ = $\begin{bmatrix}-\frac{4}{3}t_2\\ t_2 \end{bmatrix}, t_2 
+
+\in R^n$$
 
 
 
