@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/IKS (Indian Knowledge System)/Astronomy Origins.md",
+                "file": "Notes/Math/Matricies.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/IKS (Indian Knowledge System)/Astronomy Origins.md",
+                "file": "Notes/Math/Matricies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/IKS (Indian Knowledge System)/Astronomy Origins.md",
+                "file": "Notes/Math/Matricies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/IKS (Indian Knowledge System)/Astronomy Origins.md"
+                "file": "Notes/Math/Matricies.md"
               }
             }
           },
@@ -186,6 +186,7 @@
   },
   "active": "172fa0fd7ef696bd",
   "lastOpenFiles": [
+    "Notes/IKS (Indian Knowledge System)/Vedic Philosophy.md",
     "Notes/IKS (Indian Knowledge System)/Metals in India.md",
     "Notes/IKS (Indian Knowledge System)/Astronomy Origins.md",
     "Notes/Math/Matricies.md",
@@ -200,7 +201,6 @@
     "Screenshot 2024-09-25 at 4.43.47 PM.png",
     "Notes/Physics/Waves.md",
     "Notes/Software and System Design",
-    "Notes/IKS (Indian Knowledge System)/Vedic Philosophy.md",
     "Notes/Philosphy/Philosophy.md",
     "Notes/Philosphy/Philosophy Spaces/Phenomenology.md",
     "Notes/Philosphy/Philosophy Spaces/Epistemological Skepticism.md",
