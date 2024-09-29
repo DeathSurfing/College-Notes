@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "IOT Assignment 1",
+      "path": "Notes/IOT/IOT Assignment 1.md"
+    },
+    {
+      "basename": "Electrical Saftey",
+      "path": "Notes/IOT/Electrical Saftey.md"
+    },
+    {
       "basename": "Matricies",
       "path": "Notes/Math/Matricies.md"
     },
@@ -137,10 +145,6 @@
       "path": "Untitled.canvas"
     },
     {
-      "basename": "Electrical Saftey",
-      "path": "Notes/IOT/Electrical Saftey.md"
-    },
-    {
       "basename": "Drawing 2024-09-11 14.35.24.excalidraw",
       "path": "Excalidraw/Drawing 2024-09-11 14.35.24.excalidraw.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Forces",
       "path": "Notes/Physics/Mechanics/Forces.md"
-    },
-    {
-      "basename": "Topic Explorer",
-      "path": "Notes/Physics/Topic Explorer.md"
     }
   ],
   "omittedPaths": [],
