@@ -18,8 +18,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1ea4ea9e84521a04",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-09-30 14.57.10.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "ee9cdc903c1fe521",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Math/Matricies.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -184,11 +207,13 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "e3647347c29efbd6",
+  "active": "ec406b8edc4a3320",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-09-30 14.57.11.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-30 14.57.10.excalidraw.md",
+    "Notes/Math/Matricies.md",
     "Notes/IOT/IOT Assignment 1.md",
     "Notes/IOT/Electrical Saftey.md",
-    "Notes/Math/Matricies.md",
     "Notes/IKS (Indian Knowledge System)/Vedic Philosophy.md",
     "Notes/IKS (Indian Knowledge System)/Metals in India.md",
     "Notes/IKS (Indian Knowledge System)/Astronomy Origins.md",
@@ -215,8 +240,6 @@
     "Notes/IOT/Kirchoff's laws.md",
     "Notes/IOT/Electrical Supply.md",
     "Notes/Computational Thinking/Algorithms.md",
-    "Notes/Computational Thinking/Computational Thinking breakdown.md",
-    "Notes/Computational Thinking/Topic Explorer.md",
     "Screenshot 2024-09-17 at 3.51.46 PM.png",
     "Screenshot 2024-09-17 at 3.27.02 PM.png",
     "Sets.pdf",
