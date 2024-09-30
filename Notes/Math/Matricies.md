@@ -1075,4 +1075,25 @@ $(4A−5I)^3−4A(4A−5I)^2−4A(4A−5I)+14(4A−5I)$
 
 
 
+$R=\frac{(D_{n+p})^2-(D_{n})^2}{4p\lambda}$
 
+
+The formula we're using is:
+
+$$R = \frac{(D_{n+p})^2 - (D_n)^2}{4p\lambda}$$
+
+Substituting our values:
+
+$$R = \frac{(0.35035\text{ cm})^2 - (0.25009\text{ cm})^2}{4 \cdot 4 \cdot 5.835 \times 10^{-5}\text{ cm}}$$
+
+Simplifying:
+
+$$R = \frac{0.122745225\text{ cm}^2 - 0.062545025\text{ cm}^2}{16 \cdot 5.835 \times 10^{-5}\text{ cm}}$$
+
+Further simplification:
+
+$$R = \frac{0.0602002\text{ cm}^2}{9.336 \times 10^{-4}\text{ cm}}$$
+
+Final result:
+
+$$R \approx 64.48\text{ cm}$$
