@@ -836,5 +836,36 @@ x_{2}
 
 \in R^n$$
 
+### Algebraic multiplicity of Eigen Values
+- Eigen values are distinct $\lambda={1,2,3\dots}$
+	- Algebraic multiplicity of 
+		- $\lambda = 1; AM=1$
+		- $\lambda = 2; AM=1$
+		- $\lambda = 3; AM=1$
+
+- Eigen Values are repeated $\lambda=2,2,2$
+	- Algebraic multiplicity of 
+		- $\lambda=2;AM=3$
+
+### Geometric multiplicity of Eigen values
+- $\text{Eigen VectorFind correpsonding eigen value}$
+- $\lambda=3, (A-\lambda I)X=0,x\in R^n$
+- - $\lambda=3, (A-3I)X=0,x\in R^n$
+$$\to\begin{bmatrix}
+x_1 \\
+x_2
+\end{bmatrix}=t_1\cdot\begin{bmatrix}
+1 \\
+-1
+\end{bmatrix}+t_{2}\cdot\begin{bmatrix}
+0 \\
+1
+\end{bmatrix}$$
+Therefore, there are two vector spaces
+thus the geometric multiplicity is 2
+
+
+
+
 
 

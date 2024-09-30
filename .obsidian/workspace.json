@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/IOT/IOT Assignment 1.md",
+                "file": "Notes/Math/Matricies.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/IOT/IOT Assignment 1.md",
+                "file": "Notes/Math/Matricies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/IOT/IOT Assignment 1.md",
+                "file": "Notes/Math/Matricies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/IOT/IOT Assignment 1.md"
+                "file": "Notes/Math/Matricies.md"
               }
             }
           },
@@ -186,8 +186,8 @@
   },
   "active": "172fa0fd7ef696bd",
   "lastOpenFiles": [
-    "Notes/IOT/Electrical Saftey.md",
     "Notes/IOT/IOT Assignment 1.md",
+    "Notes/IOT/Electrical Saftey.md",
     "Notes/Math/Matricies.md",
     "Notes/IKS (Indian Knowledge System)/Vedic Philosophy.md",
     "Notes/IKS (Indian Knowledge System)/Metals in India.md",
