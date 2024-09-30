@@ -868,4 +868,123 @@ thus the geometric multiplicity is 2
 
 
 
+$$
+A=\begin{bmatrix}
+2 & 0 & 0 \\
+0 & 3 & 0 \\
+0 & 0 & 4
+\end{bmatrix}
+$$
+
+$$
+Eigen \ Values=2,3,4
+$$
+
+$\lambda=2 ;AM=1$
+$\lambda=3 ;AM=1$
+$\lambda=4 ;AM=1$
+
+
+for a diagonal matrix the geometric multiplicity is the same as a algebraic multiplicity
+
+
+### HW:
+#### Question 1:
+$$
+A=\begin{bmatrix}
+0 & 1 & 0 \\
+0 & 0 & 1 \\
+1 & -3 & 3
+\end{bmatrix}
+$$
+Find AM and GM
+
+$$
+A=\begin{bmatrix}
+1 & -3 & 3 \\
+0 & 1 & 0 \\
+0 & 0 & 1
+\end{bmatrix}
+$$
+$$
+A=\begin{bmatrix}
+1 & 0 & 0 \\
+0 & 1 & 0 \\
+0 & 0 & 1
+\end{bmatrix}
+$$
+
+$\lambda=1,1,1$
+
+$\lambda=1;AM=3$
+
+$$
+(A-\lambda I)X=0
+
+$$
+$$
+\begin{bmatrix}
+-1 & 1 & 0 \\
+0 & -1 & 1 \\
+1 & -3 & 2
+\end{bmatrix} \times\begin{bmatrix}
+x_1 \\
+x_2 \\
+x_3
+\end{bmatrix}=\begin{bmatrix}
+0 \\
+0 \\
+0
+\end{bmatrix}
+$$
+
+$x_{1}=x_{2}$
+$x_{2}=x_{3}$
+therefore ,
+$x_{1}=x_{2}=x_{3}$
+let $x_{1}=x_{2}=x_{3}=t$
+$$v_{1}=\begin{bmatrix}
+x_1 \\
+x_2 \\
+x_3
+\end{bmatrix}=\begin{bmatrix}
+t_1 \\
+t_2 \\
+t_3
+\end{bmatrix}$$
+$\lambda=1;GM=1$
+
+
+
+
+#### Question 2:
+
+Determine the algebraic multiplicities and geometric multiplicities of the following 3x3 matrix
+
+$$
+A=\begin{bmatrix}
+1 & 2 & 2 \\
+0 & 2 & 1 \\
+-1 & 2 & 2
+\end{bmatrix}
+$$
+$$
+\begin{bmatrix}
+2 & 0 & 0 \\
+0 & 2 & 0 \\
+0 & 0 & 1
+\end{bmatrix}
+$$
+$\lambda=2,2,1$
+
+$$\lambda=2:$$
+$AM=2$
+$GM=1$
+$$\lambda=1$$
+$AM=1$
+$GM=1$
+
+
+
+
 
