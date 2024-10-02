@@ -9,7 +9,7 @@ ___
 - Vedanta School
 
 
-1. Please write a short note on the Philosophy of Buddhism.
+## Please write a short note on the Philosophy of Buddhism.
 - The self
     
     Buddhists believe that the self is fluid and impermanent, and that it relies on external factors. This is known as the doctrine of non-self. 
