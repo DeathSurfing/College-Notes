@@ -1,4 +1,7 @@
 ___
+
+https://notebooklm.google.com/notebook/b7d1baf9-64a0-425f-9c74-548adbd961ee/audio
+
 ##  What is the philosophical significance of Vedanga’s philosophy regarding the orthodox school of thought?
 
 - Samakhya School
@@ -7,6 +10,7 @@ ___
 - Vaisheika School
 - Minimisa School
 - Vedanta School
+
 
 
 ## Please write a short note on the Philosophy of Buddhism.
