@@ -8,41 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "172fa0fd7ef696bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Math/Matricies.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1ea4ea9e84521a04",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-09-30 14.57.10.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "ee9cdc903c1fe521",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Math/Matricies.md",
+                "file": "Notes/IKS (Indian Knowledge System)/Assessment 1 prep.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Math/Matricies.md",
+                "file": "Notes/IKS (Indian Knowledge System)/Assessment 1 prep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Math/Matricies.md",
+                "file": "Notes/IKS (Indian Knowledge System)/Assessment 1 prep.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Math/Matricies.md"
+                "file": "Notes/IKS (Indian Knowledge System)/Assessment 1 prep.md"
               }
             }
           },
@@ -207,16 +184,17 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "e3647347c29efbd6",
+  "active": "ee9cdc903c1fe521",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-09-30 14.57.11.excalidraw.md",
-    "Excalidraw/Drawing 2024-09-30 14.57.10.excalidraw.md",
     "Notes/Math/Matricies.md",
+    "Excalidraw/Drawing 2024-09-30 14.57.10.excalidraw.md",
+    "Notes/IKS (Indian Knowledge System)/Assessment 1 prep.md",
+    "Notes/IKS (Indian Knowledge System)/Astronomy Origins.md",
+    "Notes/IKS (Indian Knowledge System)/Metals in India.md",
+    "Excalidraw/Drawing 2024-09-30 14.57.11.excalidraw.md",
     "Notes/IOT/IOT Assignment 1.md",
     "Notes/IOT/Electrical Saftey.md",
     "Notes/IKS (Indian Knowledge System)/Vedic Philosophy.md",
-    "Notes/IKS (Indian Knowledge System)/Metals in India.md",
-    "Notes/IKS (Indian Knowledge System)/Astronomy Origins.md",
     "Notes/Software and System Design/Unit 1.md",
     "Notes/Temp notes.md",
     "Notes/Math/Sets.md",
@@ -239,7 +217,6 @@
     "Notes/Philosphy/Philosophy Spaces/Existentialism.md",
     "Notes/IOT/Kirchoff's laws.md",
     "Notes/IOT/Electrical Supply.md",
-    "Notes/Computational Thinking/Algorithms.md",
     "Screenshot 2024-09-17 at 3.51.46 PM.png",
     "Screenshot 2024-09-17 at 3.27.02 PM.png",
     "Sets.pdf",
