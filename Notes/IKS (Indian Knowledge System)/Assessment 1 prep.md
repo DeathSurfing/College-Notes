@@ -11,33 +11,24 @@ ___
 
 ## Please write a short note on the Philosophy of Buddhism.
 - The self
-    
     Buddhists believe that the self is fluid and impermanent, and that it relies on external factors. This is known as the doctrine of non-self. 
     
 - Reincarnation
-    
     Buddhists believe that after death, the soul is reborn into a new form. This cycle of rebirth is called reincarnation. 
     
 - Nirvana
-    
     Buddhists believe that by following the Buddha's teachings, people can reach an enlightened state called nirvana and stop the cycle of reincarnation. Nirvana is a state of mind where the causes of rebirth and suffering have been eliminated. 
-    
-
 - The path to enlightenment
-    
     Buddhists believe that the path to enlightenment is attained through morality, meditation, and wisdom. 
-    
-
 - Karma
-    
     Buddhists believe in the law of cause and effect, known as karma. Good karma is thought to lead to rebirth in a higher form, while bad karma leads to rebirth in a lower form.
 
-|   |   |
-|---|---|
-|Dukkha|The truth of suffering, or "not being at ease". Dukkha is an innate characteristic of transient existence, and nothing is forever.|
-|Samudaya|The truth of the origin of suffering, or "cause". The Buddha taught that the root of all suffering is desire, or tanhā, which can come in the form of hate, greed, or ignorance.|
-|Nirodha|The truth of the cessation of suffering, or "ending". The Buddha taught that the way to extinguish desire is to liberate oneself from attachment.|
-|Magga|The truth of the path to the cessation of suffering, or "road". The Noble Eightfold Path is the path leading to the confinement of desire and attachment, and the release from dukkha.|
+|          |                                                                                                                                                                                        |
+| -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Dukkha   | The truth of suffering, or "not being at ease". Dukkha is an innate characteristic of transient existence, and nothing is forever.                                                     |
+| Samudaya | The truth of the origin of suffering, or "cause". The Buddha taught that the root of all suffering is desire, or tanhā, which can come in the form of hate, greed, or ignorance.       |
+| Nirodha  | The truth of the cessation of suffering, or "ending". The Buddha taught that the way to extinguish desire is to liberate oneself from attachment.                                      |
+| Magga    | The truth of the path to the cessation of suffering, or "road". The Noble Eightfold Path is the path leading to the confinement of desire and attachment, and the release from dukkha. |
 ## How did the Sufi tradition influence the social and religious fabric of medieval India?
 
 The liberal and unorthodox elements of Sufism had a profound impact on medieval Bhakti saints. In the later period, the Sufi doctrines influenced the religious perspective of the rulers along with reminding them of their moral obligations. For example, the Mughal Emperor, Akbar’s religious outlook and religious policies were shaped a lot under Sufism.
