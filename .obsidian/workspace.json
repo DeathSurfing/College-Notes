@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Computational Thinking/Data Expressions and statements (PYTHON).md",
+                "file": "Notes/Math/Matricies.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Computational Thinking/Data Expressions and statements (PYTHON).md",
+                "file": "Notes/Math/Matricies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Computational Thinking/Data Expressions and statements (PYTHON).md",
+                "file": "Notes/Math/Matricies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Computational Thinking/Data Expressions and statements (PYTHON).md"
+                "file": "Notes/Math/Matricies.md"
               }
             }
           },
@@ -202,11 +202,11 @@
   },
   "active": "0b1ae32a6470a3ff",
   "lastOpenFiles": [
+    "Notes/Computational Thinking/Data Expressions and statements (PYTHON).md",
     "Notes/Computational Thinking/Untitled.md",
     "Notes/Computational Thinking/Topic Explorer.md",
     "Notes/Computational Thinking/Algorithms.md",
     "Notes/Computational Thinking/Computational Thinking breakdown.md",
-    "Notes/Computational Thinking/Data Expressions and statements (PYTHON).md",
     "Notes/Physics/Quantum Physics.md",
     "Notes/Physics/Waves.md",
     "Notes/Physics/Applied Physics Breakdown.md",

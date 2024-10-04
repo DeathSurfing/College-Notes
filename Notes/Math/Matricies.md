@@ -1074,3 +1074,37 @@ $(4A-5I)^3-4A(4A-5I)^2+8A(4A-5I)-12A(4A-5I)+14(4A-5I)$
 $(4A−5I)^3−4A(4A−5I)^2−4A(4A−5I)+14(4A−5I)$
 
 
+### Diagonalization :
+
+- Take two similar matrices
+	- must have the same order matrix
+- Then we can generate the diagonalization between the two matrices
+TLDR Converting $A\to B$ or $B\to A$
+
+
+If it satisfies the conditions:
+- Both matrices are square matrices
+- There exists a non zero matrix
+- The linearly independent vectors can be called a modal matrix
+
+Let there be two matrices A and B and "p" (non zero Eigen vector)
+
+$AP = BP$
+$P^{-1}AP=B$
+$P^{-1}AP=D$
+
+IMPORTANT PROPERTY:
+$D^n=P^{-1}A^nP$
+$A^n=P^{-1}D^nP$
+
+
+
+
+
+
+
+
+
+
+
+
