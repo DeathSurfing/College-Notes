@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Data, Expressions and statements",
+      "path": "Notes/Computational Thinking/Data, Expressions and statements.md"
+    },
+    {
+      "basename": "Algorithms",
+      "path": "Notes/Computational Thinking/Algorithms.md"
+    },
+    {
+      "basename": "Computational Thinking breakdown",
+      "path": "Notes/Computational Thinking/Computational Thinking breakdown.md"
+    },
+    {
       "basename": "Unit 1",
       "path": "Notes/Software and System Design/Unit 1.md"
     },
@@ -15,14 +27,6 @@
     {
       "basename": "Topic Explorer",
       "path": "Notes/Computational Thinking/Topic Explorer.md"
-    },
-    {
-      "basename": "Computational Thinking breakdown",
-      "path": "Notes/Computational Thinking/Computational Thinking breakdown.md"
-    },
-    {
-      "basename": "Algorithms",
-      "path": "Notes/Computational Thinking/Algorithms.md"
     },
     {
       "basename": "Matricies",
@@ -195,10 +199,6 @@
     {
       "basename": "Screenshot 2024-09-11 at 2.31.39 PM",
       "path": "Screenshot 2024-09-11 at 2.31.39 PM.png"
-    },
-    {
-      "basename": "Drawing 2024-09-11 14.31.26.excalidraw",
-      "path": "Excalidraw/Drawing 2024-09-11 14.31.26.excalidraw.md"
     }
   ],
   "omittedPaths": [],

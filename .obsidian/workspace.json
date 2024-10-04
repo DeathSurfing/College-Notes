@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Software and System Design/Unit 1.md",
+                "file": "Notes/Computational Thinking/Data, Expressions and statements.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Software and System Design/Unit 1.md",
+                "file": "Notes/Computational Thinking/Data, Expressions and statements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Software and System Design/Unit 1.md",
+                "file": "Notes/Computational Thinking/Data, Expressions and statements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Software and System Design/Unit 1.md"
+                "file": "Notes/Computational Thinking/Data, Expressions and statements.md"
               }
             }
           },
@@ -186,11 +186,13 @@
   },
   "active": "ee9cdc903c1fe521",
   "lastOpenFiles": [
+    "Notes/Computational Thinking/Algorithms.md",
+    "Notes/Computational Thinking/Data, Expressions and statements.md",
+    "Notes/Computational Thinking/Computational Thinking breakdown.md",
+    "Notes/Software and System Design/Unit 1.md",
     "Notes/IKS (Indian Knowledge System)/Assessment 1 prep.md",
     "Notes/Computational Thinking/Untitled.md",
     "Notes/Computational Thinking/Topic Explorer.md",
-    "Notes/Computational Thinking/Computational Thinking breakdown.md",
-    "Notes/Computational Thinking/Algorithms.md",
     "Notes/Math/Matricies.md",
     "Excalidraw/Drawing 2024-09-30 14.57.10.excalidraw.md",
     "Notes/IKS (Indian Knowledge System)/Astronomy Origins.md",
@@ -199,7 +201,6 @@
     "Notes/IOT/IOT Assignment 1.md",
     "Notes/IOT/Electrical Saftey.md",
     "Notes/IKS (Indian Knowledge System)/Vedic Philosophy.md",
-    "Notes/Software and System Design/Unit 1.md",
     "Notes/Temp notes.md",
     "Notes/Math/Sets.md",
     "Notes/Buisnes Ideas/Medical Tourism.md",
@@ -216,7 +217,6 @@
     "Notes/Philosphy/Philosophy Spaces/Ontology.md",
     "Notes/Philosphy/Philosophy Spaces/Utilitarianism.md",
     "Notes/Philosphy/Philosophy Spaces/Stoicism.md",
-    "Notes/Philosphy/Philosophy Spaces/Pragmatism.md",
     "Screenshot 2024-09-17 at 3.51.46 PM.png",
     "Screenshot 2024-09-17 at 3.27.02 PM.png",
     "Sets.pdf",
