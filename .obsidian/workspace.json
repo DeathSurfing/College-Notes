@@ -11,15 +11,31 @@
             "id": "ee9cdc903c1fe521",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled 1.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
+            "id": "0b1ae32a6470a3ff",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Computational Thinking/Data, Expressions and statements.md",
+                "file": "Notes/IOT/Superpostion Theorem.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Computational Thinking/Data, Expressions and statements.md",
+                "file": "Notes/IOT/Superpostion Theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Computational Thinking/Data, Expressions and statements.md",
+                "file": "Notes/IOT/Superpostion Theorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Computational Thinking/Data, Expressions and statements.md"
+                "file": "Notes/IOT/Superpostion Theorem.md"
               }
             }
           },
@@ -184,10 +200,24 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "ee9cdc903c1fe521",
+  "active": "0b1ae32a6470a3ff",
   "lastOpenFiles": [
-    "Notes/Computational Thinking/Algorithms.md",
+    "Screenshot 2024-10-04 at 11.51.11 AM.png",
+    "Excalidraw/Drawing 2024-10-04 11.19.54.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-30 14.57.11.excalidraw.md",
+    "Excalidraw/Drawing 2023-07-23 03.21.55.excalidraw.md",
+    "Notes/IOT/Superpostion Theorem.md",
+    "Screenshot 2024-10-04 at 11.41.29 AM.png",
+    "Notes/IOT/Kirchoff's laws.md",
+    "Screenshot 2024-10-04 at 11.39.57 AM.png",
+    "Notes/IOT/Electrical Saftey.md",
+    "Notes/IOT/Electrical Supply.md",
+    "Notes/IOT/IOT Assignment 1.md",
+    "Screenshot 2024-10-04 at 11.23.19 AM.png",
+    "Untitled 1.canvas",
+    "Screenshot 2024-10-04 at 11.19.04 AM.png",
     "Notes/Computational Thinking/Data, Expressions and statements.md",
+    "Notes/Computational Thinking/Algorithms.md",
     "Notes/Computational Thinking/Computational Thinking breakdown.md",
     "Notes/Software and System Design/Unit 1.md",
     "Notes/IKS (Indian Knowledge System)/Assessment 1 prep.md",
@@ -197,9 +227,6 @@
     "Excalidraw/Drawing 2024-09-30 14.57.10.excalidraw.md",
     "Notes/IKS (Indian Knowledge System)/Astronomy Origins.md",
     "Notes/IKS (Indian Knowledge System)/Metals in India.md",
-    "Excalidraw/Drawing 2024-09-30 14.57.11.excalidraw.md",
-    "Notes/IOT/IOT Assignment 1.md",
-    "Notes/IOT/Electrical Saftey.md",
     "Notes/IKS (Indian Knowledge System)/Vedic Philosophy.md",
     "Notes/Temp notes.md",
     "Notes/Math/Sets.md",
@@ -211,19 +238,9 @@
     "Screenshot 2024-09-25 at 4.43.47 PM.png",
     "Notes/Physics/Waves.md",
     "Notes/Software and System Design",
-    "Notes/Philosphy/Philosophy.md",
-    "Notes/Philosphy/Philosophy Spaces/Phenomenology.md",
-    "Notes/Philosphy/Philosophy Spaces/Epistemological Skepticism.md",
-    "Notes/Philosphy/Philosophy Spaces/Ontology.md",
-    "Notes/Philosphy/Philosophy Spaces/Utilitarianism.md",
-    "Notes/Philosphy/Philosophy Spaces/Stoicism.md",
     "Screenshot 2024-09-17 at 3.51.46 PM.png",
     "Screenshot 2024-09-17 at 3.27.02 PM.png",
     "Sets.pdf",
-    "Screenshot 2024-09-11 at 2.43.34 PM.png",
-    "Screenshot 2024-09-11 at 2.40.56 PM.png",
-    "Screenshot 2024-09-11 at 2.38.51 PM.png",
-    "Screenshot 2024-09-11 at 2.36.15 PM.png",
     "Notes/Content generation",
     "Notes/JEE PREP/Math",
     "Notes/JEE PREP",
@@ -232,7 +249,6 @@
     "Notes/Trading",
     "Notes/Physics/Mechanics/Topic 2.1",
     "Notes/Physics/Mechanics",
-    "Notes/Physics",
-    "Untitled 1.canvas"
+    "Notes/Physics"
   ]
 }
