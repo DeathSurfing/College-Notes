@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/IKS (Indian Knowledge System)/Assessment 1 prep.md",
+                "file": "Notes/Software and System Design/Unit 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/IKS (Indian Knowledge System)/Assessment 1 prep.md",
+                "file": "Notes/Software and System Design/Unit 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/IKS (Indian Knowledge System)/Assessment 1 prep.md",
+                "file": "Notes/Software and System Design/Unit 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/IKS (Indian Knowledge System)/Assessment 1 prep.md"
+                "file": "Notes/Software and System Design/Unit 1.md"
               }
             }
           },
@@ -186,11 +186,11 @@
   },
   "active": "ee9cdc903c1fe521",
   "lastOpenFiles": [
+    "Notes/IKS (Indian Knowledge System)/Assessment 1 prep.md",
     "Notes/Computational Thinking/Untitled.md",
     "Notes/Computational Thinking/Topic Explorer.md",
     "Notes/Computational Thinking/Computational Thinking breakdown.md",
     "Notes/Computational Thinking/Algorithms.md",
-    "Notes/IKS (Indian Knowledge System)/Assessment 1 prep.md",
     "Notes/Math/Matricies.md",
     "Excalidraw/Drawing 2024-09-30 14.57.10.excalidraw.md",
     "Notes/IKS (Indian Knowledge System)/Astronomy Origins.md",
