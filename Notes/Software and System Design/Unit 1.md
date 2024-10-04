@@ -94,5 +94,3 @@ Modules should have:
 #### Coupling:
 - The amount of dependencies a module has with another 
 
-
-##
