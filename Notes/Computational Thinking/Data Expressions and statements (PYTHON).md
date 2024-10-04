@@ -38,6 +38,17 @@ print(keyword.kwlist)
 - Logical operator words (and , or, not)
 
 ## Input and output
+Using Input() Function reads user input as a string:
+
+```py
+name = input("What is your Name?")
+```
+- Type Conversion: Type casting to convert input to other types
+
+```py
+age=int(input("Enter your age: "))
+```
+
 
 ## Comments 
 
