@@ -49,8 +49,32 @@ name = input("What is your Name?")
 age=int(input("Enter your age: "))
 ```
 
+Formatted output: use f-strings or format() for displaying variables 
+```py
+name = "Alice"
+
+score=95
+
+print(f"Student {name} Scored {score}in the exam")
+```
+
 
 ## Comments 
+
+
+Single line comments : 
+```py
+# This is a comment
+```
+
+Multi Line Comments:
+```py
+""" This is a multi line
+Comment and can span multiple
+lines
+"""
+```
+
 
 ## Docstring
 
