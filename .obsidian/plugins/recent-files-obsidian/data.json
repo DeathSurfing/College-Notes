@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Quantum Physics",
+      "path": "Notes/Physics/Quantum Physics.md"
+    },
+    {
+      "basename": "Waves",
+      "path": "Notes/Physics/Waves.md"
+    },
+    {
+      "basename": "Applied Physics Breakdown",
+      "path": "Notes/Physics/Applied Physics Breakdown.md"
+    },
+    {
+      "basename": "Topic Explorer",
+      "path": "Notes/Physics/Topic Explorer.md"
+    },
+    {
       "basename": "Superpostion Theorem",
       "path": "Notes/IOT/Superpostion Theorem.md"
     },
@@ -101,10 +117,6 @@
       "path": "Notes/Math/Topic Explorer.md"
     },
     {
-      "basename": "Waves",
-      "path": "Notes/Physics/Waves.md"
-    },
-    {
       "basename": "Philosophy",
       "path": "Notes/Philosphy/Philosophy.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Screenshot 2024-09-11 at 2.34.20 PM",
       "path": "Screenshot 2024-09-11 at 2.34.20 PM.png"
-    },
-    {
-      "basename": "Drawing 2024-09-11 14.32.48.excalidraw",
-      "path": "Excalidraw/Drawing 2024-09-11 14.32.48.excalidraw.md"
-    },
-    {
-      "basename": "Drawing 2023-07-23 03.49.00.excalidraw",
-      "path": "Excalidraw/Drawing 2023-07-23 03.49.00.excalidraw.md"
-    },
-    {
-      "basename": "Screenshot 2024-02-28 at 4.07.51 PM",
-      "path": "Screenshot 2024-02-28 at 4.07.51 PM.png"
     }
   ],
   "omittedPaths": [],

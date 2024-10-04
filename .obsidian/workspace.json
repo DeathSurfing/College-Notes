@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/IOT/Superpostion Theorem.md",
+                "file": "Notes/Physics/Quantum Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/IOT/Superpostion Theorem.md",
+                "file": "Notes/Physics/Quantum Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/IOT/Superpostion Theorem.md",
+                "file": "Notes/Physics/Quantum Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/IOT/Superpostion Theorem.md"
+                "file": "Notes/Physics/Quantum Physics.md"
               }
             }
           },
@@ -202,9 +202,13 @@
   },
   "active": "0b1ae32a6470a3ff",
   "lastOpenFiles": [
+    "Notes/Physics/Waves.md",
+    "Notes/Physics/Quantum Physics.md",
+    "Notes/Physics/Applied Physics Breakdown.md",
+    "Notes/Physics/Topic Explorer.md",
+    "Notes/IOT/Superpostion Theorem.md",
     "Screenshot 2024-10-04 at 12.04.05 PM.png",
     "Excalidraw/Drawing 2024-10-04 11.19.54.excalidraw.md",
-    "Notes/IOT/Superpostion Theorem.md",
     "Screenshot 2024-10-04 at 12.00.57 PM.png",
     "Screenshot 2024-10-04 at 12.00.29 PM.png",
     "Screenshot 2024-10-04 at 11.58.41 AM.png",
@@ -234,11 +238,7 @@
     "Notes/IKS (Indian Knowledge System)/Vedic Philosophy.md",
     "Notes/Temp notes.md",
     "Notes/Math/Sets.md",
-    "Notes/Buisnes Ideas/Medical Tourism.md",
-    "Notes/Math/Topic Explorer.md",
     "Screenshot 2024-09-25 at 5.03.06 PM.png",
-    "Screenshot 2024-09-25 at 5.00.02 PM.png",
-    "Notes/Physics/Waves.md",
     "Notes/Software and System Design",
     "Sets.pdf",
     "Notes/Content generation",
