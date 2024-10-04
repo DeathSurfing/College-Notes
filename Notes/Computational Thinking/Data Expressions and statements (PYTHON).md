@@ -8,6 +8,13 @@ A Python interpreter is a computer program that translates Python code into mach
 - IronPython
 - JyThon
 ## Values, and data types
+- Python figures out variable types on it's own; it doesn't require explicit types and inferences types from it.
+
+Naming Rules:
+- Must start with a letter or underscore
+- Can contain letters, numbers and underscores
+- Case-sensitive
+- (PREFERIBLE CAMLECASE)
 
 ## Variables
 
