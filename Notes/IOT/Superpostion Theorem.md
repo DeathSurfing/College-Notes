@@ -1,5 +1,5 @@
 ___
-
+## Question 1:
 ![[Screenshot 2024-10-04 at 11.23.19 AM.png]]
 - Can only be applied on 2 source (Voltage , current) are required
 
@@ -27,3 +27,22 @@ $Total\ Current=I^{'}+I^{''}$
 $I=0.38+0.69$
 $I=1.07A$
 
+
+
+## Question 2:
+![[Screenshot 2024-10-04 at 11.58.41 AM.png]]
+
+- Step 1 Consider 8V:
+	- ![[Screenshot 2024-10-04 at 12.00.29 PM.png]]
+	- ![[Screenshot 2024-10-04 at 12.00.57 PM.png]]
+	- $I_{s}=\frac{V}{R_{eq}}$
+	- $R_{eq}=3+4=7\Omega$
+	- $I^{'}=\frac{V}{R_{eq}}=\frac{8}{7}=1.14A$
+
+- Step 2 Consider 6 A Source:
+	- ![[Screenshot 2024-10-04 at 12.04.05 PM.png]]
+	- $I^{''}=\frac{6\times 3}{3+4}=\frac{18}{7}=2.57A$
+
+$I =I^{'}+I^{''}$
+$I=1.14+2.57$
+$I=3.71A$$
