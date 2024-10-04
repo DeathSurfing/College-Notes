@@ -16,15 +16,26 @@ Naming Rules:
 - Case-sensitive
 - (PREFERIBLE CAMLECASE)
 
+
+
+
 ## Variables
 
+
 ## Keywords
+### The function that gives complete list of all keywords in python
+```py
+import keyword
+print(keyword.kwlist)
+```
+
 
 ## Identifiers
 
-## Statements
-
-## Expressions
+## Statements & Expressions
+- For Numbers + - * / %
+- Special use case for + for string concatenation and % for formating
+- Logical operator words (and , or, not)
 
 ## Input and output
 
