@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Physics/Quantum Physics.md",
+                "file": "Notes/Computational Thinking/Data Expressions and statements (PYTHON).md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Physics/Quantum Physics.md",
+                "file": "Notes/Computational Thinking/Data Expressions and statements (PYTHON).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Physics/Quantum Physics.md",
+                "file": "Notes/Computational Thinking/Data Expressions and statements (PYTHON).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Physics/Quantum Physics.md"
+                "file": "Notes/Computational Thinking/Data Expressions and statements (PYTHON).md"
               }
             }
           },
@@ -202,8 +202,13 @@
   },
   "active": "0b1ae32a6470a3ff",
   "lastOpenFiles": [
-    "Notes/Physics/Waves.md",
+    "Notes/Computational Thinking/Topic Explorer.md",
+    "Notes/Computational Thinking/Data Expressions and statements (PYTHON).md",
+    "Notes/Computational Thinking/Algorithms.md",
+    "Notes/Computational Thinking/Computational Thinking breakdown.md",
+    "Notes/Computational Thinking/Untitled.md",
     "Notes/Physics/Quantum Physics.md",
+    "Notes/Physics/Waves.md",
     "Notes/Physics/Applied Physics Breakdown.md",
     "Notes/Physics/Topic Explorer.md",
     "Notes/IOT/Superpostion Theorem.md",
@@ -224,13 +229,8 @@
     "Screenshot 2024-10-04 at 11.23.19 AM.png",
     "Untitled 1.canvas",
     "Screenshot 2024-10-04 at 11.19.04 AM.png",
-    "Notes/Computational Thinking/Data, Expressions and statements.md",
-    "Notes/Computational Thinking/Algorithms.md",
-    "Notes/Computational Thinking/Computational Thinking breakdown.md",
     "Notes/Software and System Design/Unit 1.md",
     "Notes/IKS (Indian Knowledge System)/Assessment 1 prep.md",
-    "Notes/Computational Thinking/Untitled.md",
-    "Notes/Computational Thinking/Topic Explorer.md",
     "Notes/Math/Matricies.md",
     "Excalidraw/Drawing 2024-09-30 14.57.10.excalidraw.md",
     "Notes/IKS (Indian Knowledge System)/Astronomy Origins.md",
