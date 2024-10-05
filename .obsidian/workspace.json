@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Notes/Math/Matricies/Cayley-Hamilton Theorem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "58e8ea50537b8ca6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Notes/Math/Matricies.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,11 +197,12 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "e3647347c29efbd6",
+  "active": "58e8ea50537b8ca6",
   "lastOpenFiles": [
-    "Notes/Math/Sets.md",
+    "Notes/Math/Matricies/Diagonalization.md",
     "Notes/Math/Matricies.md",
     "Notes/Math/Matricies/Cayley-Hamilton Theorem.md",
+    "Notes/Math/Sets.md",
     "Notes/Math/Matricies/Who discovered the matrix.md",
     "Notes/Math/Matricies",
     "Notes/Math/Matricies/Eigen Values and Eigen Vectors.md",
@@ -212,7 +226,6 @@
     "Excalidraw/Drawing 2024-09-30 14.57.10.excalidraw.md",
     "Excalidraw/Drawing 2024-09-11 14.35.24.excalidraw.md",
     "Excalidraw/Drawing 2024-09-11 14.32.48.excalidraw.md",
-    "Excalidraw/Drawing 2024-09-11 14.31.26.excalidraw.md",
     "Untitled.canvas",
     "Sets.pdf",
     "Screenshots/Screenshot 2024-02-28 at 4.07.51 PM.png",

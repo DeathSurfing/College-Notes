@@ -5,12 +5,16 @@
       "path": "Notes/Math/Matricies.md"
     },
     {
-      "basename": "Sets",
-      "path": "Notes/Math/Sets.md"
+      "basename": "Diagonalization",
+      "path": "Notes/Math/Matricies/Diagonalization.md"
     },
     {
       "basename": "Cayley-Hamilton Theorem",
       "path": "Notes/Math/Matricies/Cayley-Hamilton Theorem.md"
+    },
+    {
+      "basename": "Sets",
+      "path": "Notes/Math/Sets.md"
     },
     {
       "basename": "Who discovered the matrix",
@@ -195,10 +199,6 @@
     {
       "basename": "Interesting GSOC Companies",
       "path": "Notes/Coding stuff/Interesting GSOC Companies.md"
-    },
-    {
-      "basename": "Coding Project Ideas",
-      "path": "Notes/Coding stuff/Coding Project Ideas.md"
     }
   ],
   "omittedPaths": [],
