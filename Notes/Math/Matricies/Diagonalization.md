@@ -23,12 +23,14 @@ $A^n=P^{-1}D^nP$
 
 
 #### Find a matrix "p" which Diagonalizes it matrix
+
 $$
 A=\begin{bmatrix}
 4 & 1 \\
 2 & 3
 \end{bmatrix}
-$$, Verify that $D=P^{-1}AP$, Where D is a diagonal matrix . Hence find $A^6$
+$$ 
+Verify that $D=P^{-1}AP$, Where D is a diagonal matrix . Hence find $A^6$
 
 
 ##### Eigen values:
