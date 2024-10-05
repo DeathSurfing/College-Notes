@@ -5,6 +5,54 @@
       "path": "Notes/Math/Matricies.md"
     },
     {
+      "basename": "Sets",
+      "path": "Notes/Math/Sets.md"
+    },
+    {
+      "basename": "Cayley-Hamilton Theorem",
+      "path": "Notes/Math/Matricies/Cayley-Hamilton Theorem.md"
+    },
+    {
+      "basename": "Who discovered the matrix",
+      "path": "Notes/Math/Matricies/Who discovered the matrix.md"
+    },
+    {
+      "basename": "Drawing 2024-10-04 11.19.54.excalidraw",
+      "path": "Excalidraw/Drawing 2024-10-04 11.19.54.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2024-09-30 14.57.11.excalidraw",
+      "path": "Excalidraw/Drawing 2024-09-30 14.57.11.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2024-09-30 14.57.10.excalidraw",
+      "path": "Excalidraw/Drawing 2024-09-30 14.57.10.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2024-09-11 14.35.24.excalidraw",
+      "path": "Excalidraw/Drawing 2024-09-11 14.35.24.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2024-09-11 14.32.48.excalidraw",
+      "path": "Excalidraw/Drawing 2024-09-11 14.32.48.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2024-09-11 14.31.26.excalidraw",
+      "path": "Excalidraw/Drawing 2024-09-11 14.31.26.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2024-09-11 14.24.06.excalidraw",
+      "path": "Excalidraw/Drawing 2024-09-11 14.24.06.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2024-09-10 15.02.28.excalidraw",
+      "path": "Excalidraw/Drawing 2024-09-10 15.02.28.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2023-07-23 03.49.00.excalidraw",
+      "path": "Excalidraw/Drawing 2023-07-23 03.49.00.excalidraw.md"
+    },
+    {
       "basename": "Superpostion Theorem",
       "path": "Notes/IOT/Superpostion Theorem.md"
     },
@@ -23,10 +71,6 @@
     {
       "basename": "Electrical Saftey",
       "path": "Notes/IOT/Electrical Saftey.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled.canvas"
     },
     {
       "basename": "Screenshot 2024-02-28 at 4.07.51 PM",
@@ -69,32 +113,12 @@
       "path": "Notes/Physics/Topic Explorer.md"
     },
     {
-      "basename": "Drawing 2024-10-04 11.19.54.excalidraw",
-      "path": "Excalidraw/Drawing 2024-10-04 11.19.54.excalidraw.md"
-    },
-    {
-      "basename": "Drawing 2023-07-23 03.21.55.excalidraw",
-      "path": "Excalidraw/Drawing 2023-07-23 03.21.55.excalidraw.md"
-    },
-    {
-      "basename": "Drawing 2024-09-30 14.57.11.excalidraw",
-      "path": "Excalidraw/Drawing 2024-09-30 14.57.11.excalidraw.md"
-    },
-    {
-      "basename": "Untitled 1",
-      "path": "Untitled 1.canvas"
-    },
-    {
       "basename": "Unit 1",
       "path": "Notes/Software and System Design/Unit 1.md"
     },
     {
       "basename": "Assessment 1 prep",
       "path": "Notes/IKS (Indian Knowledge System)/Assessment 1 prep.md"
-    },
-    {
-      "basename": "Drawing 2024-09-30 14.57.10.excalidraw",
-      "path": "Excalidraw/Drawing 2024-09-30 14.57.10.excalidraw.md"
     },
     {
       "basename": "Astronomy Origins",
@@ -111,10 +135,6 @@
     {
       "basename": "Temp notes",
       "path": "Notes/Temp notes.md"
-    },
-    {
-      "basename": "Sets",
-      "path": "Notes/Math/Sets.md"
     },
     {
       "basename": "Medical Tourism",
@@ -179,22 +199,6 @@
     {
       "basename": "Coding Project Ideas",
       "path": "Notes/Coding stuff/Coding Project Ideas.md"
-    },
-    {
-      "basename": "JVM",
-      "path": "Notes/Coding stuff/JDK JRE JVM/JVM.md"
-    },
-    {
-      "basename": "JRE",
-      "path": "Notes/Coding stuff/JDK JRE JVM/JRE.md"
-    },
-    {
-      "basename": "JDK",
-      "path": "Notes/Coding stuff/JDK JRE JVM/JDK.md"
-    },
-    {
-      "basename": "Drawing 2024-09-11 14.35.24.excalidraw",
-      "path": "Excalidraw/Drawing 2024-09-11 14.35.24.excalidraw.md"
     }
   ],
   "omittedPaths": [],
