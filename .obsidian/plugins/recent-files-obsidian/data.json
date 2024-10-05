@@ -5,6 +5,14 @@
       "path": "Notes/Math/Matricies.md"
     },
     {
+      "basename": "Sets",
+      "path": "Notes/Math/Sets.md"
+    },
+    {
+      "basename": "Topic Explorer",
+      "path": "Notes/Math/Topic Explorer.md"
+    },
+    {
       "basename": "Some other types of matrices",
       "path": "Notes/Math/Matricies/Some other types of matrices.md"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "Cayley-Hamilton Theorem",
       "path": "Notes/Math/Matricies/Cayley-Hamilton Theorem.md"
-    },
-    {
-      "basename": "Sets",
-      "path": "Notes/Math/Sets.md"
     },
     {
       "basename": "Who discovered the matrix",
@@ -155,10 +159,6 @@
     {
       "basename": "Medical Tourism",
       "path": "Notes/Buisnes Ideas/Medical Tourism.md"
-    },
-    {
-      "basename": "Topic Explorer",
-      "path": "Notes/Math/Topic Explorer.md"
     },
     {
       "basename": "Philosophy",
