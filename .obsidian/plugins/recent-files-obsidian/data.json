@@ -5,6 +5,34 @@
       "path": "Notes/Math/Matricies.md"
     },
     {
+      "basename": "Superpostion Theorem",
+      "path": "Notes/IOT/Superpostion Theorem.md"
+    },
+    {
+      "basename": "Kirchoff's laws",
+      "path": "Notes/IOT/Kirchoff's laws.md"
+    },
+    {
+      "basename": "IOT Assignment 1",
+      "path": "Notes/IOT/IOT Assignment 1.md"
+    },
+    {
+      "basename": "Electrical Supply",
+      "path": "Notes/IOT/Electrical Supply.md"
+    },
+    {
+      "basename": "Electrical Saftey",
+      "path": "Notes/IOT/Electrical Saftey.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.canvas"
+    },
+    {
+      "basename": "Screenshot 2024-02-28 at 4.07.51 PM",
+      "path": "Screenshots/Screenshot 2024-02-28 at 4.07.51 PM.png"
+    },
+    {
       "basename": "Data Expressions and statements (PYTHON)",
       "path": "Notes/Computational Thinking/Data Expressions and statements (PYTHON).md"
     },
@@ -41,36 +69,16 @@
       "path": "Notes/Physics/Topic Explorer.md"
     },
     {
-      "basename": "Superpostion Theorem",
-      "path": "Notes/IOT/Superpostion Theorem.md"
-    },
-    {
       "basename": "Drawing 2024-10-04 11.19.54.excalidraw",
       "path": "Excalidraw/Drawing 2024-10-04 11.19.54.excalidraw.md"
-    },
-    {
-      "basename": "Kirchoff's laws",
-      "path": "Notes/IOT/Kirchoff's laws.md"
     },
     {
       "basename": "Drawing 2023-07-23 03.21.55.excalidraw",
       "path": "Excalidraw/Drawing 2023-07-23 03.21.55.excalidraw.md"
     },
     {
-      "basename": "IOT Assignment 1",
-      "path": "Notes/IOT/IOT Assignment 1.md"
-    },
-    {
       "basename": "Drawing 2024-09-30 14.57.11.excalidraw",
       "path": "Excalidraw/Drawing 2024-09-30 14.57.11.excalidraw.md"
-    },
-    {
-      "basename": "Electrical Saftey",
-      "path": "Notes/IOT/Electrical Saftey.md"
-    },
-    {
-      "basename": "Electrical Supply",
-      "path": "Notes/IOT/Electrical Supply.md"
     },
     {
       "basename": "Untitled 1",
@@ -185,20 +193,8 @@
       "path": "Notes/Coding stuff/JDK JRE JVM/JDK.md"
     },
     {
-      "basename": "Untitled",
-      "path": "Untitled.canvas"
-    },
-    {
       "basename": "Drawing 2024-09-11 14.35.24.excalidraw",
       "path": "Excalidraw/Drawing 2024-09-11 14.35.24.excalidraw.md"
-    },
-    {
-      "basename": "Screenshot 2024-02-28 at 4.08.16 PM",
-      "path": "Screenshot 2024-02-28 at 4.08.16 PM.png"
-    },
-    {
-      "basename": "Screenshot 2024-09-11 at 2.34.20 PM",
-      "path": "Screenshot 2024-09-11 at 2.34.20 PM.png"
     }
   ],
   "omittedPaths": [],
