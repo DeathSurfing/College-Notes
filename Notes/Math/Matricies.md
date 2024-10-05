@@ -10,9 +10,9 @@ ___
 
 [[Types of matrices]]
 
-[[Homework How to use of QR code by the use of matrices]]
-
 [[Some other types of matrices]]
+
+[[Homework How to use of QR code by the use of matrices]]
 
 [[Elementary Operations]]
 

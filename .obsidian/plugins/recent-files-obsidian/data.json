@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Row Operations Homework",
-      "path": "Notes/Math/Matricies/Row Operations Homework.md"
-    },
-    {
       "basename": "Matricies",
       "path": "Notes/Math/Matricies.md"
+    },
+    {
+      "basename": "Some other types of matrices",
+      "path": "Notes/Math/Matricies/Some other types of matrices.md"
+    },
+    {
+      "basename": "Elementary Operations",
+      "path": "Notes/Math/Matricies/Elementary Operations.md"
+    },
+    {
+      "basename": "Row Operations Homework",
+      "path": "Notes/Math/Matricies/Row Operations Homework.md"
     },
     {
       "basename": "Diagonalization",
@@ -191,14 +199,6 @@
     {
       "basename": "Support and Resistance",
       "path": "Notes/Trading/Files/Support and Resistance.md"
-    },
-    {
-      "basename": "48 Laws of Power",
-      "path": "Notes/Books/48 Laws of Power.md"
-    },
-    {
-      "basename": "JDK JRE JVM",
-      "path": "Notes/Coding stuff/JDK JRE JVM.md"
     }
   ],
   "omittedPaths": [],
