@@ -5,17 +5,18 @@ ___
 [[What is a matrix]]
 
 [[Example of a matrix]]
+
 [[Order of matrix]]
 
 [[Types of matrices]]
 
 [[Homework How to use of QR code by the use of matrices]]
 
-
 [[Some other types of matrices]]
+
 [[Elementary Operations]]
 
-[[Homework]]
+[[Row Operations Homework]]
 
 [[Determinant of a matrix]]
 

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Row Operations Homework",
+      "path": "Notes/Math/Matricies/Row Operations Homework.md"
+    },
+    {
       "basename": "Matricies",
       "path": "Notes/Math/Matricies.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "JDK JRE JVM",
       "path": "Notes/Coding stuff/JDK JRE JVM.md"
-    },
-    {
-      "basename": "Interesting GSOC Companies",
-      "path": "Notes/Coding stuff/Interesting GSOC Companies.md"
     }
   ],
   "omittedPaths": [],
