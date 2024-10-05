@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dd72b4f14f0dc7fc",
+        "id": "e0ac76cbcfa472e8",
         "type": "tabs",
         "children": [
           {
-            "id": "0b1ae32a6470a3ff",
+            "id": "0cbf05b20c43f543",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "58e8ea50537b8ca6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Math/Matricies/Diagonalization.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Math/Matricies/Diagonalization.md",
+                "file": "Notes/Math/Matricies/Cayley-Hamilton Theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Math/Matricies/Diagonalization.md",
+                "file": "Notes/Math/Matricies/Cayley-Hamilton Theorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Math/Matricies/Diagonalization.md"
+                "file": "Notes/Math/Matricies/Cayley-Hamilton Theorem.md"
               }
             }
           },
@@ -197,18 +184,22 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "58e8ea50537b8ca6",
+  "active": "0cbf05b20c43f543",
   "lastOpenFiles": [
-    "Notes/Math/Matricies.md",
     "Notes/Math/Matricies/Dependent system of equation.md",
-    "Notes/Math/Matricies/Cayley-Hamilton Theorem.md",
+    "Notes/IOT/Superpostion Theorem.md",
+    "Notes/IOT/Electrical Supply.md",
+    "Notes/IOT/Electrical Saftey.md",
     "Notes/Math/Sets.md",
+    "Notes/Math/Matricies/Types of matrices.md",
+    "Notes/Math/Matricies.md",
+    "Notes/Math/Matricies/Who discovered the matrix.md",
+    "Notes/Math/Matricies/Cayley-Hamilton Theorem.md",
+    "Notes/Math/Matricies/Diagonalization.md",
     "Notes/Math/Topic Explorer.md",
     "Notes/Math/Matricies/Some other types of matrices.md",
     "Notes/Math/Matricies/Elementary Operations.md",
     "Notes/Math/Matricies/Row Operations Homework.md",
-    "Notes/Math/Matricies/Diagonalization.md",
-    "Notes/Math/Matricies/Who discovered the matrix.md",
     "Notes/Math/Matricies",
     "Notes/Math/Matricies/Eigen Values and Eigen Vectors.md",
     "Notes/Math/Matricies/To find the rank of a matrix and a augmented matrix.md",
@@ -218,14 +209,10 @@
     "Notes/Math/Matricies/Rank of a matrix.md",
     "Notes/Math/Matricies/Determinant of a matrix.md",
     "Notes/Math/Matricies/Homework How to use of QR code by the use of matrices.md",
-    "Notes/Math/Matricies/Types of matrices.md",
     "Notes/Math/Matricies/Order of matrix.md",
     "Notes/Math/Matricies/Example of a matrix.md",
     "Notes/Math/Matricies/What is a matrix.md",
     "Excalidraw/Drawing 2024-10-04 11.19.54.excalidraw.md",
-    "Excalidraw/Drawing 2024-09-30 14.57.11.excalidraw.md",
-    "Excalidraw/Drawing 2024-09-30 14.57.10.excalidraw.md",
-    "Excalidraw/Drawing 2024-09-11 14.35.24.excalidraw.md",
     "Untitled.canvas",
     "Sets.pdf",
     "Screenshots/Screenshot 2024-02-28 at 4.07.51 PM.png",

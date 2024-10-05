@@ -1,24 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "Diagonalization",
-      "path": "Notes/Math/Matricies/Diagonalization.md"
-    },
-    {
-      "basename": "Matricies",
-      "path": "Notes/Math/Matricies.md"
+      "basename": "Cayley-Hamilton Theorem",
+      "path": "Notes/Math/Matricies/Cayley-Hamilton Theorem.md"
     },
     {
       "basename": "Dependent system of equation",
       "path": "Notes/Math/Matricies/Dependent system of equation.md"
     },
     {
-      "basename": "Cayley-Hamilton Theorem",
-      "path": "Notes/Math/Matricies/Cayley-Hamilton Theorem.md"
+      "basename": "Superpostion Theorem",
+      "path": "Notes/IOT/Superpostion Theorem.md"
+    },
+    {
+      "basename": "Electrical Supply",
+      "path": "Notes/IOT/Electrical Supply.md"
+    },
+    {
+      "basename": "Electrical Saftey",
+      "path": "Notes/IOT/Electrical Saftey.md"
     },
     {
       "basename": "Sets",
       "path": "Notes/Math/Sets.md"
+    },
+    {
+      "basename": "Types of matrices",
+      "path": "Notes/Math/Matricies/Types of matrices.md"
+    },
+    {
+      "basename": "Matricies",
+      "path": "Notes/Math/Matricies.md"
+    },
+    {
+      "basename": "Who discovered the matrix",
+      "path": "Notes/Math/Matricies/Who discovered the matrix.md"
+    },
+    {
+      "basename": "Diagonalization",
+      "path": "Notes/Math/Matricies/Diagonalization.md"
     },
     {
       "basename": "Topic Explorer",
@@ -35,10 +55,6 @@
     {
       "basename": "Row Operations Homework",
       "path": "Notes/Math/Matricies/Row Operations Homework.md"
-    },
-    {
-      "basename": "Who discovered the matrix",
-      "path": "Notes/Math/Matricies/Who discovered the matrix.md"
     },
     {
       "basename": "Drawing 2024-10-04 11.19.54.excalidraw",
@@ -77,24 +93,12 @@
       "path": "Excalidraw/Drawing 2023-07-23 03.49.00.excalidraw.md"
     },
     {
-      "basename": "Superpostion Theorem",
-      "path": "Notes/IOT/Superpostion Theorem.md"
-    },
-    {
       "basename": "Kirchoff's laws",
       "path": "Notes/IOT/Kirchoff's laws.md"
     },
     {
       "basename": "IOT Assignment 1",
       "path": "Notes/IOT/IOT Assignment 1.md"
-    },
-    {
-      "basename": "Electrical Supply",
-      "path": "Notes/IOT/Electrical Supply.md"
-    },
-    {
-      "basename": "Electrical Saftey",
-      "path": "Notes/IOT/Electrical Saftey.md"
     },
     {
       "basename": "Screenshot 2024-02-28 at 4.07.51 PM",
@@ -195,10 +199,6 @@
     {
       "basename": "Moral Relativism",
       "path": "Notes/Philosphy/Philosophy Spaces/Moral Relativism.md"
-    },
-    {
-      "basename": "Existentialism",
-      "path": "Notes/Philosphy/Philosophy Spaces/Existentialism.md"
     }
   ],
   "omittedPaths": [],
