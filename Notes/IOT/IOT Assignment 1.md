@@ -102,4 +102,3 @@ $$I_{V1} = \frac{12V}{R_1 + R_2} = \frac{12}{5 + 2} = \frac{12}{7} = 1.71A$$
 Current through $5\Omega$ resistor = 1.286A
 
 
-
