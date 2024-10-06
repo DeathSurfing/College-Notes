@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Math/Matricies/Cayley-Hamilton Theorem.md",
+                "file": "Notes/IOT/IOT Assignment 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Math/Matricies/Cayley-Hamilton Theorem.md",
+                "file": "Notes/IOT/IOT Assignment 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Math/Matricies/Cayley-Hamilton Theorem.md",
+                "file": "Notes/IOT/IOT Assignment 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Math/Matricies/Cayley-Hamilton Theorem.md"
+                "file": "Notes/IOT/IOT Assignment 1.md"
               }
             }
           },
@@ -186,6 +186,7 @@
   },
   "active": "0cbf05b20c43f543",
   "lastOpenFiles": [
+    "Notes/Math/Matricies/Cayley-Hamilton Theorem.md",
     "Notes/Math/Matricies/Dependent system of equation.md",
     "Notes/IOT/Superpostion Theorem.md",
     "Notes/IOT/Electrical Supply.md",
@@ -194,7 +195,6 @@
     "Notes/Math/Matricies/Types of matrices.md",
     "Notes/Math/Matricies.md",
     "Notes/Math/Matricies/Who discovered the matrix.md",
-    "Notes/Math/Matricies/Cayley-Hamilton Theorem.md",
     "Notes/Math/Matricies/Diagonalization.md",
     "Notes/Math/Topic Explorer.md",
     "Notes/Math/Matricies/Some other types of matrices.md",

@@ -95,7 +95,11 @@ $$ I_3 = 2 + 0.9(12.5) = 13.25 A $$
 $$I_{V1} = \frac{12V}{R_1 + R_2} = \frac{12}{5 + 2} = \frac{12}{7} = 1.71A$$
 
 2. **Step 2 (V2 Active)**: 
-    $$I_{V2} = \frac{6V}{R_2 + R_3} = \frac{6}{2 + 6} = \frac{6}{8} = 0.75A$$
-1. **Result**:  
-    The total current through the 5 Ω resistor is the sum of currents from Step 1 and Step 2:
-    $$I_{\text{total}} = I_{V1} + I_{V2} = 1.71A + 0.75A = 2.46A$$
+    $$I_{V2} = \frac{6V}{R_2 + R_3} = \frac{6}{2 + 6+1} = \frac{6}{9} = 0.66A$$
+3. $I_{1}=3A$:
+4. **Step 4:Super position of currents:**
+	$I_{total\ through\ 5\Omega }=1.71-3=-1.286A$
+Current through $5\Omega$ resistor = 1.286A
+
+
+
