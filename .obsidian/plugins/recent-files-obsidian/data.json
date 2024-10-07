@@ -5,14 +5,6 @@
       "path": "Notes/IOT/IOT Assignment 1.md"
     },
     {
-      "basename": "Cayley-Hamilton Theorem",
-      "path": "Notes/Math/Matricies/Cayley-Hamilton Theorem.md"
-    },
-    {
-      "basename": "Dependent system of equation",
-      "path": "Notes/Math/Matricies/Dependent system of equation.md"
-    },
-    {
       "basename": "Superpostion Theorem",
       "path": "Notes/IOT/Superpostion Theorem.md"
     },
@@ -23,6 +15,14 @@
     {
       "basename": "Electrical Saftey",
       "path": "Notes/IOT/Electrical Saftey.md"
+    },
+    {
+      "basename": "Cayley-Hamilton Theorem",
+      "path": "Notes/Math/Matricies/Cayley-Hamilton Theorem.md"
+    },
+    {
+      "basename": "Dependent system of equation",
+      "path": "Notes/Math/Matricies/Dependent system of equation.md"
     },
     {
       "basename": "Sets",
