@@ -95,3 +95,18 @@ the number of +ve terms in canonical form is called the index of quadratic form
 - $Rank(A)=r$
 - $p-(r-p)$
 - $2p-r$
+
+#### Positive definite:
+- Let QF= $X^{'}AX$, thus $A=x_{1}\dots x_{n}$
+- $Rank(A)=r$
+	- $Index=P$ then $r=n,p=r$
+- TLDR all values are positive in quadratic equation
+
+#### Negative definite:
+- r=n,p=0
+- TLDR: All values are negative in quadratic equation
+#### Positive semi-definite:
+- if r< n then p=r 
+
+#### Negative semi-definite:
+- If r< n then p=0
