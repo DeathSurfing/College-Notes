@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Diagonalization",
+      "path": "Notes/Math/Matricies/Diagonalization.md"
+    },
+    {
+      "basename": "Matricies",
+      "path": "Notes/Math/Matricies.md"
+    },
+    {
+      "basename": "Eigen Values and Eigen Vectors",
+      "path": "Notes/Math/Matricies/Eigen Values and Eigen Vectors.md"
+    },
+    {
+      "basename": "Cayley-Hamilton Theorem",
+      "path": "Notes/Math/Matricies/Cayley-Hamilton Theorem.md"
+    },
+    {
       "basename": "BTECH CSE AIML RHINOS G2 2024-28 24WU0102119 Lab 1",
       "path": "CTPS 1st year/BTECH CSE AIML RHINOS G2 2024-28 24WU0102119 Lab 1.ipynb"
     },
@@ -25,10 +41,6 @@
       "path": "Notes/IOT/Electrical Saftey.md"
     },
     {
-      "basename": "Cayley-Hamilton Theorem",
-      "path": "Notes/Math/Matricies/Cayley-Hamilton Theorem.md"
-    },
-    {
       "basename": "Dependent system of equation",
       "path": "Notes/Math/Matricies/Dependent system of equation.md"
     },
@@ -41,16 +53,8 @@
       "path": "Notes/Math/Matricies/Types of matrices.md"
     },
     {
-      "basename": "Matricies",
-      "path": "Notes/Math/Matricies.md"
-    },
-    {
       "basename": "Who discovered the matrix",
       "path": "Notes/Math/Matricies/Who discovered the matrix.md"
-    },
-    {
-      "basename": "Diagonalization",
-      "path": "Notes/Math/Matricies/Diagonalization.md"
     },
     {
       "basename": "Topic Explorer",
@@ -195,10 +199,6 @@
     {
       "basename": "Utilitarianism",
       "path": "Notes/Philosphy/Philosophy Spaces/Utilitarianism.md"
-    },
-    {
-      "basename": "Stoicism",
-      "path": "Notes/Philosphy/Philosophy Spaces/Stoicism.md"
     }
   ],
   "omittedPaths": [],
