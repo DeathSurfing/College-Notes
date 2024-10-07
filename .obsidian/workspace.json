@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e0ac76cbcfa472e8",
+        "id": "26c7b6ae25f69204",
         "type": "tabs",
         "children": [
           {
-            "id": "0cbf05b20c43f543",
+            "id": "0afa91ba5aae9cb0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "ipynb",
               "state": {
-                "file": "Notes/IOT/IOT Assignment 1.md",
-                "mode": "source",
-                "source": false
+                "file": "CTPS 1st year/BTECH CSE AIML RHINOS G2 2024-28 24WU0102119 Adding two numbers.ipynb"
               }
             }
           }
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/IOT/IOT Assignment 1.md",
+                "file": "CTPS 1st year/BTECH CSE AIML RHINOS G2 2024-28 24WU0102119 Adding two numbers.ipynb",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/IOT/IOT Assignment 1.md",
+                "file": "CTPS 1st year/BTECH CSE AIML RHINOS G2 2024-28 24WU0102119 Adding two numbers.ipynb",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/IOT/IOT Assignment 1.md"
+                "file": "CTPS 1st year/BTECH CSE AIML RHINOS G2 2024-28 24WU0102119 Adding two numbers.ipynb"
               }
             }
           },
@@ -184,12 +182,15 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "0cbf05b20c43f543",
+  "active": "0afa91ba5aae9cb0",
   "lastOpenFiles": [
+    "CTPS 1st year/BTECH CSE AIML RHINOS G2 2024-28 24WU0102119 Lab 1.ipynb",
+    "CTPS 1st year/BTECH CSE AIML RHINOS G2 2024-28 24WU0102119 Adding two numbers.ipynb",
+    "CTPS 1st year",
+    "Notes/IOT/IOT Assignment 1.md",
     "Notes/IOT/Superpostion Theorem.md",
     "Notes/IOT/Electrical Supply.md",
     "Notes/IOT/Electrical Saftey.md",
-    "Notes/IOT/IOT Assignment 1.md",
     "Notes/Math/Matricies/Cayley-Hamilton Theorem.md",
     "Notes/Math/Matricies/Dependent system of equation.md",
     "Notes/Math/Sets.md",
@@ -212,7 +213,6 @@
     "Notes/Math/Matricies/Homework How to use of QR code by the use of matrices.md",
     "Notes/Math/Matricies/Order of matrix.md",
     "Notes/Math/Matricies/Example of a matrix.md",
-    "Notes/Math/Matricies/What is a matrix.md",
     "Untitled.canvas",
     "Sets.pdf",
     "Screenshots/Screenshot 2024-02-28 at 4.07.51 PM.png",
@@ -231,8 +231,6 @@
     "Notes/Content generation",
     "Notes/JEE PREP/Math",
     "Notes/JEE PREP",
-    "Notes/Trading/Files",
-    "Notes/Trading",
-    "Notes/Physics/Mechanics/Topic 2.1"
+    "Notes/Trading/Files"
   ]
 }
