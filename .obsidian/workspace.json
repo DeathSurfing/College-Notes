@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Math/Matricies.md",
+                "file": "Notes/Computational Thinking/Data Expressions and statements (PYTHON).md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Math/Matricies.md",
+                "file": "Notes/Computational Thinking/Data Expressions and statements (PYTHON).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Math/Matricies.md",
+                "file": "Notes/Computational Thinking/Data Expressions and statements (PYTHON).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Math/Matricies.md"
+                "file": "Notes/Computational Thinking/Data Expressions and statements (PYTHON).md"
               }
             }
           },
@@ -186,8 +186,11 @@
   },
   "active": "0afa91ba5aae9cb0",
   "lastOpenFiles": [
-    "Notes/IKS (Indian Knowledge System)/Assessment 1 prep.md",
+    "Notes/Computational Thinking/Topic Explorer.md",
+    "Notes/Computational Thinking/Computational Thinking breakdown.md",
+    "Notes/Computational Thinking/Algorithms.md",
     "Notes/Math/Matricies.md",
+    "Notes/IKS (Indian Knowledge System)/Assessment 1 prep.md",
     "Notes/Math/Matricies/Diagonalization.md",
     "Notes/Math/Matricies/Eigen Values and Eigen Vectors.md",
     "Notes/Math/Matricies/Cayley-Hamilton Theorem.md",
@@ -213,9 +216,6 @@
     "Notes/Math/Matricies/Find the Rank of the matrix for the following Matrix.md",
     "Notes/Math/Matricies/Rank of a matrix.md",
     "Notes/Math/Matricies/Determinant of a matrix.md",
-    "Notes/Math/Matricies/Homework How to use of QR code by the use of matrices.md",
-    "Notes/Math/Matricies/Order of matrix.md",
-    "Notes/Math/Matricies/Example of a matrix.md",
     "Untitled.canvas",
     "Sets.pdf",
     "Screenshots/Screenshot 2024-02-28 at 4.07.51 PM.png",

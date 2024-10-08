@@ -77,8 +77,14 @@ lines
 
 
 ## Docstring
+- Special comments that describe the purpose and usage of functions, classes or modules
+- Provide documentation that can be accessed via help()
+- Use a consistent format
+- provides standardised across codebases.
 
 ## Line indentation
+
+
 
 ## Operators and Operator precedence
 
