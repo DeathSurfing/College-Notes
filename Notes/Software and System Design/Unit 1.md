@@ -125,3 +125,39 @@ Modules should have:
 - Maintenance
 
 
+### Types of SLCM:
+- Classical waterfall model
+	- Proceed with the phases sequentially
+		- Easy to manage
+		- Rigid and less flexible
+		- improper resource utilisation
+		- no outcomes until the end
+- Iterative water model
+	- Allows to go back to any phase at any time to fix issues
+	- Similar to water fall
+		- Better handling of changes
+		- More flexible compared to classical waterfall 
+	- suitable for projects with changing requirements
+	- Improper utilisation of resources
+	- no outcomes until the end
+- Prototyping Model
+	- Implement a model with limited functional capabilities to represent the problem in the bigger picture
+	- Has low reliability 
+	- Inefficient performance
+	- Provides a basic overview and showcases an early version that can be iterated over
+- Evolutionary Model
+	- Develop the core modules of the system
+	- Provide updates and add new features to develop the software
+	- The initial product skeleton is refined to add new functionalities in newer versions
+		- High flexibility
+		- Suitable for projects with unclear requirements
+- Spiral Model
+	- Divide the projects into sectors or quadrants
+		- Determine Objectives
+		- Identify resolve and risks
+		- Develop next levels of products
+		- Customer evaluation of prototype
+	- Iterate over these quadrants until the loop is over
+		- Highly Flexible and adaptable
+		- Suitable for large and complex projects
+
