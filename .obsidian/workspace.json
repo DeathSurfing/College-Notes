@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/IOT/Superpostion Theorem.md",
+                "file": "Notes/Software and System Design/Unit 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/IOT/Superpostion Theorem.md",
+                "file": "Notes/Software and System Design/Unit 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/IOT/Superpostion Theorem.md",
+                "file": "Notes/Software and System Design/Unit 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/IOT/Superpostion Theorem.md"
+                "file": "Notes/Software and System Design/Unit 1.md"
               }
             }
           },
@@ -186,9 +186,10 @@
   },
   "active": "0afa91ba5aae9cb0",
   "lastOpenFiles": [
+    "Pasted image 20241008141843.png",
+    "Notes/IOT/Superpostion Theorem.md",
     "Screenshot 2024-10-08 at 1.25.27 PM.png",
     "Excalidraw/Drawing 2024-10-04 11.19.54.excalidraw.md",
-    "Notes/IOT/Superpostion Theorem.md",
     "Notes/IOT/Kirchoff's laws.md",
     "Notes/IOT/IOT Assignment 1.md",
     "Notes/IOT/Electrical Saftey.md",
@@ -229,7 +230,6 @@
     "Screenshots/Screenshot 2024-10-04 at 11.39.57 AM.png",
     "Screenshots/Screenshot 2024-10-04 at 11.23.19 AM.png",
     "Untitled 1.canvas",
-    "Screenshots/Screenshot 2024-10-04 at 11.19.04 AM.png",
     "Notes/Software and System Design",
     "Notes/Content generation",
     "Notes/JEE PREP/Math",
