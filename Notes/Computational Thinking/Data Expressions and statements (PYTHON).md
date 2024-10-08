@@ -82,6 +82,29 @@ lines
 - Use a consistent format
 - provides standardised across codebases.
 
+## Assignment 2:
+```py
+x=34-23
+y="Hello"
+z=3.45
+if z==3.45 or y=="Hello":
+	x=x+1
+	y=y+" World"
+
+print(x)
+print(y)
+```
+Output:
+12
+Hello World
+### REPL
+Read 
+Evaluate
+Print
+Loop
+
+
+
 ## Line indentation
 
 
