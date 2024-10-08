@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Computational Thinking/Data Expressions and statements (PYTHON).md",
+                "file": "Notes/IOT/Superpostion Theorem.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Computational Thinking/Data Expressions and statements (PYTHON).md",
+                "file": "Notes/IOT/Superpostion Theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Computational Thinking/Data Expressions and statements (PYTHON).md",
+                "file": "Notes/IOT/Superpostion Theorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Computational Thinking/Data Expressions and statements (PYTHON).md"
+                "file": "Notes/IOT/Superpostion Theorem.md"
               }
             }
           },
@@ -186,6 +186,13 @@
   },
   "active": "0afa91ba5aae9cb0",
   "lastOpenFiles": [
+    "Screenshot 2024-10-08 at 1.25.27 PM.png",
+    "Excalidraw/Drawing 2024-10-04 11.19.54.excalidraw.md",
+    "Notes/IOT/Superpostion Theorem.md",
+    "Notes/IOT/Kirchoff's laws.md",
+    "Notes/IOT/IOT Assignment 1.md",
+    "Notes/IOT/Electrical Saftey.md",
+    "Notes/Computational Thinking/Data Expressions and statements (PYTHON).md",
     "Notes/Computational Thinking/Topic Explorer.md",
     "Notes/Computational Thinking/Computational Thinking breakdown.md",
     "Notes/Computational Thinking/Algorithms.md",
@@ -197,10 +204,7 @@
     "CTPS 1st year/BTECH CSE AIML RHINOS G2 2024-28 24WU0102119 Lab 1.ipynb",
     "CTPS 1st year/BTECH CSE AIML RHINOS G2 2024-28 24WU0102119 Adding two numbers.ipynb",
     "CTPS 1st year",
-    "Notes/IOT/IOT Assignment 1.md",
-    "Notes/IOT/Superpostion Theorem.md",
     "Notes/IOT/Electrical Supply.md",
-    "Notes/IOT/Electrical Saftey.md",
     "Notes/Math/Matricies/Dependent system of equation.md",
     "Notes/Math/Sets.md",
     "Notes/Math/Matricies/Types of matrices.md",
@@ -212,10 +216,6 @@
     "Notes/Math/Matricies",
     "Notes/Math/Matricies/To find the rank of a matrix and a augmented matrix.md",
     "Notes/Math/Matricies/Independent system of equation.md",
-    "Notes/Math/Matricies/Linear Equation.md",
-    "Notes/Math/Matricies/Find the Rank of the matrix for the following Matrix.md",
-    "Notes/Math/Matricies/Rank of a matrix.md",
-    "Notes/Math/Matricies/Determinant of a matrix.md",
     "Untitled.canvas",
     "Sets.pdf",
     "Screenshots/Screenshot 2024-02-28 at 4.07.51 PM.png",

@@ -46,3 +46,13 @@ $I=1.07A$
 $I =I^{'}+I^{''}$
 $I=1.14+2.57$
 $I=3.71A$$
+
+### Question 2:
+
+![[Screenshot 2024-10-08 at 1.25.27 PM.png]]
+
+Taking 4v as active:
+
+$\frac{12\times 8}{12+8}=4.8\Omega$
+$\frac{14.8\times 5}{14.8+5}=3.73\Omega$
+$3.73+5=8.73\Omega$
