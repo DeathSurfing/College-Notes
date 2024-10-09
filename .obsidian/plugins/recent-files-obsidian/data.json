@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Class diagram",
+      "path": "Notes/SSD Labs/Class diagram.md"
+    },
+    {
       "basename": "Unit 1",
       "path": "Notes/Software and System Design/Unit 1.md"
+    },
+    {
+      "basename": "Sets",
+      "path": "Notes/Math/Sets.md"
     },
     {
       "basename": "Superpostion Theorem",
@@ -75,10 +83,6 @@
     {
       "basename": "Dependent system of equation",
       "path": "Notes/Math/Matricies/Dependent system of equation.md"
-    },
-    {
-      "basename": "Sets",
-      "path": "Notes/Math/Sets.md"
     },
     {
       "basename": "Types of matrices",
@@ -195,10 +199,6 @@
     {
       "basename": "Ontology",
       "path": "Notes/Philosphy/Philosophy Spaces/Ontology.md"
-    },
-    {
-      "basename": "Utilitarianism",
-      "path": "Notes/Philosphy/Philosophy Spaces/Utilitarianism.md"
     }
   ],
   "omittedPaths": [],

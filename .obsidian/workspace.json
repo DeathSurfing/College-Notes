@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "26c7b6ae25f69204",
+        "id": "0d88a8b96a12c505",
         "type": "tabs",
         "children": [
           {
-            "id": "0afa91ba5aae9cb0",
+            "id": "941ba533b0744c44",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Software and System Design/Unit 1.md",
+                "file": "Notes/SSD Labs/Class diagram.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Software and System Design/Unit 1.md",
+                "file": "Notes/SSD Labs/Class diagram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Software and System Design/Unit 1.md",
+                "file": "Notes/SSD Labs/Class diagram.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Software and System Design/Unit 1.md"
+                "file": "Notes/SSD Labs/Class diagram.md"
               }
             }
           },
@@ -184,8 +184,12 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "0afa91ba5aae9cb0",
+  "active": "941ba533b0744c44",
   "lastOpenFiles": [
+    "Notes/Software and System Design/Unit 1.md",
+    "Notes/SSD Labs/Class diagram.md",
+    "Notes/Math/Sets.md",
+    "Notes/SSD Labs",
     "Pasted image 20241008141843.png",
     "Notes/IOT/Superpostion Theorem.md",
     "Screenshot 2024-10-08 at 1.25.27 PM.png",
@@ -207,7 +211,6 @@
     "CTPS 1st year",
     "Notes/IOT/Electrical Supply.md",
     "Notes/Math/Matricies/Dependent system of equation.md",
-    "Notes/Math/Sets.md",
     "Notes/Math/Matricies/Types of matrices.md",
     "Notes/Math/Matricies/Who discovered the matrix.md",
     "Notes/Math/Topic Explorer.md",
@@ -216,7 +219,6 @@
     "Notes/Math/Matricies/Row Operations Homework.md",
     "Notes/Math/Matricies",
     "Notes/Math/Matricies/To find the rank of a matrix and a augmented matrix.md",
-    "Notes/Math/Matricies/Independent system of equation.md",
     "Untitled.canvas",
     "Sets.pdf",
     "Screenshots/Screenshot 2024-02-28 at 4.07.51 PM.png",
@@ -228,11 +230,9 @@
     "Screenshots/Screenshot 2024-10-04 at 11.51.11 AM.png",
     "Screenshots/Screenshot 2024-10-04 at 11.41.29 AM.png",
     "Screenshots/Screenshot 2024-10-04 at 11.39.57 AM.png",
-    "Screenshots/Screenshot 2024-10-04 at 11.23.19 AM.png",
     "Untitled 1.canvas",
     "Notes/Software and System Design",
     "Notes/Content generation",
-    "Notes/JEE PREP/Math",
-    "Notes/JEE PREP"
+    "Notes/JEE PREP/Math"
   ]
 }
