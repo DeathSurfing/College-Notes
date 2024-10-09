@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/SSD Labs/LAB 3.md",
+                "file": "Notes/Physics/Quantum Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/SSD Labs/LAB 3.md",
+                "file": "Notes/Physics/Quantum Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/SSD Labs/LAB 3.md",
+                "file": "Notes/Physics/Quantum Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/SSD Labs/LAB 3.md"
+                "file": "Notes/Physics/Quantum Physics.md"
               }
             }
           },
@@ -186,6 +186,10 @@
   },
   "active": "941ba533b0744c44",
   "lastOpenFiles": [
+    "Notes/Physics/Applied Physics Breakdown.md",
+    "Notes/Physics/Waves.md",
+    "Notes/Physics/Topic Explorer.md",
+    "Notes/Physics/Quantum Physics.md",
     "Notes/SSD Labs/Class diagram.md",
     "Notes/SSD Labs/LAB 3.md",
     "Notes/Software and System Design/Unit 1.md",
@@ -214,10 +218,6 @@
     "Notes/Math/Matricies/Dependent system of equation.md",
     "Notes/Math/Matricies/Types of matrices.md",
     "Notes/Math/Matricies/Who discovered the matrix.md",
-    "Notes/Math/Topic Explorer.md",
-    "Notes/Math/Matricies/Some other types of matrices.md",
-    "Notes/Math/Matricies/Elementary Operations.md",
-    "Notes/Math/Matricies/Row Operations Homework.md",
     "Notes/Math/Matricies",
     "Untitled.canvas",
     "Sets.pdf",

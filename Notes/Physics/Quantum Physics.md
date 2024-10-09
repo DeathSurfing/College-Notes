@@ -18,7 +18,6 @@ ___
 ### Compton scattering:
 $\lambda_{f}-\lambda_{i}=\Delta \lambda=\frac{h}{m_{0}c}(1-\cos \theta)$
 
-
 ## Quantum View of particles and waves
 
 
