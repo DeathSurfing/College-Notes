@@ -19,6 +19,10 @@ ___
 ### Dependency:
 - Showcased by dashed line - - - >
 
+### Realisation
+-  Takes attribute from another model
+- showcased by dashed line and hollow arrow
+
 ## Attribute types
 ```
 + Public
