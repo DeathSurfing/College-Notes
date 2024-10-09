@@ -18,17 +18,19 @@ ___
 ### Compton scattering:
 $\lambda_{f}-\lambda_{i}=\Delta \lambda=\frac{h}{m_{0}c}(1-\cos \theta)$
 
-## Quantum View of particles and waves
-
-
-
 ## De-Broglie hypothesis
+$$\lambda=\frac{h}{p}$$
+Where p is the momentum
+$\lambda$ is the wavelength
+h is Planck constant ($6.62607015×10^{-34}JHz^{-1}$[[]])
 
-## Matter Wave
 
 ## Basic postulates of quantum mechanics
 
+
 ## Heisenbergs uncertainty principle
+Both position and momentum cant be figured out simultaneously for microscopic(Quantum) objects.
+$$\Delta x\Delta px\geq \frac{h}{4\pi}$$
 
 ## Physical significance of a wave function
 
