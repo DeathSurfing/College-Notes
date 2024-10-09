@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "LAB 3",
+      "path": "Notes/SSD Labs/LAB 3.md"
+    },
+    {
       "basename": "Class diagram",
       "path": "Notes/SSD Labs/Class diagram.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Epistemological Skepticism",
       "path": "Notes/Philosphy/Philosophy Spaces/Epistemological Skepticism.md"
-    },
-    {
-      "basename": "Ontology",
-      "path": "Notes/Philosphy/Philosophy Spaces/Ontology.md"
     }
   ],
   "omittedPaths": [],

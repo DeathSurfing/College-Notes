@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/SSD Labs/Class diagram.md",
+                "file": "Notes/SSD Labs/LAB 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/SSD Labs/Class diagram.md",
+                "file": "Notes/SSD Labs/LAB 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/SSD Labs/Class diagram.md",
+                "file": "Notes/SSD Labs/LAB 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/SSD Labs/Class diagram.md"
+                "file": "Notes/SSD Labs/LAB 3.md"
               }
             }
           },
@@ -186,8 +186,9 @@
   },
   "active": "941ba533b0744c44",
   "lastOpenFiles": [
-    "Notes/Software and System Design/Unit 1.md",
     "Notes/SSD Labs/Class diagram.md",
+    "Notes/SSD Labs/LAB 3.md",
+    "Notes/Software and System Design/Unit 1.md",
     "Notes/Math/Sets.md",
     "Notes/SSD Labs",
     "Pasted image 20241008141843.png",
@@ -218,7 +219,6 @@
     "Notes/Math/Matricies/Elementary Operations.md",
     "Notes/Math/Matricies/Row Operations Homework.md",
     "Notes/Math/Matricies",
-    "Notes/Math/Matricies/To find the rank of a matrix and a augmented matrix.md",
     "Untitled.canvas",
     "Sets.pdf",
     "Screenshots/Screenshot 2024-02-28 at 4.07.51 PM.png",
