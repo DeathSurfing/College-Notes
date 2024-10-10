@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/IOT/Superpostion Theorem.md",
+                "file": "Notes/Math/Matricies.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/IOT/Superpostion Theorem.md",
+                "file": "Notes/Math/Matricies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/IOT/Superpostion Theorem.md",
+                "file": "Notes/Math/Matricies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/IOT/Superpostion Theorem.md"
+                "file": "Notes/Math/Matricies.md"
               }
             }
           },
@@ -186,6 +186,9 @@
   },
   "active": "941ba533b0744c44",
   "lastOpenFiles": [
+    "Notes/Math/Matricies/Diagonalization.md",
+    "Notes/Math/Matricies.md",
+    "Notes/IOT/Superpostion Theorem.md",
     "Notes/IOT/Kirchoff's laws.md",
     "Notes/IOT/Electrical Saftey.md",
     "Notes/IOT/Electrical Supply.md",
@@ -199,7 +202,6 @@
     "Notes/Math/Sets.md",
     "Notes/SSD Labs",
     "Pasted image 20241008141843.png",
-    "Notes/IOT/Superpostion Theorem.md",
     "Screenshot 2024-10-08 at 1.25.27 PM.png",
     "Excalidraw/Drawing 2024-10-04 11.19.54.excalidraw.md",
     "Notes/IOT/IOT Assignment 1.md",
@@ -207,9 +209,7 @@
     "Notes/Computational Thinking/Topic Explorer.md",
     "Notes/Computational Thinking/Computational Thinking breakdown.md",
     "Notes/Computational Thinking/Algorithms.md",
-    "Notes/Math/Matricies.md",
     "Notes/IKS (Indian Knowledge System)/Assessment 1 prep.md",
-    "Notes/Math/Matricies/Diagonalization.md",
     "Notes/Math/Matricies/Eigen Values and Eigen Vectors.md",
     "Notes/Math/Matricies/Cayley-Hamilton Theorem.md",
     "CTPS 1st year/BTECH CSE AIML RHINOS G2 2024-28 24WU0102119 Lab 1.ipynb",

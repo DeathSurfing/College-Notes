@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Matricies",
+      "path": "Notes/Math/Matricies.md"
+    },
+    {
+      "basename": "Diagonalization",
+      "path": "Notes/Math/Matricies/Diagonalization.md"
+    },
+    {
       "basename": "Superpostion Theorem",
       "path": "Notes/IOT/Superpostion Theorem.md"
     },
@@ -73,16 +81,8 @@
       "path": "Notes/Computational Thinking/Algorithms.md"
     },
     {
-      "basename": "Matricies",
-      "path": "Notes/Math/Matricies.md"
-    },
-    {
       "basename": "Assessment 1 prep",
       "path": "Notes/IKS (Indian Knowledge System)/Assessment 1 prep.md"
-    },
-    {
-      "basename": "Diagonalization",
-      "path": "Notes/Math/Matricies/Diagonalization.md"
     },
     {
       "basename": "Eigen Values and Eigen Vectors",

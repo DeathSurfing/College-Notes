@@ -110,3 +110,11 @@ the number of +ve terms in canonical form is called the index of quadratic form
 
 #### Negative semi-definite:
 - If r< n then p=0
+
+
+
+
+$$\begin{bmatrix}
+5-\lambda & 2 \\
+2 & 1-\lambda
+\end{bmatrix}$$
