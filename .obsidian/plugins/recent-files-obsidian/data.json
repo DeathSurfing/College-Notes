@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Quantum Physics",
-      "path": "Notes/Physics/Quantum Physics.md"
+      "basename": "Control flow and functions",
+      "path": "Notes/Computational Thinking/Control flow and functions.md"
+    },
+    {
+      "basename": "Data Expressions and statements (PYTHON)",
+      "path": "Notes/Computational Thinking/Data Expressions and statements (PYTHON).md"
+    },
+    {
+      "basename": "Computational Thinking breakdown",
+      "path": "Notes/Computational Thinking/Computational Thinking breakdown.md"
+    },
+    {
+      "basename": "Unit 1",
+      "path": "Notes/Software and System Design/Unit 1.md"
+    },
+    {
+      "basename": "Friction",
+      "path": "Notes/Physics/Mechanics/Friction.md"
     },
     {
       "basename": "Applied Physics Breakdown",
       "path": "Notes/Physics/Applied Physics Breakdown.md"
     },
     {
-      "basename": "Unit 1",
-      "path": "Notes/Software and System Design/Unit 1.md"
+      "basename": "Topic Explorer",
+      "path": "Notes/Physics/Topic Explorer.md"
+    },
+    {
+      "basename": "Quantum Physics",
+      "path": "Notes/Physics/Quantum Physics.md"
     },
     {
       "basename": "Class diagram",
@@ -49,10 +69,6 @@
       "path": "Notes/Physics/Waves.md"
     },
     {
-      "basename": "Topic Explorer",
-      "path": "Notes/Physics/Topic Explorer.md"
-    },
-    {
       "basename": "LAB 3",
       "path": "Notes/SSD Labs/LAB 3.md"
     },
@@ -65,16 +81,8 @@
       "path": "Notes/IOT/IOT Assignment 1.md"
     },
     {
-      "basename": "Data Expressions and statements (PYTHON)",
-      "path": "Notes/Computational Thinking/Data Expressions and statements (PYTHON).md"
-    },
-    {
       "basename": "Topic Explorer",
       "path": "Notes/Computational Thinking/Topic Explorer.md"
-    },
-    {
-      "basename": "Computational Thinking breakdown",
-      "path": "Notes/Computational Thinking/Computational Thinking breakdown.md"
     },
     {
       "basename": "Algorithms",
@@ -191,14 +199,6 @@
     {
       "basename": "Philosophy",
       "path": "Notes/Philosphy/Philosophy.md"
-    },
-    {
-      "basename": "Phenomenology",
-      "path": "Notes/Philosphy/Philosophy Spaces/Phenomenology.md"
-    },
-    {
-      "basename": "Epistemological Skepticism",
-      "path": "Notes/Philosphy/Philosophy Spaces/Epistemological Skepticism.md"
     }
   ],
   "omittedPaths": [],

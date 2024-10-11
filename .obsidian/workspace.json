@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Physics/Quantum Physics.md",
+                "file": "Notes/Computational Thinking/Control flow and functions.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Physics/Quantum Physics.md",
+                "file": "Notes/Computational Thinking/Control flow and functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Physics/Quantum Physics.md",
+                "file": "Notes/Computational Thinking/Control flow and functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Physics/Quantum Physics.md"
+                "file": "Notes/Computational Thinking/Control flow and functions.md"
               }
             }
           },
@@ -186,8 +186,13 @@
   },
   "active": "941ba533b0744c44",
   "lastOpenFiles": [
-    "Notes/Physics/Applied Physics Breakdown.md",
+    "Notes/Computational Thinking/Data Expressions and statements (PYTHON).md",
+    "Notes/Computational Thinking/Control flow and functions.md",
+    "Notes/Computational Thinking/Computational Thinking breakdown.md",
     "Notes/Software and System Design/Unit 1.md",
+    "Notes/Physics/Mechanics/Friction.md",
+    "Notes/Physics/Applied Physics Breakdown.md",
+    "Notes/Physics/Topic Explorer.md",
     "Notes/Physics/Quantum Physics.md",
     "Notes/SSD Labs/Class diagram.md",
     "Notes/Math/Sets.md",
@@ -198,16 +203,13 @@
     "Notes/IOT/Electrical Saftey.md",
     "Notes/IOT/Electrical Supply.md",
     "Notes/Physics/Waves.md",
-    "Notes/Physics/Topic Explorer.md",
     "Notes/SSD Labs/LAB 3.md",
     "Notes/SSD Labs",
     "Pasted image 20241008141843.png",
     "Screenshot 2024-10-08 at 1.25.27 PM.png",
     "Excalidraw/Drawing 2024-10-04 11.19.54.excalidraw.md",
     "Notes/IOT/IOT Assignment 1.md",
-    "Notes/Computational Thinking/Data Expressions and statements (PYTHON).md",
     "Notes/Computational Thinking/Topic Explorer.md",
-    "Notes/Computational Thinking/Computational Thinking breakdown.md",
     "Notes/Computational Thinking/Algorithms.md",
     "Notes/IKS (Indian Knowledge System)/Assessment 1 prep.md",
     "Notes/Math/Matricies/Eigen Values and Eigen Vectors.md",
@@ -216,8 +218,6 @@
     "CTPS 1st year/BTECH CSE AIML RHINOS G2 2024-28 24WU0102119 Adding two numbers.ipynb",
     "CTPS 1st year",
     "Notes/Math/Matricies/Dependent system of equation.md",
-    "Notes/Math/Matricies/Types of matrices.md",
-    "Notes/Math/Matricies/Who discovered the matrix.md",
     "Notes/Math/Matricies",
     "Untitled.canvas",
     "Sets.pdf",
