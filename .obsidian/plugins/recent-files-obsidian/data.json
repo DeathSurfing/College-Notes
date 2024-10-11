@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Quantum Physics",
+      "path": "Notes/Physics/Quantum Physics.md"
+    },
+    {
+      "basename": "Applied Physics Breakdown",
+      "path": "Notes/Physics/Applied Physics Breakdown.md"
+    },
+    {
       "basename": "Unit 1",
       "path": "Notes/Software and System Design/Unit 1.md"
     },
@@ -35,14 +43,6 @@
     {
       "basename": "Electrical Supply",
       "path": "Notes/IOT/Electrical Supply.md"
-    },
-    {
-      "basename": "Quantum Physics",
-      "path": "Notes/Physics/Quantum Physics.md"
-    },
-    {
-      "basename": "Applied Physics Breakdown",
-      "path": "Notes/Physics/Applied Physics Breakdown.md"
     },
     {
       "basename": "Waves",

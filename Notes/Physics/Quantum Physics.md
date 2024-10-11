@@ -22,7 +22,7 @@ $\lambda_{f}-\lambda_{i}=\Delta \lambda=\frac{h}{m_{0}c}(1-\cos \theta)$
 $$\lambda=\frac{h}{p}$$
 Where p is the momentum
 $\lambda$ is the wavelength
-h is Planck constant ($6.62607015×10^{-34}JHz^{-1}$[[]])
+h is Planck constant ($6.62607015×10^{-34}JHz^{-1}$)
 
 
 ## Basic postulates of quantum mechanics
@@ -31,8 +31,28 @@ h is Planck constant ($6.62607015×10^{-34}JHz^{-1}$[[]])
 ## Heisenbergs uncertainty principle
 Both position and momentum cant be figured out simultaneously for microscopic(Quantum) objects.
 $$\Delta x\Delta px\geq \frac{h}{4\pi}$$
+## Wave function
+- Denoted by the letter $\psi$ 
+- Is a complex function
 
-## Physical significance of a wave function
+$$\psi=A+Bi$$
+$\psi^*=|\psi|$
+$\psi^{*}=A-BI$
+$|\psi|^2=|\psi*\psi|$ is the probability of 
+$|\psi^2|=A^2+B^2$
+
+#### Normalised condition
+$\int\psi^*\psi dx=1$
+
+#### Orthogonal condition: 
+$\int\psi^*\psi dx=0$
+
+### Properties of the wave function:
+- $\psi$ must be finite
+- $\psi$ must be continuous
+- $\psi$ must be a single value
+- $\psi$ must be square integrable
+
 
 ## Dirac Notation
 
