@@ -153,10 +153,10 @@ Modules should have:
 		- Suitable for projects with unclear requirements
 - Spiral Model
 	- Divide the projects into sectors or quadrants
-		- Determine Objectives
 		- Identify resolve and risks
-		- Develop next levels of products
+		- Determine Objectives
 		- Customer evaluation of prototype
+		- Develop next levels of products
 	- Iterate over these quadrants until the loop is over
 		- Highly Flexible and adaptable
 		- Suitable for large and complex projects

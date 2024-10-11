@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Math/Sets.md",
+                "file": "Notes/Software and System Design/Unit 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Math/Sets.md",
+                "file": "Notes/Software and System Design/Unit 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Math/Sets.md",
+                "file": "Notes/Software and System Design/Unit 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Math/Sets.md"
+                "file": "Notes/Software and System Design/Unit 1.md"
               }
             }
           },
@@ -186,6 +186,8 @@
   },
   "active": "941ba533b0744c44",
   "lastOpenFiles": [
+    "Notes/SSD Labs/Class diagram.md",
+    "Notes/Math/Sets.md",
     "Notes/Math/Matricies.md",
     "Notes/Math/Matricies/Diagonalization.md",
     "Notes/IOT/Superpostion Theorem.md",
@@ -196,10 +198,8 @@
     "Notes/Physics/Applied Physics Breakdown.md",
     "Notes/Physics/Waves.md",
     "Notes/Physics/Topic Explorer.md",
-    "Notes/SSD Labs/Class diagram.md",
     "Notes/SSD Labs/LAB 3.md",
     "Notes/Software and System Design/Unit 1.md",
-    "Notes/Math/Sets.md",
     "Notes/SSD Labs",
     "Pasted image 20241008141843.png",
     "Screenshot 2024-10-08 at 1.25.27 PM.png",
