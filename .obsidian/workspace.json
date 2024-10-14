@@ -71,11 +71,14 @@
             "id": "ccb4f9f4be587a8d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Notes/Math/Matricies.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -154,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Math/Matricies.md",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Math/Matricies.md",
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Math/Matricies.md"
+                "file": "Untitled.canvas"
               }
             }
           },
@@ -245,8 +248,9 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "ec406b8edc4a3320",
+  "active": "ccb4f9f4be587a8d",
   "lastOpenFiles": [
+    "Notes/Math/Matricies.md",
     "Notes/Math/Sets.md",
     "Notes/IOT/Electrical Supply.md",
     "Notes/IOT/Electrical Saftey.md",
@@ -267,7 +271,6 @@
     "Screenshot 2024-09-11 at 2.25.09 PM.png",
     "Excalidraw/Drawing 2024-09-11 14.31.26.excalidraw.md",
     "Excalidraw/Drawing 2024-09-11 14.24.06.excalidraw.md",
-    "Notes/Math/Matricies.md",
     "Notes/Physics/Waves.md",
     "Notes/Computational Thinking/Topic Explorer.md",
     "Excalidraw/Drawing 2024-09-10 15.02.28.excalidraw.md",
