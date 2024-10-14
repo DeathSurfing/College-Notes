@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Quantum Physics",
+      "path": "Notes/Physics/Quantum Physics.md"
+    },
+    {
+      "basename": "Computational Thinking breakdown",
+      "path": "Notes/Computational Thinking/Computational Thinking breakdown.md"
+    },
+    {
       "basename": "Control flow and functions",
       "path": "Notes/Computational Thinking/Control flow and functions.md"
     },
     {
       "basename": "Data Expressions and statements (PYTHON)",
       "path": "Notes/Computational Thinking/Data Expressions and statements (PYTHON).md"
-    },
-    {
-      "basename": "Computational Thinking breakdown",
-      "path": "Notes/Computational Thinking/Computational Thinking breakdown.md"
     },
     {
       "basename": "Unit 1",
@@ -27,10 +31,6 @@
     {
       "basename": "Topic Explorer",
       "path": "Notes/Physics/Topic Explorer.md"
-    },
-    {
-      "basename": "Quantum Physics",
-      "path": "Notes/Physics/Quantum Physics.md"
     },
     {
       "basename": "Class diagram",
