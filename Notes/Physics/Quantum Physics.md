@@ -53,6 +53,36 @@ $\int\psi^*\psi dx=0$
 - $\psi$ must be a single value
 - $\psi$ must be square integrable
 
+### Schrödinger wave equation:
+
+$$\frac{\partial^2\psi}{\partial x^2}=\frac{1}{v^2}\cdot \frac{\partial^2\psi}{\partial t^2}\dots_{1}$$
+
+$$\psi=\psi_{0}e^{-i\omega t}\dots_{2}$$
+$$\frac{\partial^2t}{\partial t^2}=-w^2\psi_{0}e^{-i\omega t}$$
+$$\frac{\partial^2\psi}{\partial t^2}=-\omega^2\psi\dots_{3}$$
+Where $v=velocity$
+
+From Equation 1 and 3
+$$\frac{\partial^2\psi}{\partial x^2}=-\frac{1}{v^2}\omega^2\psi$$
+$$\omega =2\pi \nu$$
+$$v=\lambda \nu$$
+$$\frac{\omega ^2}{v^2}=\frac{4\pi^2}{\lambda^2}$$
+
+
+##### De-broglie hypothesis
+$$p=\frac{h}{\lambda}$$
+$$\lambda=\frac{h}{mv}$$
+
+$$\frac{\partial^2\psi}{\partial x^2}+\frac{4\pi^2}{h^2}+m^2v^2\psi=0$$
+If E & V is total energy 
+$$E=\frac{1}{2}mv^2+V$$
+$$E-V=\frac{1}{2}mv^2$$
+$$2(E-V)m=m^2v^2$$
+
+#### Schrödinger equation time independent: 
+$$\frac{\partial^2\psi}{\partial x^2}+\frac{4\pi^2}{h^2}\cdot 2(E-V)m\psi=0$$
+$$\frac{\partial \psi^2}{\partial x^2}+\frac{8\pi^2m(E-V)\psi}{\left( \frac{h}{2\pi} \right)^2}=0$$
+
 
 ## Dirac Notation
 
