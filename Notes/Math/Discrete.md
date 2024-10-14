@@ -178,12 +178,6 @@ $$\forall (a,b) \in R \rightarrow(b,a) \in R$$
 	- For all values except a=b
 $$\forall(a,b)\in R \wedge (b,a)\in R $$
 
-### Partially Ordered Set:
-A set that satisfies:
-- Reflexive
-- Anti Symmetric
-- Transitive
-properties
 
 ___
 
@@ -194,7 +188,16 @@ ___
 
 
 # Unit 2 :
+
 ## Partial order set
+
+A set that satisfies:
+- Reflexive
+- Anti Symmetric
+- Transitive
+properties
+
+
 ## Lattice Theory
 
 # Unit 3:

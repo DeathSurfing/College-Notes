@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Physics/Quantum Physics.md",
+                "file": "Notes/Math/Discrete.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Physics/Quantum Physics.md",
+                "file": "Notes/Math/Discrete.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Physics/Quantum Physics.md",
+                "file": "Notes/Math/Discrete.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Physics/Quantum Physics.md"
+                "file": "Notes/Math/Discrete.md"
               }
             }
           },
@@ -184,8 +184,9 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "941ba533b0744c44",
+  "active": "ec406b8edc4a3320",
   "lastOpenFiles": [
+    "Notes/Physics/Quantum Physics.md",
     "Notes/Computational Thinking/Computational Thinking breakdown.md",
     "Notes/Computational Thinking/Control flow and functions.md",
     "Notes/Computational Thinking/Data Expressions and statements (PYTHON).md",
@@ -193,9 +194,8 @@
     "Notes/Physics/Mechanics/Friction.md",
     "Notes/Physics/Applied Physics Breakdown.md",
     "Notes/Physics/Topic Explorer.md",
-    "Notes/Physics/Quantum Physics.md",
     "Notes/SSD Labs/Class diagram.md",
-    "Notes/Math/Sets.md",
+    "Notes/Math/Discrete.md",
     "Notes/Math/Matricies.md",
     "Notes/Math/Matricies/Diagonalization.md",
     "Notes/IOT/Superpostion Theorem.md",

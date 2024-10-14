@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Discrete",
+      "path": "Notes/Math/Discrete.md"
+    },
+    {
       "basename": "Quantum Physics",
       "path": "Notes/Physics/Quantum Physics.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "Class diagram",
       "path": "Notes/SSD Labs/Class diagram.md"
-    },
-    {
-      "basename": "Sets",
-      "path": "Notes/Math/Sets.md"
     },
     {
       "basename": "Matricies",
