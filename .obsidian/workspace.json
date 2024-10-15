@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0d88a8b96a12c505",
+        "id": "ff70391c10221ceb",
         "type": "tabs",
         "children": [
           {
-            "id": "941ba533b0744c44",
+            "id": "c92ace083003ce08",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Math/Discrete.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Math/Discrete.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Math/Discrete.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes/Math/Discrete.md"
-              }
+              "state": {}
             }
           },
           {
@@ -184,40 +176,41 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "ec406b8edc4a3320",
+  "active": "c92ace083003ce08",
   "lastOpenFiles": [
-    "Notes/Physics/Quantum Physics.md",
-    "Notes/Computational Thinking/Computational Thinking breakdown.md",
-    "Notes/Computational Thinking/Control flow and functions.md",
-    "Notes/Computational Thinking/Data Expressions and statements (PYTHON).md",
-    "Notes/Software and System Design/Unit 1.md",
-    "Notes/Physics/Mechanics/Friction.md",
-    "Notes/Physics/Applied Physics Breakdown.md",
-    "Notes/Physics/Topic Explorer.md",
-    "Notes/SSD Labs/Class diagram.md",
     "Notes/Math/Discrete.md",
     "Notes/Math/Matricies.md",
-    "Notes/Math/Matricies/Diagonalization.md",
-    "Notes/IOT/Superpostion Theorem.md",
-    "Notes/IOT/Kirchoff's laws.md",
-    "Notes/IOT/Electrical Saftey.md",
-    "Notes/IOT/Electrical Supply.md",
-    "Notes/Physics/Waves.md",
-    "Notes/SSD Labs/LAB 3.md",
-    "Notes/SSD Labs",
-    "Pasted image 20241008141843.png",
+    "Notes/Math/Sets/Relations.md",
+    "Notes/Math/Sets/Cartesian Product.md",
+    "Notes/Math/Sets/Books recommended for Discrete Math course.md",
+    "Notes/Math/Sets/Proper Subset.md",
+    "Notes/Math/Sets/Cardinality.md",
     "Screenshot 2024-10-08 at 1.25.27 PM.png",
-    "Excalidraw/Drawing 2024-10-04 11.19.54.excalidraw.md",
-    "Notes/IOT/IOT Assignment 1.md",
-    "Notes/Computational Thinking/Topic Explorer.md",
-    "Notes/Computational Thinking/Algorithms.md",
-    "Notes/IKS (Indian Knowledge System)/Assessment 1 prep.md",
-    "Notes/Math/Matricies/Eigen Values and Eigen Vectors.md",
-    "Notes/Math/Matricies/Cayley-Hamilton Theorem.md",
+    "Pasted image 20241008141843.png",
+    "Notes/Math/Sets/Prior knowledge.md",
+    "Notes/Math/Sets/Property of sets.md",
+    "Notes/Math/Sets",
+    "Notes/Math/Sets/Types of Relations.md",
+    "Notes/Math/Sets/Write 5 relations that satisfy.md",
+    "Notes/Math/Sets/Solved Problems.md",
+    "Notes/Math/Sets/Home work.md",
+    "Notes/Math/Sets/De Morgan's theorem.md",
+    "Notes/Math/Sets/Laws of sets.md",
+    "Notes/Math/Sets/Operations on sets.md",
+    "Notes/Math/Sets/Union and intersection repetition notation.md",
+    "Notes/Math/Sets/Intersection.md",
+    "Notes/Math/Sets/Union.md",
+    "Notes/Math/Sets/Set of factors of 12 and 2.md",
+    "Notes/Math/Sets/When are two sets equal.md",
+    "Notes/Math/Sets/Mathematical representation of Subsets.md",
+    "Notes/Math/Sets/Mathematical symbols.md",
+    "Notes/Math/Sets/Empty set.md",
+    "Notes/Math/Sets/Set forms.md",
+    "Notes/Math/Sets/Unit 1.md",
+    "Notes/SSD Labs",
     "CTPS 1st year/BTECH CSE AIML RHINOS G2 2024-28 24WU0102119 Lab 1.ipynb",
     "CTPS 1st year/BTECH CSE AIML RHINOS G2 2024-28 24WU0102119 Adding two numbers.ipynb",
     "CTPS 1st year",
-    "Notes/Math/Matricies/Dependent system of equation.md",
     "Notes/Math/Matricies",
     "Untitled.canvas",
     "Sets.pdf",
@@ -232,7 +225,6 @@
     "Screenshots/Screenshot 2024-10-04 at 11.39.57 AM.png",
     "Untitled 1.canvas",
     "Notes/Software and System Design",
-    "Notes/Content generation",
-    "Notes/JEE PREP/Math"
+    "Notes/Content generation"
   ]
 }

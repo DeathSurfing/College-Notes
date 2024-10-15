@@ -5,6 +5,70 @@
       "path": "Notes/Math/Discrete.md"
     },
     {
+      "basename": "Matricies",
+      "path": "Notes/Math/Matricies.md"
+    },
+    {
+      "basename": "Relations",
+      "path": "Notes/Math/Sets/Relations.md"
+    },
+    {
+      "basename": "Cartesian Product",
+      "path": "Notes/Math/Sets/Cartesian Product.md"
+    },
+    {
+      "basename": "Books recommended for Discrete Math course",
+      "path": "Notes/Math/Sets/Books recommended for Discrete Math course.md"
+    },
+    {
+      "basename": "Proper Subset",
+      "path": "Notes/Math/Sets/Proper Subset.md"
+    },
+    {
+      "basename": "Cardinality",
+      "path": "Notes/Math/Sets/Cardinality.md"
+    },
+    {
+      "basename": "Screenshot 2024-10-08 at 1.25.27 PM",
+      "path": "Screenshot 2024-10-08 at 1.25.27 PM.png"
+    },
+    {
+      "basename": "Pasted image 20241008141843",
+      "path": "Pasted image 20241008141843.png"
+    },
+    {
+      "basename": "Prior knowledge",
+      "path": "Notes/Math/Sets/Prior knowledge.md"
+    },
+    {
+      "basename": "Property of sets",
+      "path": "Notes/Math/Sets/Property of sets.md"
+    },
+    {
+      "basename": "Eigen Values and Eigen Vectors",
+      "path": "Notes/Math/Matricies/Eigen Values and Eigen Vectors.md"
+    },
+    {
+      "basename": "Dependent system of equation",
+      "path": "Notes/Math/Matricies/Dependent system of equation.md"
+    },
+    {
+      "basename": "Cayley-Hamilton Theorem",
+      "path": "Notes/Math/Matricies/Cayley-Hamilton Theorem.md"
+    },
+    {
+      "basename": "Who discovered the matrix",
+      "path": "Notes/Math/Matricies/Who discovered the matrix.md"
+    },
+    {
+      "basename": "Types of matrices",
+      "path": "Notes/Math/Matricies/Types of matrices.md"
+    },
+    {
+      "basename": "Unit 1",
+      "path": "Notes/Software and System Design/Unit 1.md"
+    },
+    {
       "basename": "Quantum Physics",
       "path": "Notes/Physics/Quantum Physics.md"
     },
@@ -21,10 +85,6 @@
       "path": "Notes/Computational Thinking/Data Expressions and statements (PYTHON).md"
     },
     {
-      "basename": "Unit 1",
-      "path": "Notes/Software and System Design/Unit 1.md"
-    },
-    {
       "basename": "Friction",
       "path": "Notes/Physics/Mechanics/Friction.md"
     },
@@ -39,10 +99,6 @@
     {
       "basename": "Class diagram",
       "path": "Notes/SSD Labs/Class diagram.md"
-    },
-    {
-      "basename": "Matricies",
-      "path": "Notes/Math/Matricies.md"
     },
     {
       "basename": "Diagonalization",
@@ -93,32 +149,12 @@
       "path": "Notes/IKS (Indian Knowledge System)/Assessment 1 prep.md"
     },
     {
-      "basename": "Eigen Values and Eigen Vectors",
-      "path": "Notes/Math/Matricies/Eigen Values and Eigen Vectors.md"
-    },
-    {
-      "basename": "Cayley-Hamilton Theorem",
-      "path": "Notes/Math/Matricies/Cayley-Hamilton Theorem.md"
-    },
-    {
       "basename": "BTECH CSE AIML RHINOS G2 2024-28 24WU0102119 Lab 1",
       "path": "CTPS 1st year/BTECH CSE AIML RHINOS G2 2024-28 24WU0102119 Lab 1.ipynb"
     },
     {
       "basename": "BTECH CSE AIML RHINOS G2 2024-28 24WU0102119 Adding two numbers",
       "path": "CTPS 1st year/BTECH CSE AIML RHINOS G2 2024-28 24WU0102119 Adding two numbers.ipynb"
-    },
-    {
-      "basename": "Dependent system of equation",
-      "path": "Notes/Math/Matricies/Dependent system of equation.md"
-    },
-    {
-      "basename": "Types of matrices",
-      "path": "Notes/Math/Matricies/Types of matrices.md"
-    },
-    {
-      "basename": "Who discovered the matrix",
-      "path": "Notes/Math/Matricies/Who discovered the matrix.md"
     },
     {
       "basename": "Topic Explorer",
@@ -163,42 +199,6 @@
     {
       "basename": "Drawing 2024-09-10 15.02.28.excalidraw",
       "path": "Excalidraw/Drawing 2024-09-10 15.02.28.excalidraw.md"
-    },
-    {
-      "basename": "Drawing 2023-07-23 03.49.00.excalidraw",
-      "path": "Excalidraw/Drawing 2023-07-23 03.49.00.excalidraw.md"
-    },
-    {
-      "basename": "Screenshot 2024-02-28 at 4.07.51 PM",
-      "path": "Screenshots/Screenshot 2024-02-28 at 4.07.51 PM.png"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Notes/Computational Thinking/Untitled.md"
-    },
-    {
-      "basename": "Astronomy Origins",
-      "path": "Notes/IKS (Indian Knowledge System)/Astronomy Origins.md"
-    },
-    {
-      "basename": "Metals in India",
-      "path": "Notes/IKS (Indian Knowledge System)/Metals in India.md"
-    },
-    {
-      "basename": "Vedic Philosophy",
-      "path": "Notes/IKS (Indian Knowledge System)/Vedic Philosophy.md"
-    },
-    {
-      "basename": "Temp notes",
-      "path": "Notes/Temp notes.md"
-    },
-    {
-      "basename": "Medical Tourism",
-      "path": "Notes/Buisnes Ideas/Medical Tourism.md"
-    },
-    {
-      "basename": "Philosophy",
-      "path": "Notes/Philosphy/Philosophy.md"
     }
   ],
   "omittedPaths": [],
