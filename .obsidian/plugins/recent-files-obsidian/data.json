@@ -1,44 +1,60 @@
 {
   "recentFiles": [
     {
+      "basename": "Unit 2",
+      "path": "Notes/Software and System Design/Unit 2.md"
+    },
+    {
+      "basename": "Matricies",
+      "path": "Notes/Math/Matricies.md"
+    },
+    {
       "basename": "Unit 1",
       "path": "Notes/Software and System Design/Unit 1.md"
+    },
+    {
+      "basename": "Class diagram",
+      "path": "Notes/SSD Labs/Class diagram.md"
+    },
+    {
+      "basename": "Prototyping Model",
+      "path": "Notes/Software and System Design/Unit 1/SDC/Types of SLCM/Prototyping Model.md"
     },
     {
       "basename": "Software development cycle",
       "path": "Notes/Software and System Design/Unit 1/SDC/Software development cycle.md"
     },
     {
-      "basename": "Types of SLCM",
-      "path": "Notes/Software and System Design/Unit 1/SDC/Types of SLCM.md"
-    },
-    {
       "basename": "Design phase",
       "path": "Notes/Software and System Design/Unit 1/SDC/Design phase.md"
     },
     {
-      "basename": "Types of design patterns",
-      "path": "Notes/Software and System Design/Unit 1/Types of design patterns.md"
+      "basename": "Types of SLCM",
+      "path": "Notes/Software and System Design/Unit 1/SDC/Types of SLCM.md"
     },
     {
-      "basename": "Software Design Principles",
-      "path": "Notes/Software and System Design/Unit 1/Software Design Principles.md"
+      "basename": "Iterative water model",
+      "path": "Notes/Software and System Design/Unit 1/SDC/Types of SLCM/Iterative water model.md"
     },
     {
-      "basename": "Software development cycle",
-      "path": "Notes/Software and System Design/Unit 1/Software development cycle.md"
-    },
-    {
-      "basename": "Computational device",
-      "path": "Notes/Software and System Design/Unit 1/Computational device.md"
+      "basename": "Evolutionary Model",
+      "path": "Notes/Software and System Design/Unit 1/SDC/Types of SLCM/Evolutionary Model.md"
     },
     {
       "basename": "Classical waterfall model",
       "path": "Notes/Software and System Design/Unit 1/SDC/Types of SLCM/Classical waterfall model.md"
     },
     {
-      "basename": "Software",
-      "path": "Notes/Software and System Design/Unit 1/Software.md"
+      "basename": "Types of design patterns",
+      "path": "Notes/Software and System Design/Unit 1/Types of design patterns.md"
+    },
+    {
+      "basename": "Types of Design",
+      "path": "Notes/Software and System Design/Unit 1/Types of Design.md"
+    },
+    {
+      "basename": "Software development cycle",
+      "path": "Notes/Software and System Design/Unit 1/Software development cycle.md"
     },
     {
       "basename": "Programs",
@@ -61,12 +77,32 @@
       "path": "Notes/Software and System Design/Unit 1/Low Level design.md"
     },
     {
-      "basename": "Abstraction",
-      "path": "Notes/Software and System Design/Unit 1/Design Principles/Abstraction.md"
+      "basename": "Computational device",
+      "path": "Notes/Software and System Design/Unit 1/Computational device.md"
     },
     {
-      "basename": "Types of Design",
-      "path": "Notes/Software and System Design/Unit 1/Types of Design.md"
+      "basename": "Discrete",
+      "path": "Notes/Math/Discrete.md"
+    },
+    {
+      "basename": "Relations",
+      "path": "Notes/Math/Sets/Relations.md"
+    },
+    {
+      "basename": "Functions",
+      "path": "Notes/Math/Sets/Functions.md"
+    },
+    {
+      "basename": "Software Design Principles",
+      "path": "Notes/Software and System Design/Unit 1/Software Design Principles.md"
+    },
+    {
+      "basename": "Software",
+      "path": "Notes/Software and System Design/Unit 1/Software.md"
+    },
+    {
+      "basename": "Abstraction",
+      "path": "Notes/Software and System Design/Unit 1/Design Principles/Abstraction.md"
     },
     {
       "basename": "SRS Document",
@@ -79,10 +115,6 @@
     {
       "basename": "Pasted image 20241008141843",
       "path": "Screenshots/Pasted image 20241008141843.png"
-    },
-    {
-      "basename": "Discrete",
-      "path": "Notes/Math/Discrete.md"
     },
     {
       "basename": "De Morgan's theorem",
@@ -123,18 +155,6 @@
     {
       "basename": "Cartesian Product",
       "path": "Notes/Math/Sets/Cartesian Product.md"
-    },
-    {
-      "basename": "Functions",
-      "path": "Notes/Math/Sets/Functions.md"
-    },
-    {
-      "basename": "Matricies",
-      "path": "Notes/Math/Matricies.md"
-    },
-    {
-      "basename": "Relations",
-      "path": "Notes/Math/Sets/Relations.md"
     },
     {
       "basename": "Proper Subset",
@@ -179,26 +199,6 @@
     {
       "basename": "Data Expressions and statements (PYTHON)",
       "path": "Notes/Computational Thinking/Data Expressions and statements (PYTHON).md"
-    },
-    {
-      "basename": "Friction",
-      "path": "Notes/Physics/Mechanics/Friction.md"
-    },
-    {
-      "basename": "Applied Physics Breakdown",
-      "path": "Notes/Physics/Applied Physics Breakdown.md"
-    },
-    {
-      "basename": "Topic Explorer",
-      "path": "Notes/Physics/Topic Explorer.md"
-    },
-    {
-      "basename": "Class diagram",
-      "path": "Notes/SSD Labs/Class diagram.md"
-    },
-    {
-      "basename": "Diagonalization",
-      "path": "Notes/Math/Matricies/Diagonalization.md"
     }
   ],
   "omittedPaths": [],

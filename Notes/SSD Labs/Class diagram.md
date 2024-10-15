@@ -27,6 +27,6 @@ ___
 ```
 + Public
 # Protected
-- Protected
+- Private
 ```
 

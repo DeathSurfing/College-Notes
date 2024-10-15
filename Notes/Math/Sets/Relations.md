@@ -19,13 +19,6 @@ $$\forall(a,b)\in R \wedge (b,a)\in R $$
 
 ___
 
-
-
-### Relations
-Is a subset of cartesian product 
-$$R \subseteq A\times B$$
-
-
 [[Write 5 relations that satisfy]]
 
 [[Types of Relations]]

@@ -7,8 +7,6 @@
 - Implementation
 - Testing and integration
 - Maintenance
-
-
 ## Design Phase
 [[Design phase]]
 ## Types of SLCM

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Software and System Design/Unit 1.md",
+                "file": "Notes/Software and System Design/Unit 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Software and System Design/Unit 1.md",
+                "file": "Notes/Software and System Design/Unit 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Software and System Design/Unit 1.md",
+                "file": "Notes/Software and System Design/Unit 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Software and System Design/Unit 1.md"
+                "file": "Notes/Software and System Design/Unit 2.md"
               }
             }
           },
@@ -186,36 +186,36 @@
   },
   "active": "c92ace083003ce08",
   "lastOpenFiles": [
-    "Notes/Software and System Design/Unit 1/SDC/Software development cycle.md",
-    "Notes/Software and System Design/Unit 1/SDC/Types of SLCM.md",
+    "Notes/Software and System Design/Unit 2.md",
+    "Notes/Math/Matricies.md",
     "Notes/Software and System Design/Unit 1.md",
-    "Notes/Software and System Design/Unit 1/SDC/Design phase.md",
-    "Notes/Software and System Design/Unit 1/Types of design patterns.md",
-    "Notes/Software and System Design/Unit 1/Software Design Principles.md",
-    "Notes/Software and System Design/Unit 1/Software development cycle.md",
-    "Notes/Software and System Design/Unit 1/Computational device.md",
-    "Notes/Software and System Design/Unit 1/SDC/Types of SLCM/Classical waterfall model.md",
-    "Notes/Software and System Design/Unit 1/SDC/Types of SLCM",
-    "Notes/Software and System Design/Unit 1/SDC/Types of SLCM/Spiral Model.md",
-    "Notes/Software and System Design/Unit 1/SDC/Types of SLCM/Evolutionary Model.md",
+    "Notes/SSD Labs/Class diagram.md",
     "Notes/Software and System Design/Unit 1/SDC/Types of SLCM/Prototyping Model.md",
+    "Notes/Software and System Design/Unit 1/SDC/Software development cycle.md",
+    "Notes/Software and System Design/Unit 1/SDC/Design phase.md",
+    "Notes/Software and System Design/Unit 1/SDC/Types of SLCM.md",
     "Notes/Software and System Design/Unit 1/SDC/Types of SLCM/Iterative water model.md",
-    "Notes/Software and System Design/Unit 1/SLCM",
-    "Notes/Software and System Design/Unit 1/SDC",
-    "Notes/Software and System Design/Unit 1/Software.md",
+    "Notes/Software and System Design/Unit 1/SDC/Types of SLCM/Evolutionary Model.md",
+    "Notes/Software and System Design/Unit 1/SDC/Types of SLCM/Classical waterfall model.md",
+    "Notes/Software and System Design/Unit 1/Types of design patterns.md",
+    "Notes/Software and System Design/Unit 1/Types of Design.md",
+    "Notes/Software and System Design/Unit 1/Software development cycle.md",
     "Notes/Software and System Design/Unit 1/Programs.md",
     "Notes/Software and System Design/Unit 1/Package.md",
     "Notes/Software and System Design/Unit 1/Objectives of software design.md",
     "Notes/Software and System Design/Unit 1/Meta Data.md",
     "Notes/Software and System Design/Unit 1/Low Level design.md",
-    "Notes/Software and System Design/Unit 1/Design Principles/Abstraction.md",
+    "Notes/Software and System Design/Unit 1/Computational device.md",
+    "Notes/Math/Discrete.md",
+    "Notes/Math/Sets/Relations.md",
+    "Notes/Math/Sets/Functions.md",
+    "Notes/Software and System Design/Unit 1/Software Design Principles.md",
+    "Notes/Software and System Design/Unit 1/SDC/Types of SLCM",
+    "Notes/Software and System Design/Unit 1/SDC/Types of SLCM/Spiral Model.md",
+    "Notes/Software and System Design/Unit 1/SLCM",
+    "Notes/Software and System Design/Unit 1/SDC",
+    "Notes/Software and System Design/Unit 1/Software.md",
     "Notes/Software and System Design/Unit 1/Design Principles",
-    "Notes/Software and System Design/Unit 1/Design Principles/Functional Independence.md",
-    "Notes/Software and System Design/Unit 1/Design Principles/Modular design.md",
-    "Notes/Software and System Design/Unit 1/Design Principles/Modularity.md",
-    "Notes/Software and System Design/Unit 1/Design Principles/Decomposition.md",
-    "Notes/Software and System Design/Unit 1/Types of Design.md",
-    "Notes/Software and System Design/Unit 1/SRS Document.md",
     "Screenshots/Screenshot 2024-10-08 at 1.25.27 PM.png",
     "Screenshots/Pasted image 20241008141843.png",
     "Notes/Software and System Design/Unit 1",
