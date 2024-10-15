@@ -5,6 +5,82 @@
       "path": "Notes/Software and System Design/Unit 1.md"
     },
     {
+      "basename": "Software development cycle",
+      "path": "Notes/Software and System Design/Unit 1/SDC/Software development cycle.md"
+    },
+    {
+      "basename": "Types of SLCM",
+      "path": "Notes/Software and System Design/Unit 1/SDC/Types of SLCM.md"
+    },
+    {
+      "basename": "Design phase",
+      "path": "Notes/Software and System Design/Unit 1/SDC/Design phase.md"
+    },
+    {
+      "basename": "Types of design patterns",
+      "path": "Notes/Software and System Design/Unit 1/Types of design patterns.md"
+    },
+    {
+      "basename": "Software Design Principles",
+      "path": "Notes/Software and System Design/Unit 1/Software Design Principles.md"
+    },
+    {
+      "basename": "Software development cycle",
+      "path": "Notes/Software and System Design/Unit 1/Software development cycle.md"
+    },
+    {
+      "basename": "Computational device",
+      "path": "Notes/Software and System Design/Unit 1/Computational device.md"
+    },
+    {
+      "basename": "Classical waterfall model",
+      "path": "Notes/Software and System Design/Unit 1/SDC/Types of SLCM/Classical waterfall model.md"
+    },
+    {
+      "basename": "Software",
+      "path": "Notes/Software and System Design/Unit 1/Software.md"
+    },
+    {
+      "basename": "Programs",
+      "path": "Notes/Software and System Design/Unit 1/Programs.md"
+    },
+    {
+      "basename": "Package",
+      "path": "Notes/Software and System Design/Unit 1/Package.md"
+    },
+    {
+      "basename": "Objectives of software design",
+      "path": "Notes/Software and System Design/Unit 1/Objectives of software design.md"
+    },
+    {
+      "basename": "Meta Data",
+      "path": "Notes/Software and System Design/Unit 1/Meta Data.md"
+    },
+    {
+      "basename": "Low Level design",
+      "path": "Notes/Software and System Design/Unit 1/Low Level design.md"
+    },
+    {
+      "basename": "Abstraction",
+      "path": "Notes/Software and System Design/Unit 1/Design Principles/Abstraction.md"
+    },
+    {
+      "basename": "Types of Design",
+      "path": "Notes/Software and System Design/Unit 1/Types of Design.md"
+    },
+    {
+      "basename": "SRS Document",
+      "path": "Notes/Software and System Design/Unit 1/SRS Document.md"
+    },
+    {
+      "basename": "Screenshot 2024-10-08 at 1.25.27 PM",
+      "path": "Screenshots/Screenshot 2024-10-08 at 1.25.27 PM.png"
+    },
+    {
+      "basename": "Pasted image 20241008141843",
+      "path": "Screenshots/Pasted image 20241008141843.png"
+    },
+    {
       "basename": "Discrete",
       "path": "Notes/Math/Discrete.md"
     },
@@ -65,14 +141,6 @@
       "path": "Notes/Math/Sets/Proper Subset.md"
     },
     {
-      "basename": "Screenshot 2024-10-08 at 1.25.27 PM",
-      "path": "Screenshot 2024-10-08 at 1.25.27 PM.png"
-    },
-    {
-      "basename": "Pasted image 20241008141843",
-      "path": "Pasted image 20241008141843.png"
-    },
-    {
       "basename": "Prior knowledge",
       "path": "Notes/Math/Sets/Prior knowledge.md"
     },
@@ -131,74 +199,6 @@
     {
       "basename": "Diagonalization",
       "path": "Notes/Math/Matricies/Diagonalization.md"
-    },
-    {
-      "basename": "Superpostion Theorem",
-      "path": "Notes/IOT/Superpostion Theorem.md"
-    },
-    {
-      "basename": "Kirchoff's laws",
-      "path": "Notes/IOT/Kirchoff's laws.md"
-    },
-    {
-      "basename": "Electrical Saftey",
-      "path": "Notes/IOT/Electrical Saftey.md"
-    },
-    {
-      "basename": "Electrical Supply",
-      "path": "Notes/IOT/Electrical Supply.md"
-    },
-    {
-      "basename": "Waves",
-      "path": "Notes/Physics/Waves.md"
-    },
-    {
-      "basename": "LAB 3",
-      "path": "Notes/SSD Labs/LAB 3.md"
-    },
-    {
-      "basename": "Drawing 2024-10-04 11.19.54.excalidraw",
-      "path": "Excalidraw/Drawing 2024-10-04 11.19.54.excalidraw.md"
-    },
-    {
-      "basename": "IOT Assignment 1",
-      "path": "Notes/IOT/IOT Assignment 1.md"
-    },
-    {
-      "basename": "Topic Explorer",
-      "path": "Notes/Computational Thinking/Topic Explorer.md"
-    },
-    {
-      "basename": "Algorithms",
-      "path": "Notes/Computational Thinking/Algorithms.md"
-    },
-    {
-      "basename": "Assessment 1 prep",
-      "path": "Notes/IKS (Indian Knowledge System)/Assessment 1 prep.md"
-    },
-    {
-      "basename": "BTECH CSE AIML RHINOS G2 2024-28 24WU0102119 Lab 1",
-      "path": "CTPS 1st year/BTECH CSE AIML RHINOS G2 2024-28 24WU0102119 Lab 1.ipynb"
-    },
-    {
-      "basename": "BTECH CSE AIML RHINOS G2 2024-28 24WU0102119 Adding two numbers",
-      "path": "CTPS 1st year/BTECH CSE AIML RHINOS G2 2024-28 24WU0102119 Adding two numbers.ipynb"
-    },
-    {
-      "basename": "Topic Explorer",
-      "path": "Notes/Math/Topic Explorer.md"
-    },
-    {
-      "basename": "Some other types of matrices",
-      "path": "Notes/Math/Matricies/Some other types of matrices.md"
-    },
-    {
-      "basename": "Elementary Operations",
-      "path": "Notes/Math/Matricies/Elementary Operations.md"
-    },
-    {
-      "basename": "Row Operations Homework",
-      "path": "Notes/Math/Matricies/Row Operations Homework.md"
     }
   ],
   "omittedPaths": [],
