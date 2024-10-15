@@ -95,7 +95,11 @@ $R_{5,3}=\frac{0.160048-0.12226212}{8\times 5893\times 10^-8}=~80.15cm$
 $R_{7,5}=97.043cm$
 $R_{7,3}=177.19cm$
 
-Average:
+Average $R$: 118.07 cm
+
+# Error Prorogation:
+$\text{Standard Deviation:}42.329$
+
 
 # Precautions:
 1. The glass plate surface and the lens surface must be thoroughly cleaned otherwise

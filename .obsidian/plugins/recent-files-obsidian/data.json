@@ -5,12 +5,16 @@
       "path": "Notes/Physics/LABS/Newton Rings.md"
     },
     {
-      "basename": "Solar Cell",
-      "path": "Notes/Physics/LABS/Solar Cell.md"
-    },
-    {
       "basename": "Diffraction Gratting",
       "path": "Notes/Physics/LABS/Diffraction Gratting.md"
+    },
+    {
+      "basename": "Numerical Aperture",
+      "path": "Notes/Physics/LABS/Numerical Aperture.md"
+    },
+    {
+      "basename": "Solar Cell",
+      "path": "Notes/Physics/LABS/Solar Cell.md"
     },
     {
       "basename": "Applied Physics Breakdown",
@@ -195,10 +199,6 @@
     {
       "basename": "Cardinality",
       "path": "Notes/Math/Sets/Cardinality.md"
-    },
-    {
-      "basename": "Set forms",
-      "path": "Notes/Math/Sets/Set forms.md"
     }
   ],
   "omittedPaths": [],
