@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Unit 2",
-      "path": "Notes/Software and System Design/Unit 2.md"
-    },
-    {
       "basename": "Matricies",
       "path": "Notes/Math/Matricies.md"
+    },
+    {
+      "basename": "Converting from Quadratic form to matrix form",
+      "path": "Notes/Math/Matricies/Converting from Quadratic form to matrix form.md"
+    },
+    {
+      "basename": "Calculus",
+      "path": "Notes/Math/Calculus.md"
+    },
+    {
+      "basename": "Unit 2",
+      "path": "Notes/Software and System Design/Unit 2.md"
     },
     {
       "basename": "Unit 1",
@@ -191,14 +199,6 @@
     {
       "basename": "Computational Thinking breakdown",
       "path": "Notes/Computational Thinking/Computational Thinking breakdown.md"
-    },
-    {
-      "basename": "Control flow and functions",
-      "path": "Notes/Computational Thinking/Control flow and functions.md"
-    },
-    {
-      "basename": "Data Expressions and statements (PYTHON)",
-      "path": "Notes/Computational Thinking/Data Expressions and statements (PYTHON).md"
     }
   ],
   "omittedPaths": [],

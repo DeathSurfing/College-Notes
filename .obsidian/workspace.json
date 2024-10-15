@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Software and System Design/Unit 2.md",
+                "file": "Notes/Math/Matricies.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Software and System Design/Unit 2.md",
+                "file": "Notes/Math/Matricies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Software and System Design/Unit 2.md",
+                "file": "Notes/Math/Matricies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Software and System Design/Unit 2.md"
+                "file": "Notes/Math/Matricies.md"
               }
             }
           },
@@ -186,8 +186,11 @@
   },
   "active": "c92ace083003ce08",
   "lastOpenFiles": [
-    "Notes/Software and System Design/Unit 2.md",
+    "Notes/Math/Matricies/Converting from Quadratic form to matrix form.md",
     "Notes/Math/Matricies.md",
+    "Notes/Math/Matricies/Canonical form.md",
+    "Notes/Math/Calculus.md",
+    "Notes/Software and System Design/Unit 2.md",
     "Notes/Software and System Design/Unit 1.md",
     "Notes/SSD Labs/Class diagram.md",
     "Notes/Software and System Design/Unit 1/SDC/Types of SLCM/Prototyping Model.md",
@@ -209,12 +212,9 @@
     "Notes/Math/Discrete.md",
     "Notes/Math/Sets/Relations.md",
     "Notes/Math/Sets/Functions.md",
-    "Notes/Software and System Design/Unit 1/Software Design Principles.md",
     "Notes/Software and System Design/Unit 1/SDC/Types of SLCM",
-    "Notes/Software and System Design/Unit 1/SDC/Types of SLCM/Spiral Model.md",
     "Notes/Software and System Design/Unit 1/SLCM",
     "Notes/Software and System Design/Unit 1/SDC",
-    "Notes/Software and System Design/Unit 1/Software.md",
     "Notes/Software and System Design/Unit 1/Design Principles",
     "Screenshots/Screenshot 2024-10-08 at 1.25.27 PM.png",
     "Screenshots/Pasted image 20241008141843.png",
