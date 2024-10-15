@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Solar Cell",
+      "path": "Notes/Physics/LABS/Solar Cell.md"
+    },
+    {
+      "basename": "Drawing 2024-10-15 11.47.54.excalidraw",
+      "path": "Excalidraw/Drawing 2024-10-15 11.47.54.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2024-10-04 11.19.54.excalidraw",
+      "path": "Excalidraw/Drawing 2024-10-04 11.19.54.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2023-07-23 03.49.00.excalidraw",
+      "path": "Excalidraw/Drawing 2023-07-23 03.49.00.excalidraw.md"
+    },
+    {
+      "basename": "Applied Physics Breakdown",
+      "path": "Notes/Physics/Applied Physics Breakdown.md"
+    },
+    {
+      "basename": "Quantum Physics",
+      "path": "Notes/Physics/Quantum Physics.md"
+    },
+    {
       "basename": "Calculus",
       "path": "Notes/Math/Calculus.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "Prior knowledge",
       "path": "Notes/Math/Sets/Prior knowledge.md"
-    },
-    {
-      "basename": "Eigen Values and Eigen Vectors",
-      "path": "Notes/Math/Matricies/Eigen Values and Eigen Vectors.md"
-    },
-    {
-      "basename": "Dependent system of equation",
-      "path": "Notes/Math/Matricies/Dependent system of equation.md"
-    },
-    {
-      "basename": "Cayley-Hamilton Theorem",
-      "path": "Notes/Math/Matricies/Cayley-Hamilton Theorem.md"
-    },
-    {
-      "basename": "Who discovered the matrix",
-      "path": "Notes/Math/Matricies/Who discovered the matrix.md"
-    },
-    {
-      "basename": "Types of matrices",
-      "path": "Notes/Math/Matricies/Types of matrices.md"
-    },
-    {
-      "basename": "Quantum Physics",
-      "path": "Notes/Physics/Quantum Physics.md"
     }
   ],
   "omittedPaths": [],
