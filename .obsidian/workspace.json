@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Physics/LABS/Newton Rings.md",
+                "file": "Notes/Physics/LABS/Numerical Aperture.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Physics/LABS/Newton Rings.md",
+                "file": "Notes/Physics/LABS/Numerical Aperture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Physics/LABS/Newton Rings.md",
+                "file": "Notes/Physics/LABS/Numerical Aperture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Physics/LABS/Newton Rings.md"
+                "file": "Notes/Physics/LABS/Numerical Aperture.md"
               }
             }
           },
@@ -212,8 +212,8 @@
   "active": "74fddf7ea9ec50a8",
   "lastOpenFiles": [
     "Notes/Physics/LABS/Diffraction Gratting.md",
-    "Notes/Physics/LABS/Numerical Aperture.md",
     "Notes/Physics/LABS/Newton Rings.md",
+    "Notes/Physics/LABS/Numerical Aperture.md",
     "Notes/Physics/LABS/Solar Cell.md",
     "Notes/Physics/Applied Physics Breakdown.md",
     "Notes/Physics/Quantum Physics.md",
