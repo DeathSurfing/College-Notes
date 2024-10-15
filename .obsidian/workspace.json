@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Physics/LABS/Solar Cell.md",
+                "file": "Notes/Physics/LABS/Newton Rings.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Physics/LABS/Solar Cell.md",
+                "file": "Notes/Physics/LABS/Newton Rings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Physics/LABS/Solar Cell.md",
+                "file": "Notes/Physics/LABS/Newton Rings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Physics/LABS/Solar Cell.md"
+                "file": "Notes/Physics/LABS/Newton Rings.md"
               }
             }
           },
@@ -211,14 +211,18 @@
   },
   "active": "74fddf7ea9ec50a8",
   "lastOpenFiles": [
+    "Notes/Physics/LABS/Solar Cell.md",
+    "Notes/Physics/LABS/Newton Rings.md",
+    "Notes/Physics/LABS/Diffraction Gratting.md",
+    "Notes/Physics/Applied Physics Breakdown.md",
+    "Notes/Physics/Quantum Physics.md",
+    "Notes/Temp notes.md",
+    "Desmos Graph.png",
     "Screenshot 2024-10-15 at 11.57.18 AM.png",
     "Excalidraw/Drawing 2024-10-15 11.47.54.excalidraw.md",
     "Excalidraw/Drawing 2024-10-04 11.19.54.excalidraw.md",
     "Excalidraw/Drawing 2023-07-23 03.49.00.excalidraw.md",
-    "Notes/Physics/LABS/Solar Cell.md",
     "Screenshot 2024-10-15 at 11.52.36 AM.png",
-    "Notes/Physics/Applied Physics Breakdown.md",
-    "Notes/Physics/Quantum Physics.md",
     "Notes/Math/Calculus.md",
     "Notes/Physics/LABS",
     "Notes/Math/Discrete.md",
@@ -237,8 +241,6 @@
     "Notes/Software and System Design/Unit 1/SDC/Types of SLCM/Evolutionary Model.md",
     "Notes/Software and System Design/Unit 1/SDC/Types of SLCM/Classical waterfall model.md",
     "Notes/Software and System Design/Unit 1/Types of design patterns.md",
-    "Notes/Software and System Design/Unit 1/Types of Design.md",
-    "Notes/Software and System Design/Unit 1/Software development cycle.md",
     "Notes/Software and System Design/Unit 1/SDC/Types of SLCM",
     "Notes/Software and System Design/Unit 1/SLCM",
     "Notes/Software and System Design/Unit 1/SDC",
@@ -256,8 +258,6 @@
     "Screenshots/Screenshot 2024-10-04 at 12.00.57 PM.png",
     "Screenshots/Screenshot 2024-10-04 at 12.00.29 PM.png",
     "Screenshots/Screenshot 2024-10-04 at 11.58.41 AM.png",
-    "Screenshots/Screenshot 2024-10-04 at 11.51.11 AM.png",
-    "Screenshots/Screenshot 2024-10-04 at 11.41.29 AM.png",
     "Untitled 1.canvas"
   ]
 }

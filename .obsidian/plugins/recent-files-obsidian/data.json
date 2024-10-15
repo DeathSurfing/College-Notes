@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Newton Rings",
+      "path": "Notes/Physics/LABS/Newton Rings.md"
+    },
+    {
       "basename": "Solar Cell",
       "path": "Notes/Physics/LABS/Solar Cell.md"
+    },
+    {
+      "basename": "Diffraction Gratting",
+      "path": "Notes/Physics/LABS/Diffraction Gratting.md"
+    },
+    {
+      "basename": "Applied Physics Breakdown",
+      "path": "Notes/Physics/Applied Physics Breakdown.md"
+    },
+    {
+      "basename": "Quantum Physics",
+      "path": "Notes/Physics/Quantum Physics.md"
+    },
+    {
+      "basename": "Temp notes",
+      "path": "Notes/Temp notes.md"
     },
     {
       "basename": "Drawing 2024-10-15 11.47.54.excalidraw",
@@ -15,14 +35,6 @@
     {
       "basename": "Drawing 2023-07-23 03.49.00.excalidraw",
       "path": "Excalidraw/Drawing 2023-07-23 03.49.00.excalidraw.md"
-    },
-    {
-      "basename": "Applied Physics Breakdown",
-      "path": "Notes/Physics/Applied Physics Breakdown.md"
-    },
-    {
-      "basename": "Quantum Physics",
-      "path": "Notes/Physics/Quantum Physics.md"
     },
     {
       "basename": "Calculus",
@@ -187,18 +199,6 @@
     {
       "basename": "Set forms",
       "path": "Notes/Math/Sets/Set forms.md"
-    },
-    {
-      "basename": "Cartesian Product",
-      "path": "Notes/Math/Sets/Cartesian Product.md"
-    },
-    {
-      "basename": "Proper Subset",
-      "path": "Notes/Math/Sets/Proper Subset.md"
-    },
-    {
-      "basename": "Prior knowledge",
-      "path": "Notes/Math/Sets/Prior knowledge.md"
     }
   ],
   "omittedPaths": [],
