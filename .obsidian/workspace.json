@@ -11,8 +11,12 @@
             "id": "c92ace083003ce08",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Math/Discrete.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/Math/Discrete.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/Math/Discrete.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/Math/Discrete.md"
+              }
             }
           },
           {
@@ -178,10 +186,11 @@
   },
   "active": "c92ace083003ce08",
   "lastOpenFiles": [
+    "Notes/Math/Sets/Cartesian Product.md",
     "Notes/Math/Discrete.md",
+    "Notes/Math/Sets/Functions.md",
     "Notes/Math/Matricies.md",
     "Notes/Math/Sets/Relations.md",
-    "Notes/Math/Sets/Cartesian Product.md",
     "Notes/Math/Sets/Books recommended for Discrete Math course.md",
     "Notes/Math/Sets/Proper Subset.md",
     "Notes/Math/Sets/Cardinality.md",
@@ -206,7 +215,6 @@
     "Notes/Math/Sets/Mathematical symbols.md",
     "Notes/Math/Sets/Empty set.md",
     "Notes/Math/Sets/Set forms.md",
-    "Notes/Math/Sets/Unit 1.md",
     "Notes/SSD Labs",
     "CTPS 1st year/BTECH CSE AIML RHINOS G2 2024-28 24WU0102119 Lab 1.ipynb",
     "CTPS 1st year/BTECH CSE AIML RHINOS G2 2024-28 24WU0102119 Adding two numbers.ipynb",

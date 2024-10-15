@@ -5,16 +5,20 @@
       "path": "Notes/Math/Discrete.md"
     },
     {
+      "basename": "Cartesian Product",
+      "path": "Notes/Math/Sets/Cartesian Product.md"
+    },
+    {
+      "basename": "Functions",
+      "path": "Notes/Math/Sets/Functions.md"
+    },
+    {
       "basename": "Matricies",
       "path": "Notes/Math/Matricies.md"
     },
     {
       "basename": "Relations",
       "path": "Notes/Math/Sets/Relations.md"
-    },
-    {
-      "basename": "Cartesian Product",
-      "path": "Notes/Math/Sets/Cartesian Product.md"
     },
     {
       "basename": "Books recommended for Discrete Math course",
@@ -195,10 +199,6 @@
     {
       "basename": "Drawing 2024-09-11 14.24.06.excalidraw",
       "path": "Excalidraw/Drawing 2024-09-11 14.24.06.excalidraw.md"
-    },
-    {
-      "basename": "Drawing 2024-09-10 15.02.28.excalidraw",
-      "path": "Excalidraw/Drawing 2024-09-10 15.02.28.excalidraw.md"
     }
   ],
   "omittedPaths": [],
