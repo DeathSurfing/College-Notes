@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Calculus",
+      "path": "Notes/Math/Calculus.md"
+    },
+    {
+      "basename": "Discrete",
+      "path": "Notes/Math/Discrete.md"
+    },
+    {
       "basename": "Matricies",
       "path": "Notes/Math/Matricies.md"
     },
     {
-      "basename": "Converting from Quadratic form to matrix form",
-      "path": "Notes/Math/Matricies/Converting from Quadratic form to matrix form.md"
+      "basename": "Topic Explorer",
+      "path": "Notes/Math/Topic Explorer.md"
     },
     {
-      "basename": "Calculus",
-      "path": "Notes/Math/Calculus.md"
+      "basename": "Converting from Quadratic form to matrix form",
+      "path": "Notes/Math/Matricies/Converting from Quadratic form to matrix form.md"
     },
     {
       "basename": "Unit 2",
@@ -87,10 +95,6 @@
     {
       "basename": "Computational device",
       "path": "Notes/Software and System Design/Unit 1/Computational device.md"
-    },
-    {
-      "basename": "Discrete",
-      "path": "Notes/Math/Discrete.md"
     },
     {
       "basename": "Relations",
@@ -195,10 +199,6 @@
     {
       "basename": "Quantum Physics",
       "path": "Notes/Physics/Quantum Physics.md"
-    },
-    {
-      "basename": "Computational Thinking breakdown",
-      "path": "Notes/Computational Thinking/Computational Thinking breakdown.md"
     }
   ],
   "omittedPaths": [],
