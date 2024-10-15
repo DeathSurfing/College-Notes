@@ -1,8 +1,48 @@
 {
   "recentFiles": [
     {
+      "basename": "Unit 1",
+      "path": "Notes/Software and System Design/Unit 1.md"
+    },
+    {
       "basename": "Discrete",
       "path": "Notes/Math/Discrete.md"
+    },
+    {
+      "basename": "De Morgan's theorem",
+      "path": "Notes/Math/Sets/De Morgan's theorem.md"
+    },
+    {
+      "basename": "Set of factors of 12 and 2",
+      "path": "Notes/Math/Sets/Set of factors of 12 and 2.md"
+    },
+    {
+      "basename": "Mathematical representation of Subsets",
+      "path": "Notes/Math/Sets/Mathematical representation of Subsets.md"
+    },
+    {
+      "basename": "Mathematical symbols",
+      "path": "Notes/Math/Sets/Mathematical symbols.md"
+    },
+    {
+      "basename": "Books recommended for Discrete Math course",
+      "path": "Notes/Math/Sets/Books recommended for Discrete Math course.md"
+    },
+    {
+      "basename": "Property of sets",
+      "path": "Notes/Math/Sets/Property of sets.md"
+    },
+    {
+      "basename": "Empty set",
+      "path": "Notes/Math/Sets/Empty set.md"
+    },
+    {
+      "basename": "Cardinality",
+      "path": "Notes/Math/Sets/Cardinality.md"
+    },
+    {
+      "basename": "Set forms",
+      "path": "Notes/Math/Sets/Set forms.md"
     },
     {
       "basename": "Cartesian Product",
@@ -21,16 +61,8 @@
       "path": "Notes/Math/Sets/Relations.md"
     },
     {
-      "basename": "Books recommended for Discrete Math course",
-      "path": "Notes/Math/Sets/Books recommended for Discrete Math course.md"
-    },
-    {
       "basename": "Proper Subset",
       "path": "Notes/Math/Sets/Proper Subset.md"
-    },
-    {
-      "basename": "Cardinality",
-      "path": "Notes/Math/Sets/Cardinality.md"
     },
     {
       "basename": "Screenshot 2024-10-08 at 1.25.27 PM",
@@ -43,10 +75,6 @@
     {
       "basename": "Prior knowledge",
       "path": "Notes/Math/Sets/Prior knowledge.md"
-    },
-    {
-      "basename": "Property of sets",
-      "path": "Notes/Math/Sets/Property of sets.md"
     },
     {
       "basename": "Eigen Values and Eigen Vectors",
@@ -67,10 +95,6 @@
     {
       "basename": "Types of matrices",
       "path": "Notes/Math/Matricies/Types of matrices.md"
-    },
-    {
-      "basename": "Unit 1",
-      "path": "Notes/Software and System Design/Unit 1.md"
     },
     {
       "basename": "Quantum Physics",
@@ -175,30 +199,6 @@
     {
       "basename": "Row Operations Homework",
       "path": "Notes/Math/Matricies/Row Operations Homework.md"
-    },
-    {
-      "basename": "Drawing 2024-09-30 14.57.11.excalidraw",
-      "path": "Excalidraw/Drawing 2024-09-30 14.57.11.excalidraw.md"
-    },
-    {
-      "basename": "Drawing 2024-09-30 14.57.10.excalidraw",
-      "path": "Excalidraw/Drawing 2024-09-30 14.57.10.excalidraw.md"
-    },
-    {
-      "basename": "Drawing 2024-09-11 14.35.24.excalidraw",
-      "path": "Excalidraw/Drawing 2024-09-11 14.35.24.excalidraw.md"
-    },
-    {
-      "basename": "Drawing 2024-09-11 14.32.48.excalidraw",
-      "path": "Excalidraw/Drawing 2024-09-11 14.32.48.excalidraw.md"
-    },
-    {
-      "basename": "Drawing 2024-09-11 14.31.26.excalidraw",
-      "path": "Excalidraw/Drawing 2024-09-11 14.31.26.excalidraw.md"
-    },
-    {
-      "basename": "Drawing 2024-09-11 14.24.06.excalidraw",
-      "path": "Excalidraw/Drawing 2024-09-11 14.24.06.excalidraw.md"
     }
   ],
   "omittedPaths": [],

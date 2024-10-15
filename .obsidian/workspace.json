@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Math/Discrete.md",
+                "file": "Notes/Software and System Design/Unit 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Math/Discrete.md",
+                "file": "Notes/Software and System Design/Unit 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Math/Discrete.md",
+                "file": "Notes/Software and System Design/Unit 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Math/Discrete.md"
+                "file": "Notes/Software and System Design/Unit 1.md"
               }
             }
           },
@@ -186,35 +186,35 @@
   },
   "active": "c92ace083003ce08",
   "lastOpenFiles": [
-    "Notes/Math/Sets/Cartesian Product.md",
     "Notes/Math/Discrete.md",
+    "Notes/Math/Sets/De Morgan's theorem.md",
+    "Notes/Math/Sets/Set of factors of 12 and 2.md",
+    "Notes/Math/Sets/Mathematical representation of Subsets.md",
+    "Notes/Math/Sets/Mathematical symbols.md",
+    "Notes/Math/Sets/Books recommended for Discrete Math course.md",
+    "Notes/Math/Sets/Property of sets.md",
+    "Notes/Math/Sets/Empty set.md",
+    "Notes/Math/Sets/Cardinality.md",
+    "Notes/Math/Sets/Set forms.md",
+    "Notes/Math/Sets/Cartesian Product.md",
     "Notes/Math/Sets/Functions.md",
     "Notes/Math/Matricies.md",
     "Notes/Math/Sets/Relations.md",
-    "Notes/Math/Sets/Books recommended for Discrete Math course.md",
     "Notes/Math/Sets/Proper Subset.md",
-    "Notes/Math/Sets/Cardinality.md",
     "Screenshot 2024-10-08 at 1.25.27 PM.png",
     "Pasted image 20241008141843.png",
     "Notes/Math/Sets/Prior knowledge.md",
-    "Notes/Math/Sets/Property of sets.md",
     "Notes/Math/Sets",
     "Notes/Math/Sets/Types of Relations.md",
     "Notes/Math/Sets/Write 5 relations that satisfy.md",
     "Notes/Math/Sets/Solved Problems.md",
     "Notes/Math/Sets/Home work.md",
-    "Notes/Math/Sets/De Morgan's theorem.md",
     "Notes/Math/Sets/Laws of sets.md",
     "Notes/Math/Sets/Operations on sets.md",
     "Notes/Math/Sets/Union and intersection repetition notation.md",
     "Notes/Math/Sets/Intersection.md",
     "Notes/Math/Sets/Union.md",
-    "Notes/Math/Sets/Set of factors of 12 and 2.md",
     "Notes/Math/Sets/When are two sets equal.md",
-    "Notes/Math/Sets/Mathematical representation of Subsets.md",
-    "Notes/Math/Sets/Mathematical symbols.md",
-    "Notes/Math/Sets/Empty set.md",
-    "Notes/Math/Sets/Set forms.md",
     "Notes/SSD Labs",
     "CTPS 1st year/BTECH CSE AIML RHINOS G2 2024-28 24WU0102119 Lab 1.ipynb",
     "CTPS 1st year/BTECH CSE AIML RHINOS G2 2024-28 24WU0102119 Adding two numbers.ipynb",
