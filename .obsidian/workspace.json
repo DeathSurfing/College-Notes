@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c92ace083003ce08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Math/Calculus.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "40ba4f9cc8a59c0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Physics/LABS/Solar Cell.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "74fddf7ea9ec50a8",
             "type": "leaf",
             "state": {
@@ -43,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,7 +184,7 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "74fddf7ea9ec50a8",
+  "active": "e3647347c29efbd6",
   "lastOpenFiles": [
     "Notes/Math/Sets/Relations.md",
     "Notes/Math/Discrete.md",
