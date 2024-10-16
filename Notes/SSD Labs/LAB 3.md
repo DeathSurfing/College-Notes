@@ -16,3 +16,5 @@ To create the visual representation in StarUML follow these steps
 		- Dog
 	- Define Inheritance relationships
 		- Mammal Inherit from animal, methods such as eat() , sleep(),etc...
+
+![[Screenshot 2024-10-16 at 11.44.27 AM.png]]

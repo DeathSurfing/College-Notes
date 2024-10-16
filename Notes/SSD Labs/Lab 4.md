@@ -10,3 +10,7 @@ Construct an object diagram for a smart home automation system using StarUML inc
 
 
 # Steps
+
+
+
+![[Screenshot 2024-10-16 at 11.43.11 AM.png]]
