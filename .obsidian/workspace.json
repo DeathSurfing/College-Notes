@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "dd72b4f14f0dc7fc",
+        "id": "4b5077343a7a88e9",
         "type": "tabs",
         "children": [
           {
-            "id": "5f82bdfebd7930a8",
+            "id": "6d02584274d0050e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/IOT/Electrical Supply.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0e71076073c6c740",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/IOT/Electrical Supply.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d945c0d860798e09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/IOT/Electrical Supply.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "11f89836e34d4512",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Math/Matricies.md",
+                "file": "Notes/Math/Matricies/Canonical form.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Math/Matricies.md",
+                "file": "Notes/Math/Matricies/Canonical form.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Math/Matricies.md",
+                "file": "Notes/Math/Matricies/Canonical form.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Math/Matricies.md"
+                "file": "Notes/Math/Matricies/Canonical form.md"
               }
             }
           },
@@ -221,15 +184,17 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "11f89836e34d4512",
+  "active": "6d02584274d0050e",
   "lastOpenFiles": [
-    "Notes/Math/Matricies/Converting from Quadratic form to matrix form.md",
     "Notes/Math/Matricies.md",
+    "Notes/Math/Matricies/Some other types of matrices.md",
+    "Notes/Math/Matricies/Types of matrices.md",
+    "Notes/Math/Matricies/Canonical form.md",
+    "Notes/Math/Matricies/Converting from Quadratic form to matrix form.md",
     "Notes/Math/Matricies/Diagonalization.md",
+    "Notes/IOT/Electrical Supply.md",
     "Notes/Math/Matricies/Cayley-Hamilton Theorem.md",
     "Notes/Math/Matricies/Eigen Values and Eigen Vectors.md",
-    "Notes/Math/Matricies/Canonical form.md",
-    "Notes/IOT/Electrical Supply.md",
     "Notes/SSD Labs/Lab 5.md",
     "Notes/SSD Labs/Lab 4.md",
     "Notes/SSD Labs/LAB 3.md",
@@ -242,9 +207,7 @@
     "Notes/Physics/LABS",
     "Notes/Math/Matricies/Who discovered the matrix.md",
     "Notes/Math/Matricies/What is a matrix.md",
-    "Notes/Math/Matricies/Types of matrices.md",
     "Notes/Math/Matricies/To find the rank of a matrix and a augmented matrix.md",
-    "Notes/Math/Matricies/Some other types of matrices.md",
     "Notes/Math/Matricies/Row Operations Homework.md",
     "Notes/Math/Matricies/Rank of a matrix.md",
     "Notes/Math/Matricies/Order of matrix.md",
