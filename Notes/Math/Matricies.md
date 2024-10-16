@@ -38,4 +38,5 @@ ___
 [[Diagonalization]]
 
 [[Converting from Quadratic form to matrix form]]
+
 [[Canonical form]]

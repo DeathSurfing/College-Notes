@@ -32,6 +32,21 @@ A set that satisfies:
 - Transitive
 properties
 
+### Comparable and incomparable POSET
+
+#### Comparable POSET:
+Two elements a and b in a POSET $(S, \leq)$ is comparable if it satisfies one of the following conditions:
+$S= \{a,b\}$
+$a\leq b\ \vee b\leq a$
+$a\subseteq  b\ \vee b\subseteq a$
+$a/b \vee b/a$
+
+#### Incomparable POSET:
+Two elements a and b in a POSET$(S,\leq)$ is incomparable if it doesn't satisfy any of the conditions of comparable
+
+
+
+
 ### Complete and incomplete
 
 ### Totally Ordered

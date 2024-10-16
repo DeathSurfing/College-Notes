@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/SSD Labs/LAB 3.md",
+                "file": "Notes/Math/Discrete.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/SSD Labs/LAB 3.md",
+                "file": "Notes/Math/Discrete.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/SSD Labs/LAB 3.md",
+                "file": "Notes/Math/Discrete.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/SSD Labs/LAB 3.md"
+                "file": "Notes/Math/Discrete.md"
               }
             }
           },
@@ -211,14 +211,20 @@
   },
   "active": "74fddf7ea9ec50a8",
   "lastOpenFiles": [
+    "Notes/Math/Sets/Relations.md",
+    "Notes/Math/Discrete.md",
+    "Notes/Math/Calculus.md",
+    "Notes/Math/Matricies.md",
+    "Notes/Math/Matricies/Diagonalization.md",
+    "Notes/Math/Matricies/Converting from Quadratic form to matrix form.md",
+    "Notes/SSD Labs/Class diagram.md",
+    "Notes/Software and System Design/Unit 2.md",
+    "Notes/SSD Labs/LAB 3.md",
     "Notes/SSD Labs/Lab 5.md",
     "Notes/SSD Labs/Lab 4.md",
-    "Notes/SSD Labs/LAB 3.md",
     "Screenshot 2024-10-16 at 11.44.27 AM.png",
     "Screenshot 2024-10-16 at 11.43.11 AM.png",
     "Screenshot 2024-10-16 at 11.41.35 AM.png",
-    "Notes/Software and System Design/Unit 2.md",
-    "Notes/SSD Labs/Class diagram.md",
     "Notes/Software and System Design/Unit 1.md",
     "Notes/Physics/LABS/Numerical Aperture.md",
     "Notes/Physics/LABS/Diffraction Gratting.md",
@@ -233,16 +239,11 @@
     "Excalidraw/Drawing 2024-10-04 11.19.54.excalidraw.md",
     "Excalidraw/Drawing 2023-07-23 03.49.00.excalidraw.md",
     "Screenshot 2024-10-15 at 11.52.36 AM.png",
-    "Notes/Math/Calculus.md",
     "Notes/Physics/LABS",
-    "Notes/Math/Discrete.md",
-    "Notes/Math/Matricies.md",
     "Notes/Math/Topic Explorer.md",
-    "Notes/Math/Matricies/Converting from Quadratic form to matrix form.md",
     "Notes/Math/Matricies/Canonical form.md",
     "Notes/Software and System Design/Unit 1/SDC/Types of SLCM/Prototyping Model.md",
     "Notes/Software and System Design/Unit 1/SDC/Software development cycle.md",
-    "Notes/Software and System Design/Unit 1/SDC/Design phase.md",
     "Notes/Software and System Design/Unit 1/SDC/Types of SLCM",
     "Notes/Software and System Design/Unit 1/SLCM",
     "Notes/Software and System Design/Unit 1/SDC",

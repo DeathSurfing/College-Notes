@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "Discrete",
+      "path": "Notes/Math/Discrete.md"
+    },
+    {
+      "basename": "Relations",
+      "path": "Notes/Math/Sets/Relations.md"
+    },
+    {
+      "basename": "Calculus",
+      "path": "Notes/Math/Calculus.md"
+    },
+    {
+      "basename": "Matricies",
+      "path": "Notes/Math/Matricies.md"
+    },
+    {
+      "basename": "Diagonalization",
+      "path": "Notes/Math/Matricies/Diagonalization.md"
+    },
+    {
+      "basename": "Converting from Quadratic form to matrix form",
+      "path": "Notes/Math/Matricies/Converting from Quadratic form to matrix form.md"
+    },
+    {
+      "basename": "Class diagram",
+      "path": "Notes/SSD Labs/Class diagram.md"
+    },
+    {
+      "basename": "Unit 2",
+      "path": "Notes/Software and System Design/Unit 2.md"
+    },
+    {
       "basename": "LAB 3",
       "path": "Notes/SSD Labs/LAB 3.md"
     },
@@ -11,14 +43,6 @@
     {
       "basename": "Lab 4",
       "path": "Notes/SSD Labs/Lab 4.md"
-    },
-    {
-      "basename": "Unit 2",
-      "path": "Notes/Software and System Design/Unit 2.md"
-    },
-    {
-      "basename": "Class diagram",
-      "path": "Notes/SSD Labs/Class diagram.md"
     },
     {
       "basename": "Unit 1",
@@ -65,24 +89,8 @@
       "path": "Excalidraw/Drawing 2023-07-23 03.49.00.excalidraw.md"
     },
     {
-      "basename": "Calculus",
-      "path": "Notes/Math/Calculus.md"
-    },
-    {
-      "basename": "Discrete",
-      "path": "Notes/Math/Discrete.md"
-    },
-    {
-      "basename": "Matricies",
-      "path": "Notes/Math/Matricies.md"
-    },
-    {
       "basename": "Topic Explorer",
       "path": "Notes/Math/Topic Explorer.md"
-    },
-    {
-      "basename": "Converting from Quadratic form to matrix form",
-      "path": "Notes/Math/Matricies/Converting from Quadratic form to matrix form.md"
     },
     {
       "basename": "Prototyping Model",
@@ -149,10 +157,6 @@
       "path": "Notes/Software and System Design/Unit 1/Computational device.md"
     },
     {
-      "basename": "Relations",
-      "path": "Notes/Math/Sets/Relations.md"
-    },
-    {
       "basename": "Functions",
       "path": "Notes/Math/Sets/Functions.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Mathematical symbols",
       "path": "Notes/Math/Sets/Mathematical symbols.md"
-    },
-    {
-      "basename": "Books recommended for Discrete Math course",
-      "path": "Notes/Math/Sets/Books recommended for Discrete Math course.md"
     }
   ],
   "omittedPaths": [],
