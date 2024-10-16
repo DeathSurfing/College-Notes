@@ -1,204 +1,188 @@
 {
   "recentFiles": [
     {
-      "basename": "Unit 2",
-      "path": "Notes/Software and System Design/Unit 2.md"
-    },
-    {
-      "basename": "Lab 5",
-      "path": "Notes/SSD Labs/Lab 5.md"
-    },
-    {
-      "basename": "Class diagram",
-      "path": "Notes/SSD Labs/Class diagram.md"
-    },
-    {
-      "basename": "Discrete",
-      "path": "Notes/Math/Discrete.md"
-    },
-    {
-      "basename": "Relations",
-      "path": "Notes/Math/Sets/Relations.md"
-    },
-    {
-      "basename": "Calculus",
-      "path": "Notes/Math/Calculus.md"
-    },
-    {
       "basename": "Matricies",
       "path": "Notes/Math/Matricies.md"
-    },
-    {
-      "basename": "Diagonalization",
-      "path": "Notes/Math/Matricies/Diagonalization.md"
     },
     {
       "basename": "Converting from Quadratic form to matrix form",
       "path": "Notes/Math/Matricies/Converting from Quadratic form to matrix form.md"
     },
     {
-      "basename": "LAB 3",
-      "path": "Notes/SSD Labs/LAB 3.md"
+      "basename": "Diagonalization",
+      "path": "Notes/Math/Matricies/Diagonalization.md"
     },
     {
-      "basename": "Lab 4",
-      "path": "Notes/SSD Labs/Lab 4.md"
+      "basename": "Cayley-Hamilton Theorem",
+      "path": "Notes/Math/Matricies/Cayley-Hamilton Theorem.md"
     },
     {
-      "basename": "Unit 1",
-      "path": "Notes/Software and System Design/Unit 1.md"
+      "basename": "Eigen Values and Eigen Vectors",
+      "path": "Notes/Math/Matricies/Eigen Values and Eigen Vectors.md"
     },
     {
-      "basename": "Numerical Aperture",
-      "path": "Notes/Physics/LABS/Numerical Aperture.md"
+      "basename": "Canonical form",
+      "path": "Notes/Math/Matricies/Canonical form.md"
     },
     {
-      "basename": "Diffraction Gratting",
-      "path": "Notes/Physics/LABS/Diffraction Gratting.md"
+      "basename": "Electrical Supply",
+      "path": "Notes/IOT/Electrical Supply.md"
     },
     {
-      "basename": "Newton Rings",
-      "path": "Notes/Physics/LABS/Newton Rings.md"
+      "basename": "Electrical Saftey",
+      "path": "Notes/IOT/Electrical Saftey.md"
     },
     {
-      "basename": "Solar Cell",
-      "path": "Notes/Physics/LABS/Solar Cell.md"
+      "basename": "Drawing 2024-09-11 14.35.24.excalidraw",
+      "path": "Excalidraw/Drawing 2024-09-11 14.35.24.excalidraw.md"
     },
     {
-      "basename": "Applied Physics Breakdown",
-      "path": "Notes/Physics/Applied Physics Breakdown.md"
+      "basename": "Computational Thinking breakdown",
+      "path": "Notes/Computational Thinking/Computational Thinking breakdown.md"
     },
     {
-      "basename": "Quantum Physics",
-      "path": "Notes/Physics/Quantum Physics.md"
-    },
-    {
-      "basename": "Temp notes",
-      "path": "Notes/Temp notes.md"
-    },
-    {
-      "basename": "Drawing 2024-10-15 11.47.54.excalidraw",
-      "path": "Excalidraw/Drawing 2024-10-15 11.47.54.excalidraw.md"
-    },
-    {
-      "basename": "Drawing 2024-10-04 11.19.54.excalidraw",
-      "path": "Excalidraw/Drawing 2024-10-04 11.19.54.excalidraw.md"
+      "basename": "Drawing 2024-09-11 14.32.48.excalidraw",
+      "path": "Excalidraw/Drawing 2024-09-11 14.32.48.excalidraw.md"
     },
     {
       "basename": "Drawing 2023-07-23 03.49.00.excalidraw",
       "path": "Excalidraw/Drawing 2023-07-23 03.49.00.excalidraw.md"
     },
     {
+      "basename": "Drawing 2024-09-11 14.31.26.excalidraw",
+      "path": "Excalidraw/Drawing 2024-09-11 14.31.26.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2024-09-11 14.24.06.excalidraw",
+      "path": "Excalidraw/Drawing 2024-09-11 14.24.06.excalidraw.md"
+    },
+    {
+      "basename": "Waves",
+      "path": "Notes/Physics/Waves.md"
+    },
+    {
+      "basename": "Topic Explorer",
+      "path": "Notes/Computational Thinking/Topic Explorer.md"
+    },
+    {
+      "basename": "Drawing 2024-09-10 15.02.28.excalidraw",
+      "path": "Excalidraw/Drawing 2024-09-10 15.02.28.excalidraw.md"
+    },
+    {
+      "basename": "Forces",
+      "path": "Notes/Physics/Mechanics/Forces.md"
+    },
+    {
+      "basename": "Topic Explorer",
+      "path": "Notes/Physics/Topic Explorer.md"
+    },
+    {
+      "basename": "Applied Physics Breakdown",
+      "path": "Notes/Physics/Applied Physics Breakdown.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Notes/Computational Thinking/Untitled.md"
+    },
+    {
+      "basename": "Vedic Philosophy",
+      "path": "Notes/IKS (Indian Knowledge System)/Vedic Philosophy.md"
+    },
+    {
       "basename": "Topic Explorer",
       "path": "Notes/Math/Topic Explorer.md"
     },
     {
-      "basename": "Prototyping Model",
-      "path": "Notes/Software and System Design/Unit 1/SDC/Types of SLCM/Prototyping Model.md"
+      "basename": "IKS Outline",
+      "path": "Notes/IKS (Indian Knowledge System)/IKS Outline.md"
     },
     {
-      "basename": "Software development cycle",
-      "path": "Notes/Software and System Design/Unit 1/SDC/Software development cycle.md"
+      "basename": "Free Body Diagrams",
+      "path": "Notes/Physics/Mechanics/Free Body Diagrams.md"
     },
     {
-      "basename": "Design phase",
-      "path": "Notes/Software and System Design/Unit 1/SDC/Design phase.md"
+      "basename": "COntent IDEAS",
+      "path": "Notes/Content generation/COntent IDEAS.md"
     },
     {
-      "basename": "Types of SLCM",
-      "path": "Notes/Software and System Design/Unit 1/SDC/Types of SLCM.md"
+      "basename": "Topic Explorer",
+      "path": "Notes/Trading/Topic Explorer.md"
     },
     {
-      "basename": "Iterative water model",
-      "path": "Notes/Software and System Design/Unit 1/SDC/Types of SLCM/Iterative water model.md"
+      "basename": "Support and Resistance",
+      "path": "Notes/Trading/Files/Support and Resistance.md"
     },
     {
-      "basename": "Evolutionary Model",
-      "path": "Notes/Software and System Design/Unit 1/SDC/Types of SLCM/Evolutionary Model.md"
+      "basename": "Medical Tourism",
+      "path": "Notes/Buisnes Ideas/Medical Tourism.md"
     },
     {
-      "basename": "Classical waterfall model",
-      "path": "Notes/Software and System Design/Unit 1/SDC/Types of SLCM/Classical waterfall model.md"
+      "basename": "Philosophy",
+      "path": "Notes/Philosphy/Philosophy.md"
     },
     {
-      "basename": "Types of design patterns",
-      "path": "Notes/Software and System Design/Unit 1/Types of design patterns.md"
+      "basename": "Utilitarianism",
+      "path": "Notes/Philosphy/Philosophy Spaces/Utilitarianism.md"
     },
     {
-      "basename": "Types of Design",
-      "path": "Notes/Software and System Design/Unit 1/Types of Design.md"
+      "basename": "Pragmatism",
+      "path": "Notes/Philosphy/Philosophy Spaces/Pragmatism.md"
     },
     {
-      "basename": "Software development cycle",
-      "path": "Notes/Software and System Design/Unit 1/Software development cycle.md"
+      "basename": "48 Laws of Power",
+      "path": "Notes/Books/48 Laws of Power.md"
     },
     {
-      "basename": "Programs",
-      "path": "Notes/Software and System Design/Unit 1/Programs.md"
+      "basename": "SUVAT",
+      "path": "Notes/Physics/Mechanics/SUVAT.md"
     },
     {
-      "basename": "Package",
-      "path": "Notes/Software and System Design/Unit 1/Package.md"
+      "basename": "Projectile Motion",
+      "path": "Notes/Physics/Mechanics/Projectile Motion.md"
     },
     {
-      "basename": "Objectives of software design",
-      "path": "Notes/Software and System Design/Unit 1/Objectives of software design.md"
+      "basename": "Friction",
+      "path": "Notes/Physics/Mechanics/Friction.md"
     },
     {
-      "basename": "Meta Data",
-      "path": "Notes/Software and System Design/Unit 1/Meta Data.md"
+      "basename": "Epistemological Skepticism",
+      "path": "Notes/Philosphy/Philosophy Spaces/Epistemological Skepticism.md"
     },
     {
-      "basename": "Low Level design",
-      "path": "Notes/Software and System Design/Unit 1/Low Level design.md"
+      "basename": "Moral Relativism",
+      "path": "Notes/Philosphy/Philosophy Spaces/Moral Relativism.md"
     },
     {
-      "basename": "Computational device",
-      "path": "Notes/Software and System Design/Unit 1/Computational device.md"
+      "basename": "Stoicism",
+      "path": "Notes/Philosphy/Philosophy Spaces/Stoicism.md"
     },
     {
-      "basename": "Functions",
-      "path": "Notes/Math/Sets/Functions.md"
+      "basename": "Ontology",
+      "path": "Notes/Philosphy/Philosophy Spaces/Ontology.md"
     },
     {
-      "basename": "Software Design Principles",
-      "path": "Notes/Software and System Design/Unit 1/Software Design Principles.md"
+      "basename": "Phenomenology",
+      "path": "Notes/Philosphy/Philosophy Spaces/Phenomenology.md"
     },
     {
-      "basename": "Software",
-      "path": "Notes/Software and System Design/Unit 1/Software.md"
+      "basename": "Existentialism",
+      "path": "Notes/Philosphy/Philosophy Spaces/Existentialism.md"
     },
     {
-      "basename": "Abstraction",
-      "path": "Notes/Software and System Design/Unit 1/Design Principles/Abstraction.md"
+      "basename": "Interesting GSOC Companies",
+      "path": "Notes/Coding stuff/Interesting GSOC Companies.md"
     },
     {
-      "basename": "SRS Document",
-      "path": "Notes/Software and System Design/Unit 1/SRS Document.md"
+      "basename": "JDK JRE JVM",
+      "path": "Notes/Coding stuff/JDK JRE JVM.md"
     },
     {
-      "basename": "Screenshot 2024-10-08 at 1.25.27 PM",
-      "path": "Screenshots/Screenshot 2024-10-08 at 1.25.27 PM.png"
+      "basename": "Coding Project Ideas",
+      "path": "Notes/Coding stuff/Coding Project Ideas.md"
     },
     {
-      "basename": "Pasted image 20241008141843",
-      "path": "Screenshots/Pasted image 20241008141843.png"
-    },
-    {
-      "basename": "De Morgan's theorem",
-      "path": "Notes/Math/Sets/De Morgan's theorem.md"
-    },
-    {
-      "basename": "Set of factors of 12 and 2",
-      "path": "Notes/Math/Sets/Set of factors of 12 and 2.md"
-    },
-    {
-      "basename": "Mathematical representation of Subsets",
-      "path": "Notes/Math/Sets/Mathematical representation of Subsets.md"
-    },
-    {
-      "basename": "Mathematical symbols",
-      "path": "Notes/Math/Sets/Mathematical symbols.md"
+      "basename": "JVM",
+      "path": "Notes/Coding stuff/JDK JRE JVM/JVM.md"
     }
   ],
   "omittedPaths": [],
