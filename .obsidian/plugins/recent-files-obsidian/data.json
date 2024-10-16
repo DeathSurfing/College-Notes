@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Lab 5",
+      "path": "Notes/SSD Labs/Lab 5.md"
+    },
+    {
       "basename": "Lab 4",
       "path": "Notes/SSD Labs/Lab 4.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Books recommended for Discrete Math course",
       "path": "Notes/Math/Sets/Books recommended for Discrete Math course.md"
-    },
-    {
-      "basename": "Property of sets",
-      "path": "Notes/Math/Sets/Property of sets.md"
     }
   ],
   "omittedPaths": [],
