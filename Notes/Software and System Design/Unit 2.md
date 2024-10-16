@@ -34,3 +34,16 @@
 ### Class Diagram
 [[Class diagram]]
 
+# Encapsulation and Data hiding
+
+## Encapsulation:
+- The process of binding both attributes and methods together with a class
+- Hides internal details of a a class
+- Allows the class to be accessed from outside only
+
+## Data Hiding:
+- Classes should be designed such that attributes can be access by its class methods 
+- The process of insulating an objects data is called data hiding
+
+# Interfaces:
+- Methods of a different class that

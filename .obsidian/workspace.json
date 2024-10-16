@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Math/Discrete.md",
+                "file": "Notes/Software and System Design/Unit 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Math/Discrete.md",
+                "file": "Notes/Software and System Design/Unit 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Math/Discrete.md",
+                "file": "Notes/Software and System Design/Unit 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Math/Discrete.md"
+                "file": "Notes/Software and System Design/Unit 2.md"
               }
             }
           },
@@ -184,18 +184,18 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "e3647347c29efbd6",
+  "active": "74fddf7ea9ec50a8",
   "lastOpenFiles": [
-    "Notes/Math/Sets/Relations.md",
+    "Notes/SSD Labs/Lab 5.md",
+    "Notes/SSD Labs/Class diagram.md",
+    "Notes/Software and System Design/Unit 2.md",
     "Notes/Math/Discrete.md",
+    "Notes/Math/Sets/Relations.md",
     "Notes/Math/Calculus.md",
     "Notes/Math/Matricies.md",
     "Notes/Math/Matricies/Diagonalization.md",
     "Notes/Math/Matricies/Converting from Quadratic form to matrix form.md",
-    "Notes/SSD Labs/Class diagram.md",
-    "Notes/Software and System Design/Unit 2.md",
     "Notes/SSD Labs/LAB 3.md",
-    "Notes/SSD Labs/Lab 5.md",
     "Notes/SSD Labs/Lab 4.md",
     "Screenshot 2024-10-16 at 11.44.27 AM.png",
     "Screenshot 2024-10-16 at 11.43.11 AM.png",

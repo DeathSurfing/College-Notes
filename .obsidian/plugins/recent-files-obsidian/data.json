@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Unit 2",
+      "path": "Notes/Software and System Design/Unit 2.md"
+    },
+    {
+      "basename": "Lab 5",
+      "path": "Notes/SSD Labs/Lab 5.md"
+    },
+    {
+      "basename": "Class diagram",
+      "path": "Notes/SSD Labs/Class diagram.md"
+    },
+    {
       "basename": "Discrete",
       "path": "Notes/Math/Discrete.md"
     },
@@ -25,20 +37,8 @@
       "path": "Notes/Math/Matricies/Converting from Quadratic form to matrix form.md"
     },
     {
-      "basename": "Class diagram",
-      "path": "Notes/SSD Labs/Class diagram.md"
-    },
-    {
-      "basename": "Unit 2",
-      "path": "Notes/Software and System Design/Unit 2.md"
-    },
-    {
       "basename": "LAB 3",
       "path": "Notes/SSD Labs/LAB 3.md"
-    },
-    {
-      "basename": "Lab 5",
-      "path": "Notes/SSD Labs/Lab 5.md"
     },
     {
       "basename": "Lab 4",
