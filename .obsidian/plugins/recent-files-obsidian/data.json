@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Lab 4",
+      "path": "Notes/SSD Labs/Lab 4.md"
+    },
+    {
+      "basename": "LAB 3",
+      "path": "Notes/SSD Labs/LAB 3.md"
+    },
+    {
       "basename": "Numerical Aperture",
       "path": "Notes/Physics/LABS/Numerical Aperture.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Property of sets",
       "path": "Notes/Math/Sets/Property of sets.md"
-    },
-    {
-      "basename": "Empty set",
-      "path": "Notes/Math/Sets/Empty set.md"
-    },
-    {
-      "basename": "Cardinality",
-      "path": "Notes/Math/Sets/Cardinality.md"
     }
   ],
   "omittedPaths": [],
