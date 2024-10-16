@@ -26,4 +26,27 @@ ___
 ## Heterodox school:
 - Rejects the Vedic authority 
 
+## Sufi and Bhakti Schools of thought:
+### Bhakti Movement:
+- Sought to bring religious reforms
+- Brought forward Devotion to achieve salvation
+- Brought religious reforms to medieval hinduism
+- Started from Tamil Nadu in the 6th CE and spread to the other parts of the country
+- Split into two types of devotees Nayanars and Alvars (Shiva and Vishnu) devotees
+- 
+
+
+### Sufism movement:
+- Focus: A focus on the spiritual search for God, and on the purification of the inner self 
+- Practice: A focus on asceticism, love, and devotion towards God 
+- Worship: A central rite of worship is dhikr, a meditative remembrance of God 
+	- Worship was done primary by the means of music and dance
+- Structure: Sufi orders are made up of a spiritual guide, or murshid, and followers, or murids 
+- Origins: Sufism may have originated in the Middle East in the 8th century CE 
+- Popularity: Sufism became popular in Central Asia, Persia, and South Asia in the 13th century  
+- Focus on direct relationship with god
+
+
+
+
 
