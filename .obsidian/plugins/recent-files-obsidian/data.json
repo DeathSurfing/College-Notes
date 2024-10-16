@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Eigen Values and Eigen Vectors",
+      "path": "Notes/Math/Matricies/Eigen Values and Eigen Vectors.md"
+    },
+    {
+      "basename": "Matricies",
+      "path": "Notes/Math/Matricies.md"
+    },
+    {
       "basename": "Unit 2",
       "path": "Notes/Software and System Design/Unit 2.md"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "Calculus",
       "path": "Notes/Math/Calculus.md"
-    },
-    {
-      "basename": "Matricies",
-      "path": "Notes/Math/Matricies.md"
     },
     {
       "basename": "Diagonalization",
@@ -195,10 +199,6 @@
     {
       "basename": "Mathematical representation of Subsets",
       "path": "Notes/Math/Sets/Mathematical representation of Subsets.md"
-    },
-    {
-      "basename": "Mathematical symbols",
-      "path": "Notes/Math/Sets/Mathematical symbols.md"
     }
   ],
   "omittedPaths": [],
