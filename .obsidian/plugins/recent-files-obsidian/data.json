@@ -5,12 +5,20 @@
       "path": "Notes/SSD Labs/Lab 4.md"
     },
     {
+      "basename": "LAB 3",
+      "path": "Notes/SSD Labs/LAB 3.md"
+    },
+    {
+      "basename": "Unit 2",
+      "path": "Notes/Software and System Design/Unit 2.md"
+    },
+    {
       "basename": "Class diagram",
       "path": "Notes/SSD Labs/Class diagram.md"
     },
     {
-      "basename": "LAB 3",
-      "path": "Notes/SSD Labs/LAB 3.md"
+      "basename": "Unit 1",
+      "path": "Notes/Software and System Design/Unit 1.md"
     },
     {
       "basename": "Numerical Aperture",
@@ -71,14 +79,6 @@
     {
       "basename": "Converting from Quadratic form to matrix form",
       "path": "Notes/Math/Matricies/Converting from Quadratic form to matrix form.md"
-    },
-    {
-      "basename": "Unit 2",
-      "path": "Notes/Software and System Design/Unit 2.md"
-    },
-    {
-      "basename": "Unit 1",
-      "path": "Notes/Software and System Design/Unit 1.md"
     },
     {
       "basename": "Prototyping Model",
