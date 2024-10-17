@@ -5,8 +5,32 @@
       "path": "Notes/IOT/Thevenin's Theorem.md"
     },
     {
+      "basename": "Drawing 2024-10-04 11.19.54.excalidraw",
+      "path": "Excalidraw/Drawing 2024-10-04 11.19.54.excalidraw.md"
+    },
+    {
       "basename": "Superpostion Theorem",
       "path": "Notes/IOT/Superpostion Theorem.md"
+    },
+    {
+      "basename": "IOT Assignment 1",
+      "path": "Notes/IOT/IOT Assignment 1.md"
+    },
+    {
+      "basename": "Drawing 2024-10-15 11.47.54.excalidraw",
+      "path": "Excalidraw/Drawing 2024-10-15 11.47.54.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2024-09-10 15.02.28.excalidraw",
+      "path": "Excalidraw/Drawing 2024-09-10 15.02.28.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2023-07-23 03.49.00.excalidraw",
+      "path": "Excalidraw/Drawing 2023-07-23 03.49.00.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2024-09-11 14.35.24.excalidraw",
+      "path": "Excalidraw/Drawing 2024-09-11 14.35.24.excalidraw.md"
     },
     {
       "basename": "Electrical Saftey",
@@ -41,20 +65,8 @@
       "path": "Notes/SSD Labs/Lab 5.md"
     },
     {
-      "basename": "Drawing 2024-10-04 11.19.54.excalidraw",
-      "path": "Excalidraw/Drawing 2024-10-04 11.19.54.excalidraw.md"
-    },
-    {
-      "basename": "Drawing 2024-10-15 11.47.54.excalidraw",
-      "path": "Excalidraw/Drawing 2024-10-15 11.47.54.excalidraw.md"
-    },
-    {
       "basename": "Kirchoff's laws",
       "path": "Notes/IOT/Kirchoff's laws.md"
-    },
-    {
-      "basename": "IOT Assignment 1",
-      "path": "Notes/IOT/IOT Assignment 1.md"
     },
     {
       "basename": "Diagonalization",
@@ -125,10 +137,6 @@
       "path": "Notes/Temp notes.md"
     },
     {
-      "basename": "Drawing 2023-07-23 03.49.00.excalidraw",
-      "path": "Excalidraw/Drawing 2023-07-23 03.49.00.excalidraw.md"
-    },
-    {
       "basename": "Topic Explorer",
       "path": "Notes/Math/Topic Explorer.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Computational device",
       "path": "Notes/Software and System Design/Unit 1/Computational device.md"
-    },
-    {
-      "basename": "Functions",
-      "path": "Notes/Math/Sets/Functions.md"
-    },
-    {
-      "basename": "Software Design Principles",
-      "path": "Notes/Software and System Design/Unit 1/Software Design Principles.md"
     }
   ],
   "omittedPaths": [],
