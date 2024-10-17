@@ -1,12 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "Eigen Values and Eigen Vectors",
-      "path": "Notes/Math/Matricies/Eigen Values and Eigen Vectors.md"
+      "basename": "Untitled",
+      "path": "Notes/IOT/Untitled.md"
+    },
+    {
+      "basename": "Superpostion Theorem",
+      "path": "Notes/IOT/Superpostion Theorem.md"
+    },
+    {
+      "basename": "Kirchoff's laws",
+      "path": "Notes/IOT/Kirchoff's laws.md"
+    },
+    {
+      "basename": "IOT Assignment 1",
+      "path": "Notes/IOT/IOT Assignment 1.md"
+    },
+    {
+      "basename": "Electrical Supply",
+      "path": "Notes/IOT/Electrical Supply.md"
+    },
+    {
+      "basename": "Electrical Saftey",
+      "path": "Notes/IOT/Electrical Saftey.md"
+    },
+    {
+      "basename": "Diagonalization",
+      "path": "Notes/Math/Matricies/Diagonalization.md"
     },
     {
       "basename": "Matricies",
       "path": "Notes/Math/Matricies.md"
+    },
+    {
+      "basename": "Converting from Quadratic form to matrix form",
+      "path": "Notes/Math/Matricies/Converting from Quadratic form to matrix form.md"
+    },
+    {
+      "basename": "Eigen Values and Eigen Vectors",
+      "path": "Notes/Math/Matricies/Eigen Values and Eigen Vectors.md"
     },
     {
       "basename": "Unit 2",
@@ -31,14 +63,6 @@
     {
       "basename": "Calculus",
       "path": "Notes/Math/Calculus.md"
-    },
-    {
-      "basename": "Diagonalization",
-      "path": "Notes/Math/Matricies/Diagonalization.md"
-    },
-    {
-      "basename": "Converting from Quadratic form to matrix form",
-      "path": "Notes/Math/Matricies/Converting from Quadratic form to matrix form.md"
     },
     {
       "basename": "LAB 3",
@@ -175,30 +199,6 @@
     {
       "basename": "Abstraction",
       "path": "Notes/Software and System Design/Unit 1/Design Principles/Abstraction.md"
-    },
-    {
-      "basename": "SRS Document",
-      "path": "Notes/Software and System Design/Unit 1/SRS Document.md"
-    },
-    {
-      "basename": "Screenshot 2024-10-08 at 1.25.27 PM",
-      "path": "Screenshots/Screenshot 2024-10-08 at 1.25.27 PM.png"
-    },
-    {
-      "basename": "Pasted image 20241008141843",
-      "path": "Screenshots/Pasted image 20241008141843.png"
-    },
-    {
-      "basename": "De Morgan's theorem",
-      "path": "Notes/Math/Sets/De Morgan's theorem.md"
-    },
-    {
-      "basename": "Set of factors of 12 and 2",
-      "path": "Notes/Math/Sets/Set of factors of 12 and 2.md"
-    },
-    {
-      "basename": "Mathematical representation of Subsets",
-      "path": "Notes/Math/Sets/Mathematical representation of Subsets.md"
     }
   ],
   "omittedPaths": [],
