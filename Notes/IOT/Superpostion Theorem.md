@@ -40,7 +40,7 @@ $I=1.07A$
 	- $I^{'}=\frac{V}{R_{eq}}=\frac{8}{7}=1.14A$
 
 - Step 2 Consider 6 A Source:
-	- ![[Screenshot 2024-10-04 at 12.04.05 PM.png]]
+	- ![[Screenshot 2024-10-04 at 12.04.05 PM 1.png]]
 	- $I^{''}=\frac{6\times 3}{3+4}=\frac{18}{7}=2.57A$
 
 $I =I^{'}+I^{''}$
@@ -56,3 +56,8 @@ Taking 4v as active:
 $\frac{12\times 8}{12+8}=4.8\Omega$
 $\frac{14.8\times 5}{14.8+5}=3.73\Omega$
 $3.73+5=8.73\Omega$
+
+# Defination:
+In any linear or bilateral network or circuit having more than one independent source, the response of an element will be equal to the algebraic sum of the responses of that element by considering one source at a time.
+
+

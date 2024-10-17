@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/IOT/Untitled.md",
+                "file": "Notes/IOT/Thevenin's Theorem.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/IOT/Untitled.md",
+                "file": "Notes/IOT/Thevenin's Theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/IOT/Untitled.md",
+                "file": "Notes/IOT/Thevenin's Theorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/IOT/Untitled.md"
+                "file": "Notes/IOT/Thevenin's Theorem.md"
               }
             }
           },
@@ -187,11 +187,20 @@
   "active": "74fddf7ea9ec50a8",
   "lastOpenFiles": [
     "Notes/IOT/Superpostion Theorem.md",
-    "Notes/IOT/Untitled.md",
+    "Notes/IOT/Electrical Saftey.md",
+    "Notes/IOT/Electrical Supply.md",
+    "Screenshots/Screenshot 2024-10-04 at 12.04.05 PM 1.png",
+    "Notes/IOT/Thevenin's Theorem.md",
+    "Notes/Content generation/COntent IDEAS.md",
+    "Screenshots/Screenshot 2024-10-17 at 1.44.55 PM.png",
+    "Notes/Physics/LABS/Diffraction Gratting.md",
+    "Notes/Physics/LABS/Newton Rings.md",
+    "Notes/Software and System Design/Unit 1/Low Level design.md",
+    "Notes/SSD Labs/Lab 5.md",
+    "Excalidraw/Drawing 2024-10-04 11.19.54.excalidraw.md",
+    "Excalidraw/Drawing 2024-10-15 11.47.54.excalidraw.md",
     "Notes/IOT/Kirchoff's laws.md",
     "Notes/IOT/IOT Assignment 1.md",
-    "Notes/IOT/Electrical Supply.md",
-    "Notes/IOT/Electrical Saftey.md",
     "Notes/Math/Matricies/Diagonalization.md",
     "Notes/Math/Matricies.md",
     "Notes/Math/Matricies/Converting from Quadratic form to matrix form.md",
@@ -200,27 +209,19 @@
     "CTPS 1st year/BTECH CSE AIML RHINOS G2 2024-28 24WU0102119 Lab 1C",
     "CTPS 1st year/BTECH CSE AIML RHINOS G2 2024-28 24WU0102119 Lab 1B.ipynb",
     "Notes/Software and System Design/Unit 2.md",
-    "Notes/SSD Labs/Lab 5.md",
     "Notes/SSD Labs/Class diagram.md",
     "Notes/Math/Discrete.md",
     "Notes/Math/Sets/Relations.md",
     "Notes/Math/Calculus.md",
     "Notes/SSD Labs/LAB 3.md",
     "Notes/SSD Labs/Lab 4.md",
-    "Screenshot 2024-10-16 at 11.44.27 AM.png",
-    "Screenshot 2024-10-16 at 11.43.11 AM.png",
-    "Screenshot 2024-10-16 at 11.41.35 AM.png",
+    "Screenshots/Screenshot 2024-10-16 at 11.44.27 AM.png",
+    "Screenshots/Screenshot 2024-10-16 at 11.43.11 AM.png",
+    "Screenshots/Screenshot 2024-10-16 at 11.41.35 AM.png",
     "Notes/Software and System Design/Unit 1.md",
-    "Notes/Physics/LABS/Numerical Aperture.md",
-    "Notes/Physics/LABS/Diffraction Gratting.md",
-    "Notes/Physics/LABS/Newton Rings.md",
-    "Notes/Physics/LABS/Solar Cell.md",
-    "Notes/Physics/Applied Physics Breakdown.md",
-    "Notes/Physics/Quantum Physics.md",
-    "Notes/Temp notes.md",
     "Desmos Graph.png",
-    "Screenshot 2024-10-15 at 11.57.18 AM.png",
-    "Screenshot 2024-10-15 at 11.52.36 AM.png",
+    "Screenshots/Screenshot 2024-10-15 at 11.57.18 AM.png",
+    "Screenshots/Screenshot 2024-10-15 at 11.52.36 AM.png",
     "Notes/Physics/LABS",
     "Notes/Software and System Design/Unit 1/SDC/Types of SLCM",
     "Notes/Software and System Design/Unit 1/SLCM",
@@ -231,8 +232,6 @@
     "Notes/Software and System Design/Unit 1",
     "Notes/Math/Sets",
     "Untitled.canvas",
-    "Screenshots/Screenshot 2024-02-28 at 4.07.51 PM.png",
-    "Screenshots/Screenshot 2024-10-04 at 12.04.05 PM.png",
     "Untitled 1.canvas"
   ]
 }
