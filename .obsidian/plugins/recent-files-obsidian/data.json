@@ -1,20 +1,72 @@
 {
   "recentFiles": [
     {
+      "basename": "Diagonalization",
+      "path": "Notes/Math/Matricies/Diagonalization.md"
+    },
+    {
+      "basename": "Matricies",
+      "path": "Notes/Math/Matricies.md"
+    },
+    {
+      "basename": "Topic Explorer",
+      "path": "Notes/Math/Topic Explorer.md"
+    },
+    {
+      "basename": "Canonical form",
+      "path": "Notes/Math/Matricies/Canonical form.md"
+    },
+    {
       "basename": "Thevenin's Theorem",
       "path": "Notes/IOT/Thevenin's Theorem.md"
     },
     {
-      "basename": "Drawing 2024-10-04 11.19.54.excalidraw",
-      "path": "Excalidraw/Drawing 2024-10-04 11.19.54.excalidraw.md"
+      "basename": "Cayley-Hamilton Theorem",
+      "path": "Notes/Math/Matricies/Cayley-Hamilton Theorem.md"
+    },
+    {
+      "basename": "Algorithms",
+      "path": "Notes/Computational Thinking/Algorithms.md"
+    },
+    {
+      "basename": "Computational Thinking breakdown",
+      "path": "Notes/Computational Thinking/Computational Thinking breakdown.md"
+    },
+    {
+      "basename": "Data Expressions and statements (PYTHON)",
+      "path": "Notes/Computational Thinking/Data Expressions and statements (PYTHON).md"
+    },
+    {
+      "basename": "Topic Explorer",
+      "path": "Notes/Computational Thinking/Topic Explorer.md"
+    },
+    {
+      "basename": "Control flow and functions",
+      "path": "Notes/Computational Thinking/Control flow and functions.md"
+    },
+    {
+      "basename": "Vedic Philosophy",
+      "path": "Notes/IKS (Indian Knowledge System)/Vedic Philosophy.md"
+    },
+    {
+      "basename": "Astronomy Origins",
+      "path": "Notes/IKS (Indian Knowledge System)/Astronomy Origins.md"
     },
     {
       "basename": "Superpostion Theorem",
       "path": "Notes/IOT/Superpostion Theorem.md"
     },
     {
+      "basename": "Kirchoff's laws",
+      "path": "Notes/IOT/Kirchoff's laws.md"
+    },
+    {
       "basename": "IOT Assignment 1",
       "path": "Notes/IOT/IOT Assignment 1.md"
+    },
+    {
+      "basename": "Drawing 2024-10-04 11.19.54.excalidraw",
+      "path": "Excalidraw/Drawing 2024-10-04 11.19.54.excalidraw.md"
     },
     {
       "basename": "Drawing 2024-10-15 11.47.54.excalidraw",
@@ -63,18 +115,6 @@
     {
       "basename": "Lab 5",
       "path": "Notes/SSD Labs/Lab 5.md"
-    },
-    {
-      "basename": "Kirchoff's laws",
-      "path": "Notes/IOT/Kirchoff's laws.md"
-    },
-    {
-      "basename": "Diagonalization",
-      "path": "Notes/Math/Matricies/Diagonalization.md"
-    },
-    {
-      "basename": "Matricies",
-      "path": "Notes/Math/Matricies.md"
     },
     {
       "basename": "Converting from Quadratic form to matrix form",
@@ -137,10 +177,6 @@
       "path": "Notes/Temp notes.md"
     },
     {
-      "basename": "Topic Explorer",
-      "path": "Notes/Math/Topic Explorer.md"
-    },
-    {
       "basename": "Prototyping Model",
       "path": "Notes/Software and System Design/Unit 1/SDC/Types of SLCM/Prototyping Model.md"
     },
@@ -163,42 +199,6 @@
     {
       "basename": "Evolutionary Model",
       "path": "Notes/Software and System Design/Unit 1/SDC/Types of SLCM/Evolutionary Model.md"
-    },
-    {
-      "basename": "Classical waterfall model",
-      "path": "Notes/Software and System Design/Unit 1/SDC/Types of SLCM/Classical waterfall model.md"
-    },
-    {
-      "basename": "Types of design patterns",
-      "path": "Notes/Software and System Design/Unit 1/Types of design patterns.md"
-    },
-    {
-      "basename": "Types of Design",
-      "path": "Notes/Software and System Design/Unit 1/Types of Design.md"
-    },
-    {
-      "basename": "Software development cycle",
-      "path": "Notes/Software and System Design/Unit 1/Software development cycle.md"
-    },
-    {
-      "basename": "Programs",
-      "path": "Notes/Software and System Design/Unit 1/Programs.md"
-    },
-    {
-      "basename": "Package",
-      "path": "Notes/Software and System Design/Unit 1/Package.md"
-    },
-    {
-      "basename": "Objectives of software design",
-      "path": "Notes/Software and System Design/Unit 1/Objectives of software design.md"
-    },
-    {
-      "basename": "Meta Data",
-      "path": "Notes/Software and System Design/Unit 1/Meta Data.md"
-    },
-    {
-      "basename": "Computational device",
-      "path": "Notes/Software and System Design/Unit 1/Computational device.md"
     }
   ],
   "omittedPaths": [],
