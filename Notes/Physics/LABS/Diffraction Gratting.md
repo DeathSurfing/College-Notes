@@ -47,6 +47,39 @@ $N: \text{Grating Element},\text{Number of lines per inch}(12.5A^0)\text{on grat
 - Calculate the mean value of this difference, which gives ${2\theta}$ (twice the angle of diffraction). Thus, determine the angle of diffraction ${\theta}$ for each spectral line.
 - Calculate the number of lines per meter (${N}$) of the grating.
 - Using the value of ${N}$, calculate the wavelengths of other prominent lines in this spectrum.
+# Diagram:
+![[Screenshot 2024-10-18 at 11.35.16 AM.png]]
+
+# Processed Data Table:
+
+| Order of the spectrum | Color of the spectrum | Spectrum Readings |              |              |              | Value of Vernier |      |      | Value of $\theta$ in degrees | $\lambda$(m)          |
+|-----------------------|-----------------------|-------------------|--------------|--------------|--------------|------------------|------|------|------------------------------|-----------------------|
+|                       |                       | LHS               |              | RHS          |              |                  |      |      |                              |                       |
+|                       |                       | $V_{1}$, (A)      | $V_{2}$, (B) | $V_{1}$, (C) | $V_{2}$, (D) | A-C              | B-D  | Mean |                              |                       |
+| 1                     | Violet                | 174.34            | 354.55       | 169.21       | 350.90       | 5.13             | 3.65 | 4.39 | 2.5                          | $4.43 \times 10^{-5}$ |
+|                       | Yellow                | 175.29            | 355.10       | 168.30       | 349.22       | 6.99             | 5.88 | 6.43 | 3.215                        | $5.6 \times 10^{-5}$  |
+|                       | Green                 | 176.10            | 355.10       | 167.10       | 349.40       | 9.00             | 5.70 | 7.35 | 3.675                        | $6.5 \times 10^{-5}$  |
+
+# Error:
+$\lambda_{average}=4.87 \times 10^{-5}cm$
+$\% Error=\frac{Actual-Practical}{Actual}\times 100$
+$\%Error=\frac{\left(5.3\cdot10^{-5}-4.87\cdot10^{-5}\right)}{5.3\cdot10^{-5}}\cdot100=8.1\%$
 
 # Result:
 
+The wavelength of yellow = $5.6 \times 10^{-5}$ m
+The wavelength of green =$6.5 \times 10^{-5}$ m
+The wavelength of violet =$4.43 \times 10^{-5}$ m
+
+
+# Precautions and improvements:
+1. **Spectrometer Setup**: Ensure the spectrometer is properly calibrated before starting the experiment. Adjust the collimator and telescope to ensure accurate alignment.
+2. **Handling the Grating**: Handle the diffraction grating carefully to avoid fingerprints or scratches on the surface, which can affect the diffraction pattern.
+3. **Light Source**: Use a stable and coherent light source (Mercury vapor or Sodium lamp) to avoid fluctuations in light intensity, which may lead to errors in observation.
+4. **Spectrometer Adjustments**: Ensure the spectrometer is leveled using the spirit level to avoid angular errors in measurements.
+5. **Fine Adjustments**: Use fine adjustment screws when aligning the telescope and vernier table to ensure precise readings of the spectral lines.
+6. **Avoid Parallax Error**: Always take the readings while keeping your eye in line with the vernier scale to avoid parallax error.
+7. **Accurate Angle Measurement**: Rotate the vernier table gently and stop as soon as the spectral lines coincide with the cross wire to avoid overshooting the angle.
+8. **Read Both Sides**: Take readings from both the left and right sides of the direct image for each spectral line to minimize errors in calculating the angle of diffraction.
+9. **Environmental Conditions**: Ensure the experiment is conducted in a draft-free and stable environment to avoid disturbances to the light source and apparatus.    
+10. **Repeat Observations**: Take multiple readings and average them to improve the accuracy of the angle measurements.

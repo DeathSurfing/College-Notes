@@ -4,22 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "4b5077343a7a88e9",
+        "id": "ff70391c10221ceb",
         "type": "tabs",
         "children": [
           {
-            "id": "6d02584274d0050e",
+            "id": "71693bad9d5257f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Math/Matricies/Canonical form.md",
+                "file": "Notes/Math/Matricies/Diagonalization.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Diagonalization"
+            }
+          },
+          {
+            "id": "db65392043e7966d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Physics/LABS/Diffraction Gratting.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Diffraction Gratting"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -39,7 +56,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +73,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +83,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           },
           {
@@ -70,7 +93,9 @@
             "type": "leaf",
             "state": {
               "type": "recent-files",
-              "state": {}
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
             }
           }
         ]
@@ -93,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Math/Matricies/Canonical form.md",
+                "file": "Notes/Math/Matricies/Diagonalization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +126,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Diagonalization"
             }
           },
           {
@@ -110,10 +137,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Math/Matricies/Canonical form.md",
+                "file": "Notes/Math/Matricies/Diagonalization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Diagonalization"
             }
           },
           {
@@ -124,7 +153,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -133,8 +164,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Math/Matricies/Canonical form.md"
-              }
+                "file": "Notes/Math/Matricies/Diagonalization.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Diagonalization"
             }
           },
           {
@@ -142,7 +175,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -150,7 +185,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -158,7 +195,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ],
@@ -184,53 +223,53 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "6d02584274d0050e",
+  "active": "db65392043e7966d",
   "lastOpenFiles": [
-    "Notes/Math/Matricies.md",
-    "Notes/Math/Matricies/Some other types of matrices.md",
-    "Notes/Math/Matricies/Types of matrices.md",
-    "Notes/Math/Matricies/Canonical form.md",
-    "Notes/Math/Matricies/Converting from Quadratic form to matrix form.md",
-    "Notes/Math/Matricies/Diagonalization.md",
-    "Notes/IOT/Electrical Supply.md",
-    "Notes/Math/Matricies/Cayley-Hamilton Theorem.md",
-    "Notes/Math/Matricies/Eigen Values and Eigen Vectors.md",
-    "Notes/SSD Labs/Lab 5.md",
-    "Notes/SSD Labs/Lab 4.md",
-    "Notes/SSD Labs/LAB 3.md",
-    "Notes/SSD Labs/Class diagram.md",
-    "Notes/SSD Labs",
+    "Screenshot 2024-10-18 at 11.35.16 AM.png",
     "Notes/Physics/LABS/Solar Cell.md",
     "Notes/Physics/LABS/Numerical Aperture.md",
     "Notes/Physics/LABS/Newton Rings.md",
+    "Excalidraw/Drawing 2024-09-30 14.57.11.excalidraw.md",
+    "Excalidraw/Drawing 2024-10-15 11.47.54.excalidraw.md",
+    "Excalidraw/Drawing 2023-07-23 03.49.00.excalidraw.md",
     "Notes/Physics/LABS/Diffraction Gratting.md",
+    "Notes/Math/Matricies/Diagonalization.md",
+    "Notes/Math/Matricies.md",
+    "Notes/Math/Topic Explorer.md",
+    "Notes/Math/Matricies/Canonical form.md",
+    "Notes/IOT/Thevenin's Theorem.md",
+    "Notes/Math/Matricies/Cayley-Hamilton Theorem.md",
+    "Notes/Computational Thinking/Algorithms.md",
+    "Notes/Computational Thinking/Computational Thinking breakdown.md",
+    "Notes/Computational Thinking/Data Expressions and statements (PYTHON).md",
+    "Notes/Computational Thinking/Topic Explorer.md",
+    "Notes/Computational Thinking/Control flow and functions.md",
+    "Notes/IKS (Indian Knowledge System)/Vedic Philosophy.md",
+    "Notes/IKS (Indian Knowledge System)/Astronomy Origins.md",
+    "Notes/IOT/Superpostion Theorem.md",
+    "Notes/IOT/Kirchoff's laws.md",
+    "Notes/IOT/IOT Assignment 1.md",
+    "Screenshot 2024-10-17 at 2.06.32 PM.png",
+    "Excalidraw/Drawing 2024-10-04 11.19.54.excalidraw.md",
+    "Screenshot 2024-10-17 at 2.00.31 PM.png",
+    "Screenshot 2024-10-17 at 1.54.46 PM.png",
+    "Excalidraw/Drawing 2024-09-10 15.02.28.excalidraw.md",
+    "Screenshot 2024-10-17 at 1.52.57 PM.png",
+    "Screenshot 2024-10-17 at 1.48.22 PM.png",
+    "Screenshots/Screenshot 2024-10-04 at 12.04.05 PM 1.png",
+    "Screenshots/Screenshot 2024-10-17 at 1.44.55 PM.png",
+    "CTPS 1st year/BTECH CSE AIML RHINOS G2 2024-28 24WU0102119 Lab 1C.ipynb",
+    "CTPS 1st year/BTECH CSE AIML RHINOS G2 2024-28 24WU0102119 Lab 1C",
+    "CTPS 1st year/BTECH CSE AIML RHINOS G2 2024-28 24WU0102119 Lab 1B.ipynb",
+    "Screenshots/Screenshot 2024-10-16 at 11.44.27 AM.png",
+    "Screenshots/Screenshot 2024-10-16 at 11.43.11 AM.png",
+    "Screenshots/Screenshot 2024-10-16 at 11.41.35 AM.png",
     "Notes/Physics/LABS",
-    "Notes/Math/Matricies/Who discovered the matrix.md",
-    "Notes/Math/Matricies/What is a matrix.md",
-    "Notes/Math/Matricies/To find the rank of a matrix and a augmented matrix.md",
-    "Notes/Math/Matricies/Row Operations Homework.md",
-    "Notes/Math/Matricies/Rank of a matrix.md",
-    "Notes/Math/Matricies/Order of matrix.md",
-    "Notes/Math/Matricies/Linear Equation.md",
-    "Notes/Math/Matricies/Independent system of equation.md",
-    "Notes/Math/Matricies/Homework How to use of QR code by the use of matrices.md",
-    "Notes/Math/Matricies",
-    "Screenshots/Screenshot 2024-10-08 at 1.25.27 PM.png",
-    "Screenshots/Screenshot 2024-10-04 at 12.04.05 PM.png",
-    "Screenshots/Screenshot 2024-10-04 at 12.00.57 PM.png",
-    "Screenshots/Screenshot 2024-10-04 at 12.00.29 PM.png",
-    "Screenshots/Screenshot 2024-10-04 at 11.58.41 AM.png",
-    "Screenshots/Screenshot 2024-10-04 at 11.51.11 AM.png",
-    "Screenshots/Screenshot 2024-10-04 at 11.41.29 AM.png",
-    "Screenshots/Screenshot 2024-10-04 at 11.39.57 AM.png",
-    "Screenshots/Screenshot 2024-10-04 at 11.23.19 AM.png",
-    "Screenshots/Screenshot 2024-10-04 at 11.19.04 AM.png",
-    "Screenshots",
     "Notes/Software and System Design/Unit 1/SDC/Types of SLCM",
+    "Notes/Software and System Design/Unit 1/SLCM",
     "Notes/Software and System Design/Unit 1/SDC",
     "Notes/Software and System Design/Unit 1/Design Principles",
     "Notes/Software and System Design/Unit 1",
-    "Notes/Software and System Design",
     "Notes/Math/Sets",
     "Untitled.canvas",
     "Untitled 1.canvas"

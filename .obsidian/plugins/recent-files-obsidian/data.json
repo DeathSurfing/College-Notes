@@ -1,188 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "Canonical form",
-      "path": "Notes/Math/Matricies/Canonical form.md"
+      "basename": "Diagonalization",
+      "path": "Notes/Math/Matricies/Diagonalization.md"
     },
     {
       "basename": "Matricies",
       "path": "Notes/Math/Matricies.md"
     },
     {
-      "basename": "Converting from Quadratic form to matrix form",
-      "path": "Notes/Math/Matricies/Converting from Quadratic form to matrix form.md"
+      "basename": "Topic Explorer",
+      "path": "Notes/Math/Topic Explorer.md"
     },
     {
-      "basename": "Diagonalization",
-      "path": "Notes/Math/Matricies/Diagonalization.md"
+      "basename": "Canonical form",
+      "path": "Notes/Math/Matricies/Canonical form.md"
+    },
+    {
+      "basename": "Thevenin's Theorem",
+      "path": "Notes/IOT/Thevenin's Theorem.md"
     },
     {
       "basename": "Cayley-Hamilton Theorem",
       "path": "Notes/Math/Matricies/Cayley-Hamilton Theorem.md"
     },
     {
-      "basename": "Eigen Values and Eigen Vectors",
-      "path": "Notes/Math/Matricies/Eigen Values and Eigen Vectors.md"
-    },
-    {
-      "basename": "Electrical Supply",
-      "path": "Notes/IOT/Electrical Supply.md"
-    },
-    {
-      "basename": "Electrical Saftey",
-      "path": "Notes/IOT/Electrical Saftey.md"
-    },
-    {
-      "basename": "Drawing 2024-09-11 14.35.24.excalidraw",
-      "path": "Excalidraw/Drawing 2024-09-11 14.35.24.excalidraw.md"
+      "basename": "Algorithms",
+      "path": "Notes/Computational Thinking/Algorithms.md"
     },
     {
       "basename": "Computational Thinking breakdown",
       "path": "Notes/Computational Thinking/Computational Thinking breakdown.md"
     },
     {
-      "basename": "Drawing 2024-09-11 14.32.48.excalidraw",
-      "path": "Excalidraw/Drawing 2024-09-11 14.32.48.excalidraw.md"
-    },
-    {
-      "basename": "Drawing 2023-07-23 03.49.00.excalidraw",
-      "path": "Excalidraw/Drawing 2023-07-23 03.49.00.excalidraw.md"
-    },
-    {
-      "basename": "Drawing 2024-09-11 14.31.26.excalidraw",
-      "path": "Excalidraw/Drawing 2024-09-11 14.31.26.excalidraw.md"
-    },
-    {
-      "basename": "Drawing 2024-09-11 14.24.06.excalidraw",
-      "path": "Excalidraw/Drawing 2024-09-11 14.24.06.excalidraw.md"
-    },
-    {
-      "basename": "Waves",
-      "path": "Notes/Physics/Waves.md"
+      "basename": "Data Expressions and statements (PYTHON)",
+      "path": "Notes/Computational Thinking/Data Expressions and statements (PYTHON).md"
     },
     {
       "basename": "Topic Explorer",
       "path": "Notes/Computational Thinking/Topic Explorer.md"
     },
     {
-      "basename": "Drawing 2024-09-10 15.02.28.excalidraw",
-      "path": "Excalidraw/Drawing 2024-09-10 15.02.28.excalidraw.md"
-    },
-    {
-      "basename": "Forces",
-      "path": "Notes/Physics/Mechanics/Forces.md"
-    },
-    {
-      "basename": "Topic Explorer",
-      "path": "Notes/Physics/Topic Explorer.md"
-    },
-    {
-      "basename": "Applied Physics Breakdown",
-      "path": "Notes/Physics/Applied Physics Breakdown.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Notes/Computational Thinking/Untitled.md"
+      "basename": "Control flow and functions",
+      "path": "Notes/Computational Thinking/Control flow and functions.md"
     },
     {
       "basename": "Vedic Philosophy",
       "path": "Notes/IKS (Indian Knowledge System)/Vedic Philosophy.md"
     },
     {
-      "basename": "Topic Explorer",
-      "path": "Notes/Math/Topic Explorer.md"
+      "basename": "Astronomy Origins",
+      "path": "Notes/IKS (Indian Knowledge System)/Astronomy Origins.md"
     },
     {
-      "basename": "IKS Outline",
-      "path": "Notes/IKS (Indian Knowledge System)/IKS Outline.md"
+      "basename": "Superpostion Theorem",
+      "path": "Notes/IOT/Superpostion Theorem.md"
     },
     {
-      "basename": "Free Body Diagrams",
-      "path": "Notes/Physics/Mechanics/Free Body Diagrams.md"
+      "basename": "Kirchoff's laws",
+      "path": "Notes/IOT/Kirchoff's laws.md"
+    },
+    {
+      "basename": "IOT Assignment 1",
+      "path": "Notes/IOT/IOT Assignment 1.md"
+    },
+    {
+      "basename": "Drawing 2024-10-04 11.19.54.excalidraw",
+      "path": "Excalidraw/Drawing 2024-10-04 11.19.54.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2024-10-15 11.47.54.excalidraw",
+      "path": "Excalidraw/Drawing 2024-10-15 11.47.54.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2024-09-10 15.02.28.excalidraw",
+      "path": "Excalidraw/Drawing 2024-09-10 15.02.28.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2023-07-23 03.49.00.excalidraw",
+      "path": "Excalidraw/Drawing 2023-07-23 03.49.00.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2024-09-11 14.35.24.excalidraw",
+      "path": "Excalidraw/Drawing 2024-09-11 14.35.24.excalidraw.md"
+    },
+    {
+      "basename": "Electrical Saftey",
+      "path": "Notes/IOT/Electrical Saftey.md"
+    },
+    {
+      "basename": "Electrical Supply",
+      "path": "Notes/IOT/Electrical Supply.md"
+    },
+    {
+      "basename": "Screenshot 2024-10-04 at 12.04.05 PM 1",
+      "path": "Screenshots/Screenshot 2024-10-04 at 12.04.05 PM 1.png"
     },
     {
       "basename": "COntent IDEAS",
       "path": "Notes/Content generation/COntent IDEAS.md"
     },
     {
-      "basename": "Topic Explorer",
-      "path": "Notes/Trading/Topic Explorer.md"
+      "basename": "Diffraction Gratting",
+      "path": "Notes/Physics/LABS/Diffraction Gratting.md"
     },
     {
-      "basename": "Support and Resistance",
-      "path": "Notes/Trading/Files/Support and Resistance.md"
+      "basename": "Newton Rings",
+      "path": "Notes/Physics/LABS/Newton Rings.md"
     },
     {
-      "basename": "Medical Tourism",
-      "path": "Notes/Buisnes Ideas/Medical Tourism.md"
+      "basename": "Low Level design",
+      "path": "Notes/Software and System Design/Unit 1/Low Level design.md"
     },
     {
-      "basename": "Philosophy",
-      "path": "Notes/Philosphy/Philosophy.md"
+      "basename": "Lab 5",
+      "path": "Notes/SSD Labs/Lab 5.md"
     },
     {
-      "basename": "Utilitarianism",
-      "path": "Notes/Philosphy/Philosophy Spaces/Utilitarianism.md"
+      "basename": "Converting from Quadratic form to matrix form",
+      "path": "Notes/Math/Matricies/Converting from Quadratic form to matrix form.md"
     },
     {
-      "basename": "Pragmatism",
-      "path": "Notes/Philosphy/Philosophy Spaces/Pragmatism.md"
+      "basename": "Eigen Values and Eigen Vectors",
+      "path": "Notes/Math/Matricies/Eigen Values and Eigen Vectors.md"
     },
     {
-      "basename": "48 Laws of Power",
-      "path": "Notes/Books/48 Laws of Power.md"
+      "basename": "Unit 2",
+      "path": "Notes/Software and System Design/Unit 2.md"
     },
     {
-      "basename": "SUVAT",
-      "path": "Notes/Physics/Mechanics/SUVAT.md"
+      "basename": "Class diagram",
+      "path": "Notes/SSD Labs/Class diagram.md"
     },
     {
-      "basename": "Projectile Motion",
-      "path": "Notes/Physics/Mechanics/Projectile Motion.md"
+      "basename": "Discrete",
+      "path": "Notes/Math/Discrete.md"
     },
     {
-      "basename": "Friction",
-      "path": "Notes/Physics/Mechanics/Friction.md"
+      "basename": "Relations",
+      "path": "Notes/Math/Sets/Relations.md"
     },
     {
-      "basename": "Epistemological Skepticism",
-      "path": "Notes/Philosphy/Philosophy Spaces/Epistemological Skepticism.md"
+      "basename": "Calculus",
+      "path": "Notes/Math/Calculus.md"
     },
     {
-      "basename": "Moral Relativism",
-      "path": "Notes/Philosphy/Philosophy Spaces/Moral Relativism.md"
+      "basename": "LAB 3",
+      "path": "Notes/SSD Labs/LAB 3.md"
     },
     {
-      "basename": "Stoicism",
-      "path": "Notes/Philosphy/Philosophy Spaces/Stoicism.md"
+      "basename": "Lab 4",
+      "path": "Notes/SSD Labs/Lab 4.md"
     },
     {
-      "basename": "Ontology",
-      "path": "Notes/Philosphy/Philosophy Spaces/Ontology.md"
+      "basename": "Unit 1",
+      "path": "Notes/Software and System Design/Unit 1.md"
     },
     {
-      "basename": "Phenomenology",
-      "path": "Notes/Philosphy/Philosophy Spaces/Phenomenology.md"
+      "basename": "Numerical Aperture",
+      "path": "Notes/Physics/LABS/Numerical Aperture.md"
     },
     {
-      "basename": "Existentialism",
-      "path": "Notes/Philosphy/Philosophy Spaces/Existentialism.md"
+      "basename": "Solar Cell",
+      "path": "Notes/Physics/LABS/Solar Cell.md"
     },
     {
-      "basename": "Interesting GSOC Companies",
-      "path": "Notes/Coding stuff/Interesting GSOC Companies.md"
+      "basename": "Applied Physics Breakdown",
+      "path": "Notes/Physics/Applied Physics Breakdown.md"
     },
     {
-      "basename": "JDK JRE JVM",
-      "path": "Notes/Coding stuff/JDK JRE JVM.md"
+      "basename": "Quantum Physics",
+      "path": "Notes/Physics/Quantum Physics.md"
     },
     {
-      "basename": "Coding Project Ideas",
-      "path": "Notes/Coding stuff/Coding Project Ideas.md"
+      "basename": "Temp notes",
+      "path": "Notes/Temp notes.md"
     },
     {
-      "basename": "JVM",
-      "path": "Notes/Coding stuff/JDK JRE JVM/JVM.md"
+      "basename": "Prototyping Model",
+      "path": "Notes/Software and System Design/Unit 1/SDC/Types of SLCM/Prototyping Model.md"
+    },
+    {
+      "basename": "Software development cycle",
+      "path": "Notes/Software and System Design/Unit 1/SDC/Software development cycle.md"
+    },
+    {
+      "basename": "Design phase",
+      "path": "Notes/Software and System Design/Unit 1/SDC/Design phase.md"
+    },
+    {
+      "basename": "Types of SLCM",
+      "path": "Notes/Software and System Design/Unit 1/SDC/Types of SLCM.md"
+    },
+    {
+      "basename": "Iterative water model",
+      "path": "Notes/Software and System Design/Unit 1/SDC/Types of SLCM/Iterative water model.md"
+    },
+    {
+      "basename": "Evolutionary Model",
+      "path": "Notes/Software and System Design/Unit 1/SDC/Types of SLCM/Evolutionary Model.md"
     }
   ],
   "omittedPaths": [],
