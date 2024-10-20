@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Physics/LABS/Diffraction Gratting.md",
+                "file": "Notes/Physics/LABS/Solar Cell.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Diffraction Gratting"
+              "title": "Solar Cell"
             }
           }
         ]
@@ -210,10 +210,10 @@
   },
   "active": "945cd02a29a5cddf",
   "lastOpenFiles": [
+    "Notes/Physics/LABS/Numerical Aperture.md",
     "Notes/Physics/LABS/Newton Rings.md",
     "Notes/Physics/LABS/Diffraction Gratting.md",
     "Notes/Physics/LABS/Solar Cell.md",
-    "Notes/Physics/LABS/Numerical Aperture.md",
     "Notes/Physics/Applied Physics Breakdown.md",
     "Notes/Physics/Quantum Physics.md",
     "Notes/Physics/Topic Explorer.md",
