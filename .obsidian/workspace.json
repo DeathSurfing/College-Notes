@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "Diffraction Gratting"
             }
+          },
+          {
+            "id": "0b53d6571ab4b52e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.4"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.4"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -223,7 +235,7 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "db65392043e7966d",
+  "active": "0b53d6571ab4b52e",
   "lastOpenFiles": [
     "Screenshot 2024-10-18 at 11.35.16 AM.png",
     "Notes/Physics/LABS/Solar Cell.md",
