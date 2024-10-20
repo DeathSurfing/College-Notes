@@ -77,9 +77,9 @@ The wavelength of violet =$4.43 \times 10^{-5}$ m
 2. **Handling the Grating**: Handle the diffraction grating carefully to avoid fingerprints or scratches on the surface, which can affect the diffraction pattern.
 3. **Light Source**: Use a stable and coherent light source (Mercury vapor or Sodium lamp) to avoid fluctuations in light intensity, which may lead to errors in observation.
 4. **Spectrometer Adjustments**: Ensure the spectrometer is leveled using the spirit level to avoid angular errors in measurements.
-5. **Fine Adjustments**: Use fine adjustment screws when aligning the telescope and vernier table to ensure precise readings of the spectral lines.
-6. **Avoid Parallax Error**: Always take the readings while keeping your eye in line with the vernier scale to avoid parallax error.
-7. **Accurate Angle Measurement**: Rotate the vernier table gently and stop as soon as the spectral lines coincide with the cross wire to avoid overshooting the angle.
+5. **Fine Adjustments**: Use fine adjustment screws when aligning the telescope and Vernier table to ensure precise readings of the spectral lines.
+6. **Avoid Parallax Error**: Always take the readings while keeping your eye in line with the Vernier scale to avoid parallax error.
+7. **Accurate Angle Measurement**: Rotate the Vernier table gently and stop as soon as the spectral lines coincide with the cross wire to avoid overshooting the angle.
 8. **Read Both Sides**: Take readings from both the left and right sides of the direct image for each spectral line to minimize errors in calculating the angle of diffraction.
 9. **Environmental Conditions**: Ensure the experiment is conducted in a draft-free and stable environment to avoid disturbances to the light source and apparatus.    
 10. **Repeat Observations**: Take multiple readings and average them to improve the accuracy of the angle measurements.

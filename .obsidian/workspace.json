@@ -11,12 +11,14 @@
             "id": "945cd02a29a5cddf",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Screenshots/Desmos Graph.png"
+                "file": "Notes/Physics/LABS/Diffraction Gratting.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Desmos Graph"
+              "icon": "lucide-file",
+              "title": "Diffraction Gratting"
             }
           }
         ]
@@ -208,12 +210,17 @@
   },
   "active": "945cd02a29a5cddf",
   "lastOpenFiles": [
-    "Screenshots/Screenshot 2024-10-18 at 11.35.16 AM.png",
-    "Notes/Math/Matricies/Diagonalization.md",
+    "Notes/Physics/LABS/Newton Rings.md",
     "Notes/Physics/LABS/Diffraction Gratting.md",
     "Notes/Physics/LABS/Solar Cell.md",
     "Notes/Physics/LABS/Numerical Aperture.md",
-    "Notes/Physics/LABS/Newton Rings.md",
+    "Notes/Physics/Applied Physics Breakdown.md",
+    "Notes/Physics/Quantum Physics.md",
+    "Notes/Physics/Topic Explorer.md",
+    "Notes/Physics/Waves.md",
+    "Screenshots/Desmos Graph.png",
+    "Screenshots/Screenshot 2024-10-18 at 11.35.16 AM.png",
+    "Notes/Math/Matricies/Diagonalization.md",
     "Excalidraw/Drawing 2024-09-30 14.57.11.excalidraw.md",
     "Excalidraw/Drawing 2024-10-15 11.47.54.excalidraw.md",
     "Excalidraw/Drawing 2023-07-23 03.49.00.excalidraw.md",
@@ -231,12 +238,9 @@
     "Notes/IKS (Indian Knowledge System)/Astronomy Origins.md",
     "Notes/IOT/Superpostion Theorem.md",
     "Notes/IOT/Kirchoff's laws.md",
-    "Notes/IOT/IOT Assignment 1.md",
     "Screenshots/Screenshot 2024-10-17 at 2.06.32 PM.png",
-    "Excalidraw/Drawing 2024-10-04 11.19.54.excalidraw.md",
     "Screenshots/Screenshot 2024-10-17 at 2.00.31 PM.png",
     "Screenshots/Screenshot 2024-10-17 at 1.54.46 PM.png",
-    "Excalidraw/Drawing 2024-09-10 15.02.28.excalidraw.md",
     "Screenshots/Screenshot 2024-10-17 at 1.52.57 PM.png",
     "Screenshots/Screenshot 2024-10-17 at 1.48.22 PM.png",
     "Screenshots/Screenshot 2024-10-04 at 12.04.05 PM 1.png",
@@ -245,7 +249,6 @@
     "CTPS 1st year/BTECH CSE AIML RHINOS G2 2024-28 24WU0102119 Lab 1C",
     "CTPS 1st year/BTECH CSE AIML RHINOS G2 2024-28 24WU0102119 Lab 1B.ipynb",
     "Screenshots/Screenshot 2024-10-16 at 11.44.27 AM.png",
-    "Screenshots/Screenshot 2024-10-16 at 11.43.11 AM.png",
     "Notes/Physics/LABS",
     "Notes/Software and System Design/Unit 1/SDC/Types of SLCM",
     "Notes/Software and System Design/Unit 1/SLCM",
