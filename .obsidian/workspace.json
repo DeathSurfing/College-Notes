@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "0d185ef215ba5701",
+        "id": "ff70391c10221ceb",
         "type": "tabs",
         "children": [
           {
-            "id": "945cd02a29a5cddf",
+            "id": "71693bad9d5257f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Physics/LABS/Solar Cell.md",
+                "file": "Notes/Math/Matricies/Diagonalization.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Solar Cell"
+              "title": "Diagonalization"
+            }
+          },
+          {
+            "id": "db65392043e7966d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Physics/Quantum Physics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Quantum Physics"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,22 +223,26 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "945cd02a29a5cddf",
+  "active": "db65392043e7966d",
   "lastOpenFiles": [
+    "Notes/Physics/Topic Explorer.md",
+    "Notes/Physics/Applied Physics Breakdown.md",
+    "Notes/Physics/LABS/Diffraction Gratting.md",
+    "Screenshots/Screenshot 2024-10-18 at 11.35.16 AM.png",
+    "Screenshots/Screenshot 2024-10-17 at 2.06.32 PM.png",
+    "Screenshots/Screenshot 2024-10-17 at 2.00.31 PM.png",
+    "Screenshots/Screenshot 2024-10-17 at 1.54.46 PM.png",
+    "Screenshots/Screenshot 2024-10-17 at 1.52.57 PM.png",
+    "Screenshots/Screenshot 2024-10-17 at 1.48.22 PM.png",
+    "Screenshots/Desmos Graph.png",
+    "Screenshot 2024-10-18 at 11.35.16 AM.png",
+    "Notes/Physics/LABS/Solar Cell.md",
     "Notes/Physics/LABS/Numerical Aperture.md",
     "Notes/Physics/LABS/Newton Rings.md",
-    "Notes/Physics/LABS/Diffraction Gratting.md",
-    "Notes/Physics/LABS/Solar Cell.md",
-    "Notes/Physics/Applied Physics Breakdown.md",
-    "Notes/Physics/Quantum Physics.md",
-    "Notes/Physics/Topic Explorer.md",
-    "Notes/Physics/Waves.md",
-    "Screenshots/Desmos Graph.png",
-    "Screenshots/Screenshot 2024-10-18 at 11.35.16 AM.png",
-    "Notes/Math/Matricies/Diagonalization.md",
     "Excalidraw/Drawing 2024-09-30 14.57.11.excalidraw.md",
     "Excalidraw/Drawing 2024-10-15 11.47.54.excalidraw.md",
     "Excalidraw/Drawing 2023-07-23 03.49.00.excalidraw.md",
+    "Notes/Math/Matricies/Diagonalization.md",
     "Notes/Math/Matricies.md",
     "Notes/Math/Topic Explorer.md",
     "Notes/Math/Matricies/Canonical form.md",
@@ -238,17 +257,13 @@
     "Notes/IKS (Indian Knowledge System)/Astronomy Origins.md",
     "Notes/IOT/Superpostion Theorem.md",
     "Notes/IOT/Kirchoff's laws.md",
-    "Screenshots/Screenshot 2024-10-17 at 2.06.32 PM.png",
-    "Screenshots/Screenshot 2024-10-17 at 2.00.31 PM.png",
-    "Screenshots/Screenshot 2024-10-17 at 1.54.46 PM.png",
-    "Screenshots/Screenshot 2024-10-17 at 1.52.57 PM.png",
-    "Screenshots/Screenshot 2024-10-17 at 1.48.22 PM.png",
-    "Screenshots/Screenshot 2024-10-04 at 12.04.05 PM 1.png",
-    "Screenshots/Screenshot 2024-10-17 at 1.44.55 PM.png",
+    "Notes/IOT/IOT Assignment 1.md",
+    "Screenshot 2024-10-17 at 2.06.32 PM.png",
+    "Excalidraw/Drawing 2024-10-04 11.19.54.excalidraw.md",
+    "Screenshot 2024-10-17 at 2.00.31 PM.png",
     "CTPS 1st year/BTECH CSE AIML RHINOS G2 2024-28 24WU0102119 Lab 1C.ipynb",
     "CTPS 1st year/BTECH CSE AIML RHINOS G2 2024-28 24WU0102119 Lab 1C",
     "CTPS 1st year/BTECH CSE AIML RHINOS G2 2024-28 24WU0102119 Lab 1B.ipynb",
-    "Screenshots/Screenshot 2024-10-16 at 11.44.27 AM.png",
     "Notes/Physics/LABS",
     "Notes/Software and System Design/Unit 1/SDC/Types of SLCM",
     "Notes/Software and System Design/Unit 1/SLCM",
