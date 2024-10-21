@@ -21,5 +21,15 @@ $f'(x)=0$
 $f'(x)>0$ Increasing
 $f'(x)<0$ decreasing
 
+## Example 1:
+
+$f(x)=x^4-8x^2$ where f(x) is increasing or decreasing
+
+$f'(x)=4x^3-16x$
+$4x(x^2-4)$
+$x=0 \ or\ x=\pm2$ 
+
+$(-\infty,-2)$,$(-2,0)$,$(0,2)$,$(2,\infty)$
+
 
 
