@@ -83,6 +83,8 @@ $$2(E-V)m=m^2v^2$$
 $$\frac{\partial^2\psi}{\partial x^2}+\frac{4\pi^2}{h^2}\cdot 2(E-V)m\psi=0$$
 $$\frac{\partial \psi^2}{\partial x^2}+\frac{8\pi^2m(E-V)\psi}{\left( \frac{h}{2\pi} \right)^2}=0$$
 
+$$\frac{\partial^2\psi}{\partial x^2}+\frac{2m(E-V)\psi}{\hbar^2}=0$$
+
 
 ## Dirac Notation
 
@@ -98,3 +100,4 @@ where $K^2=\frac{2mE}{\frac{h}{2 \pi}}$
 $$\psi=ACos(kx)+BSin(kx)\dots3$$
 $$\frac{2mE}{\frac{h}{2\pi}}=\frac{\pi^2n^2\frac{h}{2\pi}^2}{L^2}$$
 $$E_n=\frac{\frac{h}{2\pi}^2n^2\pi^2}{2mL^2}$$
+
