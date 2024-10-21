@@ -79,13 +79,22 @@ $$E=\frac{1}{2}mv^2+V$$
 $$E-V=\frac{1}{2}mv^2$$
 $$2(E-V)m=m^2v^2$$
 
-#### Schrödinger equation time independent: 
+## Schrödinger equation time independent: 
 $$\frac{\partial^2\psi}{\partial x^2}+\frac{4\pi^2}{h^2}\cdot 2(E-V)m\psi=0$$
 $$\frac{\partial \psi^2}{\partial x^2}+\frac{8\pi^2m(E-V)\psi}{\left( \frac{h}{2\pi} \right)^2}=0$$
 
 
 ## Dirac Notation
 
-## Schrödinger time independent wave equations
 
 ## Applications of Schrödinger time independent wave equation to a particle in one dimensional infinite potential box
+
+
+$\psi \text{ Vanishes at boundry at x=0 or L}$
+$$\frac{\partial^2\psi}{\partial x^2}+\frac{4\pi^2}{h^2}\cdot 2(E-V)m\psi=0\dots1$$
+$$\frac{\partial^2\psi}{\partial x^2}+k^2\psi=0\dots2$$
+where $K^2=\frac{2mE}{\frac{h}{2 \pi}}$
+
+$$\psi=ACos(kx)+BSin(kx)\dots3$$
+$$\frac{2mE}{\frac{h}{2\pi}}=\frac{\pi^2n^2\frac{h}{2\pi}^2}{L^2}$$
+$$E_n=\frac{\frac{h}{2\pi}^2n^2\pi^2}{2mL^2}$$
