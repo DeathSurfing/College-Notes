@@ -88,7 +88,7 @@ $$\frac{\partial^2\psi}{\partial x^2}+\frac{2m(E-V)\psi}{\hbar^2}=0$$
 
 ## Dirac Notation
 
-
+     
 ## Applications of Schrödinger time independent wave equation to a particle in one dimensional infinite potential box
 
 
@@ -101,4 +101,18 @@ $$\psi=ACos(kx)+BSin(kx)\dots3$$
 $$\frac{2mE}{\frac{h}{2\pi}}=\frac{\pi^2n^2\frac{h}{2\pi}^2}{L^2}$$
 $$E_n=\frac{\frac{h}{2\pi}^2n^2\pi^2}{2mL^2}$$
 
+
+
+$$\int_0^L\psi^*\psi dx=1$$
+$$\int_0^L(B^* sin(\frac{n\pi x}{L})\cdot Bsin(\frac{n\pi x}{L})dx=1$$
+$$B^2\int_0^L \sin^2(\frac{n\pi x}{L})dx$$
+$$\frac{B^2}{2}\int_0^Ldx-\int_0^L\cos(\frac{2xn\pi}{L})dx$$
+$$\frac{B^2}{2}[2-0-\frac{L}{n\pi}[(\frac{\sin(\frac{2n\pi x}{L}}{2})]^L_0]$$
+$$\frac{B^2L}{2}=1$$
+$$B=\sqrt \frac{2}{L}$$
+$$\psi=B\sin(\frac{n\pi x}{L})$$
+$$\psi_n=\sqrt\frac{2}{L}\sin(\frac{n\pi x}{L})$$
+$$\text{For Maximum condition}$$
+$$\sin(\frac{\pi x}{L})=\sin(\frac{\pi}{2})$$
+$$x=\frac{L}{2}$$
 
