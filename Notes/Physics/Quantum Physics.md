@@ -83,12 +83,7 @@ $$2(E-V)m=m^2v^2$$
 $$\frac{\partial^2\psi}{\partial x^2}+\frac{4\pi^2}{h^2}\cdot 2(E-V)m\psi=0$$
 $$\frac{\partial \psi^2}{\partial x^2}+\frac{8\pi^2m(E-V)\psi}{\left( \frac{h}{2\pi} \right)^2}=0$$
 
-$$\frac{\partial^2\psi}{\partial x^2}+\frac{2m(E-V)\psi}{\hbar^2}=0$$
-
-
-## Dirac Notation
-
-     
+$$\frac{\partial^2\psi}{\partial x^2}+\frac{2m(E-V)\psi}{\hbar^2}=0$$     
 ## Applications of Schrödinger time independent wave equation to a particle in one dimensional infinite potential box
 
 
