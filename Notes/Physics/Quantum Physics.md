@@ -101,3 +101,4 @@ $$\psi=ACos(kx)+BSin(kx)\dots3$$
 $$\frac{2mE}{\frac{h}{2\pi}}=\frac{\pi^2n^2\frac{h}{2\pi}^2}{L^2}$$
 $$E_n=\frac{\frac{h}{2\pi}^2n^2\pi^2}{2mL^2}$$
 
+

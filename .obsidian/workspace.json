@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Physics",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -223,7 +224,7 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "db65392043e7966d",
+  "active": "527036bc6634c27b",
   "lastOpenFiles": [
     "Notes/Physics/Topic Explorer.md",
     "Notes/Physics/Applied Physics Breakdown.md",
