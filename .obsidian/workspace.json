@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Physics/Quantum Physics.md",
+                "file": "Notes/IOT/Superpostion Theorem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quantum Physics"
+              "title": "Superpostion Theorem"
             }
           }
         ],
@@ -225,9 +225,13 @@
   },
   "active": "db65392043e7966d",
   "lastOpenFiles": [
+    "Notes/IOT/Kirchoff's laws.md",
     "Notes/IOT/Superpostion Theorem.md",
-    "Notes/IOT/Thevenin's Theorem.md",
+    "Notes/IOT/Untitled.md",
+    "Notes/IOT/IOT Assignment 1.md",
+    "Notes/IOT/Electrical Supply.md",
     "Notes/Physics/Quantum Physics.md",
+    "Notes/IOT/Thevenin's Theorem.md",
     "Notes/Physics/Applied Physics Breakdown.md",
     "Notes/Physics/Topic Explorer.md",
     "Notes/Physics/LABS/Diffraction Gratting.md",
@@ -255,10 +259,6 @@
     "Notes/Computational Thinking/Data Expressions and statements (PYTHON).md",
     "Notes/Computational Thinking/Topic Explorer.md",
     "Notes/Computational Thinking/Control flow and functions.md",
-    "Notes/IKS (Indian Knowledge System)/Vedic Philosophy.md",
-    "Notes/IKS (Indian Knowledge System)/Astronomy Origins.md",
-    "Notes/IOT/Kirchoff's laws.md",
-    "Notes/IOT/IOT Assignment 1.md",
     "Screenshot 2024-10-17 at 2.06.32 PM.png",
     "Screenshot 2024-10-17 at 2.00.31 PM.png",
     "CTPS 1st year/BTECH CSE AIML RHINOS G2 2024-28 24WU0102119 Lab 1C.ipynb",
