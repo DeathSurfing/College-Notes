@@ -61,7 +61,7 @@ $N: \text{Grating Element},\text{Number of lines per inch}(12.5A^0)\text{on grat
 |                       | Green                 | 176.10            | 355.10       | 167.10       | 349.40       | 9.00             | 5.70 | 7.35 | 3.675                        | $6.5 \times 10^{-5}$  |
 
 # Error:
-$\lambda_{average}=4.87 \times 10^{-5}cm$
+$\lambda_{average}=4.87 \times 10^{-5}m$
 $\% Error=\frac{Actual-Practical}{Actual}\times 100$
 $\%Error=\frac{\left(5.3\cdot10^{-5}-4.87\cdot10^{-5}\right)}{5.3\cdot10^{-5}}\cdot100=8.1\%$
 
