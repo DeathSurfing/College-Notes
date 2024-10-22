@@ -3,7 +3,6 @@ ___
 To determine the wavelength of a given source of light using a plane transmission grating in the normal incidence position.
 # Apparatus: 
 
-
 | S.no | Name                        | Quantity | Remarks                             |
 | ---- | --------------------------- | -------- | ----------------------------------- |
 | 1    | Spectrometer                | 1        | N/A                                 |

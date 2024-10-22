@@ -204,6 +204,8 @@ $$
 
 ## Summary of Results
 - **Fill Factor:** 
-  - $$F_F = 0.562 \pm 0.0011$$ 
+  - $$F_F = 0.562 \pm 0.0011$$
+  - $\% Error=0.19\%$
 - **Series Resistance:** 
   - $$R_s = 34 \pm 0.34 \, \Omega$$
+  - $\%Error=0.01\%$

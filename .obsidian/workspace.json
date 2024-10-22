@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/IOT/Thevenin's Theorem.md",
+                "file": "Notes/Physics/LABS/Solar Cell.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Thevenin's Theorem"
+              "title": "Solar Cell"
             }
           }
         ]
@@ -211,15 +211,18 @@
   "active": "db65392043e7966d",
   "lastOpenFiles": [
     "Notes/Physics/LABS/Diffraction Gratting.md",
+    "Notes/Physics/LABS/Newton Rings.md",
+    "Notes/Physics/LABS/Solar Cell.md",
+    "Notes/Physics/LABS/Numerical Aperture.md",
+    "Notes/IOT/Superpostion Theorem.md",
+    "Notes/IOT/Thevenin's Theorem.md",
     "Notes/IKS (Indian Knowledge System)/Arts in India.md",
     "Notes/IKS (Indian Knowledge System)/Vedic Philosophy.md",
-    "Notes/IOT/Thevenin's Theorem.md",
     "Screenshot 2024-10-22 at 10.37.42 AM.png",
     "Excalidraw/Circuits.md",
     "Screenshot 2024-10-22 at 10.34.55 AM.png",
     "Screenshot 2024-10-22 at 10.33.23 AM.png",
     "Screenshot 2024-10-22 at 10.20.13 AM.png",
-    "Notes/IOT/Superpostion Theorem.md",
     "Screenshot 2024-10-22 at 10.17.31 AM.png",
     "Notes/IOT/Kirchoff's laws.md",
     "Screenshot 2024-10-22 at 10.16.16 AM.png",
@@ -238,9 +241,6 @@
     "Screenshots/Screenshot 2024-10-18 at 11.35.16 AM.png",
     "Screenshots/Screenshot 2024-10-17 at 2.06.32 PM.png",
     "Screenshots/Screenshot 2024-10-17 at 2.00.31 PM.png",
-    "Notes/Physics/LABS/Solar Cell.md",
-    "Notes/Physics/LABS/Numerical Aperture.md",
-    "Notes/Physics/LABS/Newton Rings.md",
     "Excalidraw/Drawing 2024-09-30 14.57.11.excalidraw.md",
     "Excalidraw/Drawing 2023-07-23 03.49.00.excalidraw.md",
     "Notes/Math/Matricies/Diagonalization.md",
