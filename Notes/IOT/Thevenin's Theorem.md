@@ -41,3 +41,40 @@ $I=25A$
 $V_{th}=125-75=50V$
 $I_L=\frac{50}{12.5+8}=2.439A$
 
+
+
+## Question 2:
+![[Screenshot 2024-10-22 at 10.15.24 AM.png]]![[Screenshot 2024-10-22 at 10.16.16 AM.png]]
+![[Screenshot 2024-10-22 at 10.17.31 AM.png]]
+$R_{TH}=\frac{10}{3}=3.33\Omega$ 
+![[Screenshot 2024-10-22 at 10.20.13 AM.png]]
+$-40+5I_1+20+10I_1=0$ 
+$I=1.33A$
+$R_L=2\Omega$
+
+$-10+13.33+V_{TH}=0$
+$V_{TH}=23.33V$ 
+
+$I_L=\frac{V_{tH}}{R_{TH}+R_L}$ 
+$I_L=\frac{23.33}{2+3.33}$
+$I_L=\frac{23.33}{5.33}=4.38A$
+
+## Question 3:
+![[Screenshot 2024-10-22 at 10.33.23 AM.png]]
+![[Screenshot 2024-10-22 at 10.34.55 AM.png]]
+
+$R_{TH}=\frac{10}{11}\Omega$
+![[Screenshot 2024-10-22 at 10.37.42 AM.png]]
+
+$4+2I_2 + 1I_2 + I_1 + I_2=0$   
+$-2+2I_1+I_1+I_2=0$
+
+$I_1=\frac{-14}{11}$
+$I_2=\frac{12}{11}$
+
+$-V_{TH}+3I_1+4=0$ 
+$-V_{TH}=-3.82-4$
+$V_{TH}=-7.82V$
+
+$I_L=\frac{-7.82}{2+\frac{10}{11}}$
+$I_L=-2.69A$
