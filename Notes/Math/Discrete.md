@@ -45,16 +45,20 @@ $a/b \vee b/a$
 #### Incomparable POSET:
 Two elements a and b in a POSET$(S,\leq)$ is incomparable if it doesn't satisfy any of the conditions of comparable
 
-
-
-
 ### Complete and incomplete
 
 ### Totally Ordered
+
 ### Hasse Diagram
+
+
+
 ### LUB and GLB
+
 ### Lattice
+
 ### Chain and Anti Chain
+
 ### Complete , distributive bounded and complemental lattice
 
 

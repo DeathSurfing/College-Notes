@@ -11,10 +11,14 @@
             "id": "1b2f991e5d4d5591",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Math/Discrete.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Discrete"
             }
           }
         ]
@@ -204,7 +208,7 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "e3647347c29efbd6",
+  "active": "1b2f991e5d4d5591",
   "lastOpenFiles": [
     "CTPS 1st year/BTECH CSE AIML RHINOS G2 2024-28 24WU0102119 Lab 1E.ipynb",
     "CTPS 1st year/BTECH CSE AIML RHINOS G2 2024-28 24WU0102119 Lab 1D.ipynb",
