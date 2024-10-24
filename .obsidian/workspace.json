@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ff70391c10221ceb",
+        "id": "550a0deda9ea7c08",
         "type": "tabs",
         "children": [
           {
-            "id": "db65392043e7966d",
+            "id": "1b2f991e5d4d5591",
             "type": "leaf",
             "state": {
-              "type": "ipynb",
-              "state": {
-                "file": "CTPS 1st year/BTECH CSE AIML RHINOS G2 2024-28 24WU0102119 Lab 1D.ipynb"
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "BTECH CSE AIML RHINOS G2 2024-28 24WU0102119 Lab 1D"
+              "title": "New tab"
             }
           }
         ]
@@ -206,8 +204,9 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "db65392043e7966d",
+  "active": "1b2f991e5d4d5591",
   "lastOpenFiles": [
+    "CTPS 1st year/BTECH CSE AIML RHINOS G2 2024-28 24WU0102119 Lab 1D.ipynb",
     "Notes/Software and System Design/Unit 2.md",
     "Notes/SSD Labs/LAB 3.md",
     "Notes/Computational Thinking/Control flow and functions.md",
@@ -240,7 +239,6 @@
     "Notes/IOT/IOT Assignment 1.md",
     "Notes/IOT/Electrical Supply.md",
     "Notes/Physics/Quantum Physics.md",
-    "Notes/Physics/Applied Physics Breakdown.md",
     "Screenshots/Screenshot 2024-10-18 at 11.35.16 AM.png",
     "Screenshots/Screenshot 2024-10-17 at 2.06.32 PM.png",
     "Screenshots/Screenshot 2024-10-17 at 2.00.31 PM.png",
