@@ -11,3 +11,4 @@ Construct a use case diagram for public transportation system using StarUML incl
  6. **Organize the Diagram**
 
 
+![[Screenshot 2024-10-25 at 1.49.42 PM.png]]
