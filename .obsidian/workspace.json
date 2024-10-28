@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Physics/LABS/E-M Lab.md",
+                "file": "Notes/IOT/Graph Theory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "E-M Lab"
+              "title": "Graph Theory"
             }
           },
           {
@@ -249,8 +249,18 @@
   },
   "active": "69a1223a9d384303",
   "lastOpenFiles": [
-    "Notes/Physics/LABS/Numerical Aperture.md",
+    "Notes/IOT/Maximum power transfer theorem.md",
+    "Notes/IOT/Graph Theory.md",
+    "Notes/IOT/Norton's Theorem.md",
+    "Notes/IOT/Kirchoff's laws.md",
+    "Notes/IOT/Electrical Supply.md",
+    "Notes/IOT/Electrical Saftey.md",
+    "Notes/IOT/IOT Assignment 1.md",
+    "Notes/IOT/Superpostion Theorem.md",
+    "Notes/IOT/Thevenin's Theorem.md",
+    "Notes/IOT/Untitled.md",
     "Notes/Physics/LABS/E-M Lab.md",
+    "Notes/Physics/LABS/Numerical Aperture.md",
     "Notes/Physics/LABS/Diffraction Gratting.md",
     "Notes/Physics/LABS/Newton Rings.md",
     "Notes/Physics/LABS/Solar Cell.md",
@@ -266,8 +276,6 @@
     "Screenshot 2024-10-25 at 9.34.40 AM.png",
     "Screenshot 2024-10-25 at 9.36.07 AM.png",
     "Screenshots/Screenshot 2024-10-16 at 11.41.35 AM.png",
-    "Notes/IOT/Maximum power transfer theorem.md",
-    "Notes/IOT/Norton's Theorem.md",
     "Excalidraw/Circuits.md",
     "Screenshot 2024-10-25 at 9.22.26 AM.png",
     "Screenshot 2024-10-04 at 12.04.05 PM.png",
@@ -279,14 +287,6 @@
     "Notes/Computational Thinking/Control flow and functions.md",
     "Notes/Computational Thinking/Data Expressions and statements (PYTHON).md",
     "Notes/Computational Thinking/Topic Explorer.md",
-    "Notes/Computational Thinking/Computational Thinking breakdown.md",
-    "Notes/IOT/Superpostion Theorem.md",
-    "Notes/IOT/Thevenin's Theorem.md",
-    "Notes/IKS (Indian Knowledge System)/Arts in India.md",
-    "Notes/IKS (Indian Knowledge System)/Vedic Philosophy.md",
-    "Notes/IOT/Kirchoff's laws.md",
-    "Notes/Math/Calculus.md",
-    "Notes/Math/Matricies/Cayley-Hamilton Theorem.md",
     "CTPS 1st year/BTECH CSE AIML RHINOS G2 2024-28 24WU0102119 Lab 1C.ipynb",
     "CTPS 1st year/BTECH CSE AIML RHINOS G2 2024-28 24WU0102119 Lab 1C",
     "CTPS 1st year/BTECH CSE AIML RHINOS G2 2024-28 24WU0102119 Lab 1B.ipynb",
