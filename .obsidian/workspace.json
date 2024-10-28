@@ -34,30 +34,6 @@
               "icon": "lucide-file",
               "title": "Graph Theory"
             }
-          },
-          {
-            "id": "023be81a54005692",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Screenshots/Screenshot 2024-10-16 at 11.43.11 AM.png"
-              },
-              "icon": "lucide-image",
-              "title": "Screenshot 2024-10-16 at 11.43.11 AM"
-            }
-          },
-          {
-            "id": "ebaeb7bd9da9a631",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Screenshots/Screenshot 2024-10-16 at 11.41.35 AM.png"
-              },
-              "icon": "lucide-image",
-              "title": "Screenshot 2024-10-16 at 11.41.35 AM"
-            }
           }
         ],
         "currentTab": 1
@@ -247,7 +223,7 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "69a1223a9d384303",
+  "active": "e3647347c29efbd6",
   "lastOpenFiles": [
     "Notes/IOT/Maximum power transfer theorem.md",
     "Notes/IOT/Graph Theory.md",
