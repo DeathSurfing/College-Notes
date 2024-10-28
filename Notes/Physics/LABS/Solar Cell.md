@@ -111,7 +111,7 @@ $34\Omega$
 ## Error in Measurement Devices
 - The error in both the voltmeter and ammeter was \(0.005\).
 
-## Error Propagation for Fill Factor (\(F_F\))
+## Error Propagation for Fill Factor $(F_F)$ 
 
 The formula for \(F_F\) is:
 $$

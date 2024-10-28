@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/SSD Labs/Lab 6.md",
+                "file": "Notes/Physics/LABS/Solar Cell.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lab 6"
+              "title": "Solar Cell"
             }
           },
           {
@@ -249,8 +249,11 @@
   },
   "active": "69a1223a9d384303",
   "lastOpenFiles": [
-    "Notes/SSD Labs/Lab 5.md",
+    "Notes/Physics/LABS/Numerical Aperture.md",
+    "Notes/Physics/LABS/Newton Rings.md",
+    "Notes/Physics/LABS/Diffraction Gratting.md",
     "Notes/SSD Labs/Lab 6.md",
+    "Notes/SSD Labs/Lab 5.md",
     "Screenshot 2024-10-25 at 1.49.42 PM.png",
     "Screenshots/Screenshot 2024-10-16 at 11.44.27 AM.png",
     "Notes/SSD Labs/LAB 3.md",
@@ -275,10 +278,7 @@
     "Notes/Computational Thinking/Data Expressions and statements (PYTHON).md",
     "Notes/Computational Thinking/Topic Explorer.md",
     "Notes/Computational Thinking/Computational Thinking breakdown.md",
-    "Notes/Physics/LABS/Diffraction Gratting.md",
-    "Notes/Physics/LABS/Newton Rings.md",
     "Notes/Physics/LABS/Solar Cell.md",
-    "Notes/Physics/LABS/Numerical Aperture.md",
     "Notes/IOT/Superpostion Theorem.md",
     "Notes/IOT/Thevenin's Theorem.md",
     "Notes/IKS (Indian Knowledge System)/Arts in India.md",
