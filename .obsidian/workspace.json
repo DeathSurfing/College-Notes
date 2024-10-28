@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Physics/LABS/Numerical Aperture.md",
+                "file": "Notes/Physics/LABS/E-M Lab.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Numerical Aperture"
+              "title": "E-M Lab"
             }
           },
           {
@@ -249,8 +249,9 @@
   },
   "active": "69a1223a9d384303",
   "lastOpenFiles": [
-    "Notes/Physics/LABS/Diffraction Gratting.md",
     "Notes/Physics/LABS/Numerical Aperture.md",
+    "Notes/Physics/LABS/E-M Lab.md",
+    "Notes/Physics/LABS/Diffraction Gratting.md",
     "Notes/Physics/LABS/Newton Rings.md",
     "Notes/Physics/LABS/Solar Cell.md",
     "Notes/SSD Labs/Lab 6.md",
