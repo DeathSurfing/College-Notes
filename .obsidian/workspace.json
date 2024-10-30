@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/IOT/Graph Theory.md",
+                "file": "Notes/Physics/Quantum Physics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Graph Theory"
+              "title": "Quantum Physics"
             }
           }
         ],
@@ -223,8 +223,12 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "e3647347c29efbd6",
+  "active": "69a1223a9d384303",
   "lastOpenFiles": [
+    "Notes/Physics/Applied Physics Breakdown.md",
+    "Notes/Physics/Quantum Physics.md",
+    "Notes/Physics/LABS/Diffraction Gratting.md",
+    "Notes/IOT/Graph Theory.md",
     "CTPS 1st year/Lab 3/BTECH CSE AIML RHINOS G2 2024-28 24WU0102119 Lab 3a.ipynb",
     "CTPS 1st year/Lab 3",
     "CTPS 1st year/Lab 2/BTECH CSE AIML RHINOS G2 2024-28 24WU0102119 Lab 2b.ipynb",
@@ -232,7 +236,6 @@
     "CTPS 1st year/Lab 2/BTECH CSE AIML RHINOS G2 2024-28 24WU0102119 Lab 2c.ipynb",
     "CTPS 1st year/BTECH CSE AIML RHINOS G2 2024-28 24WU0102119 Lab 2c.ipynb",
     "Notes/IOT/Maximum power transfer theorem.md",
-    "Notes/IOT/Graph Theory.md",
     "Notes/IOT/Norton's Theorem.md",
     "Notes/IOT/Kirchoff's laws.md",
     "Notes/IOT/Electrical Supply.md",
@@ -243,7 +246,6 @@
     "Notes/IOT/Untitled.md",
     "Notes/Physics/LABS/E-M Lab.md",
     "Notes/Physics/LABS/Numerical Aperture.md",
-    "Notes/Physics/LABS/Diffraction Gratting.md",
     "Notes/Physics/LABS/Newton Rings.md",
     "Notes/Physics/LABS/Solar Cell.md",
     "Notes/SSD Labs/Lab 6.md",
@@ -267,10 +269,8 @@
     "CTPS 1st year/BTECH CSE AIML RHINOS G2 2024-28 24WU0102119 Lab 1D.ipynb",
     "Notes/Software and System Design/Unit 2.md",
     "Notes/Computational Thinking/Control flow and functions.md",
-    "Notes/Computational Thinking/Data Expressions and statements (PYTHON).md",
     "CTPS 1st year/BTECH CSE AIML RHINOS G2 2024-28 24WU0102119 Lab 1C.ipynb",
     "CTPS 1st year/BTECH CSE AIML RHINOS G2 2024-28 24WU0102119 Lab 1C",
-    "CTPS 1st year/BTECH CSE AIML RHINOS G2 2024-28 24WU0102119 Lab 1B.ipynb",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
