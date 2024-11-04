@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Computational Thinking/Algorithms.md",
+                "file": "Notes/Physics/LABS/Diffraction Gratting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Algorithms"
+              "title": "Diffraction Gratting"
             }
           }
         ]
@@ -210,8 +210,11 @@
   },
   "active": "08acb9afc0d05892",
   "lastOpenFiles": [
-    "Notes/Computational Thinking/Computational Thinking breakdown.md",
+    "Notes/Physics/LABS/Solar Cell.md",
+    "Notes/Physics/LABS/Diffraction Gratting.md",
+    "Notes/Physics/LABS/Numerical Aperture.md",
     "Notes/Computational Thinking/Algorithms.md",
+    "Notes/Computational Thinking/Computational Thinking breakdown.md",
     "Notes/SSD Labs/LAB 3.md",
     "Notes/IOT/Electrical Saftey.md",
     "Notes/IOT/Electrical Supply.md",
@@ -225,7 +228,6 @@
     "Notes/IOT/Graph Theory.md",
     "Notes/Physics/Quantum Physics.md",
     "Notes/Physics/Applied Physics Breakdown.md",
-    "Notes/Physics/LABS/Diffraction Gratting.md",
     "CTPS 1st year/Lab 3/BTECH CSE AIML RHINOS G2 2024-28 24WU0102119 Lab 3a.ipynb",
     "CTPS 1st year/Lab 3",
     "CTPS 1st year/Lab 2/BTECH CSE AIML RHINOS G2 2024-28 24WU0102119 Lab 2b.ipynb",
@@ -233,9 +235,7 @@
     "CTPS 1st year/Lab 2/BTECH CSE AIML RHINOS G2 2024-28 24WU0102119 Lab 2c.ipynb",
     "CTPS 1st year/BTECH CSE AIML RHINOS G2 2024-28 24WU0102119 Lab 2c.ipynb",
     "Notes/Physics/LABS/E-M Lab.md",
-    "Notes/Physics/LABS/Numerical Aperture.md",
     "Notes/Physics/LABS/Newton Rings.md",
-    "Notes/Physics/LABS/Solar Cell.md",
     "Notes/SSD Labs/Lab 6.md",
     "Notes/SSD Labs/Lab 5.md",
     "Screenshot 2024-10-25 at 1.49.42 PM.png",
