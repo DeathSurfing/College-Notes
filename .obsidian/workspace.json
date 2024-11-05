@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d4517de899c17027",
+        "id": "0f52f7c2e32e29c6",
         "type": "tabs",
         "children": [
           {
-            "id": "08acb9afc0d05892",
+            "id": "4fda9c1d9746c37a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Physics/LABS/Diffraction Gratting.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Diffraction Gratting"
+              "title": "New tab"
             }
           }
         ]
@@ -208,10 +204,10 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "08acb9afc0d05892",
+  "active": "4fda9c1d9746c37a",
   "lastOpenFiles": [
-    "Notes/Physics/LABS/Solar Cell.md",
     "Notes/Physics/LABS/Diffraction Gratting.md",
+    "Notes/Physics/LABS/Solar Cell.md",
     "Notes/Physics/LABS/Numerical Aperture.md",
     "Notes/Computational Thinking/Algorithms.md",
     "Notes/Computational Thinking/Computational Thinking breakdown.md",
