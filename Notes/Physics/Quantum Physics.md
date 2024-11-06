@@ -111,3 +111,26 @@ $$\text{For Maximum condition}$$
 $$\sin(\frac{\pi x}{L})=\sin(\frac{\pi}{2})$$
 $$x=\frac{L}{2}$$
 
+
+
+1) 
+$\lambda=\frac{\hbar}{p}$  
+$\frac{\hbar}{\sqrt{2meV}}$ 
+$\frac{\left(\frac{\left(6.62\cdot10^{-34}\right)}{2\pi}\right)}{\sqrt{2\cdot1.67\cdot10^{-27}\cdot1.60\cdot10^{-19}\cdot1.5\cdot10^{3}}}=7.4\cdot10^{-13}$
+
+2) 
+$\Delta X \Delta P \geq \frac{\hbar}{2}$ 
+$1\cdot10^{-9}x\ge\frac{\left(\frac{6.62\cdot10^{-34}}{2\pi}\right)}{2}$
+$x=5.25\cdot10^{-26}$ 
+
+3) 
+$\psi(x)=\sqrt{\frac{2}{L}}sin(\pi x L)$  
+
+$\psi^*\psi=\frac{2}{l}\sin^2(\pi x L)$
+$\int_0^L\psi^*\psi dx=1$ using gdc
+
+4) 
+$E_{n}=\frac{\pi^{2}n^{2}\left(\frac{h}{2\pi}\right)}{2mL^{2}}$
+$E_{1}=1.426\cdot10^{14}$
+$E_{2}=5.707\cdot10^{14}$
+$E_{2}-E_{1}=4.281\times 10^{14}$ 
