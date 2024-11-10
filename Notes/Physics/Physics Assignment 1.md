@@ -214,3 +214,40 @@ $\lambda \approx 6.01 \times 10^{-5}$ cm or 600 nm.
 
 ___
 
+# Q4 Newton rings observed in reflected light of wavelength 5900A. The diameter of the 10th dark ring is 0.5cm. 
+
+
+## i)Find the radius of curvature of
+
+$r_n = \sqrt{n \lambda R}$
+
+$r_{10} = \sqrt{10 \times (5900 \times 10^{-10}) \times R}$
+
+Substitute the known values:
+
+$0.0025 = \sqrt{10 \times (5900 \times 10^{-10}) \times R}$
+
+Now, square both sides to eliminate the square root:
+
+$(0.0025)^2 = 10 \times (5900 \times 10^{-10}) \times R$
+
+$6.25 \times 10^{-6} = 5.9 \times 10^{-9} \times R$
+
+Solve for $R$:
+
+$R = \frac{6.25 \times 10^{-6}}{5.9 \times 10^{-9}} = 1.06 \times 10^3 \, \text{m}$
+
+Thus, the radius of curvature of the lens is approximately $R = 1.06 \times 10^3 \, \text{m}$.
+
+## ii)The thickness of air film
+
+$t_n = \frac{(n - \frac{1}{2}) \lambda}{2}$
+
+For $n = 10$:
+
+$t_{10} = \frac{(10 - \frac{1}{2}) \times 5900 \times 10^{-10}}{2}$
+
+$t_{10} = \frac{9.5 \times 5900 \times 10^{-10}}{2} = 2.8025 \times 10^{-6} \, \text{m} = 2.8025 \, \mu\text{m}$
+
+Thus, the thickness of the air film at the 10th dark ring is approximately $2.80 \, \mu\text{m}$.
+
