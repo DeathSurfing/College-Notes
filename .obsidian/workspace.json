@@ -180,13 +180,23 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "529c080cb5368108",
+            "type": "leaf",
+            "state": {
+              "type": "khoj-chat-view",
+              "state": {},
+              "icon": "message-circle",
+              "title": "Khoj Chat"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 706.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,10 +211,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "omnisearch:Omnisearch": false,
       "templater-obsidian:Templater": false,
-      "obsidian-matrix:Obsidian Matrix": false
+      "obsidian-matrix:Obsidian Matrix": false,
+      "khoj:Khoj": false
     }
   },
-  "active": "cd69f9d7959347ee",
+  "active": "529c080cb5368108",
   "lastOpenFiles": [
     "Screenshots/Screenshot 2024-10-22 at 10.37.42 AM.png",
     "Screenshots/Screenshot 2024-10-22 at 10.34.55 AM.png",
