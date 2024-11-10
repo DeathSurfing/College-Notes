@@ -1,0 +1,20 @@
+{
+  "resultsCount": 6,
+  "khojUrl": "http://127.0.0.1:42110",
+  "khojApiKey": "",
+  "connectedToBackend": true,
+  "autoConfigure": true,
+  "lastSync": {},
+  "syncFileType": {
+    "markdown": true,
+    "images": true,
+    "pdf": true
+  },
+  "userInfo": {
+    "email": "default@example.com",
+    "username": "default",
+    "photo": null,
+    "is_active": true,
+    "has_documents": false
+  }
+}

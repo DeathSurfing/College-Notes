@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "0f52f7c2e32e29c6",
+        "id": "8fce9a5764e0e0ca",
         "type": "tabs",
         "children": [
           {
-            "id": "4fda9c1d9746c37a",
+            "id": "cd69f9d7959347ee",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Physics/Quantum Physics.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Quantum Physics"
-            }
-          },
-          {
-            "id": "a159c278d44ef43e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Physics/Physics Assignment 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Physics Assignment 1"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,8 +79,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -224,54 +204,54 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "527036bc6634c27b",
+  "active": "cd69f9d7959347ee",
   "lastOpenFiles": [
-    "Notes/Physics/Waves.md",
-    "Notes/Physics/Quantum Physics.md",
-    "Notes/Physics/Physics Assignment 1.md",
-    "Notes/Physics/Applied Physics Breakdown.md",
+    "Screenshots/Screenshot 2024-10-22 at 10.37.42 AM.png",
+    "Screenshots/Screenshot 2024-10-22 at 10.34.55 AM.png",
+    "Screenshots/Screenshot 2024-10-22 at 10.33.23 AM.png",
+    "Screenshots/Screenshot 2024-10-22 at 10.20.13 AM.png",
+    "Screenshots/Screenshot 2024-10-22 at 10.17.31 AM.png",
+    "Screenshots/Screenshot 2024-10-22 at 10.16.16 AM.png",
+    "Screenshots/Screenshot 2024-10-22 at 10.15.24 AM.png",
     "Screenshot 2024-11-10 at 7.32.55 PM.png",
-    "Excalidraw/Drawing 2024-10-15 11.47.54.excalidraw.md",
-    "Notes/IOT/Superpostion Theorem.md",
+    "Screenshot 2024-10-25 at 9.36.07 AM.png",
+    "Screenshot 2024-10-25 at 9.34.40 AM.png",
+    "Screenshot 2024-10-25 at 9.29.20 AM.png",
+    "Notes/SSD Labs/Lab 6.md",
+    "Notes/Physics/Physics Assignment 1.md",
+    "Notes/Physics/LABS/E-M Lab.md",
+    "Notes/IOT/Untitled.md",
     "Notes/IOT/Norton's Theorem.md",
     "Notes/IOT/Maximum power transfer theorem.md",
-    "Notes/IOT/Kirchoff's laws.md",
-    "Notes/IOT/Electrical Saftey.md",
-    "Notes/IOT/Electrical Supply.md",
     "Notes/IOT/Graph Theory.md",
-    "Notes/Physics/LABS/Diffraction Gratting.md",
-    "Notes/Physics/LABS/Solar Cell.md",
-    "Notes/Physics/LABS/Numerical Aperture.md",
-    "Notes/Computational Thinking/Algorithms.md",
-    "Notes/Computational Thinking/Computational Thinking breakdown.md",
-    "Notes/SSD Labs/LAB 3.md",
-    "Notes/IOT/Untitled.md",
-    "Notes/IOT/Thevenin's Theorem.md",
-    "Notes/IOT/IOT Assignment 1.md",
+    "Notes/IKS (Indian Knowledge System)/Arts in India.md",
+    "Excalidraw/Circuits.md",
     "CTPS 1st year/Lab 3/BTECH CSE AIML RHINOS G2 2024-28 24WU0102119 Lab 3a.ipynb",
     "CTPS 1st year/Lab 3",
-    "CTPS 1st year/Lab 2/BTECH CSE AIML RHINOS G2 2024-28 24WU0102119 Lab 2b.ipynb",
-    "CTPS 1st year/BTECH CSE AIML RHINOS G2 2024-28 24WU0102119 Lab 2b.ipynb",
     "CTPS 1st year/Lab 2/BTECH CSE AIML RHINOS G2 2024-28 24WU0102119 Lab 2c.ipynb",
-    "CTPS 1st year/BTECH CSE AIML RHINOS G2 2024-28 24WU0102119 Lab 2c.ipynb",
-    "Notes/Physics/LABS/E-M Lab.md",
+    "CTPS 1st year/Lab 2/BTECH CSE AIML RHINOS G2 2024-28 24WU0102119 Lab 2b.ipynb",
+    "CTPS 1st year/Lab 2/BTECH CSE AIML RHINOS G2 2024-28 24WU0102119 Lab 2a.ipynb",
+    "CTPS 1st year/Lab 2",
+    "CTPS 1st year/Lab 1/BTECH CSE AIML RHINOS G2 2024-28 24WU0102119 Lab 1f.ipynb",
+    "CTPS 1st year/Lab 1/BTECH CSE AIML RHINOS G2 2024-28 24WU0102119 Lab 1D.ipynb",
+    "CTPS 1st year/Lab 1/BTECH CSE AIML RHINOS G2 2024-28 24WU0102119 Lab 1E.ipynb",
+    "CTPS 1st year/Lab 1/BTECH CSE AIML RHINOS G2 2024-28 24WU0102119 Lab 1C.ipynb",
+    "Notes/Physics/LABS/Solar Cell.md",
+    "Notes/Physics/LABS/Numerical Aperture.md",
     "Notes/Physics/LABS/Newton Rings.md",
-    "Notes/SSD Labs/Lab 6.md",
-    "Notes/SSD Labs/Lab 5.md",
-    "Screenshot 2024-10-25 at 1.49.42 PM.png",
-    "Screenshots/Screenshot 2024-10-16 at 11.44.27 AM.png",
-    "Notes/SSD Labs/Lab 4.md",
-    "Screenshots/Screenshot 2024-10-16 at 11.43.11 AM.png",
-    "Screenshot 2024-10-25 at 9.23.45 AM.png",
-    "Screenshot 2024-10-25 at 9.29.20 AM.png",
-    "Screenshot 2024-10-25 at 9.34.40 AM.png",
-    "Screenshot 2024-10-25 at 9.36.07 AM.png",
-    "Screenshots/Screenshot 2024-10-16 at 11.41.35 AM.png",
-    "Screenshot 2024-10-25 at 9.22.26 AM.png",
-    "CTPS 1st year/BTECH CSE AIML RHINOS G2 2024-28 24WU0102119 Lab 1E.ipynb",
-    "CTPS 1st year/BTECH CSE AIML RHINOS G2 2024-28 24WU0102119 Lab 1D.ipynb",
-    "CTPS 1st year/BTECH CSE AIML RHINOS G2 2024-28 24WU0102119 Lab 1C.ipynb",
-    "CTPS 1st year/BTECH CSE AIML RHINOS G2 2024-28 24WU0102119 Lab 1C",
+    "Notes/Physics/LABS/Diffraction Gratting.md",
+    "Notes/Physics/Applied Physics Breakdown.md",
+    "Notes/Physics/Quantum Physics.md",
+    "Notes/Physics/Topic Explorer.md",
+    "Notes/Physics/Waves.md",
+    "Notes/Math/Matricies/Diagonalization.md",
+    "Excalidraw/Drawing 2024-09-30 14.57.11.excalidraw.md",
+    "Excalidraw/Drawing 2024-10-15 11.47.54.excalidraw.md",
+    "Excalidraw/Drawing 2023-07-23 03.49.00.excalidraw.md",
+    "Notes/Math/Matricies.md",
+    "Notes/Math/Topic Explorer.md",
+    "Notes/Math/Matricies/Canonical form.md",
+    "Notes/IOT/Thevenin's Theorem.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
