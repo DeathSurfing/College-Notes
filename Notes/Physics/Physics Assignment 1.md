@@ -3,7 +3,6 @@ ___
  
 ## i) Discuss the construction and working of Young’s Double slit experiment. Use it to find the position of the central bright, nth bright,
 
-and nth dark fringe.
 The experiment employs two screens: one with a single slit and the other with two slits. Because the two apertures are equidistant from the light source, the light waves that emerge from each are in phase. This converts the slits into coherent sources. 
  
 The light waves from the two slits interact with one another, resulting in an interference pattern on the screen. The pattern is made up of alternating brilliant and black fringes, the former caused by constructive interference and the latter by destructive interference.
@@ -134,64 +133,37 @@ $D_n = 2r_n = 2 \sqrt{n \lambda R}$
 
 ___
 ## ii)In Newton’s rings experiment the diameter of 4th and 25th rings are 0.3 cm and 0.8 cm, respectively. Find the wavelength of light. Given radius of curvature R=100 cm
-
 Using the formula $\lambda = \frac{D_n^2}{4nR}$
-
 Given:
 - $D_4 = 0.3$ cm (diameter of the 4th ring),
 - $D_{25} = 0.8$ cm (diameter of the 25th ring),
 - $R = 100$ cm.
-
 For $n = 4$, the wavelength $\lambda$ can be calculated as:
-
 $\lambda = \frac{D_4^2}{4 \cdot 4 \cdot R}$
-
 Substitute the values:
-
 $\lambda = \frac{(0.3)^2}{4 \cdot 4 \cdot 100} = \frac{0.09}{1600} = 5.625 \times 10^{-5}$ cm
-
 For $n = 25$, the wavelength $\lambda$ can be calculated as:
-
 $\lambda = \frac{D_{25}^2}{4 \cdot 25 \cdot R}$
-
 Substitute the values:
-
 $\lambda = \frac{(0.8)^2}{4 \cdot 25 \cdot 100} = \frac{0.64}{10000} = 6.4 \times 10^{-5}$ cm
-
 $\lambda_{\text{avg}} = \frac{5.625 \times 10^{-5} + 6.4 \times 10^{-5}}{2} = 6.0125 \times 10^{-5}$ cm
-
 $\lambda \approx 6.01 \times 10^{-5}$ cm or 600 nm.
-
 ___
-
 # Q4 Newton rings observed in reflected light of wavelength 5900A. The diameter of the 10th dark ring is 0.5cm. 
 
 ## i)Find the radius of curvature of
-
 $r_n = \sqrt{n \lambda R}$
-
 $r_{10} = \sqrt{10 \times (5900 \times 10^{-10}) \times R}$
-
 Substitute the known values:
-
 $0.0025 = \sqrt{10 \times (5900 \times 10^{-10}) \times R}$
-
 $(0.0025)^2 = 10 \times (5900 \times 10^{-10}) \times R$
-
 $6.25 \times 10^{-6} = 5.9 \times 10^{-9} \times R$
-
 $R = \frac{6.25 \times 10^{-6}}{5.9 \times 10^{-9}} = 1.06 \times 10^3 \, \text{m}$
-
 ## ii)The thickness of air film
-
 $t_n = \frac{(n - \frac{1}{2}) \lambda}{2}$
-
 For $n = 10$:
-
 $t_{10} = \frac{(10 - \frac{1}{2}) \times 5900 \times 10^{-10}}{2}$
-
 $t_{10} = \frac{9.5 \times 5900 \times 10^{-10}}{2} = 2.8025 \times 10^{-6} \, \text{m} = 2.8025 \, \mu\text{m}$
-
 ___
 # Q5)State and explain Malus' law. How is it used to calculate the intensity of polarized light after passing through a polarizer?
 
@@ -267,13 +239,10 @@ $$\frac{\partial \psi^2}{\partial x^2}+\frac{8\pi^2m(E-V)\psi}{\left( \frac{h}{2
 $$\frac{\partial^2\psi}{\partial x^2}+\frac{2m(E-V)\psi}{\hbar^2}=0$$
 ___
 # Q9)Apply the Schrödinger time-independent wave equation to a particle in a one-dimensional infinite potential box. What are the allowed energy levels for this system?
-
-
 $\psi \text{ Vanishes at boundry at x=0 or L}$
 $$\frac{\partial^2\psi}{\partial x^2}+\frac{4\pi^2}{h^2}\cdot 2(E-V)m\psi=0\dots1$$
 $$\frac{\partial^2\psi}{\partial x^2}+k^2\psi=0\dots2$$
 where $K^2=\frac{2mE}{\frac{h}{2 \pi}}$
-
 $$\psi=ACos(kx)+BSin(kx)\dots3$$
 $$\frac{2mE}{\frac{h}{2\pi}}=\frac{\pi^2n^2\frac{h}{2\pi}^2}{L^2}$$
 $$E_n=\frac{\frac{h}{2\pi}^2n^2\pi^2}{2mL^2}$$
@@ -281,3 +250,29 @@ ___
 # Q10
 
 ## i) Calculate the energy of the first excited state of an electron in a one-dimensional infinite potential well of width L = 1 nm.
+$E_{n}=\frac{\pi^{2}n^{2}\left(\frac{h}{2\pi}\right)}{2mL^{2}}$
+
+Given 
+$n=1$
+$h=6.67\cdot10^{-31}$
+$m=9\cdot10^{-31}$
+$L=1\cdot10^{-9}$
+
+$E_1=5.82\times10^{17}joules$ 
+## ii)For a particle in the ground state (n = 1) of a one-dimensional infinite potential well of width L, calculate the probability of finding the particle between 0 and L/4.
+$\psi(x)=\sqrt{\frac{2}{L}}sin(\pi x L)$
+$\psi^*\psi=\frac{2}{L}\sin^2(\pi x L)$
+$I=\int_0^{\frac{L}{4}} \psi^*\psi dx$
+$I = \int_0^{\frac{L}{4}} \frac{2}{L} \sin^2\left(\frac{\pi x}{L}\right) dx$
+$I = \frac{2}{L} \int_0^{\frac{L}{4}} \sin^2\left(\frac{\pi x}{L}\right) dx$
+$I = \frac{2}{L} \int_0^{\frac{L}{4}} \frac{1 - \cos\left(\frac{2\pi x}{L}\right)}{2} dx$
+$I = \frac{1}{L} \int_0^{\frac{L}{4}} \left(1 - \cos\left(\frac{2\pi x}{L}\right)\right) dx$
+$I = \frac{1}{L} \left( \int_0^{\frac{L}{4}} 1 dx - \int_0^{\frac{L}{4}} \cos\left(\frac{2\pi x}{L}\right) dx \right)$
+$\int_0^{\frac{L}{4}} 1 dx = \frac{L}{4}$
+$\int_0^{\frac{L}{4}} \cos\left(\frac{2\pi x}{L}\right) dx = \left[ \frac{L}{2\pi} \sin\left(\frac{2\pi x}{L}\right) \right]_0^{\frac{L}{4}}$
+$\sin\left(\frac{2\pi \cdot \frac{L}{4}}{L}\right) = \sin\left(\frac{\pi}{2}\right) = 1$
+$\sin(0) = 0$
+$\int_0^{\frac{L}{4}} \cos\left(\frac{2\pi x}{L}\right) dx = \frac{L}{2\pi}$
+$I = \frac{1}{L} \left( \frac{L}{4} - \frac{L}{2\pi} \right)$
+$I = \frac{1}{4} - \frac{1}{2\pi}$
+
