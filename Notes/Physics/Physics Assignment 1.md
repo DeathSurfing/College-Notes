@@ -175,7 +175,6 @@ The mathematical formula for Mauls law is:$I = I_0 \cos^2(\theta)$
 ___
 # Q6)What is the Broglie hypothesis? Derive the expression for the deBroglie wavelength of a particle and explain its significance. Find the deBroglie wavelength of an electron moving with a speed of $1×10^6$ m/s.
 
-
 De Broglie's Hypothesis says that Matter consists of both the particle nature as well as wave nature.
 De Broglie wavelength $\lambda$ is given as $\lambda=\frac{h}{p}$, where p represents the particle momentum and can be written as
 $p=mv$ 
@@ -253,12 +252,11 @@ ___
 $E_{n}=\frac{\pi^{2}n^{2}\left(\frac{h}{2\pi}\right)}{2mL^{2}}$
 
 Given 
-$n=1$
+$n=2$
 $h=6.67\cdot10^{-31}$
 $m=9\cdot10^{-31}$
 $L=1\cdot10^{-9}$
-
-$E_1=5.82\times10^{17}joules$ 
+$E_2=2.32\times10^{18}joules$ 
 ## ii)For a particle in the ground state (n = 1) of a one-dimensional infinite potential well of width L, calculate the probability of finding the particle between 0 and L/4.
 $\psi(x)=\sqrt{\frac{2}{L}}sin(\pi x L)$
 $\psi^*\psi=\frac{2}{L}\sin^2(\pi x L)$

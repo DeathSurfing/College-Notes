@@ -98,7 +98,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -223,7 +224,7 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "a159c278d44ef43e",
+  "active": "527036bc6634c27b",
   "lastOpenFiles": [
     "Notes/Physics/Waves.md",
     "Notes/Physics/Quantum Physics.md",
