@@ -87,17 +87,9 @@ Given:
 - $d = 0.25 \, \text{cm} = 0.0025 \, \text{m}$
 - $\lambda = 600 \, \text{nm} = 600 \times 10^{-9} \, \text{m}$
 - $I = 0.75 I_{\text{max}}$
-   $$
-   0.75 = \cos^2 \left( \frac{\pi y d}{\lambda D} \right)
-   $$$$
-   \sqrt{0.75} = \cos \left( \frac{\pi y d}{\lambda D} \right)
-
-   $$
-   $$\frac{\pi y d}{\lambda D} = \cos^{-1} \left( \sqrt{0.75} \right)
-   $$
-   $$
-   y = \frac{\lambda D}{\pi d} \cos^{-1} \left( \sqrt{0.75} \right)
-   $$
+   $$0.75 = \cos^2 \left( \frac{\pi y d}{\lambda D} \right)$$$$\sqrt{0.75} = \cos \left( \frac{\pi y d}{\lambda D} \right)$$
+   $$\frac{\pi y d}{\lambda D} = \cos^{-1} \left( \sqrt{0.75} \right)$$
+   $$y = \frac{\lambda D}{\pi d} \cos^{-1} \left( \sqrt{0.75} \right)$$
 $$y=0.48 mm$$
 ___
 # Q2:
@@ -168,14 +160,14 @@ $D_n = 2r_n = 2 \sqrt{n \lambda R}$
 ### From these equations:
 - The **radius of curvature** of the plano-convex lens, $R$, can be obtained by rearranging the formula for $r_n$.
 - The **wavelength** $\lambda$ of the monochromatic light can be determined by analyzing the ring pattern.
-### To find the expressions for the radius of curvature, wavelength, and refractive index:
+### To find the expressions for the radius of curvature and wavelength
 
 1. **Radius of Curvature ($R$):**
    From the expression $r_n = \sqrt{n \lambda R}$, solving for $R$ gives:
 
    $R = \frac{r_n^2}{n \lambda}$
 
-2. **Wavelength ($\lambda$)
+2. **Wavelength ($\lambda$)**
    $\lambda = \frac{D_n^2}{4nR}$
 
 ___
@@ -204,11 +196,7 @@ Substitute the values:
 
 $\lambda = \frac{(0.8)^2}{4 \cdot 25 \cdot 100} = \frac{0.64}{10000} = 6.4 \times 10^{-5}$ cm
 
-Now, we can average the two values for $\lambda$:
-
 $\lambda_{\text{avg}} = \frac{5.625 \times 10^{-5} + 6.4 \times 10^{-5}}{2} = 6.0125 \times 10^{-5}$ cm
-
-Thus, the wavelength of the light is approximately:
 
 $\lambda \approx 6.01 \times 10^{-5}$ cm or 600 nm.
 
@@ -227,17 +215,11 @@ Substitute the known values:
 
 $0.0025 = \sqrt{10 \times (5900 \times 10^{-10}) \times R}$
 
-Now, square both sides to eliminate the square root:
-
 $(0.0025)^2 = 10 \times (5900 \times 10^{-10}) \times R$
 
 $6.25 \times 10^{-6} = 5.9 \times 10^{-9} \times R$
 
-Solve for $R$:
-
 $R = \frac{6.25 \times 10^{-6}}{5.9 \times 10^{-9}} = 1.06 \times 10^3 \, \text{m}$
-
-Thus, the radius of curvature of the lens is approximately $R = 1.06 \times 10^3 \, \text{m}$.
 
 ## ii)The thickness of air film
 
@@ -249,5 +231,4 @@ $t_{10} = \frac{(10 - \frac{1}{2}) \times 5900 \times 10^{-10}}{2}$
 
 $t_{10} = \frac{9.5 \times 5900 \times 10^{-10}}{2} = 2.8025 \times 10^{-6} \, \text{m} = 2.8025 \, \mu\text{m}$
 
-Thus, the thickness of the air film at the 10th dark ring is approximately $2.80 \, \mu\text{m}$.
-
+___
