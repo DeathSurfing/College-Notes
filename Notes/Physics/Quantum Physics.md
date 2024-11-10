@@ -25,9 +25,6 @@ $\lambda$ is the wavelength
 h is Planck constant ($6.62607015×10^{-34}JHz^{-1}$)
 
 
-## Basic postulates of quantum mechanics
-
-
 ## Heisenbergs uncertainty principle
 Both position and momentum cant be figured out simultaneously for microscopic(Quantum) objects.
 $$\Delta x\Delta px\geq \frac{h}{4\pi}$$
@@ -112,6 +109,8 @@ $$\sin(\frac{\pi x}{L})=\sin(\frac{\pi}{2})$$
 $$x=\frac{L}{2}$$
 
 
+# Practice questions
+___
 
 1) 
 $\lambda=\frac{\hbar}{p}$  
