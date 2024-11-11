@@ -192,11 +192,11 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 706.5
+    "width": 302.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,7 +215,7 @@
       "khoj:Khoj": false
     }
   },
-  "active": "529c080cb5368108",
+  "active": "e3647347c29efbd6",
   "lastOpenFiles": [
     "Screenshots/Screenshot 2024-10-22 at 10.37.42 AM.png",
     "Screenshots/Screenshot 2024-10-22 at 10.34.55 AM.png",
