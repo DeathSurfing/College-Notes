@@ -51,8 +51,7 @@ Two elements a and b in a POSET$(S,\leq)$ is incomparable if it doesn't satisfy 
 
 ### Hasse Diagram
 
-
-
+f
 ### LUB and GLB
 
 ### Lattice
