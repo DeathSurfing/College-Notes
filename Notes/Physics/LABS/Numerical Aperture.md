@@ -37,19 +37,14 @@ Measurement of Numerical Aperture, acceptance angle and the bend loss of a given
 3. Place the NA Scale on the NA jig at different positions (2 mm, 4 mm, 6 mm) and count the no. of concentric circles vertically covered by the red spot.
 4. Record L (the distance of the screen from the fiber end) and W (diameter of the spot) values in the below observation tables.
 # Procedure 2:
-
+1. Set up the spectrometer and fiber cable with the light source.
+2. Record the spectrum readings (LHS and RHS) for different colors of light.
+3. Use the Vernier scale to measure the difference between positions $V_1$ ​ and $V_2$​ for each color.
+4. Calculate the angle $\theta$ in degrees for each color.
 
 
 # Formula
 $$N_{A}=\frac{W}{\sqrt{ W^2 +4L^2}}$$
-
-# Error propagation:
-$\Delta W=0.2$
-$\Delta L=0.1$
-
-$$
-\frac{\Delta W}{W}\times
-$$
 # Data table 1:
 
 | S.no | L(cm)$\pm 0.1$ | W(cm)$\pm 0.2$ | Natural Apperature | $\theta$ Degres |
@@ -63,3 +58,17 @@ $$
 ### Average Natural Aperture:
 0.536
 
+# Data table 2:
+| Order of the spectrum | Color of the spectrum | Spectrum Readings |              |              |              | Value of Vernier |      |      | Value of $\theta$ in degrees | $\lambda$             |
+|-----------------------|-----------------------|-------------------|--------------|--------------|--------------|------------------|------|------|------------------------------|-----------------------|
+|                       |                       | LHS               |              | RHS          |              |                  |      |      |                              |                       |
+|                       |                       | $V_{1}$, (A)      | $V_{2}$, (B) | $V_{1}$, (C) | $V_{2}$, (D) | A-C              | B-D  | Mean |                              |                       |
+| 1                     | Violet                | 174.34            | 354.55       | 169.21       | 350.90       | 5.13             | 3.65 | 4.39 | 2.5                          | $4.43 \times 10^{-5}$ |
+|                       | Yellow                | 175.29            | 355.10       | 168.30       | 349.22       | 6.99             | 5.88 | 6.43 | 3.215                        | $5.6 \times 10^{-5}$  |
+|                       | Green                 | 176.10            | 355.10       | 167.10       | 349.40       | 9.00             | 5.70 | 7.35 | 3.675                        | $6.5 \times 10^{-5}$  |
+
+| Value of $\theta$ in degrees | $\lambda$             |
+| ---------------------------- | --------------------- |
+| 2.5                          | $4.43 \times 10^{-5}$ |
+| 3.215                        | $5.6 \times 10^{-5}$  |
+| 3.675                        | $6.5 \times 10^{-5}$  |
