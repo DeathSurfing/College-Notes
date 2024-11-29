@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Papers/Quantum Computing Paper.md",
+                "file": "Notes/Math/Matricies/Diagonalization.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quantum Computing Paper"
+              "title": "Diagonalization"
             }
           }
         ],
@@ -237,6 +237,12 @@
   },
   "active": "7a006f6cd6353851",
   "lastOpenFiles": [
+    "Notes/Math/Matricies.md",
+    "Notes/Math/Matricies/Canonical form.md",
+    "Notes/Math/Matricies/Linear Equation.md",
+    "Notes/Math/Matricies/Independent system of equation.md",
+    "Notes/Math/Matricies/Homework How to use of QR code by the use of matrices.md",
+    "Notes/Math/Matricies/Cayley-Hamilton Theorem.md",
     "Notes/Papers/Quantum Computing Paper.md",
     "Notes/Papers",
     "Notes/Software and System Design/Unit 1/Types of Design.md",
@@ -258,11 +264,6 @@
     "Notes/IOT/Superpostion Theorem.md",
     "Notes/IOT/Thevenin's Theorem.md",
     "Notes/IOT/Graph Theory.md",
-    "Notes/IOT/Electrical Supply.md",
-    "Notes/IOT/Electrical Saftey.md",
-    "Notes/Physics/Quantum Computing.md",
-    "Notes/CodeX/Presentation For Translation Day.md",
-    "export/Presentation For Translation Day/plugin/chalkboard/README.md",
     "export/Presentation For Translation Day/plugin/chalkboard/_style.css",
     "export/Presentation For Translation Day/plugin/chalkboard/img/blackboard.png",
     "export/Presentation For Translation Day/plugin/chalkboard/img/boardmarker-black.png",
@@ -281,7 +282,6 @@
     "export/Presentation For Translation Day/plugin/chalkboard",
     "export/Presentation For Translation Day/plugin/chart/plugin.js",
     "export/Presentation For Translation Day/plugin/chart/chart.min.js",
-    "export/Presentation For Translation Day/plugin/chart/README.md",
     "export/Presentation For Translation Day/plugin/chart",
     "Untitled.canvas",
     "Untitled 1.canvas"
