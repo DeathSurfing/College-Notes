@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Math/Matricies/Diagonalization.md",
+                "file": "Notes/Computational Thinking/Data Expressions and statements (PYTHON).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Diagonalization"
+              "title": "Data Expressions and statements (PYTHON)"
             }
           }
         ],
@@ -237,6 +237,13 @@
   },
   "active": "7a006f6cd6353851",
   "lastOpenFiles": [
+    "Notes/Trading/Files/Support and Resistance.md",
+    "Notes/Computational Thinking/Untitled.md",
+    "Notes/Computational Thinking/Topic Explorer.md",
+    "Notes/Computational Thinking/Control flow and functions.md",
+    "Notes/Computational Thinking/Data Expressions and statements (PYTHON).md",
+    "Notes/Computational Thinking/Computational Thinking breakdown.md",
+    "Notes/Math/Matricies/Diagonalization.md",
     "Notes/Math/Matricies.md",
     "Notes/Math/Matricies/Canonical form.md",
     "Notes/Math/Matricies/Linear Equation.md",
@@ -257,13 +264,6 @@
     "Notes/Physics/LABS/Solar Cell.md",
     "Notes/Physics/LABS/Newton Rings.md",
     "Notes/Physics/LABS/E-M Lab.md",
-    "Notes/Physics/LABS/Diffraction Gratting.md",
-    "Notes/IOT/P-N Junction Diode.md",
-    "Notes/IOT/Maximum power transfer theorem.md",
-    "Notes/IOT/Norton's Theorem.md",
-    "Notes/IOT/Superpostion Theorem.md",
-    "Notes/IOT/Thevenin's Theorem.md",
-    "Notes/IOT/Graph Theory.md",
     "export/Presentation For Translation Day/plugin/chalkboard/_style.css",
     "export/Presentation For Translation Day/plugin/chalkboard/img/blackboard.png",
     "export/Presentation For Translation Day/plugin/chalkboard/img/boardmarker-black.png",
