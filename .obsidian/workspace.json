@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Physics/LABS/Hall effect.md",
+                "file": "Notes/Physics/LABS/E-M Lab.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hall effect"
+              "title": "E-M Lab"
             }
           }
         ],
@@ -235,10 +235,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "e3647347c29efbd6",
+  "active": "7a006f6cd6353851",
   "lastOpenFiles": [
-    "Notes/Physics/LABS/Numerical Aperture.md",
     "Notes/Physics/LABS/Hall effect.md",
+    "Notes/Physics/LABS/Numerical Aperture.md",
     "Notes/Physics/LABS/Newton Rings.md",
     "Notes/Physics/LABS/E-M Lab.md",
     "Notes/Physics/LABS/Diffraction Gratting.md",
