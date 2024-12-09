@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Math/Abstract Algebra/Abstract Algebra.md",
+                "file": "Notes/Physics/LABS/Energy Gap of a semi conductor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Abstract Algebra"
+              "title": "Energy Gap of a semi conductor"
             }
           }
         ],
@@ -237,14 +237,17 @@
   },
   "active": "7a006f6cd6353851",
   "lastOpenFiles": [
-    "Notes/Physics/LABS/E-M Lab.md",
-    "Notes/Math/Abstract Algebra/Abstract Algebra.md",
-    "Notes/Math/Abstract Algebra",
-    "Notes/Physics/LABS/Hall effect.md",
+    "Notes/Physics/LABS/Solar Cell.md",
+    "Notes/Physics/LABS/Energy Gap of a semi conductor.md",
+    "Notes/Physics/LABS/Plancks Constant.md",
     "Notes/Physics/LABS/Numerical Aperture.md",
     "Notes/Physics/LABS/Newton Rings.md",
+    "Notes/Physics/LABS/Hall effect.md",
+    "Notes/Physics/LABS/E-M Lab.md",
     "Notes/Physics/LABS/Diffraction Gratting.md",
-    "Notes/Physics/LABS/Solar Cell.md",
+    "Notes/Physics/LABS/Compound Pendulum.md",
+    "Notes/Math/Abstract Algebra/Abstract Algebra.md",
+    "Notes/Math/Abstract Algebra",
     "Notes/Computational Thinking/Data Expressions and statements (PYTHON).md",
     "Notes/Trading/Files/Support and Resistance.md",
     "Notes/Computational Thinking/Untitled.md",
@@ -262,9 +265,6 @@
     "Notes/Papers",
     "Notes/Software and System Design/Unit 1/Types of Design.md",
     "Notes/Software and System Design/Unit 1.md",
-    "Notes/Software and System Design/Unit 2.md",
-    "Notes/SSD Labs/Class diagram.md",
-    "Notes/SSD Labs/LAB 3.md",
     "export/Presentation For Translation Day/plugin/chalkboard/_style.css",
     "export/Presentation For Translation Day/plugin/chalkboard/img/blackboard.png",
     "export/Presentation For Translation Day/plugin/chalkboard/img/boardmarker-black.png",

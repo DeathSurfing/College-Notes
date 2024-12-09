@@ -63,3 +63,4 @@ $D=\text{Seperation of two plates}$
 | 2    | 0.1511            | 0.17            | 11.1276 |
 | AVG  | --                | --              | 6.6372  |
 
+
