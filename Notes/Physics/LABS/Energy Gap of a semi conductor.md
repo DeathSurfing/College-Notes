@@ -62,6 +62,7 @@ $$
 | S. No | Temperature ($^\circ$C) | Current (μA) | Mean Current (μA) | Temperature (K) |
 | ----- | ----------------------- | ------------ | ----------------- | --------------- |
 |       |                         | Increasing   | Decreasing        |                 |
+|       |                         |              |                   |                 |
 
 | Resistance ($\Omega$) | $\ln R$ | $1/T \, (\text{K}^{-1})$ |
 | --------------------- | ------- | ------------------------ |
