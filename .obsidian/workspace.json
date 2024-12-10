@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Physics/LABS/Plancks Constant.md",
+                "file": "Notes/Physics/LABS/Energy Gap of a semi conductor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Plancks Constant"
+              "title": "Energy Gap of a semi conductor"
             }
           }
         ],
@@ -237,18 +237,18 @@
   },
   "active": "7a006f6cd6353851",
   "lastOpenFiles": [
+    "Notes/Physics/LABS/E-M Lab.md",
+    "Notes/Physics/LABS/Hall effect.md",
+    "Notes/Physics/LABS/Newton Rings.md",
+    "Notes/Physics/LABS/Numerical Aperture.md",
+    "Notes/Physics/LABS/Solar Cell.md",
+    "Notes/Physics/LABS/Plancks Constant.md",
     "Screenshot 2024-12-10 at 9.44.00 AM.png",
     "Graph for Plancks constant",
-    "Notes/Physics/LABS/Solar Cell.md",
-    "Notes/Physics/LABS/Numerical Aperture.md",
-    "Notes/Physics/LABS/Newton Rings.md",
-    "Notes/Physics/LABS/Hall effect.md",
     "Notes/Physics/LABS/Energy Gap of a semi conductor.md",
-    "Notes/Physics/LABS/E-M Lab.md",
     "Notes/Physics/LABS/Diffraction Gratting.md",
     "Notes/Physics/LABS/Compound Pendulum.md",
     "Compound Pendulum Graph.png",
-    "Notes/Physics/LABS/Plancks Constant.md",
     "Notes/Math/Abstract Algebra/Abstract Algebra.md",
     "Notes/Math/Abstract Algebra",
     "Notes/Computational Thinking/Data Expressions and statements (PYTHON).md",
@@ -276,7 +276,6 @@
     "export/Presentation For Translation Day/plugin/chalkboard/img/boardmarker-purple.png",
     "export/Presentation For Translation Day/plugin/chalkboard/img/boardmarker-red.png",
     "export/Presentation For Translation Day/plugin/chalkboard/img/boardmarker-yellow.png",
-    "export/Presentation For Translation Day/plugin/chalkboard/img/chalk-blue.png",
     "export/Presentation For Translation Day/plugin/chalkboard/style.css",
     "export/Presentation For Translation Day/plugin/chalkboard/plugin.js",
     "export/Presentation For Translation Day/plugin/chalkboard/plugin (copy).js",
