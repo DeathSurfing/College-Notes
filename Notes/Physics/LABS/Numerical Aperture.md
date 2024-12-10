@@ -55,7 +55,7 @@ $$N_{A}=\frac{W}{\sqrt{ W^2 +4L^2}}$$
 | 4    | 1.8            | 2              | 0.486              | 29.055          |
 | 5    | 2.2            | 2.4            | 0.479              | 28.610          |
 
-### Average Natural Aperture:
+### Average Numerical Aperture:
 0.536
 
 # Data table 2:
