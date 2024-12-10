@@ -57,23 +57,28 @@ $$ h = e \cdot \text{slope} \quad \text{(in Joule-seconds)} $$
 ---
 
 ### 5. Observations:  
-| S. No. | Colour of Filter | Frequency ($\nu$) | Stopping Potential ($V_s$) |     |
-| ------ | ---------------- | ----------------- | -------------------------- | --- |
-|        |                  |                   |                            |     |
+| S. No. | Colour of Filter | Frequency ($\nu$)    | Stopping Potential ($V_s$) |
+| ------ | ---------------- | -------------------- | -------------------------- |
+| 1      | Blue             | $4.897\times10^{14}$ | 0.581                      |
+| 2      | Green            | $5.31\times10^{14}$  | 0.231                      |
+| 3      | Orange           | $5.69\times10^{14}$  | 0.562                      |
 
 ---
 
 ### 6. Graph:  
 
 
+
 ---
 
 ### 7. Results:  
-1. The value of Planck’s constant ($h$): ____________________ $\text{J·s}$  
-2. The value of the Work function ($W_0$): ____________________ $\text{eV}$  
+1. The value of Planck’s constant ($h$): $9.16\times10^{-34}$ $\text{J·s}$  
+2. The value of the Work function ($W_0$): $0.144\times10^{-14}$ $\text{eV}$  
 
 ---
 ### 8. Error Estimation:  
 - Actual value of Planck’s constant: $6.626 \times 10^{-34} \, \text{J·s}$  
 - Error percentage:  
-$$ \text{Error (\%)} = \frac{|\text{Actual value} - \text{Experimental value}|}{\text{Actual value}} \times 100 $$  
+$$ \text{Error (\%)} = \frac{|\text{Actual value} - \text{Experimental value}|}{\text{Actual value}} \times 100 $$
+$$ \text{Error (\%)} = \frac{9.16\times10^{-34} - 6.626\times10^{-34}}{6.626\times10^{-34}} \times 100=38.26\% $$
+

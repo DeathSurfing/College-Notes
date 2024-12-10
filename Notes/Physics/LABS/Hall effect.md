@@ -101,3 +101,15 @@ Where:
 
 ___
 ## Error Calculations:
+$$ \text{Error Percentage (\%)} = \left| \frac{\text{Measured Value} - \text{Reference Value}}{\text{Reference Value}} \right| \times 100 $$
+#### 1. Hall Coefficient ($R_H$):
+Negative Sample: $$ \text{Error \%} = \left| \frac{-0.05873 - (-0.060)}{-0.060} \right| \times 100 = \left| \frac{0.00127}{-0.060} \right| \times 100 = 2.12\% $$ Positive Sample: 
+$$ \text{Error \%} = \left| \frac{0.11673 - 0.120}{0.120} \right| \times 100 = \left| \frac{-0.00327}{0.120} \right| \times 100 = 2.73\% $$ 
+#### 2. Carrier Density ($n$):Negative Sample: 
+$$ \text{Error \%} = \left| \frac{-1.06 \times 10^{19} - (-1.10 \times 10^{19})}{-1.10 \times 10^{19}} \right| \times 100 = \left| \frac{0.04 \times 10^{19}}{-1.10 \times 10^{19}} \right| \times 100 = 3.64\% $$ Positive Sample:
+$$ \text{Error \%} = \left| \frac{5.34 \times 10^{19} - 5.50 \times 10^{19}}{5.50 \times 10^{19}} \right| \times 100 = \left| \frac{-0.16 \times 10^{19}}{5.50 \times 10^{19}} \right| \times 100 = 2.91\% $$
+#### 3. Mobility ($\mu$): 
+Negative Sample:
+$$ \text{Error \%} = \left| \frac{-0.00587 - (-0.00600)}{-0.00600} \right| \times 100 = \left| \frac{0.00013}{-0.00600} \right| \times 100 = 2.17\% $$ Positive Sample: 
+$$ \text{Error \%} = \left| \frac{0.01167 - 0.01200}{0.01200} \right| \times 100 = \left| \frac{-0.00033}{0.01200} \right| \times 100 = 2.75\% $$
+
