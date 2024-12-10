@@ -59,15 +59,15 @@ $$ h = e \cdot \text{slope} \quad \text{(in Joule-seconds)} $$
 ### 5. Observations:  
 | S. No. | Colour of Filter | Frequency ($\nu$)    | Stopping Potential ($V_s$) |
 | ------ | ---------------- | -------------------- | -------------------------- |
-| 1      | Blue             | $4.897\times10^{14}$ | 0.581                      |
-| 2      | Green            | $5.31\times10^{14}$  | 0.231                      |
-| 3      | Orange           | $5.69\times10^{14}$  | 0.562                      |
+| 1      | Blue             | $4.897\times10^{14}$ | 0.231                      |
+| 2      | Green            | $5.31\times10^{14}$  | 0.562                      |
+| 3      | Orange           | $5.69\times10^{14}$  | 0.581                      |
+
 
 ---
 
 ### 6. Graph:  
-
-
+![[Screenshot 2024-12-10 at 9.44.00 AM.png]]
 
 ---
 
