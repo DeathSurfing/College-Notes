@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Math/Abstract Algebra/Abstract Algebra.md",
+                "file": "Notes/Math/Matricies/Cayley-Hamilton Theorem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Abstract Algebra"
+              "title": "Cayley-Hamilton Theorem"
             }
           }
         ]
@@ -220,12 +220,16 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "e3647347c29efbd6",
+  "active": "490c9fda88a4e1c3",
   "lastOpenFiles": [
+    "Notes/Math/Matricies.md",
+    "Notes/Math/Topic Explorer.md",
+    "Notes/Math/Discrete.md",
+    "Notes/Math/Calculus.md",
+    "Notes/Math/DM_CS_Submission/24WU0102094_DM.ipynb",
     "Notes/Math/Abstract Algebra/Abstract Algebra.md",
     "Notes/Software and System Design/Unit 1.md",
     "Notes/Math/DM_CS_Submission/24WU0102119_DM.ipynb",
-    "Notes/Math/DM_CS_Submission/24WU0102094_DM.ipynb",
     "Notes/Math/EM_CS_Submission/24WU0102119_EM.ipynb",
     "Notes/Math/EM_CS_Submission/24WU0102119_EM.html",
     "Notes/IOT/Norton's Theorem.md",
@@ -240,9 +244,7 @@
     "Notes/SSD Labs/Class diagram.md",
     "Notes/Math/Unit 5/Particular Integral.md",
     "Notes/Math/Unit 5/Complimentary function.md",
-    "Notes/Math/Matricies.md",
     "Notes/Math/Unit 5",
-    "Notes/Math/Discrete.md",
     "Notes/Math/EM_CS_Submission/EM_CS_Submission24WU0102119.ipynb",
     "Notes/Physics/LABS/Plancks Constant.md",
     "Notes/Physics/LABS/Numerical Aperture.md",
@@ -252,13 +254,11 @@
     "Notes/Physics/LABS/E-M Lab.md",
     "Notes/Physics/LABS/Diffraction Gratting.md",
     "Notes/Physics/LABS/Compound Pendulum.md",
-    "Notes/Physics/LABS/Solar Cell.md",
     "output.png",
     "Screenshot 2024-12-10 at 9.44.00 AM.png",
     "Graph for Plancks constant",
     "Compound Pendulum Graph.png",
     "Notes/Math/Abstract Algebra",
-    "Notes/Computational Thinking/Data Expressions and statements (PYTHON).md",
     "Notes/Papers",
     "export/Presentation For Translation Day/plugin/chalkboard/_style.css",
     "export/Presentation For Translation Day/plugin/chalkboard/img/blackboard.png",
