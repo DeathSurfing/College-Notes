@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Math/Matricies/Cayley-Hamilton Theorem.md",
+                "file": "Notes/Physics/Physics Assignment 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cayley-Hamilton Theorem"
+              "title": "Physics Assignment 1"
             }
           }
         ]
@@ -222,6 +222,10 @@
   },
   "active": "490c9fda88a4e1c3",
   "lastOpenFiles": [
+    "Notes/Physics/Quantum Computing.md",
+    "Notes/Physics/Physics Assignment 1.md",
+    "Notes/Physics/Applied Physics Breakdown.md",
+    "Notes/Math/Matricies/Cayley-Hamilton Theorem.md",
     "Notes/Math/Matricies.md",
     "Notes/Math/Topic Explorer.md",
     "Notes/Math/Discrete.md",
@@ -250,10 +254,6 @@
     "Notes/Physics/LABS/Numerical Aperture.md",
     "Notes/Physics/LABS/Newton Rings.md",
     "Notes/Physics/LABS/Hall effect.md",
-    "Notes/Physics/LABS/Energy Gap of a semi conductor.md",
-    "Notes/Physics/LABS/E-M Lab.md",
-    "Notes/Physics/LABS/Diffraction Gratting.md",
-    "Notes/Physics/LABS/Compound Pendulum.md",
     "output.png",
     "Screenshot 2024-12-10 at 9.44.00 AM.png",
     "Graph for Plancks constant",
