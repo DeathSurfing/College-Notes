@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Physics/Applied Physics Breakdown.md",
+                "file": "Notes/Math/Matricies/Determinant of a matrix.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Applied Physics Breakdown"
+              "title": "Determinant of a matrix"
             }
           }
         ]
@@ -222,13 +222,17 @@
   },
   "active": "490c9fda88a4e1c3",
   "lastOpenFiles": [
-    "Notes/Physics/Physics Assignment 1.md",
+    "Notes/Math/Matricies/Converting from Quadratic form to matrix form.md",
+    "Notes/Math/Matricies/Dependent system of equation.md",
+    "Notes/Math/Matricies/Cayley-Hamilton Theorem.md",
+    "Notes/Math/Matricies/Canonical form.md",
+    "Notes/SSD Labs/Lab 5.md",
     "Notes/Physics/Quantum Computing.md",
+    "Notes/Physics/Applied Physics Breakdown.md",
     "Notes/Physics/Quantum Physics.md",
+    "Notes/Physics/Physics Assignment 1.md",
     "Notes/Physics/Topic Explorer.md",
     "Notes/Physics/Waves.md",
-    "Notes/Physics/Applied Physics Breakdown.md",
-    "Notes/Math/Matricies/Cayley-Hamilton Theorem.md",
     "Notes/Math/Matricies.md",
     "Notes/Math/Topic Explorer.md",
     "Notes/Math/Discrete.md",
@@ -248,12 +252,8 @@
     "Notes/IOT/IOT Assignment 1.md",
     "Notes/IOT/Graph Theory.md",
     "Notes/IOT/Electrical Saftey.md",
-    "Notes/SSD Labs/Class diagram.md",
-    "Notes/Math/Unit 5/Particular Integral.md",
-    "Notes/Math/Unit 5/Complimentary function.md",
     "Notes/Math/Unit 5",
     "Notes/Math/EM_CS_Submission/EM_CS_Submission24WU0102119.ipynb",
-    "Notes/Physics/LABS/Plancks Constant.md",
     "output.png",
     "Screenshot 2024-12-10 at 9.44.00 AM.png",
     "Graph for Plancks constant",
