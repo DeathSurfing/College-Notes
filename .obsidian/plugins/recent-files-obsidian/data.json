@@ -1,8 +1,80 @@
 {
   "recentFiles": [
     {
+      "basename": "Eigen Values and Eigen Vectors",
+      "path": "Notes/Math/Matricies/Eigen Values and Eigen Vectors.md"
+    },
+    {
+      "basename": "Elementary Operations",
+      "path": "Notes/Math/Matricies/Elementary Operations.md"
+    },
+    {
+      "basename": "Linear Equation",
+      "path": "Notes/Math/Matricies/Linear Equation.md"
+    },
+    {
+      "basename": "Some other types of matrices",
+      "path": "Notes/Math/Matricies/Some other types of matrices.md"
+    },
+    {
+      "basename": "Row Operations Homework",
+      "path": "Notes/Math/Matricies/Row Operations Homework.md"
+    },
+    {
+      "basename": "Rank of a matrix",
+      "path": "Notes/Math/Matricies/Rank of a matrix.md"
+    },
+    {
+      "basename": "Order of matrix",
+      "path": "Notes/Math/Matricies/Order of matrix.md"
+    },
+    {
+      "basename": "Independent system of equation",
+      "path": "Notes/Math/Matricies/Independent system of equation.md"
+    },
+    {
+      "basename": "Homework How to use of QR code by the use of matrices",
+      "path": "Notes/Math/Matricies/Homework How to use of QR code by the use of matrices.md"
+    },
+    {
+      "basename": "Find the Rank of the matrix for the following Matrix",
+      "path": "Notes/Math/Matricies/Find the Rank of the matrix for the following Matrix.md"
+    },
+    {
+      "basename": "Example of a matrix",
+      "path": "Notes/Math/Matricies/Example of a matrix.md"
+    },
+    {
+      "basename": "Calculus",
+      "path": "Notes/Math/Calculus.md"
+    },
+    {
       "basename": "Diagonalization",
       "path": "Notes/Math/Matricies/Diagonalization.md"
+    },
+    {
+      "basename": "Determinant of a matrix",
+      "path": "Notes/Math/Matricies/Determinant of a matrix.md"
+    },
+    {
+      "basename": "Dependent system of equation",
+      "path": "Notes/Math/Matricies/Dependent system of equation.md"
+    },
+    {
+      "basename": "Converting from Quadratic form to matrix form",
+      "path": "Notes/Math/Matricies/Converting from Quadratic form to matrix form.md"
+    },
+    {
+      "basename": "Canonical form",
+      "path": "Notes/Math/Matricies/Canonical form.md"
+    },
+    {
+      "basename": "Cayley-Hamilton Theorem",
+      "path": "Notes/Math/Matricies/Cayley-Hamilton Theorem.md"
+    },
+    {
+      "basename": "Who discovered the matrix",
+      "path": "Notes/Math/Matricies/Who discovered the matrix.md"
     },
     {
       "basename": "Matricies",
@@ -13,16 +85,12 @@
       "path": "Notes/Math/Topic Explorer.md"
     },
     {
-      "basename": "Canonical form",
-      "path": "Notes/Math/Matricies/Canonical form.md"
+      "basename": "Sets",
+      "path": "Notes/Math/Sets.md"
     },
     {
       "basename": "Thevenin's Theorem",
       "path": "Notes/IOT/Thevenin's Theorem.md"
-    },
-    {
-      "basename": "Cayley-Hamilton Theorem",
-      "path": "Notes/Math/Matricies/Cayley-Hamilton Theorem.md"
     },
     {
       "basename": "Algorithms",
@@ -117,14 +185,6 @@
       "path": "Notes/SSD Labs/Lab 5.md"
     },
     {
-      "basename": "Converting from Quadratic form to matrix form",
-      "path": "Notes/Math/Matricies/Converting from Quadratic form to matrix form.md"
-    },
-    {
-      "basename": "Eigen Values and Eigen Vectors",
-      "path": "Notes/Math/Matricies/Eigen Values and Eigen Vectors.md"
-    },
-    {
       "basename": "Unit 2",
       "path": "Notes/Software and System Design/Unit 2.md"
     },
@@ -139,69 +199,12 @@
     {
       "basename": "Relations",
       "path": "Notes/Math/Sets/Relations.md"
-    },
-    {
-      "basename": "Calculus",
-      "path": "Notes/Math/Calculus.md"
-    },
-    {
-      "basename": "LAB 3",
-      "path": "Notes/SSD Labs/LAB 3.md"
-    },
-    {
-      "basename": "Lab 4",
-      "path": "Notes/SSD Labs/Lab 4.md"
-    },
-    {
-      "basename": "Unit 1",
-      "path": "Notes/Software and System Design/Unit 1.md"
-    },
-    {
-      "basename": "Numerical Aperture",
-      "path": "Notes/Physics/LABS/Numerical Aperture.md"
-    },
-    {
-      "basename": "Solar Cell",
-      "path": "Notes/Physics/LABS/Solar Cell.md"
-    },
-    {
-      "basename": "Applied Physics Breakdown",
-      "path": "Notes/Physics/Applied Physics Breakdown.md"
-    },
-    {
-      "basename": "Quantum Physics",
-      "path": "Notes/Physics/Quantum Physics.md"
-    },
-    {
-      "basename": "Temp notes",
-      "path": "Notes/Temp notes.md"
-    },
-    {
-      "basename": "Prototyping Model",
-      "path": "Notes/Software and System Design/Unit 1/SDC/Types of SLCM/Prototyping Model.md"
-    },
-    {
-      "basename": "Software development cycle",
-      "path": "Notes/Software and System Design/Unit 1/SDC/Software development cycle.md"
-    },
-    {
-      "basename": "Design phase",
-      "path": "Notes/Software and System Design/Unit 1/SDC/Design phase.md"
-    },
-    {
-      "basename": "Types of SLCM",
-      "path": "Notes/Software and System Design/Unit 1/SDC/Types of SLCM.md"
-    },
-    {
-      "basename": "Iterative water model",
-      "path": "Notes/Software and System Design/Unit 1/SDC/Types of SLCM/Iterative water model.md"
-    },
-    {
-      "basename": "Evolutionary Model",
-      "path": "Notes/Software and System Design/Unit 1/SDC/Types of SLCM/Evolutionary Model.md"
     }
   ],
   "omittedPaths": [],
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false,
   "maxLength": null,
   "openType": "tab"
 }
