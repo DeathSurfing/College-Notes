@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "dd72b4f14f0dc7fc",
+        "id": "88002ac4532ffaca",
         "type": "tabs",
         "children": [
           {
-            "id": "d8789b69d69d3081",
+            "id": "eea5dcabef52aad0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Math/Matricies/Eigen Values and Eigen Vectors.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Eigen Values and Eigen Vectors"
+              "title": "New tab"
             }
           }
         ]
@@ -208,30 +204,34 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "d8789b69d69d3081",
+  "active": "eea5dcabef52aad0",
   "lastOpenFiles": [
-    "Notes/Math/Matricies/Elementary Operations.md",
-    "Notes/Math/Matricies/Linear Equation.md",
+    "Notes/Math/Matricies.md",
+    "Notes/Math/Discrete.md",
+    "Notes/Math/Calculus.md",
+    "Notes/Papers/Quantum Computing Paper.md",
+    "Notes/Physics/Topic Explorer.md",
+    "Notes/Physics/Quantum Physics.md",
+    "Notes/Physics/Physics Assignment 1.md",
+    "Notes/Physics/Quantum Computing.md",
+    "Notes/Trading/Topic Explorer.md",
+    "Notes/Temp notes.md",
+    "Notes/Math/Topic Explorer.md",
+    "Notes/Math/Sets.md",
+    "Notes/Math/Abstract Algebra/Abstract Algebra.md",
+    "Notes/Math/Matricies/Canonical form.md",
+    "Notes/Math/Matricies/Cayley-Hamilton Theorem.md",
+    "Notes/Math/Matricies/Who discovered the matrix.md",
+    "Notes/Math/Matricies/What is a matrix.md",
+    "Notes/Math/Matricies/Types of matrices.md",
+    "Notes/Math/Matricies/To find the rank of a matrix and a augmented matrix.md",
     "Notes/Math/Matricies/Some other types of matrices.md",
     "Notes/Math/Matricies/Row Operations Homework.md",
     "Notes/Math/Matricies/Rank of a matrix.md",
     "Notes/Math/Matricies/Order of matrix.md",
+    "Notes/Math/Matricies/Linear Equation.md",
     "Notes/Math/Matricies/Independent system of equation.md",
     "Notes/Math/Matricies/Homework How to use of QR code by the use of matrices.md",
-    "Notes/Math/Matricies/Find the Rank of the matrix for the following Matrix.md",
-    "Notes/Math/Matricies/Example of a matrix.md",
-    "Notes/Math/Calculus.md",
-    "Notes/Math/Matricies/Eigen Values and Eigen Vectors.md",
-    "Notes/Math/Matricies/Diagonalization.md",
-    "Notes/Math/Matricies/Determinant of a matrix.md",
-    "Notes/Math/Matricies/Dependent system of equation.md",
-    "Notes/Math/Matricies/Converting from Quadratic form to matrix form.md",
-    "Notes/Math/Matricies/Canonical form.md",
-    "Notes/Math/Matricies/Cayley-Hamilton Theorem.md",
-    "Notes/Math/Matricies/Who discovered the matrix.md",
-    "Notes/Math/Matricies.md",
-    "Notes/Math/Topic Explorer.md",
-    "Notes/Math/Sets.md",
     "output.png",
     "export/Presentation For Translation Day/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Zero.woff",
     "export/Presentation For Translation Day/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Vector-Regular.woff",
@@ -252,10 +252,6 @@
     "export/Presentation For Translation Day/plugin/chalkboard/img/chalk-orange.png",
     "export/Presentation For Translation Day/plugin/chalkboard/img/chalk-green.png",
     "export/Presentation For Translation Day/plugin/chalkboard/img/chalk-blue.png",
-    "export/Presentation For Translation Day/plugin/menu/README.md",
-    "export/Presentation For Translation Day/plugin/menu/CONTRIBUTING.md",
-    "export/Presentation For Translation Day/plugin/customcontrols/README.md",
-    "export/Presentation For Translation Day/plugin/chart/README.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

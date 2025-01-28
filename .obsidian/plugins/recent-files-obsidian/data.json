@@ -1,16 +1,80 @@
 {
   "recentFiles": [
     {
-      "basename": "Eigen Values and Eigen Vectors",
-      "path": "Notes/Math/Matricies/Eigen Values and Eigen Vectors.md"
+      "basename": "Matricies",
+      "path": "Notes/Math/Matricies.md"
     },
     {
-      "basename": "Elementary Operations",
-      "path": "Notes/Math/Matricies/Elementary Operations.md"
+      "basename": "Discrete",
+      "path": "Notes/Math/Discrete.md"
     },
     {
-      "basename": "Linear Equation",
-      "path": "Notes/Math/Matricies/Linear Equation.md"
+      "basename": "Calculus",
+      "path": "Notes/Math/Calculus.md"
+    },
+    {
+      "basename": "Quantum Computing Paper",
+      "path": "Notes/Papers/Quantum Computing Paper.md"
+    },
+    {
+      "basename": "Topic Explorer",
+      "path": "Notes/Physics/Topic Explorer.md"
+    },
+    {
+      "basename": "Quantum Physics",
+      "path": "Notes/Physics/Quantum Physics.md"
+    },
+    {
+      "basename": "Physics Assignment 1",
+      "path": "Notes/Physics/Physics Assignment 1.md"
+    },
+    {
+      "basename": "Quantum Computing",
+      "path": "Notes/Physics/Quantum Computing.md"
+    },
+    {
+      "basename": "Topic Explorer",
+      "path": "Notes/Trading/Topic Explorer.md"
+    },
+    {
+      "basename": "Temp notes",
+      "path": "Notes/Temp notes.md"
+    },
+    {
+      "basename": "Topic Explorer",
+      "path": "Notes/Math/Topic Explorer.md"
+    },
+    {
+      "basename": "Sets",
+      "path": "Notes/Math/Sets.md"
+    },
+    {
+      "basename": "Abstract Algebra",
+      "path": "Notes/Math/Abstract Algebra/Abstract Algebra.md"
+    },
+    {
+      "basename": "Canonical form",
+      "path": "Notes/Math/Matricies/Canonical form.md"
+    },
+    {
+      "basename": "Cayley-Hamilton Theorem",
+      "path": "Notes/Math/Matricies/Cayley-Hamilton Theorem.md"
+    },
+    {
+      "basename": "Who discovered the matrix",
+      "path": "Notes/Math/Matricies/Who discovered the matrix.md"
+    },
+    {
+      "basename": "What is a matrix",
+      "path": "Notes/Math/Matricies/What is a matrix.md"
+    },
+    {
+      "basename": "Types of matrices",
+      "path": "Notes/Math/Matricies/Types of matrices.md"
+    },
+    {
+      "basename": "To find the rank of a matrix and a augmented matrix",
+      "path": "Notes/Math/Matricies/To find the rank of a matrix and a augmented matrix.md"
     },
     {
       "basename": "Some other types of matrices",
@@ -29,6 +93,10 @@
       "path": "Notes/Math/Matricies/Order of matrix.md"
     },
     {
+      "basename": "Linear Equation",
+      "path": "Notes/Math/Matricies/Linear Equation.md"
+    },
+    {
       "basename": "Independent system of equation",
       "path": "Notes/Math/Matricies/Independent system of equation.md"
     },
@@ -45,8 +113,12 @@
       "path": "Notes/Math/Matricies/Example of a matrix.md"
     },
     {
-      "basename": "Calculus",
-      "path": "Notes/Math/Calculus.md"
+      "basename": "Elementary Operations",
+      "path": "Notes/Math/Matricies/Elementary Operations.md"
+    },
+    {
+      "basename": "Eigen Values and Eigen Vectors",
+      "path": "Notes/Math/Matricies/Eigen Values and Eigen Vectors.md"
     },
     {
       "basename": "Diagonalization",
@@ -63,30 +135,6 @@
     {
       "basename": "Converting from Quadratic form to matrix form",
       "path": "Notes/Math/Matricies/Converting from Quadratic form to matrix form.md"
-    },
-    {
-      "basename": "Canonical form",
-      "path": "Notes/Math/Matricies/Canonical form.md"
-    },
-    {
-      "basename": "Cayley-Hamilton Theorem",
-      "path": "Notes/Math/Matricies/Cayley-Hamilton Theorem.md"
-    },
-    {
-      "basename": "Who discovered the matrix",
-      "path": "Notes/Math/Matricies/Who discovered the matrix.md"
-    },
-    {
-      "basename": "Matricies",
-      "path": "Notes/Math/Matricies.md"
-    },
-    {
-      "basename": "Topic Explorer",
-      "path": "Notes/Math/Topic Explorer.md"
-    },
-    {
-      "basename": "Sets",
-      "path": "Notes/Math/Sets.md"
     },
     {
       "basename": "Thevenin's Theorem",
@@ -151,54 +199,6 @@
     {
       "basename": "Drawing 2024-09-11 14.35.24.excalidraw",
       "path": "Excalidraw/Drawing 2024-09-11 14.35.24.excalidraw.md"
-    },
-    {
-      "basename": "Electrical Saftey",
-      "path": "Notes/IOT/Electrical Saftey.md"
-    },
-    {
-      "basename": "Electrical Supply",
-      "path": "Notes/IOT/Electrical Supply.md"
-    },
-    {
-      "basename": "Screenshot 2024-10-04 at 12.04.05 PM 1",
-      "path": "Screenshots/Screenshot 2024-10-04 at 12.04.05 PM 1.png"
-    },
-    {
-      "basename": "COntent IDEAS",
-      "path": "Notes/Content generation/COntent IDEAS.md"
-    },
-    {
-      "basename": "Diffraction Gratting",
-      "path": "Notes/Physics/LABS/Diffraction Gratting.md"
-    },
-    {
-      "basename": "Newton Rings",
-      "path": "Notes/Physics/LABS/Newton Rings.md"
-    },
-    {
-      "basename": "Low Level design",
-      "path": "Notes/Software and System Design/Unit 1/Low Level design.md"
-    },
-    {
-      "basename": "Lab 5",
-      "path": "Notes/SSD Labs/Lab 5.md"
-    },
-    {
-      "basename": "Unit 2",
-      "path": "Notes/Software and System Design/Unit 2.md"
-    },
-    {
-      "basename": "Class diagram",
-      "path": "Notes/SSD Labs/Class diagram.md"
-    },
-    {
-      "basename": "Discrete",
-      "path": "Notes/Math/Discrete.md"
-    },
-    {
-      "basename": "Relations",
-      "path": "Notes/Math/Sets/Relations.md"
     }
   ],
   "omittedPaths": [],
