@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Math/Probability and Statistics.md",
+                "file": "Notes/DSA/DSA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Probability and Statistics"
+              "title": "DSA"
             }
           }
         ]
@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Math/Probability and Statistics.md"
+                "file": "Notes/DSA/DSA.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Probability and Statistics"
+              "title": "Outline of DSA"
             }
           },
           {
@@ -210,8 +210,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "87995e583a2c31f1",
+  "active": "ec406b8edc4a3320",
   "lastOpenFiles": [
+    "Notes/Enviornmental",
+    "Notes/Math/Matricies.md",
+    "Notes/Math/Discrete.md",
+    "Notes/Math/Topic Explorer.md",
+    "Notes/Math/Probability and Statistics.md",
     "Notes/DSA/DSA.md",
     "Notes/Object Oriented Programming/Object Oriented Programming.md",
     "Notes/Papers/Quantum Computing Paper.md",
@@ -226,9 +231,6 @@
     "Screenshots/Screenshot 2024-10-25 at 1.49.42 PM.png",
     "Notes/Object Oriented Programming",
     "Excalidraw/Drawing 2025-01-28 10.44.59.excalidraw.md",
-    "Notes/Math/Probability and Statistics.md",
-    "Notes/Math/Matricies.md",
-    "Notes/Math/Discrete.md",
     "Notes/Math/Calculus.md",
     "Notes/Physics/Topic Explorer.md",
     "Notes/Physics/Quantum Physics.md",
@@ -236,12 +238,10 @@
     "Notes/Physics/Quantum Computing.md",
     "Notes/Trading/Topic Explorer.md",
     "Notes/Temp notes.md",
-    "Notes/Math/Topic Explorer.md",
     "Notes/Math/Sets.md",
     "Notes/Math/Abstract Algebra/Abstract Algebra.md",
     "Notes/Math/Matricies/Canonical form.md",
     "Notes/Math/Matricies/Cayley-Hamilton Theorem.md",
-    "Notes/Math/Matricies/Who discovered the matrix.md",
     "Screenshots/output.png",
     "export/Presentation For Translation Day/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Zero.woff",
     "export/Presentation For Translation Day/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Vector-Regular.woff",
