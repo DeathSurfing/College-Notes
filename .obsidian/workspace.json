@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/DSA/DSA.md",
+                "file": "Notes/Math/Probability and Statistics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DSA"
+              "title": "Probability and Statistics"
             }
           }
         ]
@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/DSA/DSA.md"
+                "file": "Notes/Math/Probability and Statistics.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of DSA"
+              "title": "Outline of Probability and Statistics"
             }
           },
           {
@@ -210,20 +210,26 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "e3647347c29efbd6",
+  "active": "87995e583a2c31f1",
   "lastOpenFiles": [
+    "Notes/DSA/DSA.md",
+    "Notes/Object Oriented Programming/Object Oriented Programming.md",
+    "Notes/Papers/Quantum Computing Paper.md",
+    "Notes/SSD Labs/Lab 6.md",
+    "Notes/SSD Labs/Lab 5.md",
+    "Notes/SSD Labs/Lab 4.md",
+    "Notes/SSD Labs/LAB 3.md",
+    "Notes/SSD Labs/Class diagram.md",
     "Screenshots/2025-01-28.md",
     "Untitled.canvas",
     "Screenshots/Compound Pendulum Graph.png",
     "Screenshots/Screenshot 2024-10-25 at 1.49.42 PM.png",
-    "Notes/Object Oriented Programming/Object Oriented Programming.md",
     "Notes/Object Oriented Programming",
     "Excalidraw/Drawing 2025-01-28 10.44.59.excalidraw.md",
     "Notes/Math/Probability and Statistics.md",
     "Notes/Math/Matricies.md",
     "Notes/Math/Discrete.md",
     "Notes/Math/Calculus.md",
-    "Notes/Papers/Quantum Computing Paper.md",
     "Notes/Physics/Topic Explorer.md",
     "Notes/Physics/Quantum Physics.md",
     "Notes/Physics/Physics Assignment 1.md",
@@ -236,11 +242,6 @@
     "Notes/Math/Matricies/Canonical form.md",
     "Notes/Math/Matricies/Cayley-Hamilton Theorem.md",
     "Notes/Math/Matricies/Who discovered the matrix.md",
-    "Notes/Math/Matricies/What is a matrix.md",
-    "Notes/Math/Matricies/Types of matrices.md",
-    "Notes/Math/Matricies/To find the rank of a matrix and a augmented matrix.md",
-    "Notes/Math/Matricies/Some other types of matrices.md",
-    "Notes/Math/Matricies/Row Operations Homework.md",
     "Screenshots/output.png",
     "export/Presentation For Translation Day/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Zero.woff",
     "export/Presentation For Translation Day/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Vector-Regular.woff",
