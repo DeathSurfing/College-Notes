@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -149,20 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/DSA/DSA.md"
+                "file": "Notes/DSA/DSA.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
               "title": "Outline of DSA"
-            }
-          },
-          {
-            "id": "e3647347c29efbd6",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
             }
           },
           {
@@ -171,8 +165,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -186,7 +180,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -199,25 +193,25 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-matrix:Obsidian Matrix": false,
-      "khoj:Khoj": false,
-      "obsidian-advanced-slides:Show Slide Preview": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "ec406b8edc4a3320",
+  "active": "aa1508a4e9fff971",
   "lastOpenFiles": [
+    "Meta_Notes/Object Oriented Programming/Object Oriented Programming - Overview of Java.md",
+    "Meta_Notes/Object Oriented Programming/Object Oriented Programming - ___.md",
+    "Meta_Notes/Object Oriented Programming",
+    "Meta_Notes/Papers/Quantum Computing Paper - Keywords.md",
+    "Notes/DSA/DSA.md",
+    "Meta_Notes/Papers/Quantum Computing Paper - Abstract.md",
+    "Meta_Notes/Papers/Quantum Computing Paper - ___.md",
+    "Meta_Notes/Papers",
+    "Meta_Notes/Software and System Design/Unit 2 - Data Hiding:.md",
     "Notes/Enviornmental",
     "Notes/Math/Matricies.md",
     "Notes/Math/Discrete.md",
     "Notes/Math/Topic Explorer.md",
     "Notes/Math/Probability and Statistics.md",
-    "Notes/DSA/DSA.md",
     "Notes/Object Oriented Programming/Object Oriented Programming.md",
     "Notes/Papers/Quantum Computing Paper.md",
     "Notes/SSD Labs/Lab 6.md",
@@ -237,11 +231,6 @@
     "Notes/Physics/Physics Assignment 1.md",
     "Notes/Physics/Quantum Computing.md",
     "Notes/Trading/Topic Explorer.md",
-    "Notes/Temp notes.md",
-    "Notes/Math/Sets.md",
-    "Notes/Math/Abstract Algebra/Abstract Algebra.md",
-    "Notes/Math/Matricies/Canonical form.md",
-    "Notes/Math/Matricies/Cayley-Hamilton Theorem.md",
     "Screenshots/output.png",
     "export/Presentation For Translation Day/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Zero.woff",
     "export/Presentation For Translation Day/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Vector-Regular.woff",
@@ -249,9 +238,6 @@
     "export/Presentation For Translation Day/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Typewriter-Regular.woff",
     "export/Presentation For Translation Day/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Size4-Regular.woff",
     "export/Presentation For Translation Day/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Size3-Regular.woff",
-    "export/Presentation For Translation Day/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Size2-Regular.woff",
-    "export/Presentation For Translation Day/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Size1-Regular.woff",
-    "export/Presentation For Translation Day/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Script-Regular.woff",
     "export/Presentation For Translation Day/plugin/chalkboard/img/whiteboard.png",
     "export/Presentation For Translation Day/plugin/chalkboard/img/sponge.png",
     "export/Presentation For Translation Day/plugin/chalkboard/img/chalk-yellow.png",
