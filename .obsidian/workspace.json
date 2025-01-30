@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Software and System Design/Unit 2.md",
+                "file": "Notes/Physics/Physics Assignment 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unit 2"
+              "title": "Physics Assignment 1"
             }
           }
         ]
@@ -150,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Software and System Design/Unit 2.md",
+                "file": "Notes/Physics/Physics Assignment 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Unit 2"
+              "title": "Outline of Physics Assignment 1"
             }
           },
           {
@@ -204,9 +204,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "87995e583a2c31f1",
+  "active": "ec406b8edc4a3320",
   "lastOpenFiles": [
+    "Structured_Notes/Software-and-System-Design/Unit-2/Encapsulation.md",
+    "Structured_Notes/Software-and-System-Design/Unit-2/Objects.md",
+    "Structured_Notes/Software-and-System-Design/Unit-2/Class-Diagram.md",
+    "Structured_Notes/Software-and-System-Design/Unit-2/Class.md",
     "Structured_Notes/Temp-notes/Temp-notes MOC.md",
+    "Structured_Notes/Software-and-System-Design/Unit-2/OOPObject-Oriented-Programming.md",
+    "Structured_Notes/Software-and-System-Design/Unit-2/OOD-Object-Oriented-Design.md",
+    "Structured_Notes/Software-and-System-Design/Unit-2/OOA-Object-Oriented-Analysis.md",
+    "Notes/Software and System Design/Unit 1/Design Principles/Abstraction.md",
+    "Notes/Temp notes.md",
+    "Notes/Software and System Design/Unit 2.md",
     "Structured_Notes/Software-and-System-Design/Unit-2",
     "Structured_Notes/Temp-notes",
     "Structured_Notes/Software-and-System-Design",
@@ -219,29 +229,19 @@
     "Structured_Notes/Papers/Quantum-Computing-Paper/Theory-and-background.md",
     "Structured_Notes/Papers/Quantum-Computing-Paper/Keywords.md",
     "Structured_Notes/Papers/Quantum-Computing-Paper/Abstract.md",
-    "Notes/Software and System Design/Unit 2.md",
     "Structured_Notes/Papers/Quantum-Computing-Paper",
     "Structured_Notes/Papers",
-    "Structured_Notes/Software-and-System-Design/Unit-2/OOD-Object-Oriented-Design.md",
-    "Structured_Notes/Software-and-System-Design/Unit-2/OOA-Object-Oriented-Analysis.md",
     "Notes/Software and System Design/Unit 1.md",
     "Notes/Software and System Design/Unit 1/Design Principles/Modularity.md",
     "Notes/Software and System Design/Unit 1/Design Principles/Modular design.md",
     "Notes/Software and System Design/Unit 1/Design Principles/Functional Independence.md",
     "Notes/Software and System Design/Unit 1/Design Principles/Decomposition.md",
-    "Notes/Software and System Design/Unit 1/Design Principles/Abstraction.md",
     "Screenshots/2025-01-28.md",
     "Structured_Notes/Software-and-System-Design/Unit-1/Meta-Data.md",
     "Structured_Notes/Software-and-System-Design/Unit-1",
     "Structured_Notes/Object Oriented Programming/Object Oriented Programming",
     "Structured_Notes/Object Oriented Programming",
     "Structured_Notes/Papers/Quantum Computing Paper",
-    "Structured_Notes/Papers/Quantum Computing Paper/keywords.md",
-    "Structured_Notes/Object Oriented Programming/Object Oriented Programming/polymorphism.md",
-    "Structured_Notes/Object Oriented Programming/Object Oriented Programming/constructors.md",
-    "Structured_Notes/Object Oriented Programming/Object Oriented Programming/data-types.md",
-    "Structured_Notes/Object Oriented Programming/Object Oriented Programming/overview-of-java.md",
-    "Structured_Notes/Papers/Quantum Computing Paper/abstract.md",
     "Untitled.canvas",
     "Screenshots/Compound Pendulum Graph.png",
     "Screenshots/Screenshot 2024-10-25 at 1.49.42 PM.png",
