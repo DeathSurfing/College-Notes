@@ -11,12 +11,14 @@
             "id": "87995e583a2c31f1",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Screenshot 2024-10-25 at 1.49.42 PM.png"
+                "file": "Notes/DSA/DSA.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Screenshot 2024-10-25 at 1.49.42 PM"
+              "icon": "lucide-file",
+              "title": "DSA"
             }
           }
         ]
@@ -147,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Screenshot 2024-10-25 at 1.49.42 PM.png"
+                "file": "Notes/DSA/DSA.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Screenshot 2024-10-25 at 1.49.42 PM"
+              "title": "Outline of DSA"
             }
           },
           {
@@ -159,8 +161,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -184,7 +186,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -208,12 +210,14 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "ec406b8edc4a3320",
+  "active": "e3647347c29efbd6",
   "lastOpenFiles": [
-    "Notes/Object Oriented Programming/Object Oriented Programming.md",
-    "2025-01-28.md",
-    "Notes/Object Oriented Programming",
+    "Screenshots/2025-01-28.md",
     "Untitled.canvas",
+    "Screenshots/Compound Pendulum Graph.png",
+    "Screenshots/Screenshot 2024-10-25 at 1.49.42 PM.png",
+    "Notes/Object Oriented Programming/Object Oriented Programming.md",
+    "Notes/Object Oriented Programming",
     "Excalidraw/Drawing 2025-01-28 10.44.59.excalidraw.md",
     "Notes/Math/Probability and Statistics.md",
     "Notes/Math/Matricies.md",
@@ -237,8 +241,7 @@
     "Notes/Math/Matricies/To find the rank of a matrix and a augmented matrix.md",
     "Notes/Math/Matricies/Some other types of matrices.md",
     "Notes/Math/Matricies/Row Operations Homework.md",
-    "Notes/Math/Matricies/Rank of a matrix.md",
-    "output.png",
+    "Screenshots/output.png",
     "export/Presentation For Translation Day/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Zero.woff",
     "export/Presentation For Translation Day/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Vector-Regular.woff",
     "export/Presentation For Translation Day/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Vector-Bold.woff",
@@ -255,8 +258,6 @@
     "export/Presentation For Translation Day/plugin/chalkboard/img/chalk-red.png",
     "export/Presentation For Translation Day/plugin/chalkboard/img/chalk-purple.png",
     "export/Presentation For Translation Day/plugin/chalkboard/img/chalk-orange.png",
-    "export/Presentation For Translation Day/plugin/chalkboard/img/chalk-green.png",
-    "export/Presentation For Translation Day/plugin/chalkboard/img/chalk-blue.png",
     "Untitled 1.canvas"
   ]
 }
