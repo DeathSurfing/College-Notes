@@ -1,0 +1,32 @@
+# Solar-Cell Map of Content
+
+
+## Notes
+- [[Calculate R_s]]
+- [[Calculation Steps]]
+- [[Table 1 Low Intensity of light]]
+- [[Calculating Relative Uncertainties]]
+- [[Fill factorF_f]]
+- [[Error in Measurement Devices]]
+- [[Series Resistance R_s]]
+- [[Series Resistance 1]]
+- [[Average Fill factor]]
+- [[Summary of Results]]
+- [[Final Calculation of Uncertainty in R_s]]
+- [[Combining Relative Uncertainties 1]]
+- [[Calculating Relative Uncertainties 2]]
+- [[Table 2 High Intensity of light]]
+- [[Uncertainties]]
+- [[Combining Relative Uncertainties]]
+- [[Fill factor for high Intensity]]
+- [[Fill factor for low Intensity]]
+- [[Given Changes]]
+- [[Error Propagation for Fill Factor F_F]]
+- [[Calculating Relative Uncertainties 1]]
+- [[Given Values]]
+- [[Series Resistance]]
+- [[Error Propagation for Series Resistance R_s]]
+- [[Fill Factor]]
+- [[Uncertainties 1]]
+
+⤴️ Back to [[LABS MOC]]
