@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/DSA/DSA/List Tuples and dictionaries.md",
+                "file": "Struc notes package 1/Object-Oriented-Programming/Object-Oriented-Programming/Polymorphism.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "List Tuples and dictionaries"
+              "title": "Polymorphism"
             }
           }
         ]
@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/DSA/DSA/List Tuples and dictionaries.md"
+                "file": "Struc notes package 1/Object-Oriented-Programming/Object-Oriented-Programming/Polymorphism.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of List Tuples and dictionaries"
+              "title": "Outline of Polymorphism"
             }
           },
           {
@@ -202,32 +202,32 @@
   },
   "active": "87995e583a2c31f1",
   "lastOpenFiles": [
-    "Notes/DSA/DSA/DSA MOC.md",
+    "Struc notes package 1/Software-and-System-Design/Unit-2/Data-Hiding.md",
+    "Struc notes package 1/Software-and-System-Design/Unit-2/Encapsulation.md",
+    "Struc notes package 1/Software-and-System-Design/Unit 1 1/Objectives of software design.md",
+    "Struc notes package 1/Software-and-System-Design/Unit-2/Objects.md",
+    "Struc notes package 1/Object-Oriented-Programming/Object-Oriented-Programming/Class-Byte-Streams-and-chars-streams.md",
+    "Struc notes package 1/Object-Oriented-Programming/Object-Oriented-Programming/Object-Oriented-Programming MOC.md",
+    "Struc notes package 1/Object-Oriented-Programming/Object-Oriented-Programming/Method-overriding.md",
+    "Struc notes package 1/Object-Oriented-Programming/Object-Oriented-Programming/Object-Class.md",
+    "Struc notes package 1/Object-Oriented-Programming/Object-Oriented-Programming/Interfaces.md",
+    "Struc notes package 1/Object-Oriented-Programming/Object-Oriented-Programming/Forms-of-inneritance.md",
+    "Struc notes package 1/Object-Oriented-Programming/Object-Oriented-Programming/Constructors.md",
+    "Struc notes package 1/Object-Oriented-Programming/Object-Oriented-Programming/Data-Types.md",
+    "Struc notes package 1/Object-Oriented-Programming/Object-Oriented-Programming/Exception-Types.md",
+    "Struc notes package 1/Object-Oriented-Programming/Object-Oriented-Programming/Limitation.md",
+    "Struc notes package 1/Object-Oriented-Programming/Object-Oriented-Programming/Extension.md",
+    "Struc notes package 1/Object-Oriented-Programming/Object-Oriented-Programming/Construction.md",
+    "Struc notes package 1/Object-Oriented-Programming/Object-Oriented-Programming/Combination.md",
+    "Struc notes package 1/Object-Oriented-Programming/Object-Oriented-Programming/Abstract-Classes.md",
     "Notes/DSA/DSA/List Tuples and dictionaries.md",
+    "Notes/DSA/DSA/DSA MOC.md",
+    "Struc notes package 1/Math/Discrete/Basics-of-counting.md",
     "Struc notes package 1/Math/Probability-and-Statistics/What-is-statistic.md",
     "Struc notes package 1/Math/Probability-and-Statistics/Probability-and-Statistics MOC.md",
     "RAW Notes/Philosphy/Philosophy.md",
     "Struc notes package 1/Philosphy/Philosophy/the-study-of-the-fundamental-nature-of-knowledge-reality-and-existence-especially-when-considered-as-an-academic-discipline..md",
     "Struc notes package 1/Philosphy/Philosophy/Philosophy-spaces.md",
-    "Struc notes package 1/Trading/Files/Support-and-Resistance/trading.md",
-    "Struc notes package 1/Trading/Files/Support-and-Resistance/Support-and-Resistance MOC.md",
-    "Struc notes package 1/Trading/Files/Support-and-Resistance/Simple-Stop-loss-strategy.md",
-    "Struc notes package 1/Trading/Files/Support-and-Resistance/Shooting-star.md",
-    "Struc notes package 1/Trading/Files/Support-and-Resistance/Hammer.md",
-    "Struc notes package 1/Trading/Files/Support-and-Resistance/Entry-Trigger.md",
-    "Struc notes package 1/Trading/Files/Support-and-Resistance/ATRAverage-True-Range.md",
-    "Struc notes package 1/Trading/Topic-Explorer/Topic-Explorer MOC.md",
-    "Struc notes package 1/Coding-stuff/Coding-Project-Ideas/Web-Scrapper-BSO4-Project.md",
-    "Struc notes package 1/Coding-stuff/Coding-Project-Ideas/IOT-Projects.md",
-    "Struc notes package 1/Coding-stuff/Coding-Project-Ideas/Game-Development.md",
-    "Struc notes package 1/Coding-stuff/Coding-Project-Ideas/Full-Stack-applications.md",
-    "Struc notes package 1/Coding-stuff/Coding-Project-Ideas/Discord-Bot.md",
-    "Struc notes package 1/Coding-stuff/Coding-Project-Ideas/Coding-Project-Ideas MOC.md",
-    "Struc notes package 1/Coding-stuff/Coding-Project-Ideas/API-applications.md",
-    "Struc notes package 1/Coding-stuff/Interesting-GSOC-Companies/Interesting-GSOC-Companies MOC.md",
-    "Struc notes package 1/Coding-stuff/Interesting-GSOC-Companies/Company-Names------------------------Github-URL-links.md",
-    "Struc notes package 1/Object-Oriented-Programming/Object-Oriented-Programming/Access.md",
-    "Struc notes package 1/Object-Oriented-Programming/Object-Oriented-Programming/Abstract-Classes.md",
     "Struc notes package 1/Software-and-System-Design/Unit 1 1/SDC/Types of SLCM",
     "Struc notes package 1/Software-and-System-Design/Unit 1 1/SDC",
     "Struc notes package 1/Software-and-System-Design/Unit 1 1/Design Principles",
