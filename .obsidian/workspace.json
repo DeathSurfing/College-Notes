@@ -25,16 +25,30 @@
             "id": "c1ebb9291f0dc0df",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RAW Notes/Object Oriented Programming/Object Oriented Programming.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Object Oriented Programming"
+            }
+          },
+          {
+            "id": "8a4d6878a2638d91",
+            "type": "leaf",
+            "state": {
               "type": "release-notes",
               "state": {
-                "currentVersion": "1.8.3"
+                "currentVersion": "1.8.4"
               },
               "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.3"
+              "title": "Release Notes 1.8.4"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -163,12 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "RAW Notes/Object Oriented Programming/Object Oriented Programming.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Object Oriented Programming"
             }
           },
           {
@@ -216,34 +231,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c1ebb9291f0dc0df",
+  "active": "8a4d6878a2638d91",
   "lastOpenFiles": [
-    "Struc notes package 1/Software-and-System-Design/Unit-2/Data-Hiding.md",
-    "Struc notes package 1/Software-and-System-Design/Unit-2/Encapsulation.md",
-    "Struc notes package 1/Software-and-System-Design/Unit 1 1/Objectives of software design.md",
-    "Struc notes package 1/Software-and-System-Design/Unit-2/Objects.md",
-    "Struc notes package 1/Object-Oriented-Programming/Object-Oriented-Programming/Class-Byte-Streams-and-chars-streams.md",
-    "Struc notes package 1/Object-Oriented-Programming/Object-Oriented-Programming/Object-Oriented-Programming MOC.md",
-    "Struc notes package 1/Object-Oriented-Programming/Object-Oriented-Programming/Method-overriding.md",
-    "Struc notes package 1/Object-Oriented-Programming/Object-Oriented-Programming/Object-Class.md",
-    "Struc notes package 1/Object-Oriented-Programming/Object-Oriented-Programming/Interfaces.md",
-    "Struc notes package 1/Object-Oriented-Programming/Object-Oriented-Programming/Forms-of-inneritance.md",
-    "Struc notes package 1/Object-Oriented-Programming/Object-Oriented-Programming/Constructors.md",
-    "Struc notes package 1/Object-Oriented-Programming/Object-Oriented-Programming/Data-Types.md",
-    "Struc notes package 1/Object-Oriented-Programming/Object-Oriented-Programming/Exception-Types.md",
-    "Struc notes package 1/Object-Oriented-Programming/Object-Oriented-Programming/Limitation.md",
-    "Struc notes package 1/Object-Oriented-Programming/Object-Oriented-Programming/Extension.md",
-    "Struc notes package 1/Object-Oriented-Programming/Object-Oriented-Programming/Construction.md",
-    "Struc notes package 1/Object-Oriented-Programming/Object-Oriented-Programming/Combination.md",
-    "Struc notes package 1/Object-Oriented-Programming/Object-Oriented-Programming/Abstract-Classes.md",
-    "Notes/DSA/DSA/List Tuples and dictionaries.md",
-    "Notes/DSA/DSA/DSA MOC.md",
-    "Struc notes package 1/Math/Discrete/Basics-of-counting.md",
-    "Struc notes package 1/Math/Probability-and-Statistics/What-is-statistic.md",
-    "Struc notes package 1/Math/Probability-and-Statistics/Probability-and-Statistics MOC.md",
-    "RAW Notes/Philosphy/Philosophy.md",
-    "Struc notes package 1/Philosphy/Philosophy/the-study-of-the-fundamental-nature-of-knowledge-reality-and-existence-especially-when-considered-as-an-academic-discipline..md",
-    "Struc notes package 1/Philosphy/Philosophy/Philosophy-spaces.md",
+    "RAW Notes/IKS (Indian Knowledge System)/Assessment 1 prep.md",
+    "RAW Notes/IKS (Indian Knowledge System)/Arts in India.md",
+    "RAW Notes/DSA/DSA.md",
+    "RAW Notes/Content generation/COntent IDEAS.md",
+    "RAW Notes/Coding stuff/Interesting GSOC Companies.md",
+    "RAW Notes/Coding stuff/Coding Project Ideas.md",
+    "Struc notes package 1/IOT/Superpostion-Theorem/Question-2-1.md",
+    "Struc notes package 1/IOT/Superpostion-Theorem/Question-2.md",
+    "Struc notes package 1/IOT/Superpostion-Theorem/Question-1.md",
+    "Struc notes package 1/IOT/Maximum-power-transfer-theorem/Maximum-power-transfer-theorem MOC.md",
+    "Struc notes package 1/IOT/Nortons-Theorem/Nortons-Theorem MOC.md",
+    "Struc notes package 1/IOT/Kirchoffs-laws/Kirchoffs-laws MOC.md",
+    "Struc notes package 1/IOT/Kirchoffs-laws/Home-workScreenshot-2024-10-04-at-11.19.04-AM.png.md",
+    "Struc notes package 1/IOT/Electrical-Saftey/What-is-a-hazard.md",
+    "Struc notes package 1/IOT/Electrical-Saftey/What-are-the-levels-of-effect-of-current.md",
+    "Struc notes package 1/IOT/Electrical-Saftey/Because-failing-to-take-necessary-precautions-can-lead-to.md",
+    "Struc notes package 1/Chemistry/Chemistry-for-sustainable-future/Weather.md",
+    "Struc notes package 1/Chemistry/Chemistry-for-sustainable-future/Climate.md",
+    "Struc notes package 1/Chemistry/Chemistry-for-sustainable-future/Chemistry-for-sustainable-future MOC.md",
+    "Struc notes package 1/CodeX/Presentation-For-Translation-Day/BERT-Similarity-Analysis.md",
+    "Struc notes package 1/CodeX/Presentation-For-Translation-Day/BLEU-Score-Implementation.md",
+    "Struc notes package 1/CodeX/Presentation-For-Translation-Day/Example-Usage.md",
+    "Struc notes package 1/CodeX/Presentation-For-Translation-Day/Key-Components.md",
+    "Struc notes package 1/CodeX/Presentation-For-Translation-Day/Future-Improvements.md",
+    "Struc notes package 1/CodeX/Presentation-For-Translation-Day/Error-Handling-Strategy.md",
+    "Struc notes package 1/CodeX/Presentation-For-Translation-Day/Output-Format.md",
     "Struc notes package 1/Software-and-System-Design/Unit 1 1/SDC/Types of SLCM",
     "Struc notes package 1/Software-and-System-Design/Unit 1 1/SDC",
     "Struc notes package 1/Software-and-System-Design/Unit 1 1/Design Principles",
