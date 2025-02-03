@@ -39,12 +39,14 @@
             "id": "8a4d6878a2638d91",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.4"
+                "file": "Notes/Communications/Communications main.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
+              "icon": "lucide-file",
+              "title": "Communications main"
             }
           }
         ],
@@ -177,13 +179,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RAW Notes/Object Oriented Programming/Object Oriented Programming.md",
+                "file": "Notes/Communications/Communications main.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Object Oriented Programming"
+              "title": "Outline of Communications main"
             }
           },
           {
@@ -233,6 +235,8 @@
   },
   "active": "8a4d6878a2638d91",
   "lastOpenFiles": [
+    "Notes/Communications/Communications main.md",
+    "Notes/Communications",
     "RAW Notes/IKS (Indian Knowledge System)/Assessment 1 prep.md",
     "RAW Notes/IKS (Indian Knowledge System)/Arts in India.md",
     "RAW Notes/DSA/DSA.md",
@@ -258,7 +262,6 @@
     "Struc notes package 1/CodeX/Presentation-For-Translation-Day/Key-Components.md",
     "Struc notes package 1/CodeX/Presentation-For-Translation-Day/Future-Improvements.md",
     "Struc notes package 1/CodeX/Presentation-For-Translation-Day/Error-Handling-Strategy.md",
-    "Struc notes package 1/CodeX/Presentation-For-Translation-Day/Output-Format.md",
     "Struc notes package 1/Software-and-System-Design/Unit 1 1/SDC/Types of SLCM",
     "Struc notes package 1/Software-and-System-Design/Unit 1 1/SDC",
     "Struc notes package 1/Software-and-System-Design/Unit 1 1/Design Principles",
@@ -268,7 +271,6 @@
     "Structured_Notes/Physics/LABS/Newton-Rings",
     "Structured_Notes/Physics/LABS/Compound-Pendulum",
     "Structured_Notes/Physics/LABS/Diffraction-Gratting",
-    "Structured_Notes/Physics/LABS/Energy-Gap-of-a-semi-conductor",
     "Untitled.canvas",
     "Screenshots/Compound Pendulum Graph.png",
     "Screenshots/Screenshot 2024-10-25 at 1.49.42 PM.png",
