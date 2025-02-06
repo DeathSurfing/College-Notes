@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Probs and stats/probs main.md",
+                "file": "Notes/Why Curbing is bad.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "probs main"
+              "title": "Why Curbing is bad"
             }
           }
         ],
@@ -131,8 +131,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "a211e9193cf29858",
@@ -194,13 +193,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Probs and stats/probs main.md",
+                "file": "Notes/Why Curbing is bad.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of probs main"
+              "title": "Outline of Why Curbing is bad"
             }
           },
           {
@@ -251,6 +250,7 @@
   "active": "b80d3f58a7bb8e19",
   "lastOpenFiles": [
     "Notes/Probs and stats/probs main.md",
+    "Notes/Why Curbing is bad.md",
     "Excalidraw/Drawing 2025-02-06 14.27.31.excalidraw.md",
     "Notes/Enviornmental/Environmental Main.md",
     "Notes/Probs and stats",
@@ -277,7 +277,6 @@
     "Struc notes package 1/Chemistry/Chemistry-for-sustainable-future/Chemistry-for-sustainable-future MOC.md",
     "Struc notes package 1/CodeX/Presentation-For-Translation-Day/BERT-Similarity-Analysis.md",
     "Struc notes package 1/CodeX/Presentation-For-Translation-Day/BLEU-Score-Implementation.md",
-    "Struc notes package 1/CodeX/Presentation-For-Translation-Day/Example-Usage.md",
     "Struc notes package 1/Software-and-System-Design/Unit 1 1/SDC/Types of SLCM",
     "Struc notes package 1/Software-and-System-Design/Unit 1 1/SDC",
     "Struc notes package 1/Software-and-System-Design/Unit 1 1/Design Principles",
