@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Why Curbing is bad.md",
+                "file": "RAW Notes/Trading/Files/Support and Resistance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Why Curbing is bad"
+              "title": "Support and Resistance"
             }
           }
         ],
@@ -193,13 +193,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Why Curbing is bad.md",
+                "file": "RAW Notes/Trading/Files/Support and Resistance.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Why Curbing is bad"
+              "title": "Outline of Support and Resistance"
             }
           },
           {
@@ -249,8 +249,15 @@
   },
   "active": "b80d3f58a7bb8e19",
   "lastOpenFiles": [
-    "Notes/Probs and stats/probs main.md",
+    "RAW Notes/Trading/Topic Explorer.md",
+    "Struc notes package 1/Trading/Files/Support-and-Resistance/Support-and-Resistance MOC.md",
+    "Struc notes package 1/Trading/Files/Support-and-Resistance/Simple-Stop-loss-strategy.md",
+    "Struc notes package 1/Trading/Files/Support-and-Resistance/Shooting-star.md",
+    "Struc notes package 1/Trading/Files/Support-and-Resistance/Hammer.md",
+    "Struc notes package 1/Trading/Files/Support-and-Resistance/ATRAverage-True-Range.md",
+    "Struc notes package 1/Trading/Files/Support-and-Resistance/Entry-Trigger.md",
     "Notes/Why Curbing is bad.md",
+    "Notes/Probs and stats/probs main.md",
     "Excalidraw/Drawing 2025-02-06 14.27.31.excalidraw.md",
     "Notes/Enviornmental/Environmental Main.md",
     "Notes/Probs and stats",
@@ -270,13 +277,6 @@
     "Struc notes package 1/IOT/Kirchoffs-laws/Kirchoffs-laws MOC.md",
     "Struc notes package 1/IOT/Kirchoffs-laws/Home-workScreenshot-2024-10-04-at-11.19.04-AM.png.md",
     "Struc notes package 1/IOT/Electrical-Saftey/What-is-a-hazard.md",
-    "Struc notes package 1/IOT/Electrical-Saftey/What-are-the-levels-of-effect-of-current.md",
-    "Struc notes package 1/IOT/Electrical-Saftey/Because-failing-to-take-necessary-precautions-can-lead-to.md",
-    "Struc notes package 1/Chemistry/Chemistry-for-sustainable-future/Weather.md",
-    "Struc notes package 1/Chemistry/Chemistry-for-sustainable-future/Climate.md",
-    "Struc notes package 1/Chemistry/Chemistry-for-sustainable-future/Chemistry-for-sustainable-future MOC.md",
-    "Struc notes package 1/CodeX/Presentation-For-Translation-Day/BERT-Similarity-Analysis.md",
-    "Struc notes package 1/CodeX/Presentation-For-Translation-Day/BLEU-Score-Implementation.md",
     "Struc notes package 1/Software-and-System-Design/Unit 1 1/SDC/Types of SLCM",
     "Struc notes package 1/Software-and-System-Design/Unit 1 1/SDC",
     "Struc notes package 1/Software-and-System-Design/Unit 1 1/Design Principles",
