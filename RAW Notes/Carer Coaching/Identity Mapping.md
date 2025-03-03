@@ -19,11 +19,12 @@ An identity is made up of :
 - How would you make yourself competent enough so that something similar is unlikely to happen?
 
 ## Acknowledge your strength and weakness
-### SWOT Analysis' on me:
+Via the use of SWOT analysis and SMART goals
 
-- Strengths
-	- Presentation Skills
-	- Debating skills
-	- Technical communication skills
-	- Critical Thinker
-	- 
+## SMART Goals
+Specific
+Measurable
+Attainable
+Relevant
+Time-bound
+
