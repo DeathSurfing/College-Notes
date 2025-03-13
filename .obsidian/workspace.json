@@ -25,10 +25,14 @@
             "id": "6b81cb9546d10fd7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Chemistry/Chemistry for sustainable future.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chemistry for sustainable future"
             }
           }
         ],
@@ -161,12 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Notes/Chemistry/Chemistry for sustainable future.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Chemistry for sustainable future"
             }
           },
           {

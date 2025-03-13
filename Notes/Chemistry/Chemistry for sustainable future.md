@@ -32,3 +32,8 @@ ___
 - The phenomena of gradual increase in temperature of earth of atmosphere by anthropogenic green house effect.
 - Natural green house effect helps main the earths temperature
 - Anthropogenic green house effect leads to excess trapped heat, which causes global warming and contributes to climate change.
+
+
+
+
+
