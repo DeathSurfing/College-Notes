@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "Identity Mapping"
             }
+          },
+          {
+            "id": "6b81cb9546d10fd7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -150,13 +161,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RAW Notes/Carer Coaching/Identity Mapping.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Identity Mapping"
+              "title": "Outline"
             }
           },
           {
@@ -204,8 +214,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b80d3f58a7bb8e19",
+  "active": "6b81cb9546d10fd7",
   "lastOpenFiles": [
+    "Struc notes package 1/Chemistry/Chemistry-for-sustainable-future/Weather.md",
+    "Struc notes package 1/Chemistry/Chemistry-for-sustainable-future/Climate.md",
+    "RAW Notes/Papers/Quantum Computing Paper.md",
+    "RAW Notes/IOT/Electrical Saftey.md",
+    "RAW Notes/IOT/Electrical Supply.md",
+    "RAW Notes/Computational Thinking/Data Expressions and statements (PYTHON).md",
+    "RAW Notes/Computational Thinking/Topic Explorer.md",
+    "RAW Notes/Computational Thinking/Algorithms.md",
+    "RAW Notes/Computational Thinking/Computational Thinking breakdown.md",
+    "RAW Notes/Computational Thinking/Control flow and functions.md",
+    "Struc notes package 1/Computational-Thinking/Computational-Thinking-breakdown/What-is-computational-thinking.md",
+    "Struc notes package 1/Computational-Thinking/Computational-Thinking-breakdown/Computational-Thinking-breakdown MOC.md",
+    "Struc notes package 1/Computational-Thinking/Computational-Thinking-breakdown/Computational-Thinking-key-concepts.md",
+    "Struc notes package 1/Computational-Thinking/Algorithms/Logic-structure-in-computer-programming.md",
+    "Struc notes package 1/Computational-Thinking/Algorithms/Building-blocks-of-a-algorithm.md",
+    "Struc notes package 1/Computational-Thinking/Algorithms/Algorithms MOC.md",
     "RAW Notes/Carer Coaching/Empathy in the workplace.md",
     "RAW Notes/Carer Coaching/Identity Mapping.md",
     "RAW Notes/Carer Coaching/Soft Skills.md",
@@ -217,24 +243,8 @@
     "Struc notes package 1/Trading/Files/Support-and-Resistance/Shooting-star.md",
     "Struc notes package 1/Trading/Files/Support-and-Resistance/Hammer.md",
     "Struc notes package 1/Trading/Files/Support-and-Resistance/ATRAverage-True-Range.md",
-    "Struc notes package 1/Trading/Files/Support-and-Resistance/Entry-Trigger.md",
-    "Notes/Why Curbing is bad.md",
-    "Notes/Probs and stats/probs main.md",
-    "Excalidraw/Drawing 2025-02-06 14.27.31.excalidraw.md",
-    "Notes/Enviornmental/Environmental Main.md",
     "Notes/Probs and stats",
-    "Notes/Communications/Communications main.md",
     "Notes/Communications",
-    "RAW Notes/IKS (Indian Knowledge System)/Assessment 1 prep.md",
-    "RAW Notes/IKS (Indian Knowledge System)/Arts in India.md",
-    "RAW Notes/DSA/DSA.md",
-    "RAW Notes/Content generation/COntent IDEAS.md",
-    "RAW Notes/Coding stuff/Interesting GSOC Companies.md",
-    "RAW Notes/Coding stuff/Coding Project Ideas.md",
-    "Struc notes package 1/IOT/Superpostion-Theorem/Question-2-1.md",
-    "Struc notes package 1/IOT/Superpostion-Theorem/Question-2.md",
-    "Struc notes package 1/IOT/Superpostion-Theorem/Question-1.md",
-    "Struc notes package 1/IOT/Maximum-power-transfer-theorem/Maximum-power-transfer-theorem MOC.md",
     "Struc notes package 1/Software-and-System-Design/Unit 1 1/SDC/Types of SLCM",
     "Struc notes package 1/Software-and-System-Design/Unit 1 1/SDC",
     "Struc notes package 1/Software-and-System-Design/Unit 1 1/Design Principles",
