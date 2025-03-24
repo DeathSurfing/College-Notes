@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "Chemistry for sustainable future"
             }
+          },
+          {
+            "id": "7788cfcaf790d743",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -219,7 +231,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6b81cb9546d10fd7",
+  "active": "7788cfcaf790d743",
   "lastOpenFiles": [
     "Struc notes package 1/Chemistry/Chemistry-for-sustainable-future/Weather.md",
     "Struc notes package 1/Chemistry/Chemistry-for-sustainable-future/Climate.md",
