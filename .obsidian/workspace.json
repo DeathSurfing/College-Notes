@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Communications/Communications main.md",
+                "file": "Notes/pitch script.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Communications main"
+              "title": "pitch script"
             }
           }
         ],
@@ -179,13 +179,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Communications/Communications main.md",
+                "file": "Notes/pitch script.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Communications main"
+              "title": "Outline of pitch script"
             }
           },
           {
@@ -235,6 +235,8 @@
   },
   "active": "7788cfcaf790d743",
   "lastOpenFiles": [
+    "Notes/Communications/Communications main.md",
+    "Notes/pitch script.md",
     "Notes/DSA/DSA/DSA MOC.md",
     "Notes/Enviornmental/Environmental Main.md",
     "Notes/Probs and stats/probs main.md",
@@ -245,7 +247,6 @@
     "RAW Notes/Physics/Quantum Physics.md",
     "RAW Notes/Physics/Quantum Computing.md",
     "RAW Notes/Physics/Physics Assignment 1.md",
-    "Notes/Communications/Communications main.md",
     "Struc notes package 1/Chemistry/Chemistry-for-sustainable-future/Weather.md",
     "Struc notes package 1/Chemistry/Chemistry-for-sustainable-future/Climate.md",
     "RAW Notes/Papers/Quantum Computing Paper.md",
@@ -260,7 +261,6 @@
     "Struc notes package 1/Computational-Thinking/Computational-Thinking-breakdown/Computational-Thinking-breakdown MOC.md",
     "Struc notes package 1/Computational-Thinking/Computational-Thinking-breakdown/Computational-Thinking-key-concepts.md",
     "Struc notes package 1/Computational-Thinking/Algorithms/Logic-structure-in-computer-programming.md",
-    "Struc notes package 1/Computational-Thinking/Algorithms/Building-blocks-of-a-algorithm.md",
     "RAW Notes/Carer Coaching",
     "Notes/Probs and stats",
     "Notes/Communications",
