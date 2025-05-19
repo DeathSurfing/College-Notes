@@ -11,10 +11,14 @@
             "id": "bfdbb7a9b5502d60",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "RAW Notes/Why Curbing is bad.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Why Curbing is bad"
             }
           }
         ]
@@ -146,12 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "RAW Notes/Why Curbing is bad.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Why Curbing is bad"
             }
           },
           {
@@ -199,17 +204,18 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "bfdbb7a9b5502d60",
+  "active": "ec406b8edc4a3320",
   "lastOpenFiles": [
-    "Notes/Chemistry/Chemistry for sustainable future.md",
-    "RAW Notes/Engineering Chemistry/Chemistry.md",
+    "RAW Notes/Probs and stats/probs main.md",
     "Notes/pitch script.md",
-    "RAW Notes/Engineering Chemistry",
-    "Notes/Communications/Communications main.md",
-    "Notes/DSA/DSA/DSA MOC.md",
     "Notes/Enviornmental/Environmental Main.md",
-    "Notes/Probs and stats/probs main.md",
-    "Notes/Why Curbing is bad.md",
+    "Notes/DSA/DSA/List Tuples and dictionaries.md",
+    "Notes/DSA/DSA/DSA MOC.md",
+    "Notes/Communications/Communications main.md",
+    "Notes/Chemistry/Chemistry for sustainable future.md",
+    "Notes/Engineering Chemistry/Chemistry.md",
+    "Notes/Engineering Chemistry",
+    "RAW Notes/Why Curbing is bad.md",
     "RAW Notes/Math/Discrete.md",
     "RAW Notes/Math/Calculus.md",
     "RAW Notes/Math/Abstract Algebra/Abstract Algebra.md",
@@ -227,9 +233,8 @@
     "RAW Notes/Computational Thinking/Computational Thinking breakdown.md",
     "RAW Notes/Computational Thinking/Control flow and functions.md",
     "Struc notes package 1/Computational-Thinking/Computational-Thinking-breakdown/What-is-computational-thinking.md",
-    "Struc notes package 1/Computational-Thinking/Computational-Thinking-breakdown/Computational-Thinking-breakdown MOC.md",
     "RAW Notes/Carer Coaching",
-    "Notes/Probs and stats",
+    "RAW Notes/Probs and stats",
     "Notes/Communications",
     "Struc notes package 1/Software-and-System-Design/Unit 1 1/SDC/Types of SLCM",
     "Struc notes package 1/Software-and-System-Design/Unit 1 1/SDC",
