@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Structured_Notes/Engineering-Chemistry/Chemistry/Biofuel-generations-first-second-third-generation-technologies.md",
+                "file": "Structured_Notes/Engineering-Chemistry/Chemistry/Selectivity-in-catalytic-processes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Biofuel-generations-first-second-third-generation-technologies"
+              "title": "Selectivity-in-catalytic-processes"
             }
           }
         ]
@@ -150,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Structured_Notes/Engineering-Chemistry/Chemistry/Biofuel-generations-first-second-third-generation-technologies.md",
+                "file": "Structured_Notes/Engineering-Chemistry/Chemistry/Selectivity-in-catalytic-processes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Biofuel-generations-first-second-third-generation-technologies"
+              "title": "Outline of Selectivity-in-catalytic-processes"
             }
           },
           {
@@ -206,32 +206,32 @@
   },
   "active": "bfdbb7a9b5502d60",
   "lastOpenFiles": [
-    "Structured_Notes/Engineering-Chemistry/Chemistry/Types-of-Nanomaterials.md",
-    "Structured_Notes/Engineering-Chemistry/Chemistry/History-and-development-of-nanotechnology.md",
-    "Structured_Notes/Engineering-Chemistry/Chemistry/Unique-properties-at-the-nanoscale.md",
+    "Structured_Notes/Engineering-Chemistry/Chemistry/Resin-Based-Purification-Types-of-resins-and-their-selectivity.md",
+    "Structured_Notes/Engineering-Chemistry/Chemistry/Renewable-Energy-Technologies.md",
+    "Structured_Notes/Engineering-Chemistry/Chemistry/Regulatory-frameworks-and-compliance-issues.md",
+    "Structured_Notes/Engineering-Chemistry/Chemistry/Quantum-Dots-Principles-and-applications.md",
+    "Structured_Notes/Engineering-Chemistry/Chemistry/Prediction-of-toxicological-properties.md",
+    "Structured_Notes/Engineering-Chemistry/Chemistry/Population-pressures-on-water-resources.md",
+    "Structured_Notes/Engineering-Chemistry/Chemistry/Oxygen-transportation-mechanisms-in-biological-systems.md",
+    "Structured_Notes/Engineering-Chemistry/Chemistry/Overview-of-all-17-SDGs-adopted-by-the-United-Nations.md",
+    "Structured_Notes/Engineering-Chemistry/Chemistry/Molecular-basis-of-photosynthesis-and-artificial-photosynthesis-efforts.md",
+    "Structured_Notes/Engineering-Chemistry/Chemistry/Metrics-for-measuring-greenness-of-chemical-processes.md",
+    "Structured_Notes/Engineering-Chemistry/Chemistry/Nuclear-Energy-Fission-fusion-prospects-waste-management.md",
     "Structured_Notes/Engineering-Chemistry/Chemistry/Applications-in-materials-design.md",
-    "Structured_Notes/Engineering-Chemistry/Chemistry/Agricultural-runoff-and-its-impacts.md",
+    "Structured_Notes/Engineering-Chemistry/Chemistry/Agricultural-Applications-Nano-fertilizers-pesticide-delivery-crop-protection.md",
     "Structured_Notes/Engineering-Chemistry/Chemistry/Advanced-Oxidation-Processes-Chemistry-and-effectiveness.md",
-    "Notes/Engineering Chemistry/Chemistry.md",
-    "Structured_Notes/Engineering-Chemistry/Chemistry/Definition-and-scale-considerations.md",
-    "Structured_Notes/Engineering-Chemistry/Chemistry/Introduction-to-Nanomaterials.md",
-    "Structured_Notes/Engineering-Chemistry/Chemistry/Energy-efficiency-improvements-through-catalysis.md",
-    "Structured_Notes/Engineering-Chemistry/Chemistry/Catalytic-approaches-to-pollution-prevention-and-remediation.md",
-    "Structured_Notes/Engineering-Chemistry/Chemistry/Industrial-applications-of-catalysis-for-sustainability.md",
-    "Structured_Notes/Engineering-Chemistry/Chemistry/Selectivity-in-catalytic-processes.md",
-    "Structured_Notes/Engineering-Chemistry/Chemistry/Energy-profiles-and-reaction-mechanisms.md",
-    "Structured_Notes/Engineering-Chemistry/Chemistry/Fundamental-principles-of-catalysis-homogeneous-heterogeneous-biocatalysis.md",
-    "Structured_Notes/Engineering-Chemistry/Chemistry/Catalysis.md",
-    "Structured_Notes/Engineering-Chemistry/Chemistry/Biofuel-generations-first-second-third-generation-technologies.md",
-    "Structured_Notes/Engineering-Chemistry/Chemistry/Case-studies-of-successful-green-chemistry-implementations.md",
-    "Structured_Notes/Engineering-Chemistry/Chemistry/Biomass-Energy-Conversion-technologies-feedstock-considerations.md",
+    "Structured_Notes/Engineering-Chemistry/Chemistry/Current-data-and-trends-in-global-warming.md",
+    "Structured_Notes/Engineering-Chemistry/Chemistry/Chemistry MOC.md",
+    "Structured_Notes/Engineering-Chemistry/Chemistry/Chemical-vapor-deposition.md",
+    "Structured_Notes/Engineering-Chemistry/Chemistry/Chemical-Technologies-for-Water-Treatment.md",
+    "Structured_Notes/Engineering-Chemistry/Chemistry/Causes-of-increasing-greenhouse-gas-concentrations.md",
     "Structured_Notes/Engineering-Chemistry/Chemistry/Chemical-Processes-for-Renewable-Sources.md",
-    "Structured_Notes/Engineering-Chemistry/Chemistry/Industrial-pollutants-affecting-water-bodies.md",
-    "Structured_Notes/Engineering-Chemistry/Chemistry/Water-Resource-Challenges-in-India.md",
-    "Structured_Notes/Engineering-Chemistry/Chemistry/Types-of-fuel-cells-PEM-solid-oxide-alkaline-etc..md",
-    "Structured_Notes/Engineering-Chemistry/Chemistry/Sustainable-Development-Goals-SDGs.md",
-    "Structured_Notes/Engineering-Chemistry/Chemistry/Structure-and-Toxicity.md",
-    "Structured_Notes/Engineering-Chemistry/Chemistry/Enzymatic-and-catalytic-approaches-to-biofuel-production.md",
+    "Structured_Notes/Engineering-Chemistry/Chemistry/Catalytic-processes-for-renewable-feedstock-conversion.md",
+    "Structured_Notes/Engineering-Chemistry/Chemistry/Catalytic-approaches-to-pollution-prevention-and-remediation.md",
+    "Structured_Notes/Engineering-Chemistry/Chemistry/Catalysis-Nanocatalysts-for-green-chemistry.md",
+    "Structured_Notes/Engineering-Chemistry/Chemistry/Catalysis.md",
+    "Structured_Notes/Engineering-Chemistry/Chemistry/Case-studies-of-textile-and-leather-industries.md",
+    "Structured_Notes/Engineering-Chemistry/Chemistry/Case-studies-of-successful-green-chemistry-implementations.md",
     "Structured_Notes/Engineering-Chemistry/Chemistry",
     "Structured_Notes/Engineering-Chemistry",
     "Structured_Notes",
