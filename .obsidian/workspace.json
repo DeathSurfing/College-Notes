@@ -11,10 +11,14 @@
             "id": "bfdbb7a9b5502d60",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Engineering Chemistry/Chemistry.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Chemistry"
             }
           }
         ]
@@ -146,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Structured_Notes/_HIERARCHY.md",
+                "file": "Notes/Engineering Chemistry/Chemistry.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of _HIERARCHY"
+              "title": "Outline of Chemistry"
             }
           },
           {
@@ -200,8 +204,12 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "ec406b8edc4a3320",
+  "active": "bfdbb7a9b5502d60",
   "lastOpenFiles": [
+    "Structured_Notes/_HIERARCHY.md",
+    "Structured_Notes/Engineering-Chemistry/Chemistry",
+    "Structured_Notes/Engineering-Chemistry",
+    "Structured_Notes",
     "Structured_Notes/Engineering-Chemistry/Chemistry/Recovery-of-valuable-resources-from-wastewater.md",
     "Structured_Notes/Engineering-Chemistry/Chemistry/Principles-of-toxicology-related-to-chemical-structure.md",
     "Structured_Notes/Engineering-Chemistry/Chemistry/Oxygen-transportation-mechanisms-in-biological-systems.md",
@@ -210,7 +218,6 @@
     "Structured_Notes/Engineering-Chemistry/Chemistry/Agricultural-Applications-Nano-fertilizers-pesticide-delivery-crop-protection.md",
     "Structured_Notes/Engineering-Chemistry/Chemistry/Advanced-Oxidation-Processes-Chemistry-and-effectiveness.md",
     "RAW Notes/Why Curbing is bad.md",
-    "Structured_Notes/_HIERARCHY.md",
     "Structured_Notes/Engineering-Chemistry/Chemistry/Chemistry MOC.md",
     "Structured_Notes/Engineering-Chemistry/Chemistry/Energy-Applications-Storage-conversion-efficiency-enhancements.md",
     "Structured_Notes/Engineering-Chemistry/Chemistry/Environmental-Applications-Remediation-sensing-filtration.md",
@@ -227,10 +234,6 @@
     "Structured_Notes/Engineering-Chemistry/Chemistry/Biomaterials-Bio-inspired-and-biomimetic-nanomaterials.md",
     "Structured_Notes/Engineering-Chemistry/Chemistry/Quantum-Dots-Principles-and-applications.md",
     "Structured_Notes/Engineering-Chemistry/Chemistry/Carbon-Nanomaterials-Fullerenes-nanotubes-graphene.md",
-    "Structured_Notes/Engineering-Chemistry/Chemistry/Types-of-Nanomaterials.md",
-    "Structured_Notes/Engineering-Chemistry/Chemistry",
-    "Structured_Notes/Engineering-Chemistry",
-    "Structured_Notes",
     "Notes/Engineering Chemistry",
     "RAW Notes/Carer Coaching",
     "RAW Notes/Probs and stats",
