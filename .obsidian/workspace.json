@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/pitch script.md",
+                "file": "RAW Notes/Engineering Chemistry/Chemistry.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pitch script"
+              "title": "Chemistry"
             }
           }
         ],
@@ -179,13 +179,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/pitch script.md",
+                "file": "RAW Notes/Engineering Chemistry/Chemistry.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of pitch script"
+              "title": "Outline of Chemistry"
             }
           },
           {
@@ -227,13 +227,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-matrix:Obsidian Matrix": false,
+      "khoj:Khoj": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
   "active": "7788cfcaf790d743",
   "lastOpenFiles": [
-    "Notes/Communications/Communications main.md",
     "Notes/pitch script.md",
+    "RAW Notes/Engineering Chemistry/Chemistry.md",
+    "RAW Notes/Engineering Chemistry",
+    "Notes/Communications/Communications main.md",
     "Notes/DSA/DSA/DSA MOC.md",
     "Notes/Enviornmental/Environmental Main.md",
     "Notes/Probs and stats/probs main.md",
@@ -257,7 +262,6 @@
     "Struc notes package 1/Computational-Thinking/Computational-Thinking-breakdown/What-is-computational-thinking.md",
     "Struc notes package 1/Computational-Thinking/Computational-Thinking-breakdown/Computational-Thinking-breakdown MOC.md",
     "Struc notes package 1/Computational-Thinking/Computational-Thinking-breakdown/Computational-Thinking-key-concepts.md",
-    "Struc notes package 1/Computational-Thinking/Algorithms/Logic-structure-in-computer-programming.md",
     "RAW Notes/Carer Coaching",
     "Notes/Probs and stats",
     "Notes/Communications",
@@ -267,7 +271,6 @@
     "Struc notes package 1/Software-and-System-Design/Unit 1 1",
     "Notes",
     "Structured_Notes/Physics/LABS/Hall-effect",
-    "Structured_Notes/Physics/LABS/Newton-Rings",
     "Untitled.canvas",
     "Screenshots/Compound Pendulum Graph.png",
     "Screenshots/Screenshot 2024-10-25 at 1.49.42 PM.png",
