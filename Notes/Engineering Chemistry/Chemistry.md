@@ -1,4 +1,3 @@
-___
 # Unit I: Introduction to Sustainability and Green Chemistry
 
 ## Greenhouse Effect and Global Warming
