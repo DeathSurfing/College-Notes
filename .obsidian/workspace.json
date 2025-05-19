@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Structured_Notes/Engineering-Chemistry/Chemistry/Immediate-and-long-term-consequences-of-climate-change.md",
+                "file": "Structured_Notes/Engineering-Chemistry/Chemistry/Renewable-Energy-Technologies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Immediate-and-long-term-consequences-of-climate-change"
+              "title": "Renewable-Energy-Technologies"
             }
           }
         ]
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 687.5
   },
   "right": {
     "id": "a211e9193cf29858",
@@ -150,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Structured_Notes/Engineering-Chemistry/Chemistry/Immediate-and-long-term-consequences-of-climate-change.md",
+                "file": "Structured_Notes/Engineering-Chemistry/Chemistry/Renewable-Energy-Technologies.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Immediate-and-long-term-consequences-of-climate-change"
+              "title": "Outline of Renewable-Energy-Technologies"
             }
           },
           {
@@ -206,16 +206,28 @@
   },
   "active": "bfdbb7a9b5502d60",
   "lastOpenFiles": [
-    "Structured_Notes/Engineering-Chemistry/Chemistry/How-chemistry-as-a-discipline-can-address-these-global-challenges.md",
-    "Structured_Notes/Engineering-Chemistry/Chemistry/Historical-development-of-green-chemistry-as-a-discipline.md",
-    "Structured_Notes/Engineering-Chemistry/Chemistry/Greenhouse-Effect-and-Global-Warming.md",
+    "Structured_Notes/Engineering-Chemistry/Chemistry/Overview-of-all-17-SDGs-adopted-by-the-United-Nations.md",
+    "Structured_Notes/Engineering-Chemistry/Chemistry/Renewable-Energy-Technologies.md",
+    "Structured_Notes/Engineering-Chemistry/Chemistry/Sustainable-Development-Goals-SDGs.md",
+    "Structured_Notes/Engineering-Chemistry/Chemistry/Current-global-energy-landscape-and-consumption-patterns.md",
+    "Structured_Notes/Engineering-Chemistry/Chemistry/Fossil-Fuel-Challenges.md",
     "Structured_Notes/Engineering-Chemistry/Chemistry/Green-Chemistry.md",
+    "Structured_Notes/Engineering-Chemistry/Chemistry/Greenhouse-Effect-and-Global-Warming.md",
     "Structured_Notes/Engineering-Chemistry/Chemistry/Emphasis-on-SDGs-directly-related-to-chemistry-and-environmental-sustainability.md",
+    "Structured_Notes/Engineering-Chemistry/Chemistry/Economic-and-geopolitical-issues-of-fossil-fuel-dependence.md",
+    "Structured_Notes/Engineering-Chemistry/Chemistry/Environmental-impacts-of-fossil-fuel-extraction-and-use.md",
+    "Structured_Notes/Engineering-Chemistry/Chemistry/How-chemistry-as-a-discipline-can-address-these-global-challenges.md",
+    "Structured_Notes/Engineering-Chemistry/Chemistry/Limitations-and-unsustainability-of-fossil-resources.md",
+    "Structured_Notes/Engineering-Chemistry/Chemistry/Scientific-mechanisms-behind-the-greenhouse-effect.md",
+    "Structured_Notes/Engineering-Chemistry/Chemistry/Unit-I-Introduction-to-Sustainability-and-Green-Chemistry.md",
+    "Structured_Notes/Engineering-Chemistry/Chemistry/The-12-principles-of-green-chemistry-in-detail.md",
+    "Structured_Notes/Engineering-Chemistry/Chemistry/Solar-Energy-Photovoltaics-solar-thermal-materials-advancements.md",
+    "Structured_Notes/Engineering-Chemistry/Chemistry/Metrics-for-measuring-greenness-of-chemical-processes.md",
+    "Structured_Notes/Engineering-Chemistry/Chemistry/Immediate-and-long-term-consequences-of-climate-change.md",
+    "Structured_Notes/Engineering-Chemistry/Chemistry/Historical-development-of-green-chemistry-as-a-discipline.md",
     "Structured_Notes/Engineering-Chemistry/Chemistry/Current-data-and-trends-in-global-warming.md",
     "Structured_Notes/Engineering-Chemistry/Chemistry/Causes-of-increasing-greenhouse-gas-concentrations.md",
-    "Structured_Notes/Engineering-Chemistry/Chemistry/Immediate-and-long-term-consequences-of-climate-change.md",
-    "Structured_Notes/Engineering-Chemistry/Chemistry/Unit-I-Introduction-to-Sustainability-and-Green-Chemistry.md",
-    "Structured_Notes/Engineering-Chemistry/Chemistry/Scientific-mechanisms-behind-the-greenhouse-effect.md",
+    "Structured_Notes/Engineering-Chemistry/Chemistry/Case-studies-of-successful-green-chemistry-implementations.md",
     "Notes/Engineering Chemistry/Chemistry.md",
     "Structured_Notes/Engineering-Chemistry/Chemistry",
     "Structured_Notes/Engineering-Chemistry",
@@ -223,18 +235,6 @@
     "Structured_Notes/_HIERARCHY.md",
     "Structured_Notes/Engineering-Chemistry/Chemistry/Recovery-of-valuable-resources-from-wastewater.md",
     "Structured_Notes/Engineering-Chemistry/Chemistry/Principles-of-toxicology-related-to-chemical-structure.md",
-    "Structured_Notes/Engineering-Chemistry/Chemistry/Oxygen-transportation-mechanisms-in-biological-systems.md",
-    "Structured_Notes/Engineering-Chemistry/Chemistry/Applications-in-materials-design.md",
-    "Structured_Notes/Engineering-Chemistry/Chemistry/Agricultural-runoff-and-its-impacts.md",
-    "Structured_Notes/Engineering-Chemistry/Chemistry/Agricultural-Applications-Nano-fertilizers-pesticide-delivery-crop-protection.md",
-    "Structured_Notes/Engineering-Chemistry/Chemistry/Advanced-Oxidation-Processes-Chemistry-and-effectiveness.md",
-    "RAW Notes/Why Curbing is bad.md",
-    "Structured_Notes/Engineering-Chemistry/Chemistry/Chemistry MOC.md",
-    "Structured_Notes/Engineering-Chemistry/Chemistry/Energy-Applications-Storage-conversion-efficiency-enhancements.md",
-    "Structured_Notes/Engineering-Chemistry/Chemistry/Environmental-Applications-Remediation-sensing-filtration.md",
-    "Structured_Notes/Engineering-Chemistry/Chemistry/Catalysis-Nanocatalysts-for-green-chemistry.md",
-    "Structured_Notes/Engineering-Chemistry/Chemistry/Biomedical-Applications-Drug-delivery-diagnostics-therapeutics.md",
-    "Structured_Notes/Engineering-Chemistry/Chemistry/Applications-of-Nanotechnology.md",
     "Notes/Engineering Chemistry",
     "RAW Notes/Carer Coaching",
     "RAW Notes/Probs and stats",
