@@ -4,53 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "88002ac4532ffaca",
+        "id": "bb34cceee143dd20",
         "type": "tabs",
         "children": [
           {
-            "id": "b80d3f58a7bb8e19",
+            "id": "bfdbb7a9b5502d60",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RAW Notes/Carer Coaching/Identity Mapping.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Identity Mapping"
-            }
-          },
-          {
-            "id": "6b81cb9546d10fd7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Chemistry/Chemistry for sustainable future.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chemistry for sustainable future"
-            }
-          },
-          {
-            "id": "7788cfcaf790d743",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RAW Notes/Engineering Chemistry/Chemistry.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chemistry"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,13 +146,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RAW Notes/Engineering Chemistry/Chemistry.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Chemistry"
+              "title": "Outline"
             }
           },
           {
@@ -233,10 +199,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "7788cfcaf790d743",
+  "active": "bfdbb7a9b5502d60",
   "lastOpenFiles": [
-    "Notes/pitch script.md",
+    "Notes/Chemistry/Chemistry for sustainable future.md",
     "RAW Notes/Engineering Chemistry/Chemistry.md",
+    "Notes/pitch script.md",
     "RAW Notes/Engineering Chemistry",
     "Notes/Communications/Communications main.md",
     "Notes/DSA/DSA/DSA MOC.md",
@@ -261,7 +228,6 @@
     "RAW Notes/Computational Thinking/Control flow and functions.md",
     "Struc notes package 1/Computational-Thinking/Computational-Thinking-breakdown/What-is-computational-thinking.md",
     "Struc notes package 1/Computational-Thinking/Computational-Thinking-breakdown/Computational-Thinking-breakdown MOC.md",
-    "Struc notes package 1/Computational-Thinking/Computational-Thinking-breakdown/Computational-Thinking-key-concepts.md",
     "RAW Notes/Carer Coaching",
     "Notes/Probs and stats",
     "Notes/Communications",
