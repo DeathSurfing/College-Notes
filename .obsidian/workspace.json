@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Engineering Chemistry/Chemistry.md",
+                "file": "Structured_Notes/Engineering-Chemistry/Chemistry/Unit-I-Introduction-to-Sustainability-and-Green-Chemistry.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chemistry"
+              "title": "Unit-I-Introduction-to-Sustainability-and-Green-Chemistry"
             }
           }
         ]
@@ -150,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Engineering Chemistry/Chemistry.md",
+                "file": "Structured_Notes/Engineering-Chemistry/Chemistry/Unit-I-Introduction-to-Sustainability-and-Green-Chemistry.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Chemistry"
+              "title": "Outline of Unit-I-Introduction-to-Sustainability-and-Green-Chemistry"
             }
           },
           {
@@ -206,10 +206,13 @@
   },
   "active": "bfdbb7a9b5502d60",
   "lastOpenFiles": [
-    "Structured_Notes/_HIERARCHY.md",
+    "Structured_Notes/Engineering-Chemistry/Chemistry/Greenhouse-Effect-and-Global-Warming.md",
+    "Notes/Engineering Chemistry/Chemistry.md",
+    "Structured_Notes/Engineering-Chemistry/Chemistry/Unit-I-Introduction-to-Sustainability-and-Green-Chemistry.md",
     "Structured_Notes/Engineering-Chemistry/Chemistry",
     "Structured_Notes/Engineering-Chemistry",
     "Structured_Notes",
+    "Structured_Notes/_HIERARCHY.md",
     "Structured_Notes/Engineering-Chemistry/Chemistry/Recovery-of-valuable-resources-from-wastewater.md",
     "Structured_Notes/Engineering-Chemistry/Chemistry/Principles-of-toxicology-related-to-chemical-structure.md",
     "Structured_Notes/Engineering-Chemistry/Chemistry/Oxygen-transportation-mechanisms-in-biological-systems.md",
@@ -232,8 +235,6 @@
     "Structured_Notes/Engineering-Chemistry/Chemistry/Synthesis-Methods.md",
     "Structured_Notes/Engineering-Chemistry/Chemistry/Metal-and-Metal-Oxide-Nanoparticles-Synthesis-and-properties.md",
     "Structured_Notes/Engineering-Chemistry/Chemistry/Biomaterials-Bio-inspired-and-biomimetic-nanomaterials.md",
-    "Structured_Notes/Engineering-Chemistry/Chemistry/Quantum-Dots-Principles-and-applications.md",
-    "Structured_Notes/Engineering-Chemistry/Chemistry/Carbon-Nanomaterials-Fullerenes-nanotubes-graphene.md",
     "Notes/Engineering Chemistry",
     "RAW Notes/Carer Coaching",
     "RAW Notes/Probs and stats",
