@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Structured_Notes/Probablitiy/Random-Variable.md",
+                "file": "Structured_Notes/Probablitiy/Continuous-Random-Variable.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Random-Variable"
+              "title": "Continuous-Random-Variable"
             }
           }
         ]
@@ -150,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Structured_Notes/Probablitiy/Random-Variable.md",
+                "file": "Structured_Notes/Probablitiy/Continuous-Random-Variable.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Random-Variable"
+              "title": "Outline of Continuous-Random-Variable"
             }
           },
           {
@@ -206,6 +206,8 @@
   },
   "active": "bfdbb7a9b5502d60",
   "lastOpenFiles": [
+    "Structured_Notes/Probablitiy/Characteristic-Function.md",
+    "Structured_Notes/Probablitiy/Random-Variable.md",
     "Structured_Notes/Probablitiy/Probablitiy MOC.md",
     "Structured_Notes/Probablitiy/Probability-Mass-Function.md",
     "Structured_Notes/Probablitiy/Probability-Distribution.md",
@@ -215,18 +217,20 @@
     "Structured_Notes/Probablitiy/Mean-and-Variance.md",
     "Structured_Notes/Probablitiy/Gamma-Distribution.md",
     "Structured_Notes/Probablitiy/Discrete-Random-Variable.md",
-    "Structured_Notes/Probablitiy/Cumulative-Distribution-Function.md",
     "Structured_Notes/Probablitiy/Discrete-Distributions.md",
+    "Structured_Notes/Probablitiy/Cumulative-Distribution-Function.md",
     "Structured_Notes/Probablitiy/Cumulant-Generating-Function.md",
     "Structured_Notes/Probablitiy/Continuous-Random-Variable.md",
-    "Structured_Notes/Probablitiy/Characteristic-Function.md",
     "Structured_Notes/_HIERARCHY.md",
-    "Structured_Notes/Probablitiy/Random-Variable.md",
-    "Notes/Probablitiy.md",
     "Structured_Notes/Probablitiy",
     "Structured_Notes",
-    "chem chits/Engineering-Chemistry/Chemistry/Selectivity-in-catalytic-processes.md",
+    "Notes/Probablitiy.md",
     "Notes/Probability and Statistics Cheat Sheet.markdown",
+    "Notes",
+    "RAW Notes/Probability and Statistics Cheat Sheet.markdown",
+    "RAW Notes/Engineering Chemistry/Chemistry.md",
+    "RAW Notes/Engineering Chemistry",
+    "chem chits/Engineering-Chemistry/Chemistry/Selectivity-in-catalytic-processes.md",
     "Probability and Statistics Cheat Sheet.markdown",
     "chem chits/Engineering-Chemistry/Chemistry/Resin-Based-Purification-Types-of-resins-and-their-selectivity.md",
     "chem chits/Engineering-Chemistry/Chemistry/Renewable-Energy-Technologies.md",
@@ -234,14 +238,9 @@
     "chem chits/Engineering-Chemistry/Chemistry/Quantum-Dots-Principles-and-applications.md",
     "chem chits/Engineering-Chemistry/Chemistry/Prediction-of-toxicological-properties.md",
     "chem chits/Engineering-Chemistry/Chemistry/Population-pressures-on-water-resources.md",
-    "chem chits/Engineering-Chemistry/Chemistry/Oxygen-transportation-mechanisms-in-biological-systems.md",
-    "chem chits/Engineering-Chemistry/Chemistry/Overview-of-all-17-SDGs-adopted-by-the-United-Nations.md",
     "chem chits/Engineering-Chemistry/Chemistry",
     "chem chits/Engineering-Chemistry",
     "chem chits",
-    "Notes/Engineering Chemistry",
-    "RAW Notes/Carer Coaching",
-    "RAW Notes/Probs and stats",
     "Untitled.canvas",
     "Screenshots/Compound Pendulum Graph.png",
     "Screenshots/Screenshot 2024-10-25 at 1.49.42 PM.png",
