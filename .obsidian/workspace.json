@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 2/Critical thinking/Future of education with AI.md",
+                "file": "Year 2/COA/Body language/Body Language.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Future of education with AI"
+              "title": "Body Language"
             }
           }
         ]
@@ -150,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 2/Critical thinking/Future of education with AI.md",
+                "file": "Year 2/COA/Body language/Body Language.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Future of education with AI"
+              "title": "Outline of Body Language"
             }
           },
           {
@@ -204,10 +204,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "ec406b8edc4a3320",
+  "active": "1dc984067b0f7b6c",
   "lastOpenFiles": [
-    "Year 2/COA",
     "Year 2/Critical thinking/Future of education with AI.md",
+    "Year 2/COA/Body language/Body Language.md",
+    "Year 2/COA/Body language",
+    "Year 2/COA",
+    "Year 2/COA",
     "Year 2/DBMS/DBMS.md",
     "Year 2/Critical thinking",
     "Year 2/DBMS",
@@ -233,10 +236,7 @@
     "Year 1/Structured_Notes",
     "Year 1/Notes/Probablitiy.md",
     "Year 1/Notes/Probability and Statistics Cheat Sheet.markdown",
-    "Year 1/Notes",
-    "RAW Notes/Probability and Statistics Cheat Sheet.markdown",
     "RAW Notes/Engineering Chemistry/Chemistry.md",
-    "RAW Notes/Engineering Chemistry",
     "Year 1/chem chits/Engineering-Chemistry/Chemistry/Selectivity-in-catalytic-processes.md",
     "Year 1/chem chits/Engineering-Chemistry/Chemistry/Resin-Based-Purification-Types-of-resins-and-their-selectivity.md",
     "Year 1/chem chits/Engineering-Chemistry/Chemistry/Renewable-Energy-Technologies.md",
