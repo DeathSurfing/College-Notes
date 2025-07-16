@@ -11,10 +11,14 @@
             "id": "1dc984067b0f7b6c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Year 2/Critical thinking/Future of education with AI.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Future of education with AI"
             }
           }
         ]
@@ -146,12 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Year 2/Critical thinking/Future of education with AI.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Future of education with AI"
             }
           },
           {
