@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 2/COA/Body language/Body Language.md",
+                "file": "Year 2/Critical thinking/Stream of thoughts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Body Language"
+              "title": "Stream of thoughts"
             }
           }
         ]
@@ -150,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 2/COA/Body language/Body Language.md",
+                "file": "Year 2/Critical thinking/Stream of thoughts.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Body Language"
+              "title": "Outline of Stream of thoughts"
             }
           },
           {
@@ -206,8 +206,11 @@
   },
   "active": "1dc984067b0f7b6c",
   "lastOpenFiles": [
-    "Year 2/Critical thinking/Future of education with AI.md",
+    "Year 2/Critical thinking/Untitled.md",
+    "Year 2/Critical thinking/Stream of thoughts.md",
     "Year 2/COA/Body language/Body Language.md",
+    "Year 2/Untitled",
+    "Year 2/Critical thinking/Future of education with AI.md",
     "Year 2/COA/Body language",
     "Year 2/COA",
     "Year 2/COA",
@@ -235,13 +238,10 @@
     "Year 1/Structured_Notes/Probablitiy",
     "Year 1/Structured_Notes",
     "Year 1/Notes/Probablitiy.md",
-    "Year 1/Notes/Probability and Statistics Cheat Sheet.markdown",
     "RAW Notes/Engineering Chemistry/Chemistry.md",
     "Year 1/chem chits/Engineering-Chemistry/Chemistry/Selectivity-in-catalytic-processes.md",
     "Year 1/chem chits/Engineering-Chemistry/Chemistry/Resin-Based-Purification-Types-of-resins-and-their-selectivity.md",
     "Year 1/chem chits/Engineering-Chemistry/Chemistry/Renewable-Energy-Technologies.md",
-    "Year 1/chem chits/Engineering-Chemistry/Chemistry/Regulatory-frameworks-and-compliance-issues.md",
-    "Year 1/chem chits/Engineering-Chemistry/Chemistry/Quantum-Dots-Principles-and-applications.md",
     "Untitled.canvas",
     "Year 1/Screenshots/Compound Pendulum Graph.png",
     "Year 1/Screenshots/Screenshot 2024-10-25 at 1.49.42 PM.png",
