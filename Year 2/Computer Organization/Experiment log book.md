@@ -69,16 +69,16 @@ $a+b=x$
 $a'=x$
 ![[Screenshot 2025-07-16 at 2.56.32 PM.png]]
 
-
 # 2.1: Realisation of logic gates
 
-Design and implement OR gate from NAND gate 
+## Design and implement OR gate from NAND gate:
+![[Screenshot 2025-07-16 at 3.41.29 PM.png]]
+## Design and implement AND gate from NOR Gate:
+![[Screenshot 2025-07-16 at 3.42.41 PM.png]]
+## Design and implement Not gate from NOR Gate:
+![[Screenshot 2025-07-16 at 3.46.41 PM.png]]
+## Design and implement XOR gate from NAND gate:
+![[Screenshot 2025-07-16 at 3.45.48 PM.png]]
+___
 
-
-
-| A   | B   | $c=(a\cdot b)'$ | $(a\cdot $ |
-| --- | --- | --------------- | ---------- |
-| 0   | 0   | 1               |            |
-| 0   | 1   | 1               |            |
-| 1   | 0   | 1               |            |
-| 1   | 1   | 0               |            |
+# 3: Construction of Half adder and full adder
