@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6e28b9a9a307576e",
+        "id": "8416443c620cb856",
         "type": "tabs",
         "children": [
           {
-            "id": "b2e348677d532da5",
+            "id": "c463f0af94704354",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Year 2/Computer Organization/Experiment log book.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Experiment log book"
             }
           }
         ]
@@ -146,12 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Year 2/Computer Organization/Experiment log book.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Experiment log book"
             }
           },
           {
@@ -199,15 +204,16 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "b2e348677d532da5",
+  "active": "c463f0af94704354",
   "lastOpenFiles": [
+    "Screenshot 2025-07-23 at 11.17.21 AM.png",
+    "Year 2/Computer Organization/Experiment log book.md",
     "Year 2/AI & ML/Searching Techniques.md",
     "Year 2/AI & ML/States.md",
     "Year 2/AI & ML/Preceptors, PAGE PEAS.md",
     "Year 2/AI & ML/Untitled.md",
     "Year 2/Assets/Screenshot 2025-07-16 at 2.41.47 PM.png",
     "Year 2/AI & ML",
-    "Year 2/Computer Organization/Experiment log book.md",
     "Year 2/Assets",
     "Year 2/Assets/Screenshot 2025-07-16 at 3.46.41 PM.png",
     "Year 2/Assets/Screenshot 2025-07-16 at 3.45.48 PM.png",
@@ -217,7 +223,6 @@
     "Year 2/Assets/Screenshot 2025-07-16 at 3.05.40 PM.png",
     "Year 2/Assets/Screenshot 2025-07-16 at 3.04.54 PM.png",
     "Year 2/Assets/Screenshot 2025-07-16 at 3.04.33 PM.png",
-    "Year 2/Assets/Screenshot 2025-07-16 at 2.56.32 PM.png",
     "Year 2/COA/Body language/Body Language.md",
     "Year 2/Computer Organization",
     "Year 2/Critical thinking/Stream of thoughts.md",
@@ -246,7 +251,6 @@
     "Year 1/Structured_Notes/Probablitiy/Discrete-Distributions.md",
     "Year 1/Structured_Notes/Probablitiy/Cumulative-Distribution-Function.md",
     "Year 1/Structured_Notes/Probablitiy/Cumulant-Generating-Function.md",
-    "Year 1/Structured_Notes/_HIERARCHY.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

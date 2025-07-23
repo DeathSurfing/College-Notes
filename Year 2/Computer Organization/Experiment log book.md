@@ -82,3 +82,4 @@ $a'=x$
 ___
 
 # 3: Construction of Half adder and full adder
+![[Screenshot 2025-07-23 at 11.17.21 AM.png]]
