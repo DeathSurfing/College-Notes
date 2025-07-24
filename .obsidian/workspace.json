@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3988e50277877bf9",
+        "id": "f3ee1ca886b242b9",
         "type": "tabs",
         "children": [
           {
-            "id": "c6e3956d348bd347",
+            "id": "ddc7590ed10e96af",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Year 2/DBMS/Labs/Lab 3.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Lab 3"
+              "title": "New tab"
             }
           }
         ]
@@ -150,13 +146,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 2/DBMS/Labs/Lab 3.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lab 3"
+              "title": "Outline"
             }
           },
           {
@@ -204,7 +199,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "c6e3956d348bd347",
+  "active": "ddc7590ed10e96af",
   "lastOpenFiles": [
     "Year 2/DBMS/Labs/Lab 3.md",
     "Year 2/Assets 1/Screenshot 2025-07-23 at 11.17.21 AM.png",
