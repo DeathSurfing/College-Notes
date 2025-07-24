@@ -1,3 +1,7 @@
+# AIM:
+
+Create a University Database with a table for FACULTIES, COURSES, STUDENTS, The attributed of the FACULTIES table should include faculty_id, first_name, last_name,department,email . The attributes of COURSES table should include course_id,course_name,faculty_id. The STUDENTS table should have attributes student_id,first_name,last_name,email,enrollment_year,course_id.
+Insert Values into the Students table and showcase the student table
 ___
 ```sql
 USE UNIVERSITYDB;
