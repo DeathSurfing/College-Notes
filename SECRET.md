@@ -11,7 +11,7 @@ ___
 # Schedule:
 
 September 19-21st
-
+![[Screenshot 2025-07-26 at 7.52.37 PM.png]]
 ### Day 1:
 NO SESSION ON DAY 1
 
