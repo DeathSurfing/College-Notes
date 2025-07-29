@@ -83,3 +83,10 @@ ___
 
 # 3: Construction of Half adder and full adder
 ![[Screenshot 2025-07-23 at 11.17.21 AM.png]]
+
+## Construction of half adder using NAND
+___\
+![[Screenshot 2025-07-29 at 4.04.39 PM.png]]
+## Construction of half adder using NOR
+___
+![[Screenshot 2025-07-29 at 4.05.32 PM.png]]

@@ -11,10 +11,14 @@
             "id": "59a914e45caa04cc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Year 2/Computer Organization/Experiment log book.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Experiment log book"
             }
           }
         ]
@@ -146,12 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Year 2/Computer Organization/Experiment log book.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Experiment log book"
             }
           },
           {
@@ -201,6 +206,9 @@
   },
   "active": "59a914e45caa04cc",
   "lastOpenFiles": [
+    "Screenshot 2025-07-29 at 4.05.32 PM.png",
+    "Screenshot 2025-07-29 at 4.04.39 PM.png",
+    "Screenshot 2025-07-29 at 3.59.49 PM.png",
     "SECRET.md",
     "Screenshot 2025-07-26 at 7.52.37 PM.png",
     "Year 2/Computer Organization/Experiment log book.md",
@@ -214,8 +222,6 @@
     "Year 2/Assets 1/Screenshot 2025-07-24 at 11.23.56 AM.png",
     "Year 2/Assets 1/Screenshot 2025-07-24 at 11.23.38 AM.png",
     "Year 2/Assets 1/Screenshot 2025-07-24 at 11.23.10 AM.png",
-    "Year 2/Assets 1/Screenshot 2025-07-24 at 11.22.44 AM.png",
-    "Year 2/Assets 1/Screenshot 2025-07-24 at 11.19.33 AM.png",
     "Year 2/DBMS/Labs/Lab 1.md",
     "Year 2/DBMS/DBMS.md",
     "Year 2/DBMS/Labs",
