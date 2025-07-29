@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f3ee1ca886b242b9",
+        "id": "7a2f61e248cb3620",
         "type": "tabs",
         "children": [
           {
-            "id": "ddc7590ed10e96af",
+            "id": "59a914e45caa04cc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SECRET.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "SECRET"
+              "title": "New tab"
             }
           }
         ]
@@ -150,13 +146,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SECRET.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of SECRET"
+              "title": "Outline"
             }
           },
           {
@@ -204,11 +199,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "ddc7590ed10e96af",
+  "active": "59a914e45caa04cc",
   "lastOpenFiles": [
+    "SECRET.md",
     "Screenshot 2025-07-26 at 7.52.37 PM.png",
     "Year 2/Computer Organization/Experiment log book.md",
-    "SECRET.md",
     "Year 2/DBMS/Labs/Lab 3.md",
     "Year 2/Assets 1/Screenshot 2025-07-23 at 11.17.21 AM.png",
     "Year 2/Assets 1",
@@ -221,7 +216,6 @@
     "Year 2/Assets 1/Screenshot 2025-07-24 at 11.23.10 AM.png",
     "Year 2/Assets 1/Screenshot 2025-07-24 at 11.22.44 AM.png",
     "Year 2/Assets 1/Screenshot 2025-07-24 at 11.19.33 AM.png",
-    "Year 2/Assets 1/Screenshot 2025-07-24 at 11.19.19 AM.png",
     "Year 2/DBMS/Labs/Lab 1.md",
     "Year 2/DBMS/DBMS.md",
     "Year 2/DBMS/Labs",
