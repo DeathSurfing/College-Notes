@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 2/DBMS/Labs/Lab 5.md",
+                "file": "SECRET.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lab 5"
+              "title": "SECRET"
             }
           }
         ]
@@ -150,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 2/DBMS/Labs/Lab 5.md",
+                "file": "SECRET.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lab 5"
+              "title": "Outline of SECRET"
             }
           },
           {
@@ -206,11 +206,11 @@
   },
   "active": "59a914e45caa04cc",
   "lastOpenFiles": [
+    "Year 2/DBMS/Labs/Lab 5.md",
     "Screenshot 2025-07-31 at 3.18.33 PM.png",
     "Screenshot 2025-07-31 at 3.18.25 PM.png",
     "Screenshot 2025-07-31 at 3.18.18 PM.png",
     "Year 2/DBMS/Labs/Lab 4.md",
-    "Year 2/DBMS/Labs/Lab 5.md",
     "Screenshot 2025-07-31 at 3.08.00 PM.png",
     "Screenshot 2025-07-31 at 3.07.46 PM.png",
     "Screenshot 2025-07-31 at 3.07.30 PM.png",
@@ -218,7 +218,6 @@
     "Screenshot 2025-07-31 at 3.07.00 PM.png",
     "Screenshot 2025-07-31 at 3.06.25 PM.png",
     "Screenshot 2025-07-31 at 3.05.45 PM.png",
-    "Screenshot 2025-07-31 at 3.00.22 PM.png",
     "Year 2/Computer Organization/Experiment log book.md",
     "SECRET.md",
     "Year 2/DBMS/Labs/Lab 3.md",
