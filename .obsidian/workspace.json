@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "SECRET"
             }
+          },
+          {
+            "id": "7592769569a633e3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -150,13 +161,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SECRET.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of SECRET"
+              "title": "Outline"
             }
           },
           {
@@ -204,8 +214,9 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "59a914e45caa04cc",
+  "active": "7592769569a633e3",
   "lastOpenFiles": [
+    "SECRET.md",
     "Year 2/DBMS/Labs/Lab 5.md",
     "Screenshot 2025-07-31 at 3.18.33 PM.png",
     "Screenshot 2025-07-31 at 3.18.25 PM.png",
@@ -219,7 +230,6 @@
     "Screenshot 2025-07-31 at 3.06.25 PM.png",
     "Screenshot 2025-07-31 at 3.05.45 PM.png",
     "Year 2/Computer Organization/Experiment log book.md",
-    "SECRET.md",
     "Year 2/DBMS/Labs/Lab 3.md",
     "Year 2/Assets 1",
     "Year 2/DBMS/Labs/Lab 2.md",
