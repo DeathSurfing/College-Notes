@@ -129,3 +129,6 @@ Q3 = A⋅B
 ![[Screenshot 2025-08-25 at 11.55.23 AM.png]]
 
 ## $4\times2$ Encoder
+![[Screenshot 2025-08-25 at 12.30.42 PM.png]]![[Screenshot 2025-08-25 at 12.31.00 PM.png]]
+A = D3
+B = ~D2⋅D1+D3
