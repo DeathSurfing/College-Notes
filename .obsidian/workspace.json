@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7a2f61e248cb3620",
+        "id": "ef2a40bcc26464fc",
         "type": "tabs",
         "children": [
           {
-            "id": "59a914e45caa04cc",
+            "id": "601d282275c0ee86",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "SECRET"
             }
-          },
-          {
-            "id": "7592769569a633e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Year 2/STUCO/Oval Prefrences.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Oval Prefrences"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -165,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 2/STUCO/Oval Prefrences.md",
+                "file": "SECRET.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Oval Prefrences"
+              "title": "Outline of SECRET"
             }
           },
           {
@@ -219,11 +204,12 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "7592769569a633e3",
+  "active": "601d282275c0ee86",
   "lastOpenFiles": [
+    "SECRET.md",
+    "Year 2/Computer Organization/Experiment log book.md",
     "Year 2/STUCO/Oval Prefrences.md",
     "Year 2/STUCO",
-    "SECRET.md",
     "Year 2/DBMS/Labs/Lab 5.md",
     "Screenshot 2025-07-31 at 3.18.33 PM.png",
     "Screenshot 2025-07-31 at 3.18.25 PM.png",
@@ -236,7 +222,6 @@
     "Screenshot 2025-07-31 at 3.07.00 PM.png",
     "Screenshot 2025-07-31 at 3.06.25 PM.png",
     "Screenshot 2025-07-31 at 3.05.45 PM.png",
-    "Year 2/Computer Organization/Experiment log book.md",
     "Year 2/DBMS/Labs/Lab 3.md",
     "Year 2/Assets 1",
     "Year 2/DBMS/Labs/Lab 2.md",
