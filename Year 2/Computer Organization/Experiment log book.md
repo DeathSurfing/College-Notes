@@ -143,3 +143,21 @@ Q3 = A⋅B
 ![[Screenshot 2025-08-25 at 12.30.42 PM.png]]![[Screenshot 2025-08-25 at 12.31.00 PM.png]]
 A = D3
 B = ~D2⋅D1+D3
+
+
+
+# Experiment 6:
+
+## Aim :
+To analyse the truth table and working of a 1x4 de multiplexer by using 3 input NAND and 1-input NOT logic gate IC's and 4x1 Multiplexer by using 3-input AND , 3 input OR and 1 input NOT logic gate IC.
+
+
+Multiplexer are classified into four types:
+a) 2x1
+b)4x1
+c)8x1
+d)16x1
+
+
+
+![[Screenshot 2025-09-04 at 4.16.03 PM.png]]
