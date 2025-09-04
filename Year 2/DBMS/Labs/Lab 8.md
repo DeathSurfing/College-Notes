@@ -115,7 +115,7 @@ CALL AddNewEmployee('Anna Taylor', 103, 6800);
 SELECT * FROM Employees WHERE Name = 'Anna Taylor';
 
 ```
-![[Screenshot 2025-09-04 at 12.10.52 PM.png]]
+![[Screenshot 2025-09-04 at 12.10.52 PM.png]] 
 ### Task 4: Create Procedure to Update Department Salary
 
 Create a stored procedure to increase salaries by percentage for a department:

@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ef2a40bcc26464fc",
+        "id": "6bc6721ffce47916",
         "type": "tabs",
         "children": [
           {
-            "id": "601d282275c0ee86",
+            "id": "5154934615ef5d51",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Year 2/DBMS/Labs/Lab 8.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Lab 8"
+              "title": "New tab"
             }
           }
         ]
@@ -150,13 +146,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 2/DBMS/Labs/Lab 8.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lab 8"
+              "title": "Outline"
             }
           },
           {
@@ -205,11 +200,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "601d282275c0ee86",
+  "active": "5154934615ef5d51",
   "lastOpenFiles": [
+    "Year 2/DBMS/Labs/Lab 8.md",
     "Screenshot 2025-09-04 at 12.10.52 PM.png",
     "Year 2/DBMS/Labs/Lab 7.md",
-    "Year 2/DBMS/Labs/Lab 8.md",
     "Year 2/DBMS/Labs/Lab 5.md",
     "Year 2/Computer Organization/Experiment log book.md",
     "assets/Screenshot 2025-09-04 at 11.54.50 AM.png",
@@ -227,7 +222,6 @@
     "assets/Screenshot 2025-09-04 at 11.53.47 AM.png",
     "assets/Screenshot 2025-09-04 at 11.53.29 AM.png",
     "assets/Screenshot 2025-09-04 at 11.53.07 AM.png",
-    "assets/Screenshot 2025-09-04 at 11.52.49 AM.png",
     "SECRET.md",
     "Year 2/STUCO/Oval Prefrences.md",
     "Year 2/STUCO",
