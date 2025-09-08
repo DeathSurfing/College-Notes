@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "6bc6721ffce47916",
+        "id": "03ad133164fee072",
         "type": "tabs",
         "children": [
           {
-            "id": "5154934615ef5d51",
+            "id": "84c747feb45c97e9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Year 2/Computer Organization/Experiment log book.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Experiment log book"
-            }
-          },
-          {
-            "id": "22eba6bb2e692464",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Year 2/Computer Organization/Experiment log book.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Experiment log book"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -165,13 +146,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 2/Computer Organization/Experiment log book.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Experiment log book"
+              "title": "Outline"
             }
           },
           {
@@ -220,13 +200,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "22eba6bb2e692464",
+  "active": "84c747feb45c97e9",
   "lastOpenFiles": [
+    "Year 2/Computer Organization/Experiment log book.md",
     "Screenshot 2025-09-04 at 4.41.31 PM.png",
     "Screenshot 2025-09-04 at 4.36.23 PM.png",
     "Screenshot 2025-09-04 at 4.16.03 PM.png",
     "Excalidraw/Drawing 2025-09-04 16.14.53.excalidraw.md",
-    "Year 2/Computer Organization/Experiment log book.md",
     "Excalidraw",
     "Year 2/DBMS/Labs/Lab 8.md",
     "Screenshot 2025-09-04 at 12.10.52 PM.png",
@@ -244,7 +224,6 @@
     "assets/Screenshot 2025-09-04 at 11.54.32 AM.png",
     "assets/Screenshot 2025-09-04 at 11.54.21 AM.png",
     "assets/Screenshot 2025-09-04 at 11.54.00 AM.png",
-    "assets/Screenshot 2025-09-04 at 11.53.47 AM.png",
     "SECRET.md",
     "Year 2/STUCO/Oval Prefrences.md",
     "Year 2/STUCO",
