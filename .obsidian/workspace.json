@@ -11,10 +11,14 @@
             "id": "84c747feb45c97e9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Year 2/Computer Organization/Notes.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Notes"
             }
           }
         ]
@@ -146,12 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Year 2/Computer Organization/Notes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Notes"
             }
           },
           {
@@ -203,6 +208,7 @@
   "active": "84c747feb45c97e9",
   "lastOpenFiles": [
     "Year 2/Computer Organization/Experiment log book.md",
+    "Year 2/Computer Organization/Notes.md",
     "Screenshot 2025-09-04 at 4.41.31 PM.png",
     "Screenshot 2025-09-04 at 4.36.23 PM.png",
     "Screenshot 2025-09-04 at 4.16.03 PM.png",
