@@ -1,4 +1,20 @@
 ___
+## Introduction:
+
+Databases are critical for organizing structured data and retrieving it efficiently. In this experiment, we create a simple **Department Database** that contains employee records in a `department_table`. The table tracks each employee’s first name, last name, designation, and date of joining. The goal is to perform SQL operations such as retrieving minimum, maximum, average, and filtered records using BETWEEN, as well as ordering results in ascending/descending order and limiting results to the top 5 records.
+## Observations:
+
+- The `MIN(Join_Date)` correctly returns the earliest date an employee joined the department.
+    
+- The `MAX(Join_Date)` returns the most recent employee join date.
+    
+- The `AVG(SNo)` provides the average serial number (auto-incremented ID).
+    
+- The `BETWEEN` clause successfully filters employees who joined in a specific date range.
+    
+- Sorting in **ascending** and **descending order** works as expected based on `Join_Date`.
+    
+- `LIMIT 5` returns the top 5 most recent employees in the descending order of join date.
 # Question 1:
 
 Create a Department table,
@@ -101,3 +117,6 @@ ORDER BY `Join_Date` DESC
 LIMIT 5;
 ```
 ![[Screenshot 2025-07-31 at 3.08.00 PM.png]]
+## Conclusion:
+
+We successfully created a Department Database with a single table called `department_table`. We inserted sample employee data and demonstrated important SQL queries that help retrieve and manipulate information. These operations are foundational to data analysis and reporting in relational database management. Understanding aggregate functions, filtering, ordering, and limits is essential for efficient data retrieval in practical applications.

@@ -1,4 +1,26 @@
 ___
+## Introduction:
+
+Retail stores require efficient management of product inventories, categories, and customer orders to ensure smooth operation and accurate tracking. In this experiment, we designed a **Retail Store Database** consisting of three tables: `Categories`, `Products`, and `Orders`. The `Categories` table stores product categories, the `Products` table stores detailed product information including price and stock, and the `Orders` table records customer orders. Appropriate constraints (primary keys, foreign keys, NOT NULL, UNIQUE, CHECK) were applied to maintain data integrity and consistency throughout the database.
+
+## Observations:
+
+- The **Categories table** enforced unique category names and auto-incremented IDs.
+    
+- The **Products table** linked products to categories with `CategoryID` as a foreign key, ensuring that a product cannot exist without a valid category.
+    
+- The **Orders table** linked orders to products, ensuring orders reference valid products.
+    
+- The **Price and Stock fields** used CHECK constraints to prevent negative values.
+    
+- Data insertion was successful for categories, products, and orders without errors.
+    
+- Sample records were inserted and correctly linked, confirming relational integrity.
+    
+
+---
+
+# Scenario
 You are managing a database for a retail store that sell various products. The database needs to keep track of products, categories and orders. you are tasked with setting up the database tables with appropriate constraints to ensure data integrity
 
 
@@ -66,3 +88,6 @@ INSERT INTO Orders (ProductID, Quantity) VALUES
 (6, 2);    -- 2 Office Chairs
 ```
 ![[Screenshot 2025-07-31 at 3.18.18 PM.png]]![[Screenshot 2025-07-31 at 3.18.25 PM.png]]![[Screenshot 2025-07-31 at 3.18.33 PM.png]]
+## Conclusion:
+
+In this experiment, we successfully created a Retail Store Database schema with proper relational table design and constraints. The database correctly handled products, categories, and orders with enforced data integrity via foreign keys, default values, and CHECK constraints. We inserted sample data into each table and verified successful relationships through consistent query results. This structure provides a strong foundation for more advanced retail data management and reporting.

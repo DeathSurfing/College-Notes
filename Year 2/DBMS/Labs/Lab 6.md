@@ -1,5 +1,22 @@
 ___
+## Introduction:
 
+A well-structured relational database ensures data integrity and efficient management of business operations. In this experiment, we designed and managed a **Retail Store Database** with three main tables: `Categories`, `Products`, and `Orders`. We focused on inserting records, enforcing constraints such as UNIQUE, CHECK, FOREIGN KEY, and DEFAULT, and observing the behavior when constraints are violated. This helps us understand how relational databases enforce data consistency and prevent invalid data entry.
+
+## Observations:
+
+- **Inserting categories and products** with valid data worked successfully.
+    
+- Attempts to insert **duplicate product names** (like "Laptop" or "Smartphone") resulted in a UNIQUE constraint violation error, as expected.
+    
+- Attempting to insert **negative stock or order quantities** triggered CHECK constraint violations.
+    
+- Inserting a product or order with a **non-existent foreign key (CategoryID/ProductID)** failed due to the FOREIGN KEY constraint.
+    
+- The **DEFAULT constraint on OrderDate** worked correctly when not specified.
+    
+- All successful data insertions reflected accurately when viewed via SELECT queries, showing correct relationships.
+# Scenario
 You are managing a database for a retail store that sells various products. The database needs to keep track of products, categories, and orders. You are tasked with setting up the database tables with appropriate constraints to ensure data integrity.
 
 ## TASKS:
@@ -355,3 +372,7 @@ The following tasks should produce constraint violation errors:
 - **Task 14**: FOREIGN KEY constraint violation (invalid CategoryID)
 - **Task 15**: FOREIGN KEY constraint violation (invalid ProductID)
 - **Task 16**: CHECK constraint violation (negative StockQuantity)
+
+## Conclusion:
+
+Through this exercise, we learned to implement key relational database constraints in MySQL, ensuring data integrity and consistency. The UNIQUE, CHECK, FOREIGN KEY, and DEFAULT constraints are crucial for preventing duplicate data, enforcing valid ranges, maintaining referential integrity, and providing sensible defaults. Attempting to insert invalid data successfully demonstrated how constraints safeguard against corrupt database states. These practices are essential for real-world applications like retail store management systems.

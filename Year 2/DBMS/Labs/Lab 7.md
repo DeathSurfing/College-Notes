@@ -1,5 +1,23 @@
 ___
-# MySQL Advanced Query Operators - DBMS LAB 7
+## Introduction:
+
+Advanced query operators in SQL allow powerful and flexible data retrieval in relational databases. In this experiment, we explored operators such as **LIKE**, **GROUP BY**, **HAVING**, **EXISTS**, **ANY**, and **ALL** using a sample **Students table**. These operators help filter, group, and compare data efficiently, especially useful in managing and analyzing large datasets.
+
+## Observations:
+
+- The **LIKE operator** successfully filtered students based on name patterns (e.g., names starting with vowels, ending with 'son').
+    
+- The **GROUP BY clause** correctly aggregated data by course and gender, showing counts and averages.
+    
+- The **HAVING clause** filtered groups after aggregation (e.g., courses with more than 2 students or average birth year before 2003).
+    
+- The **EXISTS operator** worked as expected by testing for the presence of related rows in subqueries.
+    
+- The **ANY operator** returned students whose IDs or DOBs met conditions compared to any values in subqueries.
+    
+- The **ALL operator** worked to select students whose attributes were more extreme than all values in a subquery (e.g., born before all male students).
+    
+- Combining operators produced complex queries yielding precise data insights (e.g., students whose names start with vowels AND belong to courses with more than 2 students).
 
 ## Database Schema Setup
 
@@ -325,3 +343,20 @@ SELECT * FROM Students WHERE DOB < ALL (SELECT DOB FROM Students WHERE Gender = 
 | **ALL**      | Comparing with all values from subquery | Finding values greater than all in a set     |
 
 Each operator serves a specific purpose in data querying and can be combined for complex data retrieval operations.
+
+## Conclusion:
+
+This lab reinforced the understanding and practical application of advanced query operators in MySQL. We observed that:
+
+- **LIKE** helps in pattern-based searches.
+    
+- **GROUP BY** is useful for summarizing and aggregating data.
+    
+- **HAVING** provides filtering after grouping.
+    
+- **EXISTS** tests presence of related data.
+    
+- **ANY** and **ALL** allow comparisons against sets of values.
+    
+
+Combining these operators enables complex queries needed in real-world database scenarios, especially for analytics and reporting tasks in educational or business environments.

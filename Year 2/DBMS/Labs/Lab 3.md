@@ -1,6 +1,26 @@
-
 ___
+## Introduction:
 
+Databases are essential tools in modern applications, providing structured storage, efficient querying, and data integrity. This experiment involves designing and managing two practical relational databases: a Student Database and a Car Dealership Database. The Student Database stores information about students, their courses, and addresses, and demonstrates the use of common SQL queries (e.g., DISTINCT, AND/OR/NOT, BETWEEN, ORDER BY, IS NULL, aggregation functions). The Car Dealership Database models relationships between cars, customers, sales representatives, and transactions, showcasing foreign key relationships, data insertion, updates, and advanced SQL queries involving joins and aggregation.
+## Observations:
+
+- The DISTINCT query returns unique entries as expected, removing duplicates.
+    
+- AND, OR, NOT operators work as designed for filtering specific data.
+    
+- BETWEEN allows range-based data filtering for numeric or ID fields.
+    
+- ORDER BY sorts the data correctly in ascending and descending order.
+    
+- IS NULL successfully finds records with missing fields.
+    
+- LIMIT (SELECT TOP 3 equivalent) properly limits output to top 3 records.
+    
+- Aggregate functions (MIN, MAX, AVG, COUNT) calculate values accurately over the dataset.
+    
+- Foreign key constraints prevent insertion of inconsistent records.
+    
+- Updating availability status reflects correctly in the Cars table.
 # Question 1:
  Create a table with student database in that student database mention , student_id, student_name, course_name, address, with the help of these data execute SQL query
  **Queries:**
@@ -308,3 +328,7 @@ SELECT
 FROM Cars;
 ```
 ![[Screenshot 2025-07-24 at 11.24.57 AM.png]]
+
+## Conclusion:
+
+This experiment successfully demonstrated the use of essential SQL commands and operations within two realistic database contexts. We created and managed tables, inserted and updated data, and executed queries to retrieve, filter, and aggregate information. These foundational concepts are critical for database design and management in real-world applications. Proper use of relational constraints ensured data consistency and integrity, while the ability to query effectively is essential for extracting business insights.
