@@ -1,4 +1,4 @@
-#### By Aditya Vikram Mahendru (24WU0102119)
+
 ___
 
 # Question 1:

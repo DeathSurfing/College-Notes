@@ -1,4 +1,4 @@
-[[___
+___
 
 You are managing a database for a retail store that sells various products. The database needs to keep track of products, categories, and orders. You are tasked with setting up the database tables with appropriate constraints to ensure data integrity.
 
@@ -355,5 +355,3 @@ The following tasks should produce constraint violation errors:
 - **Task 14**: FOREIGN KEY constraint violation (invalid CategoryID)
 - **Task 15**: FOREIGN KEY constraint violation (invalid ProductID)
 - **Task 16**: CHECK constraint violation (negative StockQuantity)
-
-These errors demonstrate how database constraints maintain data integrity by preventing invalid data entry.

@@ -315,13 +315,13 @@ SELECT * FROM Students WHERE DOB < ALL (SELECT DOB FROM Students WHERE Gender = 
 ![[Screenshot 2025-09-04 at 11.54.50 AM.png]]
 ## Summary of Operations
 
-|Operator|Purpose|Example Use Case|
-|---|---|---|
-|**LIKE**|Pattern matching in strings|Finding names starting with specific letters|
-|**GROUP BY**|Grouping rows with same values|Counting students per course|
-|**HAVING**|Filtering grouped results|Finding courses with more than X students|
-|**EXISTS**|Testing if subquery returns any rows|Finding students in courses that exist|
-|**ANY**|Comparing with any value from subquery|Finding values greater than any in a set|
-|**ALL**|Comparing with all values from subquery|Finding values greater than all in a set|
+| Operator     | Purpose                                 | Example Use Case                             |
+| ------------ | --------------------------------------- | -------------------------------------------- |
+| **LIKE**     | Pattern matching in strings             | Finding names starting with specific letters |
+| **GROUP BY** | Grouping rows with same values          | Counting students per course                 |
+| **HAVING**   | Filtering grouped results               | Finding courses with more than X students    |
+| **EXISTS**   | Testing if subquery returns any rows    | Finding students in courses that exist       |
+| **ANY**      | Comparing with any value from subquery  | Finding values greater than any in a set     |
+| **ALL**      | Comparing with all values from subquery | Finding values greater than all in a set     |
 
 Each operator serves a specific purpose in data querying and can be combined for complex data retrieval operations.
