@@ -12,7 +12,7 @@ This lab provides step-by-step instructions to install **MySQL Server** and **My
 ### Step 1: Download MySQL Installer
 - Visit https://dev.mysql.com/downloads/installer/
 - Download **MySQL Installer for Windows**.
-
+``
 ### Step 2: Run Installer
 - Run the downloaded installer (`mysql-installer-community-*.exe`).
 - Choose the setup type:

@@ -1,0 +1,43 @@
+/* Set clean margins for PDF */
+@media print {
+  body {
+    margin: 1in;
+    font-family: 'Times New Roman', serif;
+    font-size: 12pt;
+  }
+
+  h1 {
+    font-size: 24pt;
+    font-weight: bold;
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+  }
+
+  h2 {
+    font-size: 18pt;
+    font-weight: bold;
+    margin-top: 1.2em;
+    margin-bottom: 0.4em;
+  }
+
+  p {
+    margin-bottom: 1em;
+    line-height: 1.6;
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 1em;
+  }
+
+  table, th, td {
+    border: 1px solid black;
+  }
+
+  th, td {
+    padding: 8px;
+    text-align: left;
+  }
+}
+
