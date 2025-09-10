@@ -11,14 +11,12 @@
             "id": "46233a1c0ae0814d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Year 2/DBMS/Labs/Lab 1.md",
-                "mode": "source",
-                "source": false
+                "file": "assets/Screenshot 2025-09-04 at 4.16.03 PM.png"
               },
-              "icon": "lucide-file",
-              "title": "Lab 1"
+              "icon": "lucide-image",
+              "title": "Screenshot 2025-09-04 at 4.16.03 PM"
             }
           }
         ]
@@ -150,13 +148,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 2/DBMS/Labs/Lab 1.md",
+                "file": "assets/Screenshot 2025-09-04 at 4.16.03 PM.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lab 1"
+              "title": "Outline of Screenshot 2025-09-04 at 4.16.03 PM"
             }
           },
           {
@@ -205,48 +203,48 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "46233a1c0ae0814d",
+  "active": "ec406b8edc4a3320",
   "lastOpenFiles": [
-    "Year 2/DBMS/Labs/combined_labs.pdf",
+    "Year 2/DBMS/Labs/Lab 3.md",
     "Year 2/DBMS/Labs/Lab 1.md",
+    "Year 2/DBMS/Labs/Lab 5.pdf",
+    "Year 2/DBMS/Labs/Lab 4.pdf",
+    "Year 2/DBMS/Labs/Lab 2.pdf",
+    "Year 2/DBMS/Labs/Lab 1.pdf",
+    "Year 2/DBMS/Labs/combined_labs.pdf",
+    "Year 2/DBMS/Labs/Lab 8.pdf",
+    "Year 2/DBMS/Labs/Lab 7.pdf",
+    "Year 2/DBMS/Labs/Lab 6.pdf",
+    "Year 2/DBMS/Labs/Lab 3.pdf",
     "Year 2/DBMS/Labs/Lab 8.md",
     "Year 2/DBMS/Labs/Lab 7.md",
     "Year 2/DBMS/Labs/Lab 6.md",
     "Year 2/DBMS/Labs/Lab 5.md",
     "Year 2/DBMS/Labs/Lab 4.md",
-    "Year 2/DBMS/Labs/Lab 3.md",
     "Year 2/DBMS/Labs/Lab 2.md",
     "Year 2/Computer Organization/Experiment log book.md",
     "Year 2/Computer Organization/Notes.md",
-    "Screenshot 2025-09-04 at 4.41.31 PM.png",
-    "Screenshot 2025-09-04 at 4.36.23 PM.png",
-    "Screenshot 2025-09-04 at 4.16.03 PM.png",
+    "assets/Screenshot 2025-09-04 at 4.41.31 PM.png",
+    "assets/Screenshot 2025-09-04 at 4.36.23 PM.png",
+    "assets/Screenshot 2025-09-04 at 4.16.03 PM.png",
     "Excalidraw/Drawing 2025-09-04 16.14.53.excalidraw.md",
     "Excalidraw",
-    "Screenshot 2025-09-04 at 12.10.52 PM.png",
+    "assets/Screenshot 2025-09-04 at 12.10.52 PM.png",
     "assets/Screenshot 2025-09-04 at 11.54.50 AM.png",
     "assets/Screenshot 2025-07-26 at 7.52.37 PM.png",
-    "assets",
     "assets/Screenshot 2025-09-04 at 11.54.40 AM.png",
     "assets/Screenshot 2025-09-04 at 11.54.32 AM.png",
     "assets/Screenshot 2025-09-04 at 11.54.21 AM.png",
     "assets/Screenshot 2025-09-04 at 11.54.00 AM.png",
     "SECRET.md",
     "Year 2/STUCO/Oval Prefrences.md",
-    "Year 2/STUCO",
-    "Year 2/Assets 1",
     "Year 2/DBMS/DBMS.md",
-    "Year 2/DBMS/Labs",
     "Year 2/Mindfullness/Assignment Aditya Vikram Mahendru 24WU0102119 Book Review.md",
-    "Year 2/Mindfullness",
     "Year 2/AI & ML/Searching Techniques.md",
     "Year 2/AI & ML/States.md",
     "Year 2/AI & ML/Preceptors, PAGE PEAS.md",
     "Year 2/AI & ML/Untitled.md",
-    "Year 2/AI & ML",
-    "Year 2/Assets",
     "Year 2/COA/Body language/Body Language.md",
-    "Year 2/Computer Organization",
     "Year 2/Critical thinking/Stream of thoughts.md",
     "Year 2/Critical thinking/Untitled.md",
     "Year 2/Critical thinking/Future of education with AI.md",
