@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "20a7a807ce8d5879",
+        "id": "fdbf5c652d240946",
         "type": "tabs",
         "children": [
           {
-            "id": "46233a1c0ae0814d",
+            "id": "e780d5acf91009ff",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "assets/Screenshot 2025-09-04 at 4.16.03 PM.png"
-              },
-              "icon": "lucide-image",
-              "title": "Screenshot 2025-09-04 at 4.16.03 PM"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -148,13 +146,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/Screenshot 2025-09-04 at 4.16.03 PM.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Screenshot 2025-09-04 at 4.16.03 PM"
+              "title": "Outline"
             }
           },
           {
@@ -203,10 +200,12 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "ec406b8edc4a3320",
+  "active": "e780d5acf91009ff",
   "lastOpenFiles": [
-    "Year 2/DBMS/Labs/Lab 3.md",
+    "Year 2/Computer Organization/Experiment log book.md",
     "Year 2/DBMS/Labs/Lab 1.md",
+    "assets/Screenshot 2025-09-04 at 4.16.03 PM.png",
+    "Year 2/DBMS/Labs/Lab 3.md",
     "Year 2/DBMS/Labs/Lab 5.pdf",
     "Year 2/DBMS/Labs/Lab 4.pdf",
     "Year 2/DBMS/Labs/Lab 2.pdf",
@@ -222,11 +221,9 @@
     "Year 2/DBMS/Labs/Lab 5.md",
     "Year 2/DBMS/Labs/Lab 4.md",
     "Year 2/DBMS/Labs/Lab 2.md",
-    "Year 2/Computer Organization/Experiment log book.md",
     "Year 2/Computer Organization/Notes.md",
     "assets/Screenshot 2025-09-04 at 4.41.31 PM.png",
     "assets/Screenshot 2025-09-04 at 4.36.23 PM.png",
-    "assets/Screenshot 2025-09-04 at 4.16.03 PM.png",
     "Excalidraw/Drawing 2025-09-04 16.14.53.excalidraw.md",
     "Excalidraw",
     "assets/Screenshot 2025-09-04 at 12.10.52 PM.png",
