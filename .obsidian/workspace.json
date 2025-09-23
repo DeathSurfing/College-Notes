@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fdbf5c652d240946",
+        "id": "f6b49eccc1f45dd2",
         "type": "tabs",
         "children": [
           {
-            "id": "e780d5acf91009ff",
+            "id": "b74e3d5dba19af8f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -200,7 +200,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "e780d5acf91009ff",
+  "active": "b74e3d5dba19af8f",
   "lastOpenFiles": [
     "Year 2/Computer Organization/Experiment log book.md",
     "Year 2/DBMS/Labs/Lab 1.md",

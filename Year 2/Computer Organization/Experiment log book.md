@@ -164,3 +164,8 @@ d)16x1
 
 ![[Screenshot 2025-09-04 at 4.36.23 PM.png]]
 ![[Screenshot 2025-09-04 at 4.41.31 PM.png]]
+
+
+# Experiment 7:
+
+## Aim: Verify the truth table of RS, JK, T and D flip flops using NAND and NOR gates.
