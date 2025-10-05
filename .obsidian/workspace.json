@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f6b49eccc1f45dd2",
+        "id": "3343889fb07c5418",
         "type": "tabs",
         "children": [
           {
-            "id": "b74e3d5dba19af8f",
+            "id": "9ae5d01ccbc19ad0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Year 1/Struc notes package 1/CodeX/Presentation-For-Translation-Day/BLEU-Score-Implementation.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "BLEU-Score-Implementation"
             }
           }
         ]
@@ -84,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 375.5
   },
   "right": {
     "id": "a211e9193cf29858",
@@ -146,12 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Year 1/Struc notes package 1/CodeX/Presentation-For-Translation-Day/BLEU-Score-Implementation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of BLEU-Score-Implementation"
             }
           },
           {
@@ -200,12 +205,39 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "b74e3d5dba19af8f",
+  "active": "9ae5d01ccbc19ad0",
   "lastOpenFiles": [
+    "Year 1/Struc notes package 1/CodeX/Presentation-For-Translation-Day/BERT-Similarity-Analysis.md",
+    "Year 1/RAW Notes/IOT/Graph Theory.md",
+    "Year 1/chem chits/Engineering-Chemistry/Chemistry/Agricultural-Applications-Nano-fertilizers-pesticide-delivery-crop-protection.md",
+    "Year 1/Excalidraw/Drawing 2024-09-11 14.32.48.excalidraw.md",
+    "Year 1/Excalidraw/Drawing 2024-09-30 14.57.10.excalidraw.md",
+    "Year 1/Excalidraw/Drawing 2024-09-11 14.24.06.excalidraw.md",
+    "Year 1/Excalidraw/Circuits.md",
+    "Year 1/Excalidraw/Drawing 2023-07-23 03.49.00.excalidraw.md",
+    "Year 1/export/Presentation For Translation Day/plugin/chalkboard/img/boardmarker-orange.png",
+    "Year 1/export/Presentation For Translation Day/plugin/chalkboard/img/boardmarker-green.png",
+    "Year 1/export/Presentation For Translation Day/plugin/chalkboard/img/boardmarker-black.png",
+    "Year 1/export/Presentation For Translation Day/plugin/chalkboard/img/blackboard.png",
+    "Year 1/Structured_Notes/Probablitiy/Random-Variable.md",
+    "Year 1/Structured_Notes/Probablitiy/Probability-Mass-Function.md",
+    "Year 1/Structured_Notes/Probablitiy/Mean-and-Variance.md",
+    "Year 1/Structured_Notes/Probablitiy/Continuous-Random-Variable.md",
+    "Year 1/Structured_Notes/Probablitiy/Characteristic-Function.md",
+    "Year 1/Structured_Notes/_HIERARCHY.md",
+    "Year 1/Struc notes package 1/IOT/Untitled/Untitled MOC.md",
+    "Year 1/RAW Notes/IOT/Superpostion Theorem.md",
+    "Year 1/RAW Notes/IOT/Untitled.md",
+    "Year 1/RAW Notes/IOT/Thevenin's Theorem.md",
+    "Year 1/RAW Notes/IOT/Electrical Saftey.md",
+    "Year 1/RAW Notes/IOT/Electrical Supply.md",
+    "Year 1/RAW Notes/IOT/IOT Assignment 1.md",
+    "Year 1/RAW Notes/IOT/Norton's Theorem.md",
+    "Year 1/RAW Notes/IOT/Kirchoff's laws.md",
+    "Year 1/RAW Notes/IOT/Maximum power transfer theorem.md",
+    "Year 1/RAW Notes/IOT/P-N Junction Diode.md",
     "Year 2/Computer Organization/Experiment log book.md",
-    "Year 2/DBMS/Labs/Lab 1.md",
     "assets/Screenshot 2025-09-04 at 4.16.03 PM.png",
-    "Year 2/DBMS/Labs/Lab 3.md",
     "Year 2/DBMS/Labs/Lab 5.pdf",
     "Year 2/DBMS/Labs/Lab 4.pdf",
     "Year 2/DBMS/Labs/Lab 2.pdf",
@@ -215,38 +247,12 @@
     "Year 2/DBMS/Labs/Lab 7.pdf",
     "Year 2/DBMS/Labs/Lab 6.pdf",
     "Year 2/DBMS/Labs/Lab 3.pdf",
-    "Year 2/DBMS/Labs/Lab 8.md",
-    "Year 2/DBMS/Labs/Lab 7.md",
-    "Year 2/DBMS/Labs/Lab 6.md",
-    "Year 2/DBMS/Labs/Lab 5.md",
-    "Year 2/DBMS/Labs/Lab 4.md",
-    "Year 2/DBMS/Labs/Lab 2.md",
-    "Year 2/Computer Organization/Notes.md",
     "assets/Screenshot 2025-09-04 at 4.41.31 PM.png",
     "assets/Screenshot 2025-09-04 at 4.36.23 PM.png",
-    "Excalidraw/Drawing 2025-09-04 16.14.53.excalidraw.md",
     "Excalidraw",
     "assets/Screenshot 2025-09-04 at 12.10.52 PM.png",
     "assets/Screenshot 2025-09-04 at 11.54.50 AM.png",
     "assets/Screenshot 2025-07-26 at 7.52.37 PM.png",
-    "assets/Screenshot 2025-09-04 at 11.54.40 AM.png",
-    "assets/Screenshot 2025-09-04 at 11.54.32 AM.png",
-    "assets/Screenshot 2025-09-04 at 11.54.21 AM.png",
-    "assets/Screenshot 2025-09-04 at 11.54.00 AM.png",
-    "SECRET.md",
-    "Year 2/STUCO/Oval Prefrences.md",
-    "Year 2/DBMS/DBMS.md",
-    "Year 2/Mindfullness/Assignment Aditya Vikram Mahendru 24WU0102119 Book Review.md",
-    "Year 2/AI & ML/Searching Techniques.md",
-    "Year 2/AI & ML/States.md",
-    "Year 2/AI & ML/Preceptors, PAGE PEAS.md",
-    "Year 2/AI & ML/Untitled.md",
-    "Year 2/COA/Body language/Body Language.md",
-    "Year 2/Critical thinking/Stream of thoughts.md",
-    "Year 2/Critical thinking/Untitled.md",
-    "Year 2/Critical thinking/Future of education with AI.md",
-    "Year 1/Structured_Notes/Probablitiy/Continuous-Random-Variable.md",
-    "Year 1/Structured_Notes/Probablitiy/Characteristic-Function.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
