@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3343889fb07c5418",
+        "id": "eea8b08d848515bc",
         "type": "tabs",
         "children": [
           {
-            "id": "9ae5d01ccbc19ad0",
+            "id": "3fb14d945e33215b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Year 1/Struc notes package 1/CodeX/Presentation-For-Translation-Day/BLEU-Score-Implementation.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "BLEU-Score-Implementation"
+              "title": "New tab"
             }
           }
         ]
@@ -80,8 +76,8 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "recent-files"
             }
           }
         ]
@@ -150,13 +146,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 1/Struc notes package 1/CodeX/Presentation-For-Translation-Day/BLEU-Score-Implementation.md",
+                "file": "Year 1/Struc notes package 1/Computational-Thinking/Data-Expressions-and-statements-PYTHON/REPL.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of BLEU-Score-Implementation"
+              "title": "Outline of REPL"
             }
           },
           {
@@ -165,8 +161,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           },
           {
@@ -175,8 +171,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           }
         ],
@@ -194,49 +190,41 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-matrix:Obsidian Matrix": false,
-      "khoj:Khoj": false,
-      "obsidian-advanced-slides:Show Slide Preview": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "9ae5d01ccbc19ad0",
+  "active": "ec406b8edc4a3320",
   "lastOpenFiles": [
-    "Year 1/Struc notes package 1/CodeX/Presentation-For-Translation-Day/BERT-Similarity-Analysis.md",
-    "Year 1/RAW Notes/IOT/Graph Theory.md",
+    "Year 1/Struc notes package 1/Computational-Thinking/Data-Expressions-and-statements-PYTHON/Values-and-data-types.md",
+    "Year 1/Struc notes package 1/Computational-Thinking/Data-Expressions-and-statements-PYTHON/Variables.md",
+    "Year 1/Struc notes package 1/Computational-Thinking/Data-Expressions-and-statements-PYTHON/REPL.md",
+    "Year 1/Struc notes package 1/Computational-Thinking/Data-Expressions-and-statements-PYTHON/Modes-of-python-Interpreter.md",
+    "Year 1/Struc notes package 1/Computational-Thinking/Data-Expressions-and-statements-PYTHON/Keywords.md",
+    "Year 1/Struc notes package 1/Computational-Thinking/Data-Expressions-and-statements-PYTHON/Input-and-output.md",
+    "Year 1/Struc notes package 1/Computational-Thinking/Data-Expressions-and-statements-PYTHON/Identifiers.md",
+    "Year 1/Struc notes package 1/Computational-Thinking/Data-Expressions-and-statements-PYTHON/Docstring.md",
+    "Year 1/Struc notes package 1/Computational-Thinking/Data-Expressions-and-statements-PYTHON/Data-Expressions-and-statements-PYTHON MOC.md",
+    "Year 1/Struc notes package 1/Computational-Thinking/Data-Expressions-and-statements-PYTHON/Comments.md",
+    "Year 1/Struc notes package 1/Computational-Thinking/Data-Expressions-and-statements-PYTHON/Assignment-2.md",
+    "Year 1/Struc notes package 1/Computational-Thinking/Control-flow-and-functions/Control-flow-and-functions MOC.md",
+    "Year 1/Struc notes package 1/Computational-Thinking/Computational-Thinking-breakdown/What-is-computational-thinking.md",
+    "Year 1/Struc notes package 1/Computational-Thinking/Computational-Thinking-breakdown/Importance-of-computational-thinking.md",
+    "Year 1/Struc notes package 1/Computational-Thinking/Computational-Thinking-breakdown/Computational-Thinking-key-concepts.md",
+    "Year 1/Struc notes package 1/Computational-Thinking/Computational-Thinking-breakdown/Computational-Thinking-breakdown MOC.md",
+    "Year 1/Struc notes package 1/Computational-Thinking/Algorithms/Logic-structure-in-computer-programming.md",
+    "Year 1/Struc notes package 1/Computational-Thinking/Algorithms/Building-blocks-of-a-algorithm.md",
+    "Year 1/Struc notes package 1/Computational-Thinking/Algorithms/Algorithms MOC.md",
+    "Year 1/chem chits/Engineering-Chemistry/Chemistry/Case-studies-of-successful-green-chemistry-implementations.md",
+    "Year 1/chem chits/Engineering-Chemistry/Chemistry/Biomedical-Applications-Drug-delivery-diagnostics-therapeutics.md",
+    "Year 1/chem chits/Engineering-Chemistry/Chemistry/Biofuel-generations-first-second-third-generation-technologies.md",
     "Year 1/chem chits/Engineering-Chemistry/Chemistry/Agricultural-Applications-Nano-fertilizers-pesticide-delivery-crop-protection.md",
-    "Year 1/Excalidraw/Drawing 2024-09-11 14.32.48.excalidraw.md",
-    "Year 1/Excalidraw/Drawing 2024-09-30 14.57.10.excalidraw.md",
-    "Year 1/Excalidraw/Drawing 2024-09-11 14.24.06.excalidraw.md",
-    "Year 1/Excalidraw/Circuits.md",
-    "Year 1/Excalidraw/Drawing 2023-07-23 03.49.00.excalidraw.md",
+    "Year 1/Struc notes package 1/IKS-Indian-Knowledge-System/Vedic-Philosophy/6-Orthodox-schools-of-Indian-philosphy.md",
+    "Year 1/Struc notes package 1/IKS-Indian-Knowledge-System/Vedic-Philosophy/3-Heterodox-Schools-of-Indian-Philosophy.md",
+    "Year 1/Struc notes package 1/IKS-Indian-Knowledge-System/Vedic-Philosophy/Bhakti-Movement.md",
     "Year 1/export/Presentation For Translation Day/plugin/chalkboard/img/boardmarker-orange.png",
     "Year 1/export/Presentation For Translation Day/plugin/chalkboard/img/boardmarker-green.png",
     "Year 1/export/Presentation For Translation Day/plugin/chalkboard/img/boardmarker-black.png",
     "Year 1/export/Presentation For Translation Day/plugin/chalkboard/img/blackboard.png",
-    "Year 1/Structured_Notes/Probablitiy/Random-Variable.md",
-    "Year 1/Structured_Notes/Probablitiy/Probability-Mass-Function.md",
-    "Year 1/Structured_Notes/Probablitiy/Mean-and-Variance.md",
-    "Year 1/Structured_Notes/Probablitiy/Continuous-Random-Variable.md",
-    "Year 1/Structured_Notes/Probablitiy/Characteristic-Function.md",
-    "Year 1/Structured_Notes/_HIERARCHY.md",
-    "Year 1/Struc notes package 1/IOT/Untitled/Untitled MOC.md",
-    "Year 1/RAW Notes/IOT/Superpostion Theorem.md",
-    "Year 1/RAW Notes/IOT/Untitled.md",
-    "Year 1/RAW Notes/IOT/Thevenin's Theorem.md",
-    "Year 1/RAW Notes/IOT/Electrical Saftey.md",
-    "Year 1/RAW Notes/IOT/Electrical Supply.md",
-    "Year 1/RAW Notes/IOT/IOT Assignment 1.md",
-    "Year 1/RAW Notes/IOT/Norton's Theorem.md",
-    "Year 1/RAW Notes/IOT/Kirchoff's laws.md",
-    "Year 1/RAW Notes/IOT/Maximum power transfer theorem.md",
-    "Year 1/RAW Notes/IOT/P-N Junction Diode.md",
-    "Year 2/Computer Organization/Experiment log book.md",
     "assets/Screenshot 2025-09-04 at 4.16.03 PM.png",
     "Year 2/DBMS/Labs/Lab 5.pdf",
     "Year 2/DBMS/Labs/Lab 4.pdf",
